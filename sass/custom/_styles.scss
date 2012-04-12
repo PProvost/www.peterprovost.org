@@ -6,3 +6,11 @@ body > header {
 	@include filter-gradient($header-bg, $header-bg-highlight, vertical); // IE6-9
 	@include background-image(linear-gradient(top, $header-bg 0%,$header-bg-highlight 100%));
 }
+
+.tag-cloud { 
+	.rank-1 { font-size: 2em; }
+	.rank-2 { font-size: 1.7em; }
+	.rank-3 { font-size: 1.4em; }
+	.rank-4 { font-size: 1.1em; }
+	.rank-5 { font-size: 0.9em; }
+}
