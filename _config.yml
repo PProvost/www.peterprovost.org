@@ -6,14 +6,15 @@ url: http://www.peterprovost.org/
 title: Peter Provost's Geek Noise
 subtitle: Rants, rambles, news and notes from another geek
 author: Peter Provost
-simple_search: http://google.com/search
+simple_search: http://bing.com/search
 description: The personal blog of Peter Provost, agilist, hacker, musician, father and Microsoft Program Manager
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
 # Additionally, %o will give you the ordinal representation of the day
-date_format: "ordinal"
+# date_format: "ordinal"
+date_format: "%A, %B %d, %Y @ %I:%M %p"  # "Wednesday, April 11, 2012 @ 11:49 PM"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: http://feeds.feedburner.com/GeekNoise
@@ -92,7 +93,7 @@ delicious_count: 3
 
 # Disqus Comments
 disqus_short_name: peterprovost
-disqus_show_comment_count: false
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id: UA-4907041-1
