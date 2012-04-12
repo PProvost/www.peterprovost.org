@@ -1,0 +1,8 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+
+body > header {
+	background-color: $header-bg; // Old browsers
+	@include filter-gradient($header-bg, $header-bg-highlight, vertical); // IE6-9
+	@include background-image(linear-gradient(top, $header-bg 0%,$header-bg-highlight 100%));
+}
