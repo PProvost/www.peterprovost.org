@@ -156,6 +156,11 @@ module Jekyll
       end
     end
 
+		def category_link(item)
+			dir = @context.registers[:site].config['category_dir']
+			"<a class='category' href='/#{dir}/#{item[0].gsub(/_|\P{Word}/, '-').gsub(/-{2,}/, '-').downcase}/'>#{item[0]}</a>"
+		end
+
     # Outputs the post.date as formatted html, with hooks for CSS styling.
     #
     #  +date+ is the date object to format as HTML.
