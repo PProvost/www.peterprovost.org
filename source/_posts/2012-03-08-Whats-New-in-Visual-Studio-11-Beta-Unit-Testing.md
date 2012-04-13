@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "What's New in Visual Studio 11 Beta Unit Testing"
+comments: true
+date: 2012-03-08 00:10:00
+updated: 2012-03-08 10:22:43
 categories:
  - Technology
 tags:
@@ -11,6 +14,7 @@ tags:
 subtext-id: 84cc694c-4a9e-4987-9c77-22384c0cb5a2
 alias: /blog/Whats-New-in-Visual-Studio-11-Beta-Unit-Testing.aspx
 ---
+
 
 For those of you who haven't been following the changes to unit testing that we first previewed back at the //BUILD/ conference, and for those you who did but want to know what has changed, this post is going to take you through the whole thing. We have made a lot of changes to testing in Visual Studio. These changes are pretty drastic in some cases, but were driven by years of customer feedback and a clarification of our focus and vision. 
 
@@ -24,12 +28,9 @@ Another criticism we got from developers, and agile developers in particular, wa
 
 So for Visual Studio 11, we bit the bullet and committed to changing this, so let's see what we did... 
 
-
 ## The Unit Test Explorer
 
-[{% img right /img/Windows-Live-Writer/903881aa7ac7/2800560E/image_thumb.png Unit Test Explorer %}](/img/Windows-Live-Writer/903881aa7ac7/385BCDC7/image.png)
-
-In VS11, we have replaced the old Test View and Test Results windows with the Unit Test Explorer. This new user interface has a number of important elements that let developers quickly interact with their tests. 
+[{% img right /images/blog/Windows-Live-Writer/903881aa7ac7/2800560E/image_thumb.png Unit Test Explorer %}](/images/blog/Windows-Live-Writer/903881aa7ac7/385BCDC7/image.png)In VS11, we have replaced the old Test View and Test Results windows with the Unit Test Explorer. This new user interface has a number of important elements that let developers quickly interact with their tests. 
 
 **_Red Green Bar_**  
 This seemingly simple feature has been one of the top asks from agile developers since the beginning. Give me progress as the tests are run, changing the bar from green to red as soon as any tests fail. Simple, and now there. 
@@ -53,7 +54,7 @@ To read more about the Unit Test Explorer in VS11, please check out the [MSDN Do
 
 But even before tackling the UI issues, we knew we had to support 3rd party test frameworks. To enable this, we created a new test _meta-runner_. This is a layer that simply coordinates and controls the flow of data between the user interface and the underlying test frameworks. The architecture of it looks something like this. 
 
-{% img center /img/Windows-Live-Writer/903881aa7ac7/74C41CA4/image18.png VS11 Unit Test Architecture %}
+{% img center /images/blog/Windows-Live-Writer/903881aa7ac7/74C41CA4/image18.png Unit Test Platform Architecture %}
 
 Using simple plugin adapters, third party test frameworks can plug into the test platform layer and get the full experience of running inside of Visual Studio. One of our design goals for this has been to make sure the test frameworks didn't have to do an insane amount of work to get this integration and if you look at the source for some of the [adapters that have already been released](http://aka.ms/msdn-vs11-unit-test-plugins), you will see we succeeded. 
 
@@ -61,7 +62,7 @@ These adapters simply have to translate commands like "discover tests" and "run 
 
 The best part of all is that since these frameworks are all running the same way, they all get the same experiences in the IDE including things like Debugging support, Code Coverage and the new Fakes framework (more on that in a minute). 
 
-To learn about finding and installing plugins for third-party test frameworks, see the [MSDN Documentation][2]. 
+To learn about finding and installing plugins for third-party test frameworks, see the [MSDN Documentation][2].
 
 [2]: http://msdn.microsoft.com/en-us/library/hh598952(v=vs.110).aspx
 
@@ -82,17 +83,17 @@ But we also added some new things!
 
 If you've been exploring some of the new .NET 4.5 APIs and the new Windows 8 APIs, you probably have noticed a bunch of methods are using the new Task Async Pattern (TAP) first introduced in the Task Parallel Library. 
 
-One of the common things you will find yourself doing when coding with long running methods that return `Task` or `Task<T>` is wanting to `await` on the result. This is particularly true when unit testing, because you probably need the result value to test against! 
+One of the common things you will find yourself doing when coding with long running methods that return Task or Task<T> is wanting to "await" on the result. This is particularly true when unit testing, because you probably need the result value to test against! 
 
 In VS11 Beta, MS-Test now supports creating test methods that are marked **async **and that can therefore use the **await **keyword inside the method body. Here is an example: 
-
-``` csharp Sample async unit test with MS-Test
-    [TestMethod]
-    public async Task MyAsyncTest()
-    {
-        var result = await SomeLongRunningOperation();
-        Assert.IsTrue( result );
-    }
+ 
+``` csharp Example Async Unit Test
+[TestMethod]
+public async Task MyAsyncTest()
+{
+   var result = await SomeLongRunningOperation();
+   Assert.IsTrue( result );
+}
 ```
   
 (BTW, xUnit.net has also added support for async test method. Expect more to follow suit soon.) 
@@ -103,23 +104,24 @@ One thing that has C/C++ people very excited about this release is that we now h
 
 Here's a quick example: 
 
-``` cpp Sample C++ unit test with MS-Test Native
-    #include "stdafx.h"
-    #include 
-    #include "..\MyProjectUnderTest\MyCodeUnderTest.h"
-    using namespace Microsoft::VisualStudio::CppUnitTestFramework;
-    
-    TEST_CLASS(TestClassName)
-    {
-    public:
-        TEST_METHOD(TestMethodName)
-        {
-            // Run a function under test here.
-            ASSERT::AreEqual(expectedValue, actualValue, L"message", LINE_INFO());
-        }
-    }
-```
+``` cpp Example C++ Unit Test
+#include "stdafx.h"
+#include 
+#include "..\MyProjectUnderTest\MyCodeUnderTest.h"
 
+using namespace Microsoft::VisualStudio::CppUnitTestFramework;
+
+TEST_CLASS(TestClassName)
+{
+public:
+   TEST_METHOD(TestMethodName)
+   {
+      // Run a function under test here.
+      ASSERT::AreEqual(expectedValue, actualValue, L"message", LINE_INFO());
+   }
+}
+```
+  
 More information on that VS11 native unit testing can be found in the [MSDN Documentation](http://aka.ms/vs11-unit-testing-native-code). 
 
 ## The Visual Studio Fakes Framework
@@ -135,18 +137,18 @@ Visual Studio fakes lets you easily create tests that have this kind of isolatio
 
 When you create Stubs and Shims you provide simple delegates or lambdas for the methods implementations you care about, and we do the rest. Here's an example Stub from the MSDN docs: 
 
-``` csharp Sample test using Visual Studio Fakes
-    [TestMethod]
-    public void GetValue()
-    {
-        // Arrange
-        var stub = new StubIGenericMethod();
-        stub.GetValueOf1 = () => 5;
-        IGenericMethod target = stub;
+``` csharp Example Fakes Test Showing Stub
+[TestMethod]
+public void GetValue() 
+{
+   // Arrange
+   var stub = new StubIGenericMethod();
+   stub.GetValueOf1 = () => 5;
+   IGenericMethod target = stub;
 
-        // Act, Assert
-        Assert.AreEqual(5, target.GetValue());
-    }
+   // Act, Assert
+   Assert.AreEqual(5, target.GetValue());
+}
 ```
 
 Creating Fakes is as easy as right-clicking on one of your project references and choosing **Add Fakes Assembly**. 

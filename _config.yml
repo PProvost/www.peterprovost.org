@@ -6,7 +6,7 @@ url: http://www.peterprovost.org/
 title: Peter Provost's Geek Noise
 subtitle: Rants, rambles, news and notes from another geek
 author: Peter Provost
-simple_search: http://bing.com/search
+# simple_search: http://bing.com/search
 description: The personal blog of Peter Provost, agilist, hacker, musician, father and Microsoft Program Manager
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")

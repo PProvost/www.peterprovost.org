@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Visual Studio 11 Beta - Unit Testing Plugins List"
+comments: true
+date: 2012-02-29 15:20:10
+updated: 2012-03-09 11:58:59
 categories:
  - Technology
  - Agile Software Development
@@ -31,7 +34,6 @@ I'm very happy, therefore, to be able to highlight the frameworks & test runners
     * Information: [http://nunit.org/](http://nunit.org/)
     * Download: [http://aka.ms/nunit-vs11](http://aka.ms/nunit-vs11)
   * MbUnit 
-
     * Information: [https://github.com/Gallio/Gallio-VS2011-Integration](https://github.com/Gallio/Gallio-VS2011-Integration)
     * Download: [http://aka.ms/mbunit-vs11](http://aka.ms/mbunit-vs11) (GitHub download, not on VS Gallery yet) 
     * Notes: You must first install Gallio from [http://gallio.org/Downloads.aspx](http://gallio.org/Downloads.aspx) for this adapter to work
