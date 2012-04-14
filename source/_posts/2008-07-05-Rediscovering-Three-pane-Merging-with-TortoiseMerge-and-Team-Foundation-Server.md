@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rediscovering Three-pane Merging with TortoiseMerge and Team Foundation Server"
-comments: true
+comments: false
 date: 2008-07-05 14:58:05
 updated: 2008-07-06 09:37:26
 categories:

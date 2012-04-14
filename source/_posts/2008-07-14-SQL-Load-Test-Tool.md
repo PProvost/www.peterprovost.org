@@ -2,7 +2,7 @@
 layout: post
 title: "SQL Load Test Tool"
 description : "vsts"
-comments: true
+comments: false
 date: 2008-07-14 09:44:39
 categories:
  - Technology

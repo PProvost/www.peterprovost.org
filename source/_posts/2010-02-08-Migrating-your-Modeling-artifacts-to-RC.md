@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Migrating your Modeling artifacts to RC"
-comments: true
+comments: false
 date: 2010-02-08 13:30:41
 categories:
  - Technology

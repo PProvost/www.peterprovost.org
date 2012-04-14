@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RSS and 301 Redirects"
-comments: true
+comments: false
 date: 2008-07-21 00:31:04
 updated: 2008-07-21 00:31:39
 categories:

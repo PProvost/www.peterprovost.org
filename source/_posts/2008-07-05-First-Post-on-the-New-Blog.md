@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Post on the New Blog"
-comments: true
+comments: false
 date: 2008-07-05 12:49:20
 categories:
  - Technology

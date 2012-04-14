@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TechEd Europe 2010 Recordings and Downloads"
-comments: true
+comments: false
 date: 2010-12-01 10:05:24
 updated: 2010-12-01 10:06:29
 categories:

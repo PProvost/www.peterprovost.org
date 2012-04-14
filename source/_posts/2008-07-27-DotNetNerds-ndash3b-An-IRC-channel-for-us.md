@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#DotNetNerds &ndash; An IRC channel for us"
-comments: true
+comments: false
 date: 2008-07-27 13:46:57
 categories:
  - Technology

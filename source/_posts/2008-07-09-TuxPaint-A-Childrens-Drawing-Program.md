@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TuxPaint - A Children's Drawing Program"
-comments: true
+comments: false
 date: 2008-07-09 09:44:04
 updated: 2008-07-09 09:44:52
 categories:

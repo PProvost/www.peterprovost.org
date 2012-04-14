@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visual Studio Team System 2008 Database Edition GDR - RTM"
-comments: true
+comments: false
 date: 2008-12-03 09:26:14
 categories:
  - Technology

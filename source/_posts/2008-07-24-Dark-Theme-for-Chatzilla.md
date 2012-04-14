@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dark Theme for Chatzilla"
-comments: true
+comments: false
 date: 2008-07-24 11:13:29
 categories:
  - Technology

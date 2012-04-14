@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ArcCast.TV &ndash; What&rsquo;s coming for Architects in Visual Studio Team System"
-comments: true
+comments: false
 date: 2008-10-14 12:25:32
 categories:
  - Technology

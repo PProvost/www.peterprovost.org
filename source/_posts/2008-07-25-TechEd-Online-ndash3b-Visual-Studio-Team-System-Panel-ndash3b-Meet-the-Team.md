@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TechEd Online &ndash; Visual Studio Team System Panel &ndash; Meet the Team"
-comments: true
+comments: false
 date: 2008-07-25 13:01:00
 updated: 2008-07-25 13:09:23
 categories:

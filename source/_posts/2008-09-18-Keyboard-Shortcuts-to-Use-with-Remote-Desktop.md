@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Keyboard Shortcuts to Use with Remote Desktop"
-comments: true
+comments: false
 date: 2008-09-18 12:53:18
 categories:
  - Technology

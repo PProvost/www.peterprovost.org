@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Taking on dependencies from non-agile teams"
-comments: true
+comments: false
 date: 2008-07-08 09:58:49
 categories:
  - Agile Software Development

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rules of the Road"
-comments: true
+comments: false
 date: 2009-01-29 09:24:27
 categories:
  - Opinions, Politics, Rants

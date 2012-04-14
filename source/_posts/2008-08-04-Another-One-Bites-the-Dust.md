@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Another One Bites the Dust"
-comments: true
+comments: false
 date: 2008-08-04 14:46:27
 categories:
  - Technology

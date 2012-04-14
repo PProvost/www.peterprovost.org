@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pomodairo - My new favorite Pomodoro timer"
-comments: true
+comments: false
 date: 2010-04-15 16:02:55
 categories:
  - Agile Software Development

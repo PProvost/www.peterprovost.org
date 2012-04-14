@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dark Visual Studio - I'm hooked"
-comments: true
+comments: false
 date: 2008-07-07 16:24:04
 categories:
  - Technology

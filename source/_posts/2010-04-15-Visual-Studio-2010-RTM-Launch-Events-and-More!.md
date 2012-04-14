@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visual Studio 2010 RTM, Launch Events and More!"
-comments: true
+comments: false
 date: 2010-04-15 14:50:32
 categories:
  - Technology

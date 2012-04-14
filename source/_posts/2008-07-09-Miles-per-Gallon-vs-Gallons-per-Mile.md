@@ -2,7 +2,7 @@
 layout: post
 title: "Miles per Gallon vs. Gallons per Mile"
 description : "Environment"
-comments: true
+comments: false
 date: 2008-07-09 12:49:00
 updated: 2009-05-20 08:31:15
 categories:

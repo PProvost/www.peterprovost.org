@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scrum of Scrums Haiku"
-comments: true
+comments: false
 date: 2008-07-10 12:05:05
 updated: 2008-07-10 12:30:01
 categories:

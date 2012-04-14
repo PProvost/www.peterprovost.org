@@ -2,7 +2,7 @@
 layout: post
 title: "Font Smoothing for Windows Server 2003 RDP"
 description : "Visual Studio"
-comments: true
+comments: false
 date: 2008-07-09 14:15:29
 categories:
  - Technology

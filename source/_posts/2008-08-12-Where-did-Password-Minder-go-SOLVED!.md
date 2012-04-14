@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Where did Password Minder go? SOLVED!"
-comments: true
+comments: false
 date: 2008-08-12 13:03:07
 categories:
  - Technology

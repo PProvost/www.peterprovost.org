@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visual Studio 2010 Release Candidate is LIVE"
-comments: true
+comments: false
 date: 2010-02-09 11:31:27
 updated: 2010-02-09 13:16:07
 categories:

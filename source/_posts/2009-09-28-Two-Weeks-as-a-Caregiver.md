@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two Weeks as a Caregiver"
-comments: true
+comments: false
 date: 2009-09-28 12:55:40
 categories:
  - Personal

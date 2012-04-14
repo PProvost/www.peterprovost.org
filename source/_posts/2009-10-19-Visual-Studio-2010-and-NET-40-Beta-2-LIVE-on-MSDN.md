@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visual Studio 2010 and .NET 4.0 Beta 2 LIVE on MSDN"
-comments: true
+comments: false
 date: 2009-10-19 09:32:34
 updated: 2009-10-19 09:55:59
 categories:

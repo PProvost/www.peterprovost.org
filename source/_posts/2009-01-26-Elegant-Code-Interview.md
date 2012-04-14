@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Elegant Code Interview"
-comments: true
+comments: false
 date: 2009-01-26 15:16:34
 categories:
  - Technology

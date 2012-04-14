@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wrath of the Lich King Theme for Windows Mobile 5 and 6"
-comments: true
+comments: false
 date: 2008-09-18 13:33:06
 categories:
  - Games and Other Fun Stuff

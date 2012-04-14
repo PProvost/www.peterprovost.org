@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Using the VSTS April 2008 CTP with Hyper-V"
-comments: true
+comments: false
 date: 2008-07-15 10:38:58
 categories:
  - Technology

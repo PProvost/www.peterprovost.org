@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Software Development Teams and Sports"
-comments: true
+comments: false
 date: 2008-08-07 13:52:37
 updated: 2008-08-07 13:58:38
 categories:

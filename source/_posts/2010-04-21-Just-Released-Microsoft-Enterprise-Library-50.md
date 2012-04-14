@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Just Released: Microsoft Enterprise Library 5.0"
-comments: true
+comments: false
 date: 2010-04-21 11:39:54
 categories:
  - Technology

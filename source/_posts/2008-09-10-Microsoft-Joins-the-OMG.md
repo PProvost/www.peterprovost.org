@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Microsoft Joins the OMG"
-comments: true
+comments: false
 date: 2008-09-10 09:45:30
 categories:
  - Technology

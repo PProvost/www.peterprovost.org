@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Updated PowerShell Syntax File for vim"
-comments: true
+comments: false
 date: 2008-09-22 11:50:52
 updated: 2008-09-22 11:52:31
 categories:

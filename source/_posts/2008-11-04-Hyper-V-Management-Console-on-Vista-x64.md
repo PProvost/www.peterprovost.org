@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hyper-V Management Console on Vista x64"
-comments: true
+comments: false
 date: 2008-11-04 15:39:52
 categories:
  - Technology

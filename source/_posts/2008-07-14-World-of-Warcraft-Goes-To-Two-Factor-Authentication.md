@@ -2,7 +2,7 @@
 layout: post
 title: "World of Warcraft Goes To Two-Factor Authentication"
 description : "Warcraft,Cryptography"
-comments: true
+comments: false
 date: 2008-07-14 10:37:07
 categories:
  - Games and Other Fun Stuff

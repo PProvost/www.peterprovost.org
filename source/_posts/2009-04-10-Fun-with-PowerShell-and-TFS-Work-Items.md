@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fun with PowerShell and TFS Work Items"
-comments: true
+comments: false
 date: 2009-04-10 12:53:23
 updated: 2009-04-10 12:53:55
 categories:

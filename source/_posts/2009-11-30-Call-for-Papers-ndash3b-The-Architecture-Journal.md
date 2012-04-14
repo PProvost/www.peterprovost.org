@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Call for Papers &ndash; The Architecture Journal"
-comments: true
+comments: false
 date: 2009-11-30 09:23:13
 categories:
  - Technology

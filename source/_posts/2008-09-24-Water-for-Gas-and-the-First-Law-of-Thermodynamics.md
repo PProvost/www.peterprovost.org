@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Water for Gas and the First Law of Thermodynamics"
-comments: true
+comments: false
 date: 2008-09-24 16:55:30
 updated: 2008-09-24 16:57:05
 categories:

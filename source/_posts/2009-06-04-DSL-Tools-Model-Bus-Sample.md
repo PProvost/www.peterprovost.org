@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DSL Tools Model Bus Sample"
-comments: true
+comments: false
 date: 2009-06-04 09:44:00
 updated: 2009-06-04 09:46:53
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Gaming PC Build-out &ndash; Final Results"
-comments: true
+comments: false
 date: 2009-10-14 10:19:50
 updated: 2009-10-15 09:23:04
 categories:

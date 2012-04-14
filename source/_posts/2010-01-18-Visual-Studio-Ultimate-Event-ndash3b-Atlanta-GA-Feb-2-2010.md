@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visual Studio Ultimate Event &ndash; Atlanta GA Feb 2 2010"
-comments: true
+comments: false
 date: 2010-01-18 17:04:17
 updated: 2010-01-18 17:04:18
 categories:

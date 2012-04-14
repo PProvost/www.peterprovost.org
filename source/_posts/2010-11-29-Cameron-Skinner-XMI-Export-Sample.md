@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cameron Skinner - XMI Export Sample"
-comments: true
+comments: false
 date: 2010-11-29 11:16:25
 categories:
  - Technology

@@ -2,7 +2,7 @@
 layout: post
 title: "Happy Birthday My Lovely Wife"
 description : "family,birthdays"
-comments: true
+comments: false
 date: 2008-07-18 08:35:27
 updated: 2008-07-18 09:05:51
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Code Generation Made Easy"
-comments: true
+comments: false
 date: 2008-12-03 09:39:04
 categories:
  - Technology

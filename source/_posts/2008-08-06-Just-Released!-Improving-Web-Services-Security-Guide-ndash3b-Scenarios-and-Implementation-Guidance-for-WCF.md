@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Just Released! Improving Web Services Security Guide &ndash; Scenarios and Implementation Guidance for WCF"
-comments: true
+comments: false
 date: 2008-08-06 11:52:47
 categories:
  - Technology

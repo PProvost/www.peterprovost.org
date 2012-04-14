@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Layer Validation with the VSTS 2010 CTP"
-comments: true
+comments: false
 date: 2008-12-11 07:03:00
 categories:
  - Technology

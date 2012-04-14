@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "UML Modeling and Code Generation in Visual Studio 2010"
-comments: true
+comments: false
 date: 2010-01-20 11:10:25
 categories:
  - Technology

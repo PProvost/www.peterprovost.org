@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visual Studio 2008 SP1 and .NET 3.5 SP1 Release to Manufacturing"
-comments: true
+comments: false
 date: 2008-08-11 10:24:57
 updated: 2008-08-11 11:01:18
 categories:

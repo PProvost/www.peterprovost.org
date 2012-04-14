@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crazy Times Ahead - PDC, P&amp;P Summit, Tech Ed EMEA"
-comments: true
+comments: false
 date: 2008-10-23 19:27:29
 updated: 2008-10-23 19:38:11
 categories:

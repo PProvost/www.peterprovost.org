@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Enterprise Library v5.0 Planning Has Begun!"
-comments: true
+comments: false
 date: 2009-02-02 08:17:39
 updated: 2009-02-02 09:36:35
 categories:

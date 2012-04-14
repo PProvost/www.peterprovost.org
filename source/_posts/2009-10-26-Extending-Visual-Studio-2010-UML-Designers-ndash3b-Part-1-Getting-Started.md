@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extending Visual Studio 2010 UML Designers &ndash; Part 1: Getting Started"
-comments: true
+comments: false
 date: 2009-10-26 16:28:07
 categories:
  - Technology

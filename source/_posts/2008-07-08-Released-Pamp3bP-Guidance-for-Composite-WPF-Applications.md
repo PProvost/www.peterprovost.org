@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Released: P&amp;P Guidance for Composite WPF Applications"
-comments: true
+comments: false
 date: 2008-07-08 14:20:56
 updated: 2008-07-08 14:23:04
 categories:
