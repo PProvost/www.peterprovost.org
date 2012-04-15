@@ -87,6 +87,8 @@ has been more interesting at this point in time. I've got a few blog posts
 pending about some of the new VS11 stuff I've been working on, and am excited
 to be doing it on this new blogging platform.
 
+If you want to browse the source, visit the [GitHub repository][19].
+
 [1]: http://code52.org/
 [2]: http://code52.org/pretzel/ 
 [3]: http://code52.org/DownmarkerWPF/
@@ -105,3 +107,4 @@ to be doing it on this new blogging platform.
 [16]: https://devcenter.heroku.com/articles/dynos
 [17]: http://pygments.org/
 [18]: http://ethanschoonover.com/solarized
+[19]: https://github.com/PProvost/www.peterprovost.org
