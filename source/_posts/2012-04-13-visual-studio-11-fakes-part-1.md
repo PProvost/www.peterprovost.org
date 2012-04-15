@@ -40,6 +40,8 @@ provides not only a fake implementation but also logic for verifying how calls
 were made on the fake. When you are testing side- effects, protocols and
 interactions between objects, they are extremely valuable.
 
+<!-- more -->
+
 The concern is that I have often seen people fall into using behavior
 verification where none is needed. Overuse of mocks inhibits free refactoring of
 the code because, as Martin discusses in his essay, it leads to a very tight
