@@ -52,6 +52,7 @@ $icons: "ModernPictogramsNormal";
 .icon:before {
 	content: attr(data-icon);
 	font-family: $icons;
+	font-weight: normal;
 	margin-right: 5px;
 }
 
