@@ -9,7 +9,7 @@ tags:
 - TV
 ---
 
-{% img right http://thetvdb.com/banners/posters/121361-13.jpg %}
+{% img right /images/blog/2012-04-16-return-of-game-of-thrones/game-of-thrones.jpg 340 500 %}
 
 How psyched was I when a few weeks ago my wife Emily decided to start watching
 [Game of Thrones][5] (which I had kept on our media server hoping this would
