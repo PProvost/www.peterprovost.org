@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visual Studio Fakes Part 2 - Shims"
-date: 2012-04-16 17:31
+date: 2012-04-17 17:31
 published: false
 comments: true
 categories: 
@@ -32,6 +32,8 @@ a concrete object inside the method, where you can't easily replace it.
 The unit testing agilista have always said, "Refactor your code to make it more
 testable," but therein lies the rub. I will again refer to the esteemed Martin
 Fowler for a quote:
+
+<!-- more -->
 
 {% blockquote Martin Fowler http://martinfowler.com/refactoring/ %}
 
