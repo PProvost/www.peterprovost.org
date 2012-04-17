@@ -5,9 +5,15 @@ layout: default
 <div class="blog-index">
   {% assign index = true %}
   {% for post in paginator.posts %}
-  {% assign content = post.content %}
+  	{% assign content = post.content %}
     <article>
       {% include article.html %}
+			{% if forloop.first or forloop.last %}
+			{% comment %} Amazon Ad after first and last {% endcomment %}
+			<div style="text-align:center; margin:10px;">
+				<iframe src="http://rcm.amazon.com/e/cm?t=peterprovosto-20&o=1&p=12&l=ur1&category=electronicsrot&f=ifr" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+			</div>
+			{% endif %}
     </article>
   {% endfor %}
   <div class="pagination">
