@@ -20,3 +20,15 @@ $indented-lists: true;
 //$sidebar-pad-medium: 15px;
 //$sidebar-pad-wide: 20px;
 //$sidebar-width-wide: 300px;
+
+@media only screen and (max-width: 480px) {
+	.content-ad {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.sidebar-ad {
+		display: none;
+	}
+}
