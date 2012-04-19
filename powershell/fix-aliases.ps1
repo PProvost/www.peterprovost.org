@@ -12,10 +12,12 @@ ls source\_posts\*.md | %{
 		write-host ">> $orig" -foregroundColor Green
 
 		$content = $re.Replace($content, 'alias: /blog/post${base}')
+		$content = [regex]::Replace($content, "`r`n", "`n")
 
 		$new = $re.Match($content).Groups[0].Value
 		write-host "<< $new" -foregroundColor Red
 
 		[IO.File]::WriteAllText($_.FullName, $content, $utf)
+		# $content | out-file $_.FullName # -encoding UTF8
 	}
 }
