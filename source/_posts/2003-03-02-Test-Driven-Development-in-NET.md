@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Test-Driven Development in .NET"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:24:00
 categories:
  - Technology
 subtext-id: 2120aec0-0fc0-450d-a122-c3aa1812281e
-alias: /blog/Test-Driven-Development-in-NET.aspx
+alias: /blog/post/Test-Driven-Development-in-NET.aspx
 ---
 
 

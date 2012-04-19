@@ -7,7 +7,7 @@ categories:
  - Opinions, Politics, Rants
  - Technology
 subtext-id: 775d43d5-46b4-4135-9d42-3188cc540c24
-alias: /blog/Annoyed-by-Dates-in-RSS-Feeds.aspx
+alias: /blog/post/Annoyed-by-Dates-in-RSS-Feeds.aspx
 ---
 
 

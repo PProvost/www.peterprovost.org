@@ -11,7 +11,7 @@ tags:
  - gat
  - dsl toolkit
 subtext-id: f2c7f28e-3e11-4640-8a2f-beadd0fd828e
-alias: /blog/Kzu-on-Software-Factories.aspx
+alias: /blog/post/Kzu-on-Software-Factories.aspx
 ---
 
 

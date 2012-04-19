@@ -7,7 +7,7 @@ updated: 2005-08-01 20:59:00
 categories:
  - Technology
 subtext-id: 94ab3704-9248-43cf-951b-3d80ef4098ce
-alias: /blog/Tech-Ready-Talks.aspx
+alias: /blog/post/Tech-Ready-Talks.aspx
 ---
 
 

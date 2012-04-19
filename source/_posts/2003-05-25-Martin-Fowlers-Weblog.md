@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Martin Fowler's Weblog"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-25 19:21:00
 categories:
  - Technology
 subtext-id: a0aaeaf9-9376-454e-aa3e-84be42bfe847
-alias: /blog/Martin-Fowlers-Weblog.aspx
+alias: /blog/post/Martin-Fowlers-Weblog.aspx
 ---
 
 

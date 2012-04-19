@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Deploying .NET Applications: Lifecycle Guide"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-01 10:50:00
 categories:
  - Technology
 subtext-id: f997dea6-e430-4b8f-a32f-c45ffa0fbe39
-alias: /blog/Deploying-NET-Applications-Lifecycle-Guide.aspx
+alias: /blog/post/Deploying-NET-Applications-Lifecycle-Guide.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "DotNetNuke"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:41:00
 categories:
  - Technology
 subtext-id: 8a416880-9dd6-4cc5-9dea-c825c2a67f93
-alias: /blog/DotNetNuke.aspx
+alias: /blog/post/DotNetNuke.aspx
 ---
 
 

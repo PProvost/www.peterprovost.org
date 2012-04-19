@@ -7,7 +7,7 @@ categories:
  - Games and Other Fun Stuff
  - Opinions, Politics, Rants
 subtext-id: fc87c618-289e-4a8a-b2b4-c815c1b15199
-alias: /blog/Common-Errors-In-English.aspx
+alias: /blog/post/Common-Errors-In-English.aspx
 ---
 
 

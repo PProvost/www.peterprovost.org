@@ -6,7 +6,7 @@ date: 2007-01-02 20:15:00
 categories:
  - Personal
 subtext-id: b0f26d66-33d6-4b12-b82f-d6fd90d881c0
-alias: /blog/Ummm-what-Im-it-(aka-Ive-Been-Blog-Tagged!).aspx
+alias: /blog/post/Ummm-what-Im-it-(aka-Ive-Been-Blog-Tagged!).aspx
 ---
 
 

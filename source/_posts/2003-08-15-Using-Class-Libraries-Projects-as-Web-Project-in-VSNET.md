@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Using Class Libraries Projects as Web Project in VS.NET"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-15 03:55:00
 categories:
  - Technology
 subtext-id: 05a4c9c6-5867-4dc8-ba28-c709e514661b
-alias: /blog/Using-Class-Libraries-Projects-as-Web-Project-in-VSNET.aspx
+alias: /blog/post/Using-Class-Libraries-Projects-as-Web-Project-in-VSNET.aspx
 ---
 
 

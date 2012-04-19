@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Pragmatic Practioners Denver"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:09:00
 categories:
  - Community
 subtext-id: 10e35dd7-ffbc-416f-9f0c-c249f5bbf8db
-alias: /blog/Pragmatic-Practioners-Denver.aspx
+alias: /blog/post/Pragmatic-Practioners-Denver.aspx
 ---
 
 

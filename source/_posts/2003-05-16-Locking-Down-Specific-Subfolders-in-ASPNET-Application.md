@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Locking Down Specific Subfolders in ASP.NET Application"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-16 10:58:00
 categories:
  - Technology
 subtext-id: 75e2ef80-dbbf-41da-a543-0888c9d2cb42
-alias: /blog/Locking-Down-Specific-Subfolders-in-ASPNET-Application.aspx
+alias: /blog/post/Locking-Down-Specific-Subfolders-in-ASPNET-Application.aspx
 ---
 
 

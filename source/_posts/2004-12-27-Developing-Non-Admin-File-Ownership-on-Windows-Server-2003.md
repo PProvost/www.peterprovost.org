@@ -6,7 +6,7 @@ date: 2004-12-27 15:18:00
 categories:
  - Technology
 subtext-id: aa0aafcd-e99a-461a-ade4-dc88f36a348e
-alias: /blog/Developing-Non-Admin-File-Ownership-on-Windows-Server-2003.aspx
+alias: /blog/post/Developing-Non-Admin-File-Ownership-on-Windows-Server-2003.aspx
 ---
 
 

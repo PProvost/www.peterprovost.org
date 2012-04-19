@@ -8,7 +8,7 @@ categories:
  - Personal
  - Technology
 subtext-id: d8d5e180-6ef9-4dee-b0d7-a0ad9ba3a814
-alias: /blog/Which-File-Extension-Are-You.aspx
+alias: /blog/post/Which-File-Extension-Are-You.aspx
 ---
 
 

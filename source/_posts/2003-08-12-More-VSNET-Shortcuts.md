@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More VS.NET Shortcuts"
 comments: false
@@ -10,7 +10,7 @@ tags:
  - visual studio
  - keyboard shortcuts
 subtext-id: 0cdd7ea6-fdc2-435a-86ce-5b89448e3dd1
-alias: /blog/More-VSNET-Shortcuts.aspx
+alias: /blog/post/More-VSNET-Shortcuts.aspx
 ---
 
 

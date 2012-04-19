@@ -6,7 +6,7 @@ date: 2004-08-03 13:36:00
 categories:
  - Technology
 subtext-id: 1a044229-e999-4066-95a3-507e7b1dc080
-alias: /blog/BizTalk-2004-Schema-Compiler-Bug.aspx
+alias: /blog/post/BizTalk-2004-Schema-Compiler-Bug.aspx
 ---
 
 

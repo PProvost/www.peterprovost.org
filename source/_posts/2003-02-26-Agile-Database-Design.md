@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Agile Database Design"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 13:42:00
 categories:
  - Technology
 subtext-id: e99e2df7-b725-432b-810a-f836df6ee182
-alias: /blog/Agile-Database-Design.aspx
+alias: /blog/post/Agile-Database-Design.aspx
 ---
 
 

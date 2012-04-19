@@ -6,7 +6,7 @@ date: 2006-07-03 19:09:00
 categories:
  - Technology
 subtext-id: e57a1121-c6a8-4770-a62e-9888497e95f4
-alias: /blog/Enterprise-Library-for-NET-30---What-would-you-like-to-see.aspx
+alias: /blog/post/Enterprise-Library-for-NET-30---What-would-you-like-to-see.aspx
 ---
 
 

@@ -7,7 +7,7 @@ updated: 2008-07-06 19:15:09
 categories:
  - Opinions, Politics, Rants
 subtext-id: 7de7dae4-1d9b-4b2d-b8a8-015fe07fab9c
-alias: /blog/Penn-Jillette-This-I-Believe.aspx
+alias: /blog/post/Penn-Jillette-This-I-Believe.aspx
 ---
 
 

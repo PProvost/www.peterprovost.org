@@ -7,7 +7,7 @@ updated: 2006-07-14 07:45:00
 categories:
  - Technology
 subtext-id: 5bbf34ee-52fe-424d-845f-d5076768693f
-alias: /blog/Firefox-2b-IETab-2b-Regular-Expressions-3d-Love.aspx
+alias: /blog/post/Firefox-2b-IETab-2b-Regular-Expressions-3d-Love.aspx
 ---
 
 

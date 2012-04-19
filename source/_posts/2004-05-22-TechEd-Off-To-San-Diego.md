@@ -5,7 +5,7 @@ comments: false
 date: 2004-05-22 10:10:00
 updated: 2004-05-23 18:18:00
 subtext-id: 2de1a240-80c4-4a08-87c9-cc38c7e9366e
-alias: /blog/TechEd-Off-To-San-Diego.aspx
+alias: /blog/post/TechEd-Off-To-San-Diego.aspx
 ---
 
 

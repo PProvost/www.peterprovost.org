@@ -7,7 +7,7 @@ updated: 2005-02-18 19:11:00
 categories:
  - Personal
 subtext-id: 6add7bf1-222b-497f-bfab-cb3934d02653
-alias: /blog/Home-From-Sayulita.aspx
+alias: /blog/post/Home-From-Sayulita.aspx
 ---
 
 

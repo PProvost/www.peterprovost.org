@@ -6,7 +6,7 @@ date: 2005-06-27 15:40:00
 categories:
  - Technology
 subtext-id: d625c93f-e42b-4383-b1b1-2ea64b2096c5
-alias: /blog/WS-I-Basic-Security-Profile-Sample-App-Preview.aspx
+alias: /blog/post/WS-I-Basic-Security-Profile-Sample-App-Preview.aspx
 ---
 
 

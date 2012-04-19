@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "New Version of NUnitAddin"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-15 20:39:00
 categories:
  - Technology
 subtext-id: ca9d8a41-0792-4d53-8350-b497354f53e7
-alias: /blog/New-Version-of-NUnitAddin.aspx
+alias: /blog/post/New-Version-of-NUnitAddin.aspx
 ---
 
 

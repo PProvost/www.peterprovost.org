@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Partial Types in C#"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-02 11:01:00
 categories:
  - Technology
 subtext-id: 3237d05b-dab2-4e42-ae89-25ef1f2c77c3
-alias: /blog/Partial-Types-in-C.aspx
+alias: /blog/post/Partial-Types-in-C.aspx
 ---
 
 

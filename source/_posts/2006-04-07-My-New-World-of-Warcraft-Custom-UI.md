@@ -6,7 +6,7 @@ date: 2006-04-07 09:45:00
 categories:
  - Games and Other Fun Stuff
 subtext-id: 02a093b3-73ff-4424-b199-058e4f440c86
-alias: /blog/My-New-World-of-Warcraft-Custom-UI.aspx
+alias: /blog/post/My-New-World-of-Warcraft-Custom-UI.aspx
 ---
 
 

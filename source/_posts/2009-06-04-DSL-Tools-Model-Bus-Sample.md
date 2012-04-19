@@ -10,7 +10,7 @@ tags:
  - vsts
  - dsl toolkit
 subtext-id: 89a82c52-8e38-49a6-9b34-cf8870dc7ed4
-alias: /blog/DSL-Tools-Model-Bus-Sample.aspx
+alias: /blog/post/DSL-Tools-Model-Bus-Sample.aspx
 ---
 
 

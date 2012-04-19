@@ -6,7 +6,7 @@ date: 2007-07-14 13:04:00
 categories:
  - Technology
 subtext-id: b11bb8a4-8efa-458f-8bdc-9c4f4d0c04c4
-alias: /blog/ZIP-Code-Maps-via-Google-Maps.aspx
+alias: /blog/post/ZIP-Code-Maps-via-Google-Maps.aspx
 ---
 
 

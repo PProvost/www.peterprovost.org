@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "IconSnatcher"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-30 10:43:00
 categories:
  - Technology
 subtext-id: 0cfa21e3-ace1-48e4-b1f1-5c8bb41cd88e
-alias: /blog/IconSnatcher.aspx
+alias: /blog/post/IconSnatcher.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "System.Web.UI.WebControls.Style Problems"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-20 10:18:00
 categories:
  - Technology
 subtext-id: 1ac74f8b-1645-4da5-baee-bfa49f99d5d3
-alias: /blog/SystemWebUIWebControlsStyle-Problems.aspx
+alias: /blog/post/SystemWebUIWebControlsStyle-Problems.aspx
 ---
 
 

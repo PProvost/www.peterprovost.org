@@ -7,7 +7,7 @@ updated: 2004-05-01 11:57:00
 categories:
  - Personal
 subtext-id: b68c7809-eae0-4f82-84bb-156b9bffc424
-alias: /blog/Countries-I-Have-Visited.aspx
+alias: /blog/post/Countries-I-Have-Visited.aspx
 ---
 
 

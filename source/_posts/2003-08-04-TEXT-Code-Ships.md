@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: ".TEXT Code Ships"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-04 21:55:00
 categories:
  - Technology
 subtext-id: db2ab197-2cd6-4466-9472-aead02bf31f0
-alias: /blog/TEXT-Code-Ships.aspx
+alias: /blog/post/TEXT-Code-Ships.aspx
 ---
 
 

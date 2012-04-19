@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "RSS Comments Extensions?"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-06 13:12:00
 categories:
  - Technology
 subtext-id: bf63593e-4746-4cbc-9e6b-ef34a3245aaa
-alias: /blog/RSS-Comments-Extensions.aspx
+alias: /blog/post/RSS-Comments-Extensions.aspx
 ---
 
 

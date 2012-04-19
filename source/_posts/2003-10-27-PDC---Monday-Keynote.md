@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC - Monday Keynote"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:32:00
 categories:
  - Technology
 subtext-id: f4b9e0f8-4f4d-4454-9fa7-a8e6922a5e48
-alias: /blog/PDC---Monday-Keynote.aspx
+alias: /blog/post/PDC---Monday-Keynote.aspx
 ---
 
 

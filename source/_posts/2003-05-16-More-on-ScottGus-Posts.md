@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More on ScottGu's Posts"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-16 10:44:00
 categories:
  - Technology
 subtext-id: 62d73f37-e925-4666-b8eb-55fc9027aa49
-alias: /blog/More-on-ScottGus-Posts.aspx
+alias: /blog/post/More-on-ScottGus-Posts.aspx
 ---
 
 

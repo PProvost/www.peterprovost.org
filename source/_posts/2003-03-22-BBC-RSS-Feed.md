@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "BBC RSS Feed"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-06-30 20:35:00
 categories:
  - Technology
 subtext-id: f3316ac3-57d8-4359-aa86-d038c029b36f
-alias: /blog/BBC-RSS-Feed.aspx
+alias: /blog/post/BBC-RSS-Feed.aspx
 ---
 
 

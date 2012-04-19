@@ -6,7 +6,7 @@ date: 2004-12-05 10:46:00
 categories:
  - Technology
 subtext-id: 1f96a67f-1ddc-4360-ad18-d695105f3788
-alias: /blog/RAII-and-IDisposable-and-Thoughts-About-OO.aspx
+alias: /blog/post/RAII-and-IDisposable-and-Thoughts-About-OO.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Stomach Flu"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:47:00
 categories:
  - Personal
 subtext-id: 825c436d-dd31-4f86-be5a-12de520b453a
-alias: /blog/Stomach-Flu.aspx
+alias: /blog/post/Stomach-Flu.aspx
 ---
 
 

@@ -7,7 +7,7 @@ updated: 2004-05-21 10:18:00
 categories:
  - Technology
 subtext-id: ba13c10e-cb08-4edc-b7dc-400039a3e3ec
-alias: /blog/Remove-Unused-Printer-Ports.aspx
+alias: /blog/post/Remove-Unused-Printer-Ports.aspx
 ---
 
 

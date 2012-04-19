@@ -11,7 +11,7 @@ tags:
  - tdd
  - visual studio
 subtext-id: a9088253-01a1-4d4b-8117-7d98e0aca0bd
-alias: /blog/New-Unit-Testing-Features-in-Orcas.aspx
+alias: /blog/post/New-Unit-Testing-Features-in-Orcas.aspx
 ---
 
 

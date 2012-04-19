@@ -6,7 +6,7 @@ date: 2006-08-04 12:01:00
 categories:
  - Technology
 subtext-id: dd9a6725-cdc0-4f8e-9cd7-a5431744559f
-alias: /blog/Open-Source-Projects2c-Leadership-and-Money.aspx
+alias: /blog/post/Open-Source-Projects2c-Leadership-and-Money.aspx
 ---
 
 

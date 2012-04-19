@@ -5,7 +5,7 @@ comments: false
 date: 2007-01-16 11:59:00
 updated: 2007-01-16 11:58:00
 subtext-id: bfbfc050-b03c-4c5d-85ba-1bc0a223f526
-alias: /blog/Interesting-Office-2007-Feature.aspx
+alias: /blog/post/Interesting-Office-2007-Feature.aspx
 ---
 
 

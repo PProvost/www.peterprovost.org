@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Make Acrobat Load Faster"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:42:00
 categories:
  - Technology
 subtext-id: dac2652b-53e0-4f8f-8114-10efb72fcb75
-alias: /blog/Make-Acrobat-Load-Faster.aspx
+alias: /blog/post/Make-Acrobat-Load-Faster.aspx
 ---
 
 

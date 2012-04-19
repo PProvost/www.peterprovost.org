@@ -7,7 +7,7 @@ updated: 2004-05-01 11:13:00
 categories:
  - Community
 subtext-id: 0deb8930-9158-420d-8d77-e022bca9d05c
-alias: /blog/Continuous-Integration-in-NET-BoF-at-TechEd.aspx
+alias: /blog/post/Continuous-Integration-in-NET-BoF-at-TechEd.aspx
 ---
 
 

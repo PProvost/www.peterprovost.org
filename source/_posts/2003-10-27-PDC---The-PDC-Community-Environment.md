@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC - The PDC Community Environment"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:32:00
 categories:
  - Technology
 subtext-id: 792640ce-aef9-449e-b62f-a34e5a633299
-alias: /blog/PDC---The-PDC-Community-Environment.aspx
+alias: /blog/post/PDC---The-PDC-Community-Environment.aspx
 ---
 
 

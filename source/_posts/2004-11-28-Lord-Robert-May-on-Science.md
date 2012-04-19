@@ -6,7 +6,7 @@ date: 2004-11-28 10:34:00
 categories:
  - Quotes
 subtext-id: 38af02b1-73c0-4145-8bbe-26c8f0d5804a
-alias: /blog/Lord-Robert-May-on-Science.aspx
+alias: /blog/post/Lord-Robert-May-on-Science.aspx
 ---
 
 

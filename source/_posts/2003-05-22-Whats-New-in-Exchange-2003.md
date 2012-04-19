@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "What's New in Exchange 2003"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-22 15:49:00
 categories:
  - Technology
 subtext-id: 465da82e-73c6-44c5-8f9b-19b5176c31d3
-alias: /blog/Whats-New-in-Exchange-2003.aspx
+alias: /blog/post/Whats-New-in-Exchange-2003.aspx
 ---
 
 

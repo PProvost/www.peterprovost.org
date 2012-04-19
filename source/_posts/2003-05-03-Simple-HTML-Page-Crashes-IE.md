@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Simple HTML Page Crashes IE"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-03 20:56:00
 categories:
  - Technology
 subtext-id: be5a1ab3-3e84-487c-9be7-fe6f6adc8d3f
-alias: /blog/Simple-HTML-Page-Crashes-IE.aspx
+alias: /blog/post/Simple-HTML-Page-Crashes-IE.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Beyond Linux from Scratch"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-30 10:49:00
 categories:
  - Technology
 subtext-id: 295fdd64-9a4b-4d92-a2da-b36dae845866
-alias: /blog/Beyond-Linux-from-Scratch.aspx
+alias: /blog/post/Beyond-Linux-from-Scratch.aspx
 ---
 
 

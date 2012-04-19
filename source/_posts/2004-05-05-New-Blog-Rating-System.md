@@ -7,7 +7,7 @@ updated: 2004-05-06 11:13:00
 categories:
  - Technology
 subtext-id: af1ec546-6035-495c-8a85-7b79deb0c991
-alias: /blog/New-Blog-Rating-System.aspx
+alias: /blog/post/New-Blog-Rating-System.aspx
 ---
 
 

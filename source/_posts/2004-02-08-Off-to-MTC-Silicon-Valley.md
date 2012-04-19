@@ -7,7 +7,7 @@ updated: 2004-05-01 14:11:00
 categories:
  - Personal
 subtext-id: 6131bfd9-7d5b-4c41-ade9-8fbebc480725
-alias: /blog/Off-to-MTC-Silicon-Valley.aspx
+alias: /blog/post/Off-to-MTC-Silicon-Valley.aspx
 ---
 
 

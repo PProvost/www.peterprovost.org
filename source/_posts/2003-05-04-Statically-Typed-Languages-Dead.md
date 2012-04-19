@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Statically Typed Languages Dead?"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-04 20:53:00
 categories:
  - Technology
 subtext-id: e3715c93-36ef-4548-ac29-8e4e6eda97fe
-alias: /blog/Statically-Typed-Languages-Dead.aspx
+alias: /blog/post/Statically-Typed-Languages-Dead.aspx
 ---
 
 

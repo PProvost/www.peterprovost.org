@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Windows Longhorn Screenshots"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:23:00
 categories:
  - Technology
 subtext-id: df5e6ad5-bbb8-4229-bdac-f493efd3ac17
-alias: /blog/Windows-Longhorn-Screenshots.aspx
+alias: /blog/post/Windows-Longhorn-Screenshots.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Format Specifiers Appendix from C# in a Nutshell"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-06 15:35:00
 categories:
  - Technology
 subtext-id: 7137fc36-50ff-4c1f-a848-8cc2823071b7
-alias: /blog/Format-Specifiers-Appendix-from-C-in-a-Nutshell.aspx
+alias: /blog/post/Format-Specifiers-Appendix-from-C-in-a-Nutshell.aspx
 ---
 
 

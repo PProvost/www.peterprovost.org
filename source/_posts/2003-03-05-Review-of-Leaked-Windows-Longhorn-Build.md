@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Review of Leaked Windows Longhorn Build"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:30:00
 categories:
  - Technology
 subtext-id: 342b3ece-6b9c-4872-a644-adcf0ed41d7a
-alias: /blog/Review-of-Leaked-Windows-Longhorn-Build.aspx
+alias: /blog/post/Review-of-Leaked-Windows-Longhorn-Build.aspx
 ---
 
 

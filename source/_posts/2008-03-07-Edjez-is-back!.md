@@ -6,7 +6,7 @@ date: 2008-03-07 07:34:00
 categories:
  - Technology
 subtext-id: b463d9da-ff60-4def-bca3-e8973a66d0c8
-alias: /blog/Edjez-is-back!.aspx
+alias: /blog/post/Edjez-is-back!.aspx
 ---
 
 

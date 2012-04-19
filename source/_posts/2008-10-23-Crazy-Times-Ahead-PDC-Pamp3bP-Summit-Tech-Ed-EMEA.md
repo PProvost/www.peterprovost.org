@@ -12,7 +12,7 @@ tags:
  - teched
  - patterns & practices
 subtext-id: 42fbe195-f7a4-407f-8374-238cbd502079
-alias: /blog/Crazy-Times-Ahead-PDC-Pamp3bP-Summit-Tech-Ed-EMEA.aspx
+alias: /blog/post/Crazy-Times-Ahead-PDC-Pamp3bP-Summit-Tech-Ed-EMEA.aspx
 ---
 
 

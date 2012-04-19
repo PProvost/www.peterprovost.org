@@ -10,7 +10,7 @@ tags:
  - vista
  - keyboard shortcuts
 subtext-id: 3ce0d29c-86d0-4155-accf-5d477fe3eac8
-alias: /blog/Silly-Vista-Features-I-Want.aspx
+alias: /blog/post/Silly-Vista-Features-I-Want.aspx
 ---
 
 

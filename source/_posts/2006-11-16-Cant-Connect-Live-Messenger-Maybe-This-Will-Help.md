@@ -4,7 +4,7 @@ title: "Can't Connect Live Messenger? Maybe This Will Help"
 comments: false
 date: 2006-11-16 12:21:00
 subtext-id: b5cdaa5d-afad-4fa6-a47e-1ddd071da02b
-alias: /blog/Cant-Connect-Live-Messenger-Maybe-This-Will-Help.aspx
+alias: /blog/post/Cant-Connect-Live-Messenger-Maybe-This-Will-Help.aspx
 ---
 
 

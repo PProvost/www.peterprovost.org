@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Free Book: Application Architecture for .NET"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Books, Music, TV and Movies
  - Technology
 subtext-id: 549dc208-f65f-472b-abb4-cb2775fd97ad
-alias: /blog/Free-Book-Application-Architecture-for-NET.aspx
+alias: /blog/post/Free-Book-Application-Architecture-for-NET.aspx
 ---
 
 

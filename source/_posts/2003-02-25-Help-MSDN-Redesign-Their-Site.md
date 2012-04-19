@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Help MSDN Redesign Their Site"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:43:00
 categories:
  - Technology
 subtext-id: 073e7954-3451-434b-9707-44b87bdf0cb0
-alias: /blog/Help-MSDN-Redesign-Their-Site.aspx
+alias: /blog/post/Help-MSDN-Redesign-Their-Site.aspx
 ---
 
 

@@ -7,7 +7,7 @@ updated: 2007-04-18 11:27:00
 categories:
  - Technology
 subtext-id: 01009f59-5acd-4328-b084-af8c482ef2bc
-alias: /blog/The-Key-To-Adopting-Agile-Methods.aspx
+alias: /blog/post/The-Key-To-Adopting-Agile-Methods.aspx
 ---
 
 

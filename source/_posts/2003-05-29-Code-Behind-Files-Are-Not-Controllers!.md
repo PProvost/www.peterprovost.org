@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Code Behind Files Are Not Controllers!"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-29 09:31:00
 categories:
  - Technology
 subtext-id: af518101-7311-4e39-a75a-9289275d7c5d
-alias: /blog/Code-Behind-Files-Are-Not-Controllers!.aspx
+alias: /blog/post/Code-Behind-Files-Are-Not-Controllers!.aspx
 ---
 
 

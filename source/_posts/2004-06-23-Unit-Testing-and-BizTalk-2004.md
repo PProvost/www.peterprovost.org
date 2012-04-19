@@ -7,7 +7,7 @@ updated: 2004-06-23 13:22:00
 categories:
  - Technology
 subtext-id: 9b4dbda4-79b2-4b52-bd2a-01a12bdccdcb
-alias: /blog/Unit-Testing-and-BizTalk-2004.aspx
+alias: /blog/post/Unit-Testing-and-BizTalk-2004.aspx
 ---
 
 

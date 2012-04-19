@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Geman Official Language of California"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:28:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: 4c0249b5-73e0-4889-ae11-09152c4a5a61
-alias: /blog/Geman-Official-Language-of-California.aspx
+alias: /blog/post/Geman-Official-Language-of-California.aspx
 ---
 
 

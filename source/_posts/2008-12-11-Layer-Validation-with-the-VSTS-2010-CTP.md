@@ -9,7 +9,7 @@ tags:
  - vsts
  - architecture
 subtext-id: ac6cddbe-9cb8-4b99-9e96-a3f117f12cef
-alias: /blog/Layer-Validation-with-the-VSTS-2010-CTP.aspx
+alias: /blog/post/Layer-Validation-with-the-VSTS-2010-CTP.aspx
 ---
 
 

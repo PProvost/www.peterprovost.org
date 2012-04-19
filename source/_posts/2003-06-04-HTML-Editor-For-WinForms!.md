@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "HTML Editor For WinForms!"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-04 20:58:00
 categories:
  - Technology
 subtext-id: edca605a-5acb-4e04-a2a0-5feb9ff2be9e
-alias: /blog/HTML-Editor-For-WinForms!.aspx
+alias: /blog/post/HTML-Editor-For-WinForms!.aspx
 ---
 
 

@@ -7,7 +7,7 @@ updated: 2004-07-30 13:51:00
 categories:
  - Technology
 subtext-id: e8f94e3e-7fdd-4e9d-a660-1386128dc700
-alias: /blog/PP-Enterprise-Library-Annouced.aspx
+alias: /blog/post/PP-Enterprise-Library-Annouced.aspx
 ---
 
 

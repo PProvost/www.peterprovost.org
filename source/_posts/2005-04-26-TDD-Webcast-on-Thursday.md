@@ -10,7 +10,7 @@ tags:
  - tdd
  - agile development
 subtext-id: 88c69331-d20a-4456-a83e-d7f1a6bd34c5
-alias: /blog/TDD-Webcast-on-Thursday.aspx
+alias: /blog/post/TDD-Webcast-on-Thursday.aspx
 ---
 
 

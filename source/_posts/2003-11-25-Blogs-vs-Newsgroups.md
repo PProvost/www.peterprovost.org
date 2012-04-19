@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Blogs vs Newsgroups"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:03:00
 categories:
  - Community
 subtext-id: d33d7d11-d569-4026-9990-368b20a8a501
-alias: /blog/Blogs-vs-Newsgroups.aspx
+alias: /blog/post/Blogs-vs-Newsgroups.aspx
 ---
 
 

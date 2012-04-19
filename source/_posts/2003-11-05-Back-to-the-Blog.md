@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Back to the Blog..."
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:16:00
 categories:
  - Technology
 subtext-id: 9f77a817-3de2-4efb-b8b3-0d531ddd6b46
-alias: /blog/Back-to-the-Blog.aspx
+alias: /blog/post/Back-to-the-Blog.aspx
 ---
 
 

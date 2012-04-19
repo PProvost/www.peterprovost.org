@@ -7,7 +7,7 @@ updated: 2005-10-25 09:35:00
 categories:
  - Technology
 subtext-id: 1ba44755-7c87-4906-a980-037d0e8ce49f
-alias: /blog/patterns--practices-Security-Guidance-Team-Blog.aspx
+alias: /blog/post/patterns--practices-Security-Guidance-Team-Blog.aspx
 ---
 
 

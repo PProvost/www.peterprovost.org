@@ -4,7 +4,7 @@ title: "Web Service Software Factory December Release"
 comments: false
 date: 2007-01-11 08:01:00
 subtext-id: d916f5f9-38ae-4c18-8d35-8b47c0c8daa5
-alias: /blog/Web-Service-Software-Factory-December-Release.aspx
+alias: /blog/post/Web-Service-Software-Factory-December-Release.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "First Post From dasBlog"
 description : "My first dasBlog post... I had to make a few changes to get it working the way I wanted. Nothing serious just a couple of edits."
@@ -7,7 +7,7 @@ date: 2003-07-30 21:18:00
 categories:
  - Technology
 subtext-id: 50ba161a-5e05-45c8-920c-817c47217876
-alias: /blog/First-Post-From-dasBlog.aspx
+alias: /blog/post/First-Post-From-dasBlog.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Online Magnetic Poetry"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 00:44:00
 categories:
  - Technology
 subtext-id: ca3d1ffc-e99f-4ffd-a191-294982a85c02
-alias: /blog/Online-Magnetic-Poetry.aspx
+alias: /blog/post/Online-Magnetic-Poetry.aspx
 ---
 
 

@@ -7,7 +7,7 @@ updated: 2005-08-13 09:49:00
 categories:
  - Technology
 subtext-id: 2b0c1642-3367-4653-9bd2-d4945e71c0a5
-alias: /blog/VB6-Updgrade-Guide-Now-Available.aspx
+alias: /blog/post/VB6-Updgrade-Guide-Now-Available.aspx
 ---
 
 

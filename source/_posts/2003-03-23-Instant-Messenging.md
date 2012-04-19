@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Instant Messenging"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-23 21:19:00
 categories:
  - Technology
 subtext-id: e36bfe64-6e8b-4508-abf6-22ae34bc1177
-alias: /blog/Instant-Messenging.aspx
+alias: /blog/post/Instant-Messenging.aspx
 ---
 
 

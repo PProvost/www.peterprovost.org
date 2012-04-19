@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Moving from VSS to CVS"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-14 11:22:00
 categories:
  - Technology
 subtext-id: 15688b6a-7dc9-4aca-ad9f-e4eec358ebd7
-alias: /blog/Moving-from-VSS-to-CVS.aspx
+alias: /blog/post/Moving-from-VSS-to-CVS.aspx
 ---
 
 

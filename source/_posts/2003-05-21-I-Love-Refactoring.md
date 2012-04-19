@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "I Love Refactoring"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-21 20:58:00
 categories:
  - Technology
 subtext-id: 7e10eea8-6568-44ac-8324-628882bd833a
-alias: /blog/I-Love-Refactoring.aspx
+alias: /blog/post/I-Love-Refactoring.aspx
 ---
 
 

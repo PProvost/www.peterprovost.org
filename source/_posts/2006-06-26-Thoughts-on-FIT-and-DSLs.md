@@ -7,7 +7,7 @@ updated: 2007-04-18 11:26:00
 categories:
  - Technology
 subtext-id: d27aa08a-3079-4dfc-a257-f09bf80fe63b
-alias: /blog/Thoughts-on-FIT-and-DSLs.aspx
+alias: /blog/post/Thoughts-on-FIT-and-DSLs.aspx
 ---
 
 

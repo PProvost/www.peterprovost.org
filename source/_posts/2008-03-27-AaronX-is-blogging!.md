@@ -7,7 +7,7 @@ categories:
  - Books, Music, TV and Movies
  - Community
 subtext-id: 7986aadc-4726-43cd-bfb4-5fc580c8de18
-alias: /blog/AaronX-is-blogging!.aspx
+alias: /blog/post/AaronX-is-blogging!.aspx
 ---
 
 

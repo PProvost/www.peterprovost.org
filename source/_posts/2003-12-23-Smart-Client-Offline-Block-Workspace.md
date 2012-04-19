@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Smart Client Offline Block Workspace"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 14:42:00
 categories:
  - Technology
 subtext-id: 907a58e2-cd25-48b1-8ba8-4a10fe93b1e1
-alias: /blog/Smart-Client-Offline-Block-Workspace.aspx
+alias: /blog/post/Smart-Client-Offline-Block-Workspace.aspx
 ---
 
 

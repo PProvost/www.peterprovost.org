@@ -7,7 +7,7 @@ categories:
  - Personal
  - Technology
 subtext-id: 2427f2c7-8de2-47fb-b24f-41f363e5744d
-alias: /blog/How-Nerdy-Are-You.aspx
+alias: /blog/post/How-Nerdy-Are-You.aspx
 ---
 
 

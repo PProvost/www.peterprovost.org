@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Politics + Music = BAD"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:57:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: 54fbbd51-6b8d-494a-a543-7b805333caa5
-alias: /blog/Politics-2b-Music-3d-BAD.aspx
+alias: /blog/post/Politics-2b-Music-3d-BAD.aspx
 ---
 
 

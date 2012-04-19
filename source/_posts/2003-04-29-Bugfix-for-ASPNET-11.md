@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Bugfix for ASP.NET 1.1"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-29 20:34:00
 categories:
  - Technology
 subtext-id: 2818d8df-51d6-49e6-bcf8-1671373c103f
-alias: /blog/Bugfix-for-ASPNET-11.aspx
+alias: /blog/post/Bugfix-for-ASPNET-11.aspx
 ---
 
 

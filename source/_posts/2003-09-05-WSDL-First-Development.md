@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "WSDL-First Development"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 22:07:00
 categories:
  - Technology
 subtext-id: fef3a0ad-b37c-4775-8c0f-9929bb5b44f3
-alias: /blog/WSDL-First-Development.aspx
+alias: /blog/post/WSDL-First-Development.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The Drug War Rages On..."
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:13:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: 8ea31475-300d-4879-a5ad-d05692904851
-alias: /blog/The-Drug-War-Rages-On.aspx
+alias: /blog/post/The-Drug-War-Rages-On.aspx
 ---
 
 

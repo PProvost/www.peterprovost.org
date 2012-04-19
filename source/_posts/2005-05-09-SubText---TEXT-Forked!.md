@@ -6,7 +6,7 @@ date: 2005-05-09 09:20:00
 categories:
  - Technology
 subtext-id: 7a4c7e68-4793-4401-b353-d2b063a24a8a
-alias: /blog/SubText---TEXT-Forked!.aspx
+alias: /blog/post/SubText---TEXT-Forked!.aspx
 ---
 
 

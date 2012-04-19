@@ -6,7 +6,7 @@ date: 2006-01-21 08:40:00
 categories:
  - Personal
 subtext-id: 5dd3ae3f-8ef1-4a05-8e0e-a0e831f46531
-alias: /blog/Provost-Family-New-Year-Card.aspx
+alias: /blog/post/Provost-Family-New-Year-Card.aspx
 ---
 
 

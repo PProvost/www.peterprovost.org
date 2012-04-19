@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Gordon Finds a Bug in My Paper"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:31:00
 categories:
  - Technology
 subtext-id: 892dba26-cec9-4091-8dff-8e371c9f53c4
-alias: /blog/Gordon-Finds-a-Bug-in-My-Paper.aspx
+alias: /blog/post/Gordon-Finds-a-Bug-in-My-Paper.aspx
 ---
 
 

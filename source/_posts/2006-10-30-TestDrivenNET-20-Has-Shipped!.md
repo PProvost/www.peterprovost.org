@@ -11,7 +11,7 @@ tags:
  - tdd
  - agile development
 subtext-id: 81f67532-3a40-48ec-9bc4-6f56d5002fde
-alias: /blog/TestDrivenNET-20-Has-Shipped!.aspx
+alias: /blog/post/TestDrivenNET-20-Has-Shipped!.aspx
 ---
 
 

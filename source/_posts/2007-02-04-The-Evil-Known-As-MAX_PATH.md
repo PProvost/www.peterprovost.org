@@ -5,7 +5,7 @@ comments: false
 date: 2007-02-04 11:58:00
 updated: 2007-02-04 11:59:00
 subtext-id: 9a6dbfbd-a5d6-4f39-8a78-974aff23cde8
-alias: /blog/The-Evil-Known-As-MAX_PATH.aspx
+alias: /blog/post/The-Evil-Known-As-MAX_PATH.aspx
 ---
 
 

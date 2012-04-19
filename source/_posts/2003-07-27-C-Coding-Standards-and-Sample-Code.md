@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "C# Coding Standards and Sample Code"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-27 11:14:00
 categories:
  - Technology
 subtext-id: ee98628f-9fc3-4be0-81d9-fe28983c855b
-alias: /blog/C-Coding-Standards-and-Sample-Code.aspx
+alias: /blog/post/C-Coding-Standards-and-Sample-Code.aspx
 ---
 
 

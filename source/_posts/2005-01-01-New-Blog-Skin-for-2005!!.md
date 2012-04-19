@@ -7,7 +7,7 @@ updated: 2005-01-01 20:49:00
 categories:
  - Technology
 subtext-id: 63e8c9f9-6d4e-4395-993e-dca2a86e2393
-alias: /blog/New-Blog-Skin-for-2005!!.aspx
+alias: /blog/post/New-Blog-Skin-for-2005!!.aspx
 ---
 
 

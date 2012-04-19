@@ -7,7 +7,7 @@ categories:
  - Community
  - Technology
 subtext-id: f42c8740-2408-49b5-94c3-8b55d025b4c6
-alias: /blog/Building-Quality-NET-Solutions-All-the-other-stuff.aspx
+alias: /blog/post/Building-Quality-NET-Solutions-All-the-other-stuff.aspx
 ---
 
 

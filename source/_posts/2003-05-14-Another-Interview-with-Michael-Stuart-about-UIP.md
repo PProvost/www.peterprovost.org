@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Another Interview with Michael Stuart about UIP"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-14 08:11:00
 categories:
  - Technology
 subtext-id: dbcf5995-34ae-463d-aeb1-15263ba7b677
-alias: /blog/Another-Interview-with-Michael-Stuart-about-UIP.aspx
+alias: /blog/post/Another-Interview-with-Michael-Stuart-about-UIP.aspx
 ---
 
 

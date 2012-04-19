@@ -6,7 +6,7 @@ date: 2005-01-01 14:51:00
 categories:
  - Personal
 subtext-id: caefa0c8-609d-492e-aa9c-e37082d0f6fd
-alias: /blog/2004-In-Review---The-Busiest-Year-of-My-Life.aspx
+alias: /blog/post/2004-In-Review---The-Busiest-Year-of-My-Life.aspx
 ---
 
 

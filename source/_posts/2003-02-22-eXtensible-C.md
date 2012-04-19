@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "eXtensible C#"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:31:00
 categories:
  - Technology
 subtext-id: 6de44830-1569-4402-9909-fa3cf74ddca1
-alias: /blog/eXtensible-C.aspx
+alias: /blog/post/eXtensible-C.aspx
 ---
 
 

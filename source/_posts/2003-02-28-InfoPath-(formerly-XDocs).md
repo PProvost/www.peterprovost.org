@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "InfoPath (formerly XDocs)"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:16:00
 categories:
  - Technology
 subtext-id: c530bd5b-8b89-4778-bd11-721f043977df
-alias: /blog/InfoPath-(formerly-XDocs).aspx
+alias: /blog/post/InfoPath-(formerly-XDocs).aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Passing Around XML"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-12 11:17:00
 categories:
  - Technology
 subtext-id: 1d36da03-e413-4b62-b75f-5ed1e264c48d
-alias: /blog/Passing-Around-XML.aspx
+alias: /blog/post/Passing-Around-XML.aspx
 ---
 
 

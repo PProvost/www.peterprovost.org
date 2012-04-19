@@ -6,7 +6,7 @@ date: 2004-12-12 10:10:00
 categories:
  - Technology
 subtext-id: 56e19625-4ca2-4fc8-b5db-b9829c3bfd05
-alias: /blog/Comment-Spam-Is-Getting-Out-of-Hand.aspx
+alias: /blog/post/Comment-Spam-Is-Getting-Out-of-Hand.aspx
 ---
 
 

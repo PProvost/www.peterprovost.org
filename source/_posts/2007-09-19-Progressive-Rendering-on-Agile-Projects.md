@@ -6,7 +6,7 @@ date: 2007-09-19 13:44:00
 categories:
  - Agile Software Development
 subtext-id: f54645c6-62d5-44f1-bc2a-1a245278ba33
-alias: /blog/Progressive-Rendering-on-Agile-Projects.aspx
+alias: /blog/post/Progressive-Rendering-on-Agile-Projects.aspx
 ---
 
 

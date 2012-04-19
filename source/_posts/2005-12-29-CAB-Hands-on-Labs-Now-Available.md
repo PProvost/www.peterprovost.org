@@ -9,7 +9,7 @@ categories:
 tags:
  - cab
 subtext-id: 02022468-a508-4acb-a760-804f86826e52
-alias: /blog/CAB-Hands-on-Labs-Now-Available.aspx
+alias: /blog/post/CAB-Hands-on-Labs-Now-Available.aspx
 ---
 
 

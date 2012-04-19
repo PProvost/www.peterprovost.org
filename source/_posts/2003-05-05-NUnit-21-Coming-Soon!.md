@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "NUnit 2.1 Coming Soon!"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-05 13:02:00
 categories:
  - Technology
 subtext-id: 2f737557-98e5-4add-b9c4-d6d224e0e19a
-alias: /blog/NUnit-21-Coming-Soon!.aspx
+alias: /blog/post/NUnit-21-Coming-Soon!.aspx
 ---
 
 

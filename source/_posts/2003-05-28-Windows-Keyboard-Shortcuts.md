@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Windows Keyboard Shortcuts"
 comments: false
@@ -9,7 +9,7 @@ categories:
 tags:
  - keyboard shortcuts
 subtext-id: 65e74fd6-75b3-44e6-8e04-9d44a8ae3182
-alias: /blog/Windows-Keyboard-Shortcuts.aspx
+alias: /blog/post/Windows-Keyboard-Shortcuts.aspx
 ---
 
 

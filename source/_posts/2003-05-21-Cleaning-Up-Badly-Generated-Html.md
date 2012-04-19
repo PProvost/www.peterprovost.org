@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Cleaning Up Badly Generated Html"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-21 20:04:00
 categories:
  - Technology
 subtext-id: 5301ddcd-9ee5-4f60-bcd8-3531ade63b94
-alias: /blog/Cleaning-Up-Badly-Generated-Html.aspx
+alias: /blog/post/Cleaning-Up-Badly-Generated-Html.aspx
 ---
 
 

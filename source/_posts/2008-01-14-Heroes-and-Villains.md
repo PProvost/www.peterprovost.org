@@ -4,7 +4,7 @@ title: "Heroes and Villains"
 comments: false
 date: 2008-01-14 14:23:00
 subtext-id: a93266ab-4d38-4754-b703-8f11af0da2fd
-alias: /blog/Heroes-and-Villains.aspx
+alias: /blog/post/Heroes-and-Villains.aspx
 ---
 
 

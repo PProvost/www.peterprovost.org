@@ -4,7 +4,7 @@ title: "patterns &amp; practices Summit - Redmond 10/9 - 10/12"
 comments: false
 date: 2006-09-26 09:41:00
 subtext-id: 20738a66-2f40-4439-b204-0ebf57004b8a
-alias: /blog/patterns-amp3b-practices-Summit---Redmond-109---1012.aspx
+alias: /blog/post/patterns-amp3b-practices-Summit---Redmond-109---1012.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "David Stutz's Farewell Letter to Microsoft"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:32:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: 15494232-99e4-409f-8af1-f38cc8136d18
-alias: /blog/David-Stutzs-Farewell-Letter-to-Microsoft.aspx
+alias: /blog/post/David-Stutzs-Farewell-Letter-to-Microsoft.aspx
 ---
 
 

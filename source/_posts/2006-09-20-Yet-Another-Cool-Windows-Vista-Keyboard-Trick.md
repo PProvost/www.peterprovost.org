@@ -10,7 +10,7 @@ tags:
  - vista
  - keyboard shortcuts
 subtext-id: 45d0233d-c3e2-4b52-921e-4c85b47216f8
-alias: /blog/Yet-Another-Cool-Windows-Vista-Keyboard-Trick.aspx
+alias: /blog/post/Yet-Another-Cool-Windows-Vista-Keyboard-Trick.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More Fun With CodeDOM"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-20 15:02:00
 categories:
  - Technology
 subtext-id: ea91605e-0762-4c5e-a012-48acea0d0677
-alias: /blog/More-Fun-With-CodeDOM.aspx
+alias: /blog/post/More-Fun-With-CodeDOM.aspx
 ---
 
 

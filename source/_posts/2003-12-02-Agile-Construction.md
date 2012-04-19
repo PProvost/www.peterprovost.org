@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Agile Construction"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 15:55:00
 categories:
  - Technology
 subtext-id: 0e2e4df1-eb9d-4005-b8bc-5e496601fe3a
-alias: /blog/Agile-Construction.aspx
+alias: /blog/post/Agile-Construction.aspx
 ---
 
 

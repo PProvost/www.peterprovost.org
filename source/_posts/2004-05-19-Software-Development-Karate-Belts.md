@@ -7,7 +7,7 @@ updated: 2004-05-19 12:36:00
 categories:
  - Technology
 subtext-id: ab65aa19-466a-466e-baca-c6fa2a6d0ebe
-alias: /blog/Software-Development-Karate-Belts.aspx
+alias: /blog/post/Software-Development-Karate-Belts.aspx
 ---
 
 

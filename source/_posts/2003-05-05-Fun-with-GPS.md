@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Fun with GPS"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-05 09:25:00
 categories:
  - Technology
 subtext-id: 2d139dec-cf96-4f8d-a99c-af188a17df31
-alias: /blog/Fun-with-GPS.aspx
+alias: /blog/post/Fun-with-GPS.aspx
 ---
 
 

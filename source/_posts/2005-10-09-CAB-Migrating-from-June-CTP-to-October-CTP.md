@@ -9,7 +9,7 @@ categories:
 tags:
  - cab
 subtext-id: e2b23814-6af0-4100-bf1e-cf06ee762aaf
-alias: /blog/CAB-Migrating-from-June-CTP-to-October-CTP.aspx
+alias: /blog/post/CAB-Migrating-from-June-CTP-to-October-CTP.aspx
 ---
 
 

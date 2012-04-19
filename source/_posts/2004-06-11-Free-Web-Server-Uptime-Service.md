@@ -6,7 +6,7 @@ date: 2004-06-11 00:32:00
 categories:
  - Technology
 subtext-id: fd0efb5a-5e3f-4154-967e-2108f910a226
-alias: /blog/Free-Web-Server-Uptime-Service.aspx
+alias: /blog/post/Free-Web-Server-Uptime-Service.aspx
 ---
 
 

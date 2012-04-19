@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Interactive COG!"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Books, Music, TV and Movies
  - Technology
 subtext-id: 32c86472-df97-4738-94bd-5441473d5bcb
-alias: /blog/Interactive-COG!.aspx
+alias: /blog/post/Interactive-COG!.aspx
 ---
 
 

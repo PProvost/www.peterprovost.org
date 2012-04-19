@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Trey Anastasio Concert"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:32:00
 categories:
  - Personal
 subtext-id: 9836a7be-7b7b-4b1b-87b4-56da84b481f0
-alias: /blog/Trey-Anastasio-Concert.aspx
+alias: /blog/post/Trey-Anastasio-Concert.aspx
 ---
 
 

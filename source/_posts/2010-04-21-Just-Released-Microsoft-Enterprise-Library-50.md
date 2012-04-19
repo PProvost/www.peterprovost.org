@@ -9,7 +9,7 @@ tags:
  - patterns & practices
  - entlib
 subtext-id: e780d9d7-df59-4d9d-8893-ada0a90ee1b6
-alias: /blog/Just-Released-Microsoft-Enterprise-Library-50.aspx
+alias: /blog/post/Just-Released-Microsoft-Enterprise-Library-50.aspx
 ---
 
 

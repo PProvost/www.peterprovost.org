@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Road to Wisdom"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:10:00
 categories:
  - Technology
 subtext-id: 8535f08a-5211-4f35-9cf2-46f03b0d79cc
-alias: /blog/Road-to-Wisdom.aspx
+alias: /blog/post/Road-to-Wisdom.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Programming Active Directory with the System.DirectoryServices Namespace"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-11 01:46:00
 categories:
  - Technology
 subtext-id: e68fcbfc-ba8f-4dde-b85d-7dcd24fb6900
-alias: /blog/Programming-Active-Directory-with-the-SystemDirectoryServices-Namespace.aspx
+alias: /blog/post/Programming-Active-Directory-with-the-SystemDirectoryServices-Namespace.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Annoying COM Interop Problem"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-30 02:15:00
 categories:
  - Technology
 subtext-id: c816185a-ad03-47a9-ad1a-5dbcb3f0a722
-alias: /blog/Annoying-COM-Interop-Problem.aspx
+alias: /blog/post/Annoying-COM-Interop-Problem.aspx
 ---
 
 

@@ -6,7 +6,7 @@ date: 2005-07-29 23:23:00
 categories:
  - Technology
 subtext-id: ae9ed0a2-ec2d-481f-aab7-e636cc8c7c23
-alias: /blog/StartupController-10.aspx
+alias: /blog/post/StartupController-10.aspx
 ---
 
 

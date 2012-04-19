@@ -7,7 +7,7 @@ updated: 2007-04-18 11:30:00
 categories:
  - Technology
 subtext-id: 60dbd106-da5a-4f5a-a946-7e808eb8f08b
-alias: /blog/Roles-in-an-Agile-Team.aspx
+alias: /blog/post/Roles-in-an-Agile-Team.aspx
 ---
 
 

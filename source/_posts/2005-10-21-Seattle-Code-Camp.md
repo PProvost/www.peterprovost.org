@@ -6,7 +6,7 @@ date: 2005-10-21 20:29:00
 categories:
  - Technology
 subtext-id: f0a78111-f7b0-4ace-a174-a31da764b2e9
-alias: /blog/Seattle-Code-Camp.aspx
+alias: /blog/post/Seattle-Code-Camp.aspx
 ---
 
 

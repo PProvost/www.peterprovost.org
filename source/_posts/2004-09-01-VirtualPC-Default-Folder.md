@@ -6,7 +6,7 @@ date: 2004-09-01 14:48:00
 categories:
  - Technology
 subtext-id: bab873af-1784-4c4a-bd39-9a00f596f535
-alias: /blog/VirtualPC-Default-Folder.aspx
+alias: /blog/post/VirtualPC-Default-Folder.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "XML Best Practices"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-06-18 21:49:00
 categories:
  - Technology
 subtext-id: 9b9dc895-28ab-4abe-9ea0-edadfe1bde8a
-alias: /blog/XML-Best-Practices.aspx
+alias: /blog/post/XML-Best-Practices.aspx
 ---
 
 

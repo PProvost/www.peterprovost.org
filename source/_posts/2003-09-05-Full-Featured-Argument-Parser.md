@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Full Featured Argument Parser"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 14:37:00
 categories:
  - Technology
 subtext-id: 52b12294-1553-43a9-ab04-d5de0986bee8
-alias: /blog/Full-Featured-Argument-Parser.aspx
+alias: /blog/post/Full-Featured-Argument-Parser.aspx
 ---
 
 

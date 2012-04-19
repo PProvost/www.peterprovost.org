@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Is Linux as vulnerable as Windows?"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:42:00
 categories:
  - Technology
 subtext-id: 7fbf202a-418f-4c59-a6bb-be4840018501
-alias: /blog/Is-Linux-as-vulnerable-as-Windows.aspx
+alias: /blog/post/Is-Linux-as-vulnerable-as-Windows.aspx
 ---
 
 

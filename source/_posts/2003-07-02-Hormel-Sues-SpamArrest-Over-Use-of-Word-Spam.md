@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Hormel Sues SpamArrest Over Use of Word \"Spam\""
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-02 10:17:00
 categories:
  - Technology
 subtext-id: 42f86603-728e-4d04-8764-fffe07b122b7
-alias: /blog/Hormel-Sues-SpamArrest-Over-Use-of-Word-Spam.aspx
+alias: /blog/post/Hormel-Sues-SpamArrest-Over-Use-of-Word-Spam.aspx
 ---
 
 

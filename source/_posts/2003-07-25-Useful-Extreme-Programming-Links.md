@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Useful Extreme Programming Links"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-25 08:27:00
 categories:
  - Technology
 subtext-id: 503a9c56-6ff2-4543-a208-e3d8a59271dc
-alias: /blog/Useful-Extreme-Programming-Links.aspx
+alias: /blog/post/Useful-Extreme-Programming-Links.aspx
 ---
 
 

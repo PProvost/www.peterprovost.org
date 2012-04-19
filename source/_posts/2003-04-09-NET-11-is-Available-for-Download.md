@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: ".NET 1.1 is Available for Download"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-09 12:14:00
 categories:
  - Technology
 subtext-id: 49b4d005-59df-48bd-b918-f802914929b4
-alias: /blog/NET-11-is-Available-for-Download.aspx
+alias: /blog/post/NET-11-is-Available-for-Download.aspx
 ---
 
 

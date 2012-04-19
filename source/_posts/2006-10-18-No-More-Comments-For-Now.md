@@ -6,7 +6,7 @@ date: 2006-10-18 07:17:00
 categories:
  - Community
 subtext-id: 7c0192ac-85ab-4de8-8451-d1b3e742429d
-alias: /blog/No-More-Comments-For-Now.aspx
+alias: /blog/post/No-More-Comments-For-Now.aspx
 ---
 
 

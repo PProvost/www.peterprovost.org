@@ -6,7 +6,7 @@ date: 2004-06-10 11:23:00
 categories:
  - Technology
 subtext-id: e3c0a192-795f-4547-b1d6-c748abea7e14
-alias: /blog/Server-Down-But-Not-Crashed.aspx
+alias: /blog/post/Server-Down-But-Not-Crashed.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "I Want InfoPath"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:31:00
 categories:
  - Technology
 subtext-id: bd56fa62-236f-431e-ac6b-08dd5184b289
-alias: /blog/I-Want-InfoPath.aspx
+alias: /blog/post/I-Want-InfoPath.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Amazing YoYo Video"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-10-22 22:18:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: 6b50f13c-90ca-494a-acf0-f0bdca3ae047
-alias: /blog/Amazing-YoYo-Video.aspx
+alias: /blog/post/Amazing-YoYo-Video.aspx
 ---
 
 

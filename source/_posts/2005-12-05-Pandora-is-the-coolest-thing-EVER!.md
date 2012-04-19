@@ -8,7 +8,7 @@ categories:
  - Technology
  - Books, Music, TV and Movies
 subtext-id: ed6aa2f6-36d1-4a19-a894-e0128fad009c
-alias: /blog/Pandora-is-the-coolest-thing-EVER!.aspx
+alias: /blog/post/Pandora-is-the-coolest-thing-EVER!.aspx
 ---
 
 

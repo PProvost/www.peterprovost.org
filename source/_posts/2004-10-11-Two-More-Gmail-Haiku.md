@@ -8,7 +8,7 @@ categories:
  - Haiku
  - Technology
 subtext-id: 0541773d-0d29-4c42-bef5-5a8820031d1d
-alias: /blog/Two-More-Gmail-Haiku.aspx
+alias: /blog/post/Two-More-Gmail-Haiku.aspx
 ---
 
 

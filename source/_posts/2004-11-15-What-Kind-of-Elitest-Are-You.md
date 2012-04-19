@@ -5,7 +5,7 @@ comments: false
 date: 2004-11-15 07:15:00
 updated: 2004-11-15 07:41:00
 subtext-id: d11faa3a-ec00-4768-9b9c-c874cfd3489e
-alias: /blog/What-Kind-of-Elitest-Are-You.aspx
+alias: /blog/post/What-Kind-of-Elitest-Are-You.aspx
 ---
 
 

@@ -7,7 +7,7 @@ updated: 2004-05-01 11:17:00
 categories:
  - Community
 subtext-id: 8e90a23f-5fd6-4a8c-999a-e105dd1eb191
-alias: /blog/Timing-is-Interesting.aspx
+alias: /blog/post/Timing-is-Interesting.aspx
 ---
 
 

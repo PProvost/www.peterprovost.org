@@ -5,7 +5,7 @@ comments: false
 date: 2006-09-26 14:24:00
 updated: 2007-04-18 11:18:00
 subtext-id: db637333-c34e-463f-96a8-07ff01aafd04
-alias: /blog/patterns-amp3b-practices-Agile-Development-Center-on-Channel-9.aspx
+alias: /blog/post/patterns-amp3b-practices-Agile-Development-Center-on-Channel-9.aspx
 ---
 
 

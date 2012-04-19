@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Find Your Name in PI"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:42:00
 categories:
  - Technology
 subtext-id: 09095399-ab93-41f7-bb47-33907f811dab
-alias: /blog/Find-Your-Name-in-PI.aspx
+alias: /blog/post/Find-Your-Name-in-PI.aspx
 ---
 
 

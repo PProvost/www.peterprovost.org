@@ -7,7 +7,7 @@ updated: 2005-01-26 06:45:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: 85c0f014-f732-4ce7-b668-7eb57f3e444e
-alias: /blog/World-Juggling-Federeation-on-ESPN2-This-Week.aspx
+alias: /blog/post/World-Juggling-Federeation-on-ESPN2-This-Week.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Best Practices for ADO.NET"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:31:00
 categories:
  - Technology
 subtext-id: ec18470a-eaac-47cf-90c6-c9f5e23c760c
-alias: /blog/Best-Practices-for-ADONET.aspx
+alias: /blog/post/Best-Practices-for-ADONET.aspx
 ---
 
 

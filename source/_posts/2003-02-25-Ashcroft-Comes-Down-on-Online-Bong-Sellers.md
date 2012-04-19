@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Ashcroft Comes Down on Online Bong Sellers"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:43:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: 1761543a-0577-4594-b97d-10d69423de35
-alias: /blog/Ashcroft-Comes-Down-on-Online-Bong-Sellers.aspx
+alias: /blog/post/Ashcroft-Comes-Down-on-Online-Bong-Sellers.aspx
 ---
 
 

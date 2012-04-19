@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "I'm Alive and Well"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:26:00
 categories:
  - Personal
 subtext-id: fce8f58b-c24f-48c6-b5d2-a2021c19f467
-alias: /blog/Im-Alive-and-Well.aspx
+alias: /blog/post/Im-Alive-and-Well.aspx
 ---
 
 

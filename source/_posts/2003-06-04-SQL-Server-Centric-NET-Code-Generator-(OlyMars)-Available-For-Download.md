@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "SQL Server Centric .NET Code Generator (OlyMars) Available For Download"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-04 08:14:00
 categories:
  - Technology
 subtext-id: 0b36f247-3707-42f4-873d-ff5572a701dd
-alias: /blog/SQL-Server-Centric-NET-Code-Generator-(OlyMars)-Available-For-Download.aspx
+alias: /blog/post/SQL-Server-Centric-NET-Code-Generator-(OlyMars)-Available-For-Download.aspx
 ---
 
 

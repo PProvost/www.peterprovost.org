@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Well... Here I Am"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 17:26:00
 categories:
  - Personal
 subtext-id: c51589a3-294a-44a4-90df-58f4c850450f
-alias: /blog/Well-Here-I-Am.aspx
+alias: /blog/post/Well-Here-I-Am.aspx
 ---
 
 

@@ -6,7 +6,7 @@ date: 2005-07-07 16:02:00
 categories:
  - Technology
 subtext-id: 2f61839d-2c26-40cf-92b6-0f99f8197f38
-alias: /blog/Quotes-From-the-CAB-War-Room.aspx
+alias: /blog/post/Quotes-From-the-CAB-War-Room.aspx
 ---
 
 

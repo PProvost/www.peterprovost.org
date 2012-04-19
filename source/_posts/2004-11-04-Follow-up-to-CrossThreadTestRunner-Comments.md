@@ -11,7 +11,7 @@ tags:
  - tdd
  - agile development
 subtext-id: 4b4af19a-7785-476b-ad24-6f74a772e2ff
-alias: /blog/Follow-up-to-CrossThreadTestRunner-Comments.aspx
+alias: /blog/post/Follow-up-to-CrossThreadTestRunner-Comments.aspx
 ---
 
 

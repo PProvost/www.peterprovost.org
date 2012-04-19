@@ -8,7 +8,7 @@ categories:
  - Haiku
  - Technology
 subtext-id: a9ddefe7-9cac-4b63-a9f4-a503d96065ba
-alias: /blog/GMail-Invitation-Winners----Technology-Haiku.aspx
+alias: /blog/post/GMail-Invitation-Winners----Technology-Haiku.aspx
 ---
 
 

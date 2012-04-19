@@ -8,7 +8,7 @@ categories:
  - Technology
  - Books, Music, TV and Movies
 subtext-id: 11abc153-9a85-49d8-be6a-1039d839ed32
-alias: /blog/WinAmp-Question.aspx
+alias: /blog/post/WinAmp-Question.aspx
 ---
 
 

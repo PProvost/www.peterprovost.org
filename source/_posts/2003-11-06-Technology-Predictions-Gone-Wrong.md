@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Technology Predictions Gone Wrong..."
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:16:00
 categories:
  - Technology
 subtext-id: 05d7d00e-f071-4d59-a0f3-7c5a7a647d88
-alias: /blog/Technology-Predictions-Gone-Wrong.aspx
+alias: /blog/post/Technology-Predictions-Gone-Wrong.aspx
 ---
 
 

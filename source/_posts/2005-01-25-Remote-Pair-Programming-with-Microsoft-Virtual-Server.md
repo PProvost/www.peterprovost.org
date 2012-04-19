@@ -6,7 +6,7 @@ date: 2005-01-25 22:25:00
 categories:
  - Technology
 subtext-id: 7c3c0dd4-20fb-49ef-b4e5-14fc85f153b0
-alias: /blog/Remote-Pair-Programming-with-Microsoft-Virtual-Server.aspx
+alias: /blog/post/Remote-Pair-Programming-with-Microsoft-Virtual-Server.aspx
 ---
 
 

@@ -8,7 +8,7 @@ categories:
  - Community
  - Technology
 subtext-id: 0eb0d839-9231-4560-a15c-b88301c30eba
-alias: /blog/MSDN-Webcast-The-TDD-Pairing-Game-(Jan-05).aspx
+alias: /blog/post/MSDN-Webcast-The-TDD-Pairing-Game-(Jan-05).aspx
 ---
 
 

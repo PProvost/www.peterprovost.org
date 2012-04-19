@@ -6,7 +6,7 @@ date: 2004-08-15 23:08:00
 categories:
  - Technology
 subtext-id: 86cc78cf-02a3-460f-86a9-adfbc5feaf6c
-alias: /blog/Do-You-See-This-Post.aspx
+alias: /blog/post/Do-You-See-This-Post.aspx
 ---
 
 

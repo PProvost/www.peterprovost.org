@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Silent Install of .NET Runtime"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-11 18:43:00
 categories:
  - Technology
 subtext-id: 1f5cf3e8-94c6-488c-b327-1d3d2eabd70d
-alias: /blog/Silent-Install-of-NET-Runtime.aspx
+alias: /blog/post/Silent-Install-of-NET-Runtime.aspx
 ---
 
 

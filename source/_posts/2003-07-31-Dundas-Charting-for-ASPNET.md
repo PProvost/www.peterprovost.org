@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Dundas Charting for ASP.NET"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-31 21:27:00
 categories:
  - Technology
 subtext-id: bf050e80-90ef-4c63-9d06-bd7d4cb3ba87
-alias: /blog/Dundas-Charting-for-ASPNET.aspx
+alias: /blog/post/Dundas-Charting-for-ASPNET.aspx
 ---
 
 

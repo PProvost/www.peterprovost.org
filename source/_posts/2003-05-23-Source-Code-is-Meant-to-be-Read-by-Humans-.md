@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Source Code is Meant to be Read by Humans "
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-23 12:46:00
 categories:
  - Technology
 subtext-id: a1eb3d10-ad9a-4808-bf1c-12aed859f5e8
-alias: /blog/Source-Code-is-Meant-to-be-Read-by-Humans-.aspx
+alias: /blog/post/Source-Code-is-Meant-to-be-Read-by-Humans-.aspx
 ---
 
 

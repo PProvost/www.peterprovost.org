@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The Inventor (Another Meyers-Briggs Test Result)"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 09:43:00
 categories:
  - Personal
 subtext-id: 264c02cd-e93b-4368-b26b-6ae098c4b291
-alias: /blog/The-Inventor-(Another-Meyers-Briggs-Test-Result).aspx
+alias: /blog/post/The-Inventor-(Another-Meyers-Briggs-Test-Result).aspx
 ---
 
 

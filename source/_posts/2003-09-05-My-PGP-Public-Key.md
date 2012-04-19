@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "My PGP Public Key"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Personal
  - Technology
 subtext-id: e9f682d1-238f-4b54-831c-990b2f64800a
-alias: /blog/My-PGP-Public-Key.aspx
+alias: /blog/post/My-PGP-Public-Key.aspx
 ---
 
 

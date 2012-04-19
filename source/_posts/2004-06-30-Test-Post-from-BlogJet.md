@@ -7,7 +7,7 @@ updated: 2004-07-01 16:07:00
 categories:
  - Technology
 subtext-id: 58bd5ee8-5dd4-4776-b116-fc4dea0583ce
-alias: /blog/Test-Post-from-BlogJet.aspx
+alias: /blog/post/Test-Post-from-BlogJet.aspx
 ---
 
 

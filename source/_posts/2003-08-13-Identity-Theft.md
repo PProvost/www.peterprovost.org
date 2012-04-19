@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Identity Theft"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:14:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: 209b6390-5287-449e-a061-5cace1d4c1d3
-alias: /blog/Identity-Theft.aspx
+alias: /blog/post/Identity-Theft.aspx
 ---
 
 

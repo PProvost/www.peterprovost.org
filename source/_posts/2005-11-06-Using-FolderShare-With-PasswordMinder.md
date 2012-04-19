@@ -7,7 +7,7 @@ updated: 2005-11-18 12:20:00
 categories:
  - Technology
 subtext-id: 5d5793c7-7598-4d7c-b6dd-83c7bbd3cfda
-alias: /blog/Using-FolderShare-With-PasswordMinder.aspx
+alias: /blog/post/Using-FolderShare-With-PasswordMinder.aspx
 ---
 
 

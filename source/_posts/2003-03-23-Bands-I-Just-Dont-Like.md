@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Bands I Just Don't Like"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:59:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: 4a331325-4f57-41fe-8584-9d5eec4ebc58
-alias: /blog/Bands-I-Just-Dont-Like.aspx
+alias: /blog/post/Bands-I-Just-Dont-Like.aspx
 ---
 
 

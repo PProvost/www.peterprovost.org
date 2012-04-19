@@ -9,7 +9,7 @@ tags:
  - visual studio
  - t4
 subtext-id: e916f535-69c5-44fc-8c45-cbeb0738c91a
-alias: /blog/Code-Generation-Made-Easy.aspx
+alias: /blog/post/Code-Generation-Made-Easy.aspx
 ---
 
 

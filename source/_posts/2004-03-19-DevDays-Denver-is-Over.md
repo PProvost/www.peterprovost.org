@@ -7,7 +7,7 @@ updated: 2004-05-01 11:58:00
 categories:
  - Community
 subtext-id: 213b6d69-9bf2-47d6-807b-552e1b4fc048
-alias: /blog/DevDays-Denver-is-Over.aspx
+alias: /blog/post/DevDays-Denver-is-Over.aspx
 ---
 
 

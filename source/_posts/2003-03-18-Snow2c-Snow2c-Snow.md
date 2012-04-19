@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Snow, Snow, Snow"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:18:00
 categories:
  - Personal
 subtext-id: c2f57081-121b-4dcc-a91f-ac2f726336fb
-alias: /blog/Snow2c-Snow2c-Snow.aspx
+alias: /blog/post/Snow2c-Snow2c-Snow.aspx
 ---
 
 

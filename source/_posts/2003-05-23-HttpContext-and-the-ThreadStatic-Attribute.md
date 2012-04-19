@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "HttpContext and the [ThreadStatic] Attribute"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-23 08:11:00
 categories:
  - Technology
 subtext-id: 43377bab-8ab2-43de-81ff-7862c9069631
-alias: /blog/HttpContext-and-the-ThreadStatic-Attribute.aspx
+alias: /blog/post/HttpContext-and-the-ThreadStatic-Attribute.aspx
 ---
 
 

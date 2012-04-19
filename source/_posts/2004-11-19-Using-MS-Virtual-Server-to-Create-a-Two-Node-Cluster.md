@@ -7,7 +7,7 @@ updated: 2004-11-21 19:48:00
 categories:
  - Technology
 subtext-id: 372c4a6f-1de8-4c27-bd65-e97aaffa3972
-alias: /blog/Using-MS-Virtual-Server-to-Create-a-Two-Node-Cluster.aspx
+alias: /blog/post/Using-MS-Virtual-Server-to-Create-a-Two-Node-Cluster.aspx
 ---
 
 

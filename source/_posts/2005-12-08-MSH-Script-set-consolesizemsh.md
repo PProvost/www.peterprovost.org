@@ -7,7 +7,7 @@ updated: 2005-12-08 08:53:00
 categories:
  - Technology
 subtext-id: 66117659-0970-4062-a217-5e316532b154
-alias: /blog/MSH-Script-set-consolesizemsh.aspx
+alias: /blog/post/MSH-Script-set-consolesizemsh.aspx
 ---
 
 

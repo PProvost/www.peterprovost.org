@@ -9,7 +9,7 @@ categories:
 tags:
  - cab
 subtext-id: d3dee7b7-4ebd-452c-afd7-d2be79dc0bdf
-alias: /blog/Composite-UI-Application-Block-December-2005-Release-Now-on-MSDN!.aspx
+alias: /blog/post/Composite-UI-Application-Block-December-2005-Release-Now-on-MSDN!.aspx
 ---
 
 

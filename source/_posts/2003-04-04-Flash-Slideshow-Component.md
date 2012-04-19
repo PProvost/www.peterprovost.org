@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Flash Slideshow Component"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-04 11:18:00
 categories:
  - Technology
 subtext-id: 3d348952-024f-409b-950a-5b8574141451
-alias: /blog/Flash-Slideshow-Component.aspx
+alias: /blog/post/Flash-Slideshow-Component.aspx
 ---
 
 

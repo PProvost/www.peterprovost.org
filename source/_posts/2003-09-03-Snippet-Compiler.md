@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Snippet Compiler"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:08:00
 categories:
  - Technology
 subtext-id: acf305d1-da5f-4683-92a2-5e9f07790434
-alias: /blog/Snippet-Compiler.aspx
+alias: /blog/post/Snippet-Compiler.aspx
 ---
 
 

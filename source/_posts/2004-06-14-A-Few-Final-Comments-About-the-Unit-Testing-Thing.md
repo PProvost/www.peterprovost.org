@@ -11,7 +11,7 @@ tags:
  - tdd
  - vsts
 subtext-id: 2fe62787-ad22-46f2-aa2f-71f55371ac06
-alias: /blog/A-Few-Final-Comments-About-the-Unit-Testing-Thing.aspx
+alias: /blog/post/A-Few-Final-Comments-About-the-Unit-Testing-Thing.aspx
 ---
 
 

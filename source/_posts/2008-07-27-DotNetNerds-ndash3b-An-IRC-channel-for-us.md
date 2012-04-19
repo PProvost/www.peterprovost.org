@@ -8,7 +8,7 @@ categories:
 tags:
  - irc
 subtext-id: a711c884-88e0-4398-b3dd-0ec178f25e12
-alias: /blog/DotNetNerds-ndash3b-An-IRC-channel-for-us.aspx
+alias: /blog/post/DotNetNerds-ndash3b-An-IRC-channel-for-us.aspx
 ---
 
 

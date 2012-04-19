@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Frans Reaches Closure About VS.NET 2003"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-21 14:03:00
 categories:
  - Technology
 subtext-id: 0d2b8ad4-22cc-44a4-9953-f1164f6b9a25
-alias: /blog/Frans-Reaches-Closure-About-VSNET-2003.aspx
+alias: /blog/post/Frans-Reaches-Closure-About-VSNET-2003.aspx
 ---
 
 

@@ -6,7 +6,7 @@ date: 2005-05-25 22:42:00
 categories:
  - Technology
 subtext-id: cb95f7be-92f9-426b-9b0a-17a4873a496b
-alias: /blog/Cool-(new)-Google-Tip.aspx
+alias: /blog/post/Cool-(new)-Google-Tip.aspx
 ---
 
 

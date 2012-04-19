@@ -4,7 +4,7 @@ title: "Mmmm... deep fried bacon"
 comments: false
 date: 2006-10-27 12:00:00
 subtext-id: 53ebb95e-9fe7-4c93-9843-8f0907043c66
-alias: /blog/Mmmm-deep-fried-bacon.aspx
+alias: /blog/post/Mmmm-deep-fried-bacon.aspx
 ---
 
 

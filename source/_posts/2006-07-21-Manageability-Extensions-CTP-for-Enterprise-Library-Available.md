@@ -9,7 +9,7 @@ categories:
 tags:
  - entlib
 subtext-id: 01a1f2e5-2f4b-4d39-9b1e-40d4426c2811
-alias: /blog/Manageability-Extensions-CTP-for-Enterprise-Library-Available.aspx
+alias: /blog/post/Manageability-Extensions-CTP-for-Enterprise-Library-Available.aspx
 ---
 
 

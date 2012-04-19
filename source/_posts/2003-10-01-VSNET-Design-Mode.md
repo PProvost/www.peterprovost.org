@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "VS.NET Design Mode"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 17:24:00
 categories:
  - Technology
 subtext-id: 5149b9f6-7ad7-44dd-a896-23e9456755e1
-alias: /blog/VSNET-Design-Mode.aspx
+alias: /blog/post/VSNET-Design-Mode.aspx
 ---
 
 

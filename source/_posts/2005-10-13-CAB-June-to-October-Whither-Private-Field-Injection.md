@@ -10,7 +10,7 @@ tags:
  - cab
  - .net
 subtext-id: 710a468f-dd4d-4701-9601-69270bc091f4
-alias: /blog/CAB-June-to-October-Whither-Private-Field-Injection.aspx
+alias: /blog/post/CAB-June-to-October-Whither-Private-Field-Injection.aspx
 ---
 
 

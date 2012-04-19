@@ -8,7 +8,7 @@ categories:
  - Community
  - Technology
 subtext-id: 6d674ed8-e421-4d8d-94f5-7dc7e548a1ec
-alias: /blog/PAG-Bloggers!.aspx
+alias: /blog/post/PAG-Bloggers!.aspx
 ---
 
 

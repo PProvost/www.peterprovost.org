@@ -7,7 +7,7 @@ categories:
  - Community
  - Technology
 subtext-id: e30de028-2a3b-4761-bf6f-bb71f10ef911
-alias: /blog/Yippee!!-The-Blog-is-Back-Up!.aspx
+alias: /blog/post/Yippee!!-The-Blog-is-Back-Up!.aspx
 ---
 
 

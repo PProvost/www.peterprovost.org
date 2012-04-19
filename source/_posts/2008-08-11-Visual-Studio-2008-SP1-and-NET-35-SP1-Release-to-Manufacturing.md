@@ -10,7 +10,7 @@ tags:
  - visual studio
  - .net
 subtext-id: b4308867-3037-4126-9696-da9dfd66020b
-alias: /blog/Visual-Studio-2008-SP1-and-NET-35-SP1-Release-to-Manufacturing.aspx
+alias: /blog/post/Visual-Studio-2008-SP1-and-NET-35-SP1-Release-to-Manufacturing.aspx
 ---
 
 

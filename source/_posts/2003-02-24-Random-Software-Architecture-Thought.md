@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Random Software Architecture Thought"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:38:00
 categories:
  - Technology
 subtext-id: 1e10d294-dcc7-45b6-82d4-b908d6317012
-alias: /blog/Random-Software-Architecture-Thought.aspx
+alias: /blog/post/Random-Software-Architecture-Thought.aspx
 ---
 
 

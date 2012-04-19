@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "I Hate Web Browsers"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-02 20:26:00
 categories:
  - Technology
 subtext-id: 8e2782e5-74c2-4fe1-9ecf-f2aecfff5cc8
-alias: /blog/I-Hate-Web-Browsers.aspx
+alias: /blog/post/I-Hate-Web-Browsers.aspx
 ---
 
 

@@ -4,7 +4,7 @@ title: "Guidance Explorer Beta 2 Release"
 comments: false
 date: 2006-10-04 12:38:00
 subtext-id: 4115c807-1d66-4e4f-9553-9b352c53f429
-alias: /blog/Guidance-Explorer-Beta-2-Release.aspx
+alias: /blog/post/Guidance-Explorer-Beta-2-Release.aspx
 ---
 
 

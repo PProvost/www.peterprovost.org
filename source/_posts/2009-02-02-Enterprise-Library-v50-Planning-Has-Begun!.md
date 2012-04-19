@@ -10,7 +10,7 @@ tags:
  - patterns & practices
  - entlib
 subtext-id: d649365d-b15b-4403-b347-fdb78b008ccb
-alias: /blog/Enterprise-Library-v50-Planning-Has-Begun!.aspx
+alias: /blog/post/Enterprise-Library-v50-Planning-Has-Begun!.aspx
 ---
 
 

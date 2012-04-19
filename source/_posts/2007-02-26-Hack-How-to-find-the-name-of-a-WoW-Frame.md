@@ -9,7 +9,7 @@ categories:
 tags:
  - warcraft
 subtext-id: dc3c9fef-7aca-4242-8269-5c6978f5f9c1
-alias: /blog/Hack-How-to-find-the-name-of-a-WoW-Frame.aspx
+alias: /blog/post/Hack-How-to-find-the-name-of-a-WoW-Frame.aspx
 ---
 
 

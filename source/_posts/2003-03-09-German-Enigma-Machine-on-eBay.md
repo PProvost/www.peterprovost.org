@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "German Enigma Machine on eBay"
 comments: false
@@ -9,7 +9,7 @@ categories:
 tags:
  - cryptography
 subtext-id: 52a85aa3-3dff-4dc6-92db-5ef0dbb280f1
-alias: /blog/German-Enigma-Machine-on-eBay.aspx
+alias: /blog/post/German-Enigma-Machine-on-eBay.aspx
 ---
 
 

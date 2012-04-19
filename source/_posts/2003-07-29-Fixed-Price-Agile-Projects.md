@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Fixed-Price Agile Projects"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-29 09:20:00
 categories:
  - Technology
 subtext-id: adcf8074-d71b-41b8-9d8f-9c2e745f477a
-alias: /blog/Fixed-Price-Agile-Projects.aspx
+alias: /blog/post/Fixed-Price-Agile-Projects.aspx
 ---
 
 

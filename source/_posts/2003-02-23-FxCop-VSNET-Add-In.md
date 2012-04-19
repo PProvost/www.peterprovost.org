@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "FxCop VS.NET Add-In"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:35:00
 categories:
  - Technology
 subtext-id: b7bf0e46-f140-494b-8351-fbe51dc65466
-alias: /blog/FxCop-VSNET-Add-In.aspx
+alias: /blog/post/FxCop-VSNET-Add-In.aspx
 ---
 
 

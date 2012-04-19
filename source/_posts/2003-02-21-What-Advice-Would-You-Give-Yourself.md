@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "What Advice Would You Give Yourself?"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:26:00
 categories:
  - Personal
 subtext-id: cb9748aa-4f7e-4e30-b100-e294252daacb
-alias: /blog/What-Advice-Would-You-Give-Yourself.aspx
+alias: /blog/post/What-Advice-Would-You-Give-Yourself.aspx
 ---
 
 

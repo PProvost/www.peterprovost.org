@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "OK, So Maybe Yukon Is Cooler Than I Thought"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 00:37:00
 categories:
  - Technology
 subtext-id: eb25eaba-9ff6-4a66-a8c9-65258a316205
-alias: /blog/OK2c-So-Maybe-Yukon-Is-Cooler-Than-I-Thought.aspx
+alias: /blog/post/OK2c-So-Maybe-Yukon-Is-Cooler-Than-I-Thought.aspx
 ---
 
 

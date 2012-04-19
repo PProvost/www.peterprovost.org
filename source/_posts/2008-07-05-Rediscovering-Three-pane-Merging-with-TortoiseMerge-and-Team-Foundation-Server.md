@@ -11,7 +11,7 @@ tags:
  - tortoisesvn
  - vsts
 subtext-id: 1709b11a-a3fd-4bed-804d-014f7c5f0dca
-alias: /blog/Rediscovering-Three-pane-Merging-with-TortoiseMerge-and-Team-Foundation-Server.aspx
+alias: /blog/post/Rediscovering-Three-pane-Merging-with-TortoiseMerge-and-Team-Foundation-Server.aspx
 ---
 
 

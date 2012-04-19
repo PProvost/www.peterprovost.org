@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Damn Computer!"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:40:00
 categories:
  - Technology
 subtext-id: 106e3611-5a1c-4ac3-88a2-28497b7fdd12
-alias: /blog/Damn-Computer!.aspx
+alias: /blog/post/Damn-Computer!.aspx
 ---
 
 

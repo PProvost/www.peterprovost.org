@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "CodeSmith 2.1.1270 Released"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-24 19:06:00
 categories:
  - Technology
 subtext-id: f4c00388-0f52-477d-8e68-4ee4b5bb5437
-alias: /blog/CodeSmith-211270-Released.aspx
+alias: /blog/post/CodeSmith-211270-Released.aspx
 ---
 
 

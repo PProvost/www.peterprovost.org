@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Body Gliding?"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-31 14:13:00
 categories:
  - Technology
 subtext-id: 74ae934a-0d5c-4344-b575-300056f91328
-alias: /blog/Body-Gliding.aspx
+alias: /blog/post/Body-Gliding.aspx
 ---
 
 

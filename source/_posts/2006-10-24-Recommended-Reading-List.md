@@ -4,7 +4,7 @@ title: "Recommended Reading List"
 comments: false
 date: 2006-10-24 07:45:00
 subtext-id: 2dc544a6-7226-4a53-8ce1-955557f7ee8a
-alias: /blog/Recommended-Reading-List.aspx
+alias: /blog/post/Recommended-Reading-List.aspx
 ---
 
 

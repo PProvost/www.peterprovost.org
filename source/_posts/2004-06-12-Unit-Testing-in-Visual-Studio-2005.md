@@ -8,7 +8,7 @@ categories:
  - Opinions, Politics, Rants
  - Technology
 subtext-id: 466f4130-2173-46e6-9dd9-75cf709dd9dc
-alias: /blog/Unit-Testing-in-Visual-Studio-2005.aspx
+alias: /blog/post/Unit-Testing-in-Visual-Studio-2005.aspx
 ---
 
 

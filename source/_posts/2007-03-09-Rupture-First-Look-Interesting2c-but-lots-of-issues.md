@@ -4,7 +4,7 @@ title: "Rupture First Look: Interesting, but lots of issues..."
 comments: false
 date: 2007-03-09 20:05:00
 subtext-id: f84a35f7-53ec-48da-919f-f4d447a2a2ef
-alias: /blog/Rupture-First-Look-Interesting2c-but-lots-of-issues.aspx
+alias: /blog/post/Rupture-First-Look-Interesting2c-but-lots-of-issues.aspx
 ---
 
 

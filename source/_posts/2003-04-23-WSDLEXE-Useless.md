@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "WSDL.EXE Useless?"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-23 15:06:00
 categories:
  - Technology
 subtext-id: b3ffcd4c-af10-4dd6-9b4d-9f3f336e1b93
-alias: /blog/WSDLEXE-Useless.aspx
+alias: /blog/post/WSDLEXE-Useless.aspx
 ---
 
 

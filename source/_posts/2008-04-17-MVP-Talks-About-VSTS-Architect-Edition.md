@@ -9,7 +9,7 @@ categories:
 tags:
  - vsts
 subtext-id: d01ef969-6750-448f-a919-a4600e60688f
-alias: /blog/MVP-Talks-About-VSTS-Architect-Edition.aspx
+alias: /blog/post/MVP-Talks-About-VSTS-Architect-Edition.aspx
 ---
 
 

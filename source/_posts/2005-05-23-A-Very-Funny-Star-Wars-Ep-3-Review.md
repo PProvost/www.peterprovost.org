@@ -7,7 +7,7 @@ updated: 2005-05-23 05:57:00
 categories:
  - Technology
 subtext-id: 5debfd26-4cfd-4889-bbdb-d2e655182b33
-alias: /blog/A-Very-Funny-Star-Wars-Ep-3-Review.aspx
+alias: /blog/post/A-Very-Funny-Star-Wars-Ep-3-Review.aspx
 ---
 
 

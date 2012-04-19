@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Using the Hosts File to Stop Advertisers"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-21 22:20:00
 categories:
  - Technology
 subtext-id: e34f1094-fe9c-4bac-a873-e7910d100e0d
-alias: /blog/Using-the-Hosts-File-to-Stop-Advertisers.aspx
+alias: /blog/post/Using-the-Hosts-File-to-Stop-Advertisers.aspx
 ---
 
 

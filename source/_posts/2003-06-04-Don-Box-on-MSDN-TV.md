@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Don Box on MSDN TV"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-04 12:13:00
 categories:
  - Technology
 subtext-id: a8434f18-0424-453c-8ce2-3ff394f23ef8
-alias: /blog/Don-Box-on-MSDN-TV.aspx
+alias: /blog/post/Don-Box-on-MSDN-TV.aspx
 ---
 
 

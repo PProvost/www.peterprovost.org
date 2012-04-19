@@ -8,7 +8,7 @@ categories:
  - Agile Software Development
  - Technology
 subtext-id: 7ee4dacd-71d1-4dd2-bff7-3a04c0bc6577
-alias: /blog/How-John-Learned-to-Stop-Worrying-and-Love-TDD.aspx
+alias: /blog/post/How-John-Learned-to-Stop-Worrying-and-Love-TDD.aspx
 ---
 
 

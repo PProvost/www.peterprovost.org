@@ -9,7 +9,7 @@ categories:
 tags:
  - agile planning
 subtext-id: a03b4aed-0489-474c-b321-d354b18f131c
-alias: /blog/Tracking-Actual-Work-Done-vs-Estimated-Work-Remaining.aspx
+alias: /blog/post/Tracking-Actual-Work-Done-vs-Estimated-Work-Remaining.aspx
 ---
 
 

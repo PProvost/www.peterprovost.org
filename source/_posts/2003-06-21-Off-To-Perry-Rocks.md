@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Off To Perry Rocks"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:26:00
 categories:
  - Personal
 subtext-id: 8643fe21-fdfb-46a8-9443-46b59eb399c8
-alias: /blog/Off-To-Perry-Rocks.aspx
+alias: /blog/post/Off-To-Perry-Rocks.aspx
 ---
 
 

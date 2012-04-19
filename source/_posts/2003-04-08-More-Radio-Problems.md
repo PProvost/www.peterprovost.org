@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More Radio Problems"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-08 20:07:00
 categories:
  - Technology
 subtext-id: b1dd7819-997d-4501-8dd8-c3a917d043d9
-alias: /blog/More-Radio-Problems.aspx
+alias: /blog/post/More-Radio-Problems.aspx
 ---
 
 

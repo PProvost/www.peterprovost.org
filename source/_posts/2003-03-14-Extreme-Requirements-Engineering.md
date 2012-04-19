@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Extreme Requirements Engineering"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:44:00
 categories:
  - Technology
 subtext-id: 7bb56243-1652-4d0e-8da1-8a815f6bbee9
-alias: /blog/Extreme-Requirements-Engineering.aspx
+alias: /blog/post/Extreme-Requirements-Engineering.aspx
 ---
 
 

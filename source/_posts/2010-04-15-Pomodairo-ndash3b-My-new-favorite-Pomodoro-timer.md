@@ -10,7 +10,7 @@ tags:
  - agile planning
  - pomodoro
 subtext-id: f2e26ad0-c830-472c-a305-e1e75a29e747
-alias: /blog/Pomodairo-ndash3b-My-new-favorite-Pomodoro-timer.aspx
+alias: /blog/post/Pomodairo-ndash3b-My-new-favorite-Pomodoro-timer.aspx
 ---
 
 {% img right http://pomodairo.googlecode.com/svn/trunk/etc/pomodairo_tasklist.png Pomodairo screenshot %}

@@ -6,7 +6,7 @@ date: 2004-12-11 09:31:00
 categories:
  - Technology
 subtext-id: 8b440ab1-7de8-4aed-a76d-6f6dfb9381b8
-alias: /blog/New-Google-Groups.aspx
+alias: /blog/post/New-Google-Groups.aspx
 ---
 
 

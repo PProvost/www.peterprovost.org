@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "What Matrix Persona Are You?"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Books, Music, TV and Movies
  - Personal
 subtext-id: 1ed5270a-81ff-438a-bdb4-65363d70ea70
-alias: /blog/What-Matrix-Persona-Are-You.aspx
+alias: /blog/post/What-Matrix-Persona-Are-You.aspx
 ---
 
 

@@ -5,7 +5,7 @@ comments: false
 date: 2006-11-01 14:36:00
 updated: 2006-11-01 15:37:00
 subtext-id: 9da5e81d-e36e-4deb-81b8-c289d905cfca
-alias: /blog/Visited-States.aspx
+alias: /blog/post/Visited-States.aspx
 ---
 
 

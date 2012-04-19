@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "XML Schema Validation with ASP.NET WebMethods"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-27 14:28:00
 categories:
  - Technology
 subtext-id: 5351637e-bdb7-45ff-a7b3-991940f99334
-alias: /blog/XML-Schema-Validation-with-ASPNET-WebMethods.aspx
+alias: /blog/post/XML-Schema-Validation-with-ASPNET-WebMethods.aspx
 ---
 
 

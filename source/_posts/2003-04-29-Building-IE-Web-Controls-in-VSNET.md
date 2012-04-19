@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Building IE Web Controls in VS.NET"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-29 20:07:00
 categories:
  - Technology
 subtext-id: 74e1e2eb-36dd-4aea-81f1-5b5e0f93df4d
-alias: /blog/Building-IE-Web-Controls-in-VSNET.aspx
+alias: /blog/post/Building-IE-Web-Controls-in-VSNET.aspx
 ---
 
 

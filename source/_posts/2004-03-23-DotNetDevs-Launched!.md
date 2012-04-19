@@ -8,7 +8,7 @@ categories:
  - Community
  - Technology
 subtext-id: 70e7a0ac-87ba-473d-b1f8-ece0cce5ddc6
-alias: /blog/DotNetDevs-Launched!.aspx
+alias: /blog/post/DotNetDevs-Launched!.aspx
 ---
 
 

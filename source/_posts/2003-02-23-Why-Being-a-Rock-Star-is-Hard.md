@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Why Being a Rock Star is Hard"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:34:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: 91ecb11c-64f5-47a1-9691-0f70e2d953cc
-alias: /blog/Why-Being-a-Rock-Star-is-Hard.aspx
+alias: /blog/post/Why-Being-a-Rock-Star-is-Hard.aspx
 ---
 
 

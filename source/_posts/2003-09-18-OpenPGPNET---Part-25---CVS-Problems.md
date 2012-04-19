@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "OpenPGP.NET - Part 2.5 - CVS Problems"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 09:33:00
 categories:
  - Technology
 subtext-id: 06997492-747e-44e9-9309-c39e0cad7c6e
-alias: /blog/OpenPGPNET---Part-25---CVS-Problems.aspx
+alias: /blog/post/OpenPGPNET---Part-25---CVS-Problems.aspx
 ---
 
 

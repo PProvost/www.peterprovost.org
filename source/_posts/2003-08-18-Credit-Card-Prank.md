@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Credit Card Prank"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:12:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: 46122484-bdb2-40b2-81d7-4e1b9d741422
-alias: /blog/Credit-Card-Prank.aspx
+alias: /blog/post/Credit-Card-Prank.aspx
 ---
 
 

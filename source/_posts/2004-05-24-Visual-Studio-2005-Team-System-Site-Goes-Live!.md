@@ -7,7 +7,7 @@ updated: 2004-05-24 11:03:00
 categories:
  - Technology
 subtext-id: 55984bd2-1751-425f-a5d3-79121d6fdfdc
-alias: /blog/Visual-Studio-2005-Team-System-Site-Goes-Live!.aspx
+alias: /blog/post/Visual-Studio-2005-Team-System-Site-Goes-Live!.aspx
 ---
 
 

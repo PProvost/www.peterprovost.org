@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Is All the Warmongering Rhetoric Affecting Your Business?"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:24:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: 13c35592-e912-4245-94da-45391ec1425d
-alias: /blog/Is-All-the-Warmongering-Rhetoric-Affecting-Your-Business.aspx
+alias: /blog/post/Is-All-the-Warmongering-Rhetoric-Affecting-Your-Business.aspx
 ---
 
 

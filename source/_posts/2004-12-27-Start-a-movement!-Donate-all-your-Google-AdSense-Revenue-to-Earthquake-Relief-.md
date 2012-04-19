@@ -8,7 +8,7 @@ categories:
  - Community
  - Opinions, Politics, Rants
 subtext-id: c552f3e3-ad9f-4b18-aeef-041db1ce7697
-alias: /blog/Start-a-movement!-Donate-all-your-Google-AdSense-Revenue-to-Earthquake-Relief-.aspx
+alias: /blog/post/Start-a-movement!-Donate-all-your-Google-AdSense-Revenue-to-Earthquake-Relief-.aspx
 ---
 
 

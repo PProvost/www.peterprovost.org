@@ -10,7 +10,7 @@ tags:
  - http
  - blog
 subtext-id: 742787b5-4c1f-4d04-9630-5b5fa3006258
-alias: /blog/RSS-and-301-Redirects.aspx
+alias: /blog/post/RSS-and-301-Redirects.aspx
 ---
 
 

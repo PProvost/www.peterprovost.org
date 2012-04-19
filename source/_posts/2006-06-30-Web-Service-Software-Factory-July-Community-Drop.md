@@ -4,7 +4,7 @@ title: "Web Service Software Factory: July Community Drop"
 comments: false
 date: 2006-06-30 09:47:00
 subtext-id: 1194207d-60e8-4c43-9be3-5c8a3a9f5d9b
-alias: /blog/Web-Service-Software-Factory-July-Community-Drop.aspx
+alias: /blog/post/Web-Service-Software-Factory-July-Community-Drop.aspx
 ---
 
 

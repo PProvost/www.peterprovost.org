@@ -7,7 +7,7 @@ updated: 2004-06-30 13:44:00
 categories:
  - Technology
 subtext-id: 7be69f08-39c6-4981-98a0-7998d0cc9953
-alias: /blog/Add-Ins-in-Visual-Studio-2005-Express.aspx
+alias: /blog/post/Add-Ins-in-Visual-Studio-2005-Express.aspx
 ---
 
 

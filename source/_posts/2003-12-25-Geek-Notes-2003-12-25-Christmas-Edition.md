@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Geek Notes 2003-12-25 Christmas Edition"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-12-25 13:02:00
 categories:
  - Technology
 subtext-id: cd2b9867-64ed-4bf7-92eb-472794955844
-alias: /blog/Geek-Notes-2003-12-25-Christmas-Edition.aspx
+alias: /blog/post/Geek-Notes-2003-12-25-Christmas-Edition.aspx
 ---
 
 

@@ -10,7 +10,7 @@ categories:
 tags:
  - kids
 subtext-id: f1e2bdae-a81c-4099-b6df-b14cdd79755a
-alias: /blog/TuxPaint-A-Childrens-Drawing-Program.aspx
+alias: /blog/post/TuxPaint-A-Childrens-Drawing-Program.aspx
 ---
 
 

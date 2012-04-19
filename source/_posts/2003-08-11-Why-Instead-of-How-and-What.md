@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "\"Why\" Instead of \"How\" and \"What\""
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-11 21:24:00
 categories:
  - Technology
 subtext-id: f1b138b3-7c60-4390-ad4a-e294f111ca69
-alias: /blog/Why-Instead-of-How-and-What.aspx
+alias: /blog/post/Why-Instead-of-How-and-What.aspx
 ---
 
 

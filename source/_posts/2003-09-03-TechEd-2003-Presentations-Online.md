@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "TechEd 2003 Presentations Online"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 22:12:00
 categories:
  - Technology
 subtext-id: 4dfbdecc-0f66-42e5-894c-89bd6b53933e
-alias: /blog/TechEd-2003-Presentations-Online.aspx
+alias: /blog/post/TechEd-2003-Presentations-Online.aspx
 ---
 
 

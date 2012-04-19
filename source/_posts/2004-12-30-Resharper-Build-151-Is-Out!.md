@@ -7,7 +7,7 @@ updated: 2005-01-01 20:11:00
 categories:
  - Technology
 subtext-id: a5b0eedf-67ff-43b8-96ba-2261fdf2015c
-alias: /blog/Resharper-Build-151-Is-Out!.aspx
+alias: /blog/post/Resharper-Build-151-Is-Out!.aspx
 ---
 
 

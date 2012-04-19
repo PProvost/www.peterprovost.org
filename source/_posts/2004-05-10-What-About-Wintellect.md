@@ -7,7 +7,7 @@ categories:
  - Opinions, Politics, Rants
  - Technology
 subtext-id: 98b7837a-11aa-4fa1-887d-2ee9b4f37b79
-alias: /blog/What-About-Wintellect.aspx
+alias: /blog/post/What-About-Wintellect.aspx
 ---
 
 

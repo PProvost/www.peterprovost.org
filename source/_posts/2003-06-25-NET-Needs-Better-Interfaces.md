@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: ".NET Needs Better Interfaces"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-25 14:49:00
 categories:
  - Technology
 subtext-id: a630dc12-14e1-4bca-be42-725d62efe482
-alias: /blog/NET-Needs-Better-Interfaces.aspx
+alias: /blog/post/NET-Needs-Better-Interfaces.aspx
 ---
 
 

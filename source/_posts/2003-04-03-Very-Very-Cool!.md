@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Very Very Cool!"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-03 19:57:00
 categories:
  - Technology
 subtext-id: 238d824c-63b0-4524-9441-9df544862887
-alias: /blog/Very-Very-Cool!.aspx
+alias: /blog/post/Very-Very-Cool!.aspx
 ---
 
 

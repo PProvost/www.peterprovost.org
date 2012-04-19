@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Typed Data Sets"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-05 09:55:00
 categories:
  - Technology
 subtext-id: 807b6683-1d93-4297-89e0-3167911452be
-alias: /blog/Typed-Data-Sets.aspx
+alias: /blog/post/Typed-Data-Sets.aspx
 ---
 
 

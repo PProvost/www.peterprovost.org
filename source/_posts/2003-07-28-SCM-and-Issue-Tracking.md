@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "SCM and Issue Tracking"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-28 08:05:00
 categories:
  - Technology
 subtext-id: 7606dcbe-17ee-4787-8c74-6bfd3dc1716e
-alias: /blog/SCM-and-Issue-Tracking.aspx
+alias: /blog/post/SCM-and-Issue-Tracking.aspx
 ---
 
 

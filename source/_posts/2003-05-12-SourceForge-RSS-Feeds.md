@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "SourceForge RSS Feeds"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-12 19:10:00
 categories:
  - Technology
 subtext-id: 9b1c64ff-d813-4359-988d-f8921fe2e39a
-alias: /blog/SourceForge-RSS-Feeds.aspx
+alias: /blog/post/SourceForge-RSS-Feeds.aspx
 ---
 
 

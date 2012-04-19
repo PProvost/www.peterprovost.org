@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC - Indigo: Connected Application Technology Roadmap"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:30:00
 categories:
  - Technology
 subtext-id: b5afdda2-ff7f-485b-b308-3b6e7e1a064c
-alias: /blog/PDC---Indigo-Connected-Application-Technology-Roadmap.aspx
+alias: /blog/post/PDC---Indigo-Connected-Application-Technology-Roadmap.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "3 Degrees is Available"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:38:00
 categories:
  - Technology
 subtext-id: 7b463db1-a87d-450a-ae88-670d26e22c99
-alias: /blog/3-Degrees-is-Available.aspx
+alias: /blog/post/3-Degrees-is-Available.aspx
 ---
 
 

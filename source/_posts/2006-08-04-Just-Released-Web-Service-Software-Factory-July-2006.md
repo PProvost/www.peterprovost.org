@@ -11,7 +11,7 @@ tags:
  - gat
  - wcf
 subtext-id: dbf8fc4d-1a0d-4ea4-9505-f3b2600c7c95
-alias: /blog/Just-Released-Web-Service-Software-Factory-July-2006.aspx
+alias: /blog/post/Just-Released-Web-Service-Software-Factory-July-2006.aspx
 ---
 
 

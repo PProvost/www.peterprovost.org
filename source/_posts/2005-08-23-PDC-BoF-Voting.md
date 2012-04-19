@@ -7,7 +7,7 @@ updated: 2008-07-06 10:27:10
 categories:
  - Community
 subtext-id: 8d4b7d16-f228-41f0-a7a8-da1d8f439693
-alias: /blog/PDC-BoF-Voting.aspx
+alias: /blog/post/PDC-BoF-Voting.aspx
 ---
 
 

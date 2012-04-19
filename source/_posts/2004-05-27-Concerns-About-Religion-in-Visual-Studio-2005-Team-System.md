@@ -6,7 +6,7 @@ date: 2004-05-27 17:00:00
 categories:
  - Technology
 subtext-id: 208ecf88-a83b-4d15-98f4-b5f66bb4e787
-alias: /blog/Concerns-About-Religion-in-Visual-Studio-2005-Team-System.aspx
+alias: /blog/post/Concerns-About-Religion-in-Visual-Studio-2005-Team-System.aspx
 ---
 
 

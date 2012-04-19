@@ -5,7 +5,7 @@ comments: false
 date: 2005-07-15 23:17:00
 updated: 2005-07-17 18:22:00
 subtext-id: bcc5211e-b67a-4268-a54b-97ce8bf69f3b
-alias: /blog/Fun-With-Ruby.aspx
+alias: /blog/post/Fun-With-Ruby.aspx
 ---
 
 

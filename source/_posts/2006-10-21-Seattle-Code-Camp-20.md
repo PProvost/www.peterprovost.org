@@ -4,7 +4,7 @@ title: "Seattle Code Camp 2.0"
 comments: false
 date: 2006-10-21 21:07:00
 subtext-id: 91915919-71cc-4248-9c08-f6a878856910
-alias: /blog/Seattle-Code-Camp-20.aspx
+alias: /blog/post/Seattle-Code-Camp-20.aspx
 ---
 
 

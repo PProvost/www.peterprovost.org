@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Stopping on Failed Assertions"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:15:00
 categories:
  - Technology
 subtext-id: e7a5e243-31b4-43a4-8fcf-c5c73b6a54a2
-alias: /blog/Stopping-on-Failed-Assertions.aspx
+alias: /blog/post/Stopping-on-Failed-Assertions.aspx
 ---
 
 

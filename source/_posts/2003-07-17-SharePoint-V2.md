@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "SharePoint \"V2\""
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-17 22:19:00
 categories:
  - Technology
 subtext-id: d8f3778e-3b24-4a11-8d1a-5bfb0754ba7f
-alias: /blog/SharePoint-V2.aspx
+alias: /blog/post/SharePoint-V2.aspx
 ---
 
 

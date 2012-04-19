@@ -7,7 +7,7 @@ updated: 2005-10-10 20:24:00
 categories:
  - Technology
 subtext-id: e7b4aac8-c8c3-4f03-819b-2923d0dad1d3
-alias: /blog/Prefactoring-3d3d-BUFD.aspx
+alias: /blog/post/Prefactoring-3d3d-BUFD.aspx
 ---
 
 

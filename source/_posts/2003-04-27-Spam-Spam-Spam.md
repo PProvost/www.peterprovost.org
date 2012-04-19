@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Spam Spam Spam"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-27 20:14:00
 categories:
  - Technology
 subtext-id: 8f643fa4-4e66-45e3-8d22-2dae075aaafb
-alias: /blog/Spam-Spam-Spam.aspx
+alias: /blog/post/Spam-Spam-Spam.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Snooping Your Own Network"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-18 19:44:00
 categories:
  - Technology
 subtext-id: acc58419-925c-4dc2-83d1-e6eb7e7560ad
-alias: /blog/Snooping-Your-Own-Network.aspx
+alias: /blog/post/Snooping-Your-Own-Network.aspx
 ---
 
 

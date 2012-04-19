@@ -8,7 +8,7 @@ categories:
  - Community
  - Technology
 subtext-id: b20eaf32-ae1a-4b73-9430-46bf6cd936c8
-alias: /blog/Win-Dev-This-Week.aspx
+alias: /blog/post/Win-Dev-This-Week.aspx
 ---
 
 

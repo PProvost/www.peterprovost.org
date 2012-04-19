@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Global Warming Not Such a Big Deal?"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-11-10 16:25:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: cf67d2b1-a0b8-46a0-b775-e963f7e64159
-alias: /blog/Global-Warming-Not-Such-a-Big-Deal.aspx
+alias: /blog/post/Global-Warming-Not-Such-a-Big-Deal.aspx
 ---
 
 

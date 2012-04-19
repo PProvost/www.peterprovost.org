@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "XML Schema Tutorial and Best Practices"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 22:11:00
 categories:
  - Technology
 subtext-id: 0ff7485d-8e18-4cb6-9250-95ea145a1869
-alias: /blog/XML-Schema-Tutorial-and-Best-Practices.aspx
+alias: /blog/post/XML-Schema-Tutorial-and-Best-Practices.aspx
 ---
 
 

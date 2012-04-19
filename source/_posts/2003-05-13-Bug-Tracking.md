@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Bug Tracking"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-13 11:53:00
 categories:
  - Technology
 subtext-id: 7fc29eb7-fc29-427d-87a0-8bf0c00f6f6b
-alias: /blog/Bug-Tracking.aspx
+alias: /blog/post/Bug-Tracking.aspx
 ---
 
 

@@ -6,7 +6,7 @@ date: 2005-12-07 20:54:00
 categories:
  - Community
 subtext-id: 7b7e6736-acdd-4421-b429-c457c892d8f8
-alias: /blog/So-Long-and-Thanks-For-All-the-Fish.aspx
+alias: /blog/post/So-Long-and-Thanks-For-All-the-Fish.aspx
 ---
 
 

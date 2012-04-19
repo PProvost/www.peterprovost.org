@@ -4,7 +4,7 @@ title: "Seattle CodeCamp 2.0 This Weekend"
 comments: false
 date: 2006-10-26 07:38:00
 subtext-id: c122543f-94fd-44cb-8f61-e7bbce4b690b
-alias: /blog/Seattle-CodeCamp-20-This-Weekend.aspx
+alias: /blog/post/Seattle-CodeCamp-20-This-Weekend.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Solid Advice On Preferring Overriding To Base Class Event Registration "
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:36:00
 categories:
  - Technology
 subtext-id: a1704337-1e52-4bbf-b5f0-72a2dfbcbd6c
-alias: /blog/Solid-Advice-On-Preferring-Overriding-To-Base-Class-Event-Registration-.aspx
+alias: /blog/post/Solid-Advice-On-Preferring-Overriding-To-Base-Class-Event-Registration-.aspx
 ---
 
 

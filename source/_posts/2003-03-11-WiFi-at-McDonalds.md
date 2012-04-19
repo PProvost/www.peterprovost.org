@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "WiFi at McDonalds"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:35:00
 categories:
  - Technology
 subtext-id: 1cc9618e-9631-4819-ac94-f27b000ae5a1
-alias: /blog/WiFi-at-McDonalds.aspx
+alias: /blog/post/WiFi-at-McDonalds.aspx
 ---
 
 

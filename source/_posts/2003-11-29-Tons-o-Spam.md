@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Tons o' Spam"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 15:54:00
 categories:
  - Technology
 subtext-id: 5e6c62c7-27b1-4049-aa0c-3ee5bdf8a35a
-alias: /blog/Tons-o-Spam.aspx
+alias: /blog/post/Tons-o-Spam.aspx
 ---
 
 

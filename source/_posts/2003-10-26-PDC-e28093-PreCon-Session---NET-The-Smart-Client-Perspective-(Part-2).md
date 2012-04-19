@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC â€“ PreCon Session - .NET The Smart Client Perspective (Part 2)"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:36:00
 categories:
  - Technology
 subtext-id: c649078c-5f9f-4f46-8819-5f135e383a1d
-alias: /blog/PDC-e28093-PreCon-Session---NET-The-Smart-Client-Perspective-(Part-2).aspx
+alias: /blog/post/PDC-e28093-PreCon-Session---NET-The-Smart-Client-Perspective-(Part-2).aspx
 ---
 
 

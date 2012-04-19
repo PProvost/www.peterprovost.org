@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: ".NET 1.1 and 1.0 Co-Existance"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-23 10:13:00
 categories:
  - Technology
 subtext-id: e853a111-bdf8-445d-9ce4-1fb234c5783d
-alias: /blog/NET-11-and-10-Co-Existance.aspx
+alias: /blog/post/NET-11-and-10-Co-Existance.aspx
 ---
 
 

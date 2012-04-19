@@ -7,7 +7,7 @@ updated: 2005-01-05 19:21:00
 categories:
  - Personal
 subtext-id: af6dadbf-7ee3-4923-9276-d291a2c23f16
-alias: /blog/Provost-Family-Blogs.aspx
+alias: /blog/post/Provost-Family-Blogs.aspx
 ---
 
 

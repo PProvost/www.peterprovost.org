@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "An Apology"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 14:47:00
 categories:
  - Personal
 subtext-id: e7ac97a8-7c33-49b9-8d35-194f2c608a21
-alias: /blog/An-Apology.aspx
+alias: /blog/post/An-Apology.aspx
 ---
 
 

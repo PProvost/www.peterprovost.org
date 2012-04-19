@@ -6,7 +6,7 @@ date: 2006-06-09 14:04:00
 categories:
  - Technology
 subtext-id: 287f2cf1-f197-445c-988d-bb81ba0d93ac
-alias: /blog/WinFX-is-now-the-NET-Framework-30.aspx
+alias: /blog/post/WinFX-is-now-the-NET-Framework-30.aspx
 ---
 
 

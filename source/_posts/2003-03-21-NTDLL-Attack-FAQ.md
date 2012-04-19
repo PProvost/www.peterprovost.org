@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "NTDLL Attack FAQ"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-21 22:16:00
 categories:
  - Technology
 subtext-id: d702c868-10ed-43cb-91ea-74d7278a6de7
-alias: /blog/NTDLL-Attack-FAQ.aspx
+alias: /blog/post/NTDLL-Attack-FAQ.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "CDROM ISO Mounting Tool"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 09:33:00
 categories:
  - Technology
 subtext-id: fb5e13d7-7484-457e-8cfa-b4483d824b7c
-alias: /blog/CDROM-ISO-Mounting-Tool.aspx
+alias: /blog/post/CDROM-ISO-Mounting-Tool.aspx
 ---
 
 

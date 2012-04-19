@@ -8,7 +8,7 @@ categories:
 tags:
  - visual studio
 subtext-id: 82e0b03e-273c-45c6-9350-a1e0e96d9735
-alias: /blog/Visual-Studio-2010-RTM-Launch-Events-and-More!.aspx
+alias: /blog/post/Visual-Studio-2010-RTM-Launch-Events-and-More!.aspx
 ---
 
 

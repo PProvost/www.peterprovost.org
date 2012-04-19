@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "OpenPGP.NET"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 09:36:00
 categories:
  - Technology
 subtext-id: c19af66a-602b-4e7c-bfc4-d4bb2d40c348
-alias: /blog/OpenPGPNET.aspx
+alias: /blog/post/OpenPGPNET.aspx
 ---
 
 

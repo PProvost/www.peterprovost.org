@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Windows Application Verifier"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-20 14:25:00
 categories:
  - Technology
 subtext-id: eb56a18f-e9a3-464b-9173-be24f201a41e
-alias: /blog/Windows-Application-Verifier.aspx
+alias: /blog/post/Windows-Application-Verifier.aspx
 ---
 
 

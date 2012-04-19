@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Kata 6 - Anagrams"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-03 09:51:00
 categories:
  - Technology
 subtext-id: 11994fe8-0de3-4dda-9fdb-61a8aae2945b
-alias: /blog/Kata-6---Anagrams.aspx
+alias: /blog/post/Kata-6---Anagrams.aspx
 ---
 
 

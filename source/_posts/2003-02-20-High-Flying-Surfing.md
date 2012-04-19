@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "High-Flying Surfing"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 00:43:00
 categories:
  - Technology
 subtext-id: 01b65b68-3632-4701-8d50-b78ab6c9cce3
-alias: /blog/High-Flying-Surfing.aspx
+alias: /blog/post/High-Flying-Surfing.aspx
 ---
 
 

@@ -7,7 +7,7 @@ updated: 2004-05-01 11:57:00
 categories:
  - Technology
 subtext-id: 3452e07e-8806-47e1-8486-43bc2037c748
-alias: /blog/Accessing-Project-Server-from-NET.aspx
+alias: /blog/post/Accessing-Project-Server-from-NET.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The Last Configuration Handler I'll Ever Need"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:31:00
 categories:
  - Technology
 subtext-id: 83f90021-cde8-4ee2-820d-c8c7d1854b19
-alias: /blog/The-Last-Configuration-Handler-Ill-Ever-Need.aspx
+alias: /blog/post/The-Last-Configuration-Handler-Ill-Ever-Need.aspx
 ---
 
 

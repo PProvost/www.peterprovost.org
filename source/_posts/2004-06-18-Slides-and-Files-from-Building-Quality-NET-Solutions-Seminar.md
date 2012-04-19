@@ -7,7 +7,7 @@ categories:
  - Community
  - Technology
 subtext-id: 02a90b5d-ec19-48cb-b039-678b99e672b8
-alias: /blog/Slides-and-Files-from-Building-Quality-NET-Solutions-Seminar.aspx
+alias: /blog/post/Slides-and-Files-from-Building-Quality-NET-Solutions-Seminar.aspx
 ---
 
 

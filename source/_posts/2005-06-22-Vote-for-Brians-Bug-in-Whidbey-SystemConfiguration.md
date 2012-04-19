@@ -6,7 +6,7 @@ date: 2005-06-22 10:34:00
 categories:
  - Technology
 subtext-id: 6773ea3e-aefc-4aa7-8eb8-0cc672eab215
-alias: /blog/Vote-for-Brians-Bug-in-Whidbey-SystemConfiguration.aspx
+alias: /blog/post/Vote-for-Brians-Bug-in-Whidbey-SystemConfiguration.aspx
 ---
 
 

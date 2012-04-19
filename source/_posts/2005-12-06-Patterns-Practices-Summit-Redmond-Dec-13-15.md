@@ -13,7 +13,7 @@ tags:
  - agile development
  - team rooms
 subtext-id: 515bc343-420a-419b-8b8c-63e1d26e44cc
-alias: /blog/Patterns-Practices-Summit-Redmond-Dec-13-15.aspx
+alias: /blog/post/Patterns-Practices-Summit-Redmond-Dec-13-15.aspx
 ---
 
 

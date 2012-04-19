@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "I'm Published!"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-18 22:01:00
 categories:
  - Technology
 subtext-id: 01804538-6381-46bc-8806-8a2b6f8e125d
-alias: /blog/Im-Published!.aspx
+alias: /blog/post/Im-Published!.aspx
 ---
 
 

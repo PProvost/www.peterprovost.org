@@ -7,7 +7,7 @@ categories:
  - Opinions, Politics, Rants
  - Technology
 subtext-id: 6351259c-efcc-49f4-9b18-b40e2d0c2fd7
-alias: /blog/A-Small-Rant-About-MS-Office.aspx
+alias: /blog/post/A-Small-Rant-About-MS-Office.aspx
 ---
 
 

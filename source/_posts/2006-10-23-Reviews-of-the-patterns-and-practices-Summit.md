@@ -10,7 +10,7 @@ categories:
 tags:
  - patterns & practices
 subtext-id: 413a2640-19bf-42e2-89db-dcef136a68d3
-alias: /blog/Reviews-of-the-patterns-and-practices-Summit.aspx
+alias: /blog/post/Reviews-of-the-patterns-and-practices-Summit.aspx
 ---
 
 

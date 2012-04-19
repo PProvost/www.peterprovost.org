@@ -6,7 +6,7 @@ date: 2005-10-24 23:04:00
 categories:
  - Technology
 subtext-id: 0e2f61ba-13b1-48c9-96af-dfe7e0ad861b
-alias: /blog/Development-Jobs-at-Patterns--Practices.aspx
+alias: /blog/post/Development-Jobs-at-Patterns--Practices.aspx
 ---
 
 

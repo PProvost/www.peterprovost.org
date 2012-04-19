@@ -9,7 +9,7 @@ categories:
 tags:
  - patterns & practices
 subtext-id: 7226a619-9363-4d50-9f37-0ebdcc475e19
-alias: /blog/Welcome-Glenn-Block-to-Pamp3bP.aspx
+alias: /blog/post/Welcome-Glenn-Block-to-Pamp3bP.aspx
 ---
 
 

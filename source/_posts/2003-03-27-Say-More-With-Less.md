@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Say More With Less?"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-27 19:25:00
 categories:
  - Technology
 subtext-id: 9a30db76-13d5-46f9-9686-0c8821c39d49
-alias: /blog/Say-More-With-Less.aspx
+alias: /blog/post/Say-More-With-Less.aspx
 ---
 
 

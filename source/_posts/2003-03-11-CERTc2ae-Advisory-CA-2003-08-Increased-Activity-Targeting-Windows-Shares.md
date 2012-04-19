@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "CERTÂ® Advisory CA-2003-08 Increased Activity Targeting Windows Shares"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:39:00
 categories:
  - Technology
 subtext-id: 4a595d8e-9dd8-4a68-9e34-3728b1651790
-alias: /blog/CERTc2ae-Advisory-CA-2003-08-Increased-Activity-Targeting-Windows-Shares.aspx
+alias: /blog/post/CERTc2ae-Advisory-CA-2003-08-Increased-Activity-Targeting-Windows-Shares.aspx
 ---
 
 

@@ -9,7 +9,7 @@ categories:
 tags:
  - powershell
 subtext-id: 19f4f7c8-a79e-4d3c-9be2-60e4eee615aa
-alias: /blog/PowerShell-Equivalents-for-Common-DOS-commands-The-DIR-command.aspx
+alias: /blog/post/PowerShell-Equivalents-for-Common-DOS-commands-The-DIR-command.aspx
 ---
 
 

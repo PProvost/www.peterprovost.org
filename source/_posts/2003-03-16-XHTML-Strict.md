@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "XHTML Strict"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:45:00
 categories:
  - Technology
 subtext-id: 5b622acb-3337-4353-bcd4-05f75b9e05b0
-alias: /blog/XHTML-Strict.aspx
+alias: /blog/post/XHTML-Strict.aspx
 ---
 
 

@@ -5,7 +5,7 @@ comments: false
 date: 2004-05-23 20:51:00
 updated: 2004-05-24 20:01:00
 subtext-id: b4a04369-1cf1-4c5c-abd3-bcd423a79401
-alias: /blog/Tech-Ed-Code-Generation-BoF.aspx
+alias: /blog/post/Tech-Ed-Code-Generation-BoF.aspx
 ---
 
 

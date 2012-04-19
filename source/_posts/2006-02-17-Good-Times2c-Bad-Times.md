@@ -6,7 +6,7 @@ date: 2006-02-17 07:22:00
 categories:
  - Personal
 subtext-id: f2883232-6312-4e5f-b78e-c49f712e658c
-alias: /blog/Good-Times2c-Bad-Times.aspx
+alias: /blog/post/Good-Times2c-Bad-Times.aspx
 ---
 
 

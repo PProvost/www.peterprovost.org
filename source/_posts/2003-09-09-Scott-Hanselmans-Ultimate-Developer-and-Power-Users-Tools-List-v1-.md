@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Scott Hanselman's Ultimate Developer and Power Users Tools List v1 "
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 09:39:00
 categories:
  - Technology
 subtext-id: 673d41e3-443a-45b8-a3db-abe6f7ca8427
-alias: /blog/Scott-Hanselmans-Ultimate-Developer-and-Power-Users-Tools-List-v1-.aspx
+alias: /blog/post/Scott-Hanselmans-Ultimate-Developer-and-Power-Users-Tools-List-v1-.aspx
 ---
 
 

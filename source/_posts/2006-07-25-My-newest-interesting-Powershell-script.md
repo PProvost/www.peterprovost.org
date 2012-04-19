@@ -11,7 +11,7 @@ tags:
  - warcraft
  - subversion
 subtext-id: 041b873e-bb90-4fa1-a8bb-29ed25750580
-alias: /blog/My-newest-interesting-Powershell-script.aspx
+alias: /blog/post/My-newest-interesting-Powershell-script.aspx
 ---
 
 

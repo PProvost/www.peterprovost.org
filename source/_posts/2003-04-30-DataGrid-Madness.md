@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "DataGrid Madness"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-30 10:59:00
 categories:
  - Technology
 subtext-id: 09ddc761-efb3-4967-81cb-e2aef5b79530
-alias: /blog/DataGrid-Madness.aspx
+alias: /blog/post/DataGrid-Madness.aspx
 ---
 
 

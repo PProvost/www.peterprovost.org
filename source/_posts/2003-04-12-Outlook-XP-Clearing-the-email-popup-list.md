@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Outlook XP: Clearing the email popup list"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-12 07:26:00
 categories:
  - Technology
 subtext-id: ee017197-5e5b-4b50-a047-66d2d0f887e3
-alias: /blog/Outlook-XP-Clearing-the-email-popup-list.aspx
+alias: /blog/post/Outlook-XP-Clearing-the-email-popup-list.aspx
 ---
 
 

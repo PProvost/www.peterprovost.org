@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Happy Together: NUnit 2.1 and NAnt 0.8.3"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 00:36:00
 categories:
  - Technology
 subtext-id: 42359a24-5b33-4ea5-823a-51f4c944f731
-alias: /blog/Happy-Together-NUnit-21-and-NAnt-083.aspx
+alias: /blog/post/Happy-Together-NUnit-21-and-NAnt-083.aspx
 ---
 
 

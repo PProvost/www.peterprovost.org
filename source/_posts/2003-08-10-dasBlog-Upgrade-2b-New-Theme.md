@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "dasBlog Upgrade + New Theme"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-10 18:03:00
 categories:
  - Technology
 subtext-id: 2dbefd56-a2be-4836-bc17-4cb9664a49af
-alias: /blog/dasBlog-Upgrade-2b-New-Theme.aspx
+alias: /blog/post/dasBlog-Upgrade-2b-New-Theme.aspx
 ---
 
 

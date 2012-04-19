@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "ORM.NET Anyone?"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:41:00
 categories:
  - Technology
 subtext-id: e4a1a944-4406-4a29-bd82-57f7659fa2bb
-alias: /blog/ORMNET-Anyone.aspx
+alias: /blog/post/ORMNET-Anyone.aspx
 ---
 
 

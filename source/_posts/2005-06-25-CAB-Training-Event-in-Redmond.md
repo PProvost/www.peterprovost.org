@@ -9,7 +9,7 @@ categories:
 tags:
  - cab
 subtext-id: 7ebaa0b5-af9c-4991-84f5-992100488e9f
-alias: /blog/CAB-Training-Event-in-Redmond.aspx
+alias: /blog/post/CAB-Training-Event-in-Redmond.aspx
 ---
 
 

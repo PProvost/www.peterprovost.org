@@ -6,7 +6,7 @@ date: 2006-01-20 13:25:00
 categories:
  - Technology
 subtext-id: cc177fbe-5486-4d79-9397-71c07e426380
-alias: /blog/Enterprise-Library-for-NET-Framework-20-Now-Available!.aspx
+alias: /blog/post/Enterprise-Library-for-NET-Framework-20-Now-Available!.aspx
 ---
 
 

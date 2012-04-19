@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "I'm Blogging This PDC T-Shirt"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:42:00
 categories:
  - Community
 subtext-id: c63023cd-48d5-4947-9964-24ac603b6b5e
-alias: /blog/Im-Blogging-This-PDC-T-Shirt.aspx
+alias: /blog/post/Im-Blogging-This-PDC-T-Shirt.aspx
 ---
 
 

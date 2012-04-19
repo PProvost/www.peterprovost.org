@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "December Meeting of the Denver Pragmatic Practitioners"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 14:43:00
 categories:
  - Community
 subtext-id: e7630626-00d0-44bd-a88c-c0a8a344ad4d
-alias: /blog/December-Meeting-of-the-Denver-Pragmatic-Practitioners.aspx
+alias: /blog/post/December-Meeting-of-the-Denver-Pragmatic-Practitioners.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Generics in C#"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:16:00
 categories:
  - Technology
 subtext-id: b1384d75-312a-42e6-ab81-4f09431e1f36
-alias: /blog/Generics-in-C.aspx
+alias: /blog/post/Generics-in-C.aspx
 ---
 
 

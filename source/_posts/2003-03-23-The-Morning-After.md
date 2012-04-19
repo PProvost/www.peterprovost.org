@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The Morning After"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:00:00
 categories:
  - Personal
 subtext-id: 617015cb-ad9a-4589-a55c-9ae8ea858156
-alias: /blog/The-Morning-After.aspx
+alias: /blog/post/The-Morning-After.aspx
 ---
 
 

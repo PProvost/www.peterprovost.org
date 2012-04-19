@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "XML Schema"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 22:06:00
 categories:
  - Technology
 subtext-id: dfb01727-d1ad-41dd-b057-a5f4f3838265
-alias: /blog/XML-Schema.aspx
+alias: /blog/post/XML-Schema.aspx
 ---
 
 

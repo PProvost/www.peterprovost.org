@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "XML Schema Intellisense in VS.NET"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-07 07:16:00
 categories:
  - Technology
 subtext-id: 46bda1e4-df6e-4ab0-97cd-a753d9d3ba91
-alias: /blog/XML-Schema-Intellisense-in-VSNET.aspx
+alias: /blog/post/XML-Schema-Intellisense-in-VSNET.aspx
 ---
 
 

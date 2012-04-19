@@ -7,7 +7,7 @@ updated: 2006-01-09 11:42:00
 categories:
  - Technology
 subtext-id: ce83d258-9f21-4726-aacf-4fc25d8b4c4f
-alias: /blog/Slides-and-Code-for-TDD-Pair-Programming-Game-Webcast.aspx
+alias: /blog/post/Slides-and-Code-for-TDD-Pair-Programming-Game-Webcast.aspx
 ---
 
 

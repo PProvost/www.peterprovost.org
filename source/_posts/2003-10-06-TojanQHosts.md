@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Tojan.QHosts"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 17:23:00
 categories:
  - Technology
 subtext-id: f769e8b1-7c39-4537-9ba4-35a44cf55fec
-alias: /blog/TojanQHosts.aspx
+alias: /blog/post/TojanQHosts.aspx
 ---
 
 

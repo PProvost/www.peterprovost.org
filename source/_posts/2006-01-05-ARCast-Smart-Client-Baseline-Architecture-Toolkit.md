@@ -11,7 +11,7 @@ tags:
  - cab
  - software factories
 subtext-id: ce675ca2-8efc-4fce-9245-2e6d68beef90
-alias: /blog/ARCast-Smart-Client-Baseline-Architecture-Toolkit.aspx
+alias: /blog/post/ARCast-Smart-Client-Baseline-Architecture-Toolkit.aspx
 ---
 
 

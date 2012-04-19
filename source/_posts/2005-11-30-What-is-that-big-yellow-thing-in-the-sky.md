@@ -6,7 +6,7 @@ date: 2005-11-30 22:21:00
 categories:
  - Personal
 subtext-id: 254ccfff-3c64-45b3-9b94-17e9f1321c0c
-alias: /blog/What-is-that-big-yellow-thing-in-the-sky.aspx
+alias: /blog/post/What-is-that-big-yellow-thing-in-the-sky.aspx
 ---
 
 

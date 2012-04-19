@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: ".NET Bug List"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-13 16:06:00
 categories:
  - Technology
 subtext-id: 9c858cc6-94ec-4a29-9335-9b40f8b8e21b
-alias: /blog/NET-Bug-List.aspx
+alias: /blog/post/NET-Bug-List.aspx
 ---
 
 

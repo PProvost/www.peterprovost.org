@@ -7,7 +7,7 @@ updated: 2005-12-29 20:37:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: f5ed81f4-1d47-46c6-842b-951b3e4c8ef1
-alias: /blog/Apparently-Im-Committed.aspx
+alias: /blog/post/Apparently-Im-Committed.aspx
 ---
 
 

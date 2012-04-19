@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Linux -- Free and Portable??"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-01 09:41:00
 categories:
  - Technology
 subtext-id: dfb442e7-0791-4894-a7f3-482a7b60486f
-alias: /blog/Linux----Free-and-Portable.aspx
+alias: /blog/post/Linux----Free-and-Portable.aspx
 ---
 
 

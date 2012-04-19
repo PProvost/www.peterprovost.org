@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Excellent Post About Technology Waves"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-23 20:13:00
 categories:
  - Technology
 subtext-id: 47f80abd-c873-44fa-9cbb-a7d7a2d6e5a5
-alias: /blog/Excellent-Post-About-Technology-Waves.aspx
+alias: /blog/post/Excellent-Post-About-Technology-Waves.aspx
 ---
 
 

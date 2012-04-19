@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Fire Back at the Nigerian Spammers"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:21:00
 categories:
  - Technology
 subtext-id: eafca49c-50a5-4c73-bbce-b2d78924262f
-alias: /blog/Fire-Back-at-the-Nigerian-Spammers.aspx
+alias: /blog/post/Fire-Back-at-the-Nigerian-Spammers.aspx
 ---
 
 

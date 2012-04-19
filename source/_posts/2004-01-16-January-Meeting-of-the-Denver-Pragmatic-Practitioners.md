@@ -7,7 +7,7 @@ updated: 2004-05-01 14:40:00
 categories:
  - Community
 subtext-id: cc466263-7891-4a03-a9bc-ab24cbf9f588
-alias: /blog/January-Meeting-of-the-Denver-Pragmatic-Practitioners.aspx
+alias: /blog/post/January-Meeting-of-the-Denver-Pragmatic-Practitioners.aspx
 ---
 
 

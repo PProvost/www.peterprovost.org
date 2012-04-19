@@ -10,7 +10,7 @@ tags:
  - powershell
  - vim
 subtext-id: d909a06c-6b65-4fa5-813c-9d51b51dbe61
-alias: /blog/Updated-VIM-syntax-file-for-MSH.aspx
+alias: /blog/post/Updated-VIM-syntax-file-for-MSH.aspx
 ---
 
 

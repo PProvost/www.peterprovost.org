@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Refactoring Under Fire"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-04 07:57:00
 categories:
  - Technology
 subtext-id: 4f6ae727-51ab-4814-ba30-20499631a414
-alias: /blog/Refactoring-Under-Fire.aspx
+alias: /blog/post/Refactoring-Under-Fire.aspx
 ---
 
 

@@ -8,7 +8,7 @@ categories:
 tags:
  - visual studio
 subtext-id: 2e85833b-f35b-47e9-844f-57d82b0dd096
-alias: /blog/Dark-Visual-Studio-Im-hooked.aspx
+alias: /blog/post/Dark-Visual-Studio-Im-hooked.aspx
 ---
 
 

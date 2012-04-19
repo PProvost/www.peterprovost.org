@@ -8,7 +8,7 @@ categories:
  - Books, Music, TV and Movies
  - Technology
 subtext-id: 58ae7099-944f-434e-b57e-ce9585d30781
-alias: /blog/Researching-New-Headphones.aspx
+alias: /blog/post/Researching-New-Headphones.aspx
 ---
 
 

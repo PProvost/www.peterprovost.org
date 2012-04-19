@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Good Trick for Win2K3 Servers"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-17 21:04:00
 categories:
  - Technology
 subtext-id: 1462f006-ca95-4632-9eaf-3e2168b33de1
-alias: /blog/Good-Trick-for-Win2K3-Servers.aspx
+alias: /blog/post/Good-Trick-for-Win2K3-Servers.aspx
 ---
 
 

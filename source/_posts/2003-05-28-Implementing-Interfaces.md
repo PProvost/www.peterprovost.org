@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Implementing Interfaces"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-28 11:25:00
 categories:
  - Technology
 subtext-id: 319e9429-7798-4bd8-9087-cc9462c7b32a
-alias: /blog/Implementing-Interfaces.aspx
+alias: /blog/post/Implementing-Interfaces.aspx
 ---
 
 

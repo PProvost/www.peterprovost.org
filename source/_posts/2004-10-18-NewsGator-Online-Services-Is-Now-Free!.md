@@ -6,7 +6,7 @@ date: 2004-10-18 08:23:00
 categories:
  - Technology
 subtext-id: ff355028-8c63-4c68-b25f-a1c33e72f8ce
-alias: /blog/NewsGator-Online-Services-Is-Now-Free!.aspx
+alias: /blog/post/NewsGator-Online-Services-Is-Now-Free!.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Asynchronous Web Service Calls"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-26 20:22:00
 categories:
  - Technology
 subtext-id: 823aedbc-c803-44e5-bf87-f559ab32c447
-alias: /blog/Asynchronous-Web-Service-Calls.aspx
+alias: /blog/post/Asynchronous-Web-Service-Calls.aspx
 ---
 
 

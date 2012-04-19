@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Stored Procedure Generator"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:25:00
 categories:
  - Technology
 subtext-id: dee1bcb3-a0ab-45bc-ad6e-8673ba2778eb
-alias: /blog/Stored-Procedure-Generator.aspx
+alias: /blog/post/Stored-Procedure-Generator.aspx
 ---
 
 

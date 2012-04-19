@@ -7,7 +7,7 @@ updated: 2004-05-08 14:55:00
 categories:
  - Technology
 subtext-id: 11559363-782d-4756-b1d7-a9442260c83d
-alias: /blog/ThinkTecture.aspx
+alias: /blog/post/ThinkTecture.aspx
 ---
 
 

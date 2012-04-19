@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "CodeSmith"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-21 22:46:00
 categories:
  - Technology
 subtext-id: 9a6c340d-3508-4659-8129-63cb24656a0d
-alias: /blog/CodeSmith.aspx
+alias: /blog/post/CodeSmith.aspx
 ---
 
 

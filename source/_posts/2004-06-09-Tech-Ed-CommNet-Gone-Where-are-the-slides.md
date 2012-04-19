@@ -6,7 +6,7 @@ date: 2004-06-09 09:12:00
 categories:
  - Technology
 subtext-id: 1ace1dec-a06f-43d8-a3fa-eae54108b91e
-alias: /blog/Tech-Ed-CommNet-Gone-Where-are-the-slides.aspx
+alias: /blog/post/Tech-Ed-CommNet-Gone-Where-are-the-slides.aspx
 ---
 
 

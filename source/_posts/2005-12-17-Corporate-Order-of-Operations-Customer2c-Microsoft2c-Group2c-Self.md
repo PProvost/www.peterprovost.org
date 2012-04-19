@@ -7,7 +7,7 @@ categories:
  - Personal
  - Technology
 subtext-id: b8f4ea54-0801-4712-9fcf-7c3db2478b79
-alias: /blog/Corporate-Order-of-Operations-Customer2c-Microsoft2c-Group2c-Self.aspx
+alias: /blog/post/Corporate-Order-of-Operations-Customer2c-Microsoft2c-Group2c-Self.aspx
 ---
 
 

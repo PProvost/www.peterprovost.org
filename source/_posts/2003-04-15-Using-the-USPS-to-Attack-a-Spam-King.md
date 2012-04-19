@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Using the USPS to Attack a Spam King"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-15 20:52:00
 categories:
  - Technology
 subtext-id: 102418f6-c0d4-46dd-a47e-a95085ab179a
-alias: /blog/Using-the-USPS-to-Attack-a-Spam-King.aspx
+alias: /blog/post/Using-the-USPS-to-Attack-a-Spam-King.aspx
 ---
 
 

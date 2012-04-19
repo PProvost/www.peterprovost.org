@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "OpenPGP.NET - Part 4 - Streams and Compression Issues"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 09:30:00
 categories:
  - Technology
 subtext-id: 0b7dc558-5af4-4e84-a4bf-6bfdc5a83d12
-alias: /blog/OpenPGPNET---Part-4---Streams-and-Compression-Issues.aspx
+alias: /blog/post/OpenPGPNET---Part-4---Streams-and-Compression-Issues.aspx
 ---
 
 

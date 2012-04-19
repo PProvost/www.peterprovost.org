@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Wireless at the PDC?"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Community
  - Technology
 subtext-id: a994ff82-a828-4798-a509-c73c9c5f1208
-alias: /blog/Wireless-at-the-PDC.aspx
+alias: /blog/post/Wireless-at-the-PDC.aspx
 ---
 
 

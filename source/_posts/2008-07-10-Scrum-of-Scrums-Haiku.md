@@ -10,7 +10,7 @@ categories:
 tags:
  - agile planning
 subtext-id: af66a3bf-c7c2-45c1-8128-8c73f1cfd5f9
-alias: /blog/Scrum-of-Scrums-Haiku.aspx
+alias: /blog/post/Scrum-of-Scrums-Haiku.aspx
 ---
 
 

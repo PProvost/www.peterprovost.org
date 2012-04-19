@@ -8,7 +8,7 @@ categories:
 tags:
  - blogengine.net
 subtext-id: a70fd4fe-f498-47bf-aa4b-2d8a679cd63a
-alias: /blog/First-Post-on-the-New-Blog.aspx
+alias: /blog/post/First-Post-on-the-New-Blog.aspx
 ---
 
 

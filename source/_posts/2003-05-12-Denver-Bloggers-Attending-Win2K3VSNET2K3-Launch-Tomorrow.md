@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Denver Bloggers Attending Win2K3/VS.NET2K3 Launch Tomorrow?"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Community
  - Personal
 subtext-id: 08c66755-ba81-48ad-a73f-b89ba6a00fbf
-alias: /blog/Denver-Bloggers-Attending-Win2K3VSNET2K3-Launch-Tomorrow.aspx
+alias: /blog/post/Denver-Bloggers-Attending-Win2K3VSNET2K3-Launch-Tomorrow.aspx
 ---
 
 

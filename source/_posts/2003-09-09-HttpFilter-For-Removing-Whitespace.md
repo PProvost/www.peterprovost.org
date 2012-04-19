@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "HttpFilter For Removing Whitespace"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 09:41:00
 categories:
  - Technology
 subtext-id: 475808fd-dd50-4683-927d-81cde769743e
-alias: /blog/HttpFilter-For-Removing-Whitespace.aspx
+alias: /blog/post/HttpFilter-For-Removing-Whitespace.aspx
 ---
 
 

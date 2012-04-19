@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Funny ASP.NET Quote"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:46:00
 categories:
  - Technology
 subtext-id: 8cc9f515-9313-4379-a495-7d0a74759aec
-alias: /blog/Funny-ASPNET-Quote.aspx
+alias: /blog/post/Funny-ASPNET-Quote.aspx
 ---
 
 

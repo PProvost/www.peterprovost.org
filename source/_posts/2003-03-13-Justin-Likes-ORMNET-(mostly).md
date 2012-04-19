@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Justin Likes ORM.NET (mostly)"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:42:00
 categories:
  - Technology
 subtext-id: 4f8070d6-a9f7-451e-b9be-038ca9a09fc7
-alias: /blog/Justin-Likes-ORMNET-(mostly).aspx
+alias: /blog/post/Justin-Likes-ORMNET-(mostly).aspx
 ---
 
 

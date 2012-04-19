@@ -6,7 +6,7 @@ date: 2005-01-16 20:54:00
 categories:
  - Technology
 subtext-id: d558a010-bd99-4559-b742-0a8e768759ad
-alias: /blog/Extreme-Refactoring-with-Brian-Button.aspx
+alias: /blog/post/Extreme-Refactoring-with-Brian-Button.aspx
 ---
 
 

@@ -4,7 +4,7 @@ title: "Front Range CodeCamp"
 comments: false
 date: 2007-04-09 10:17:00
 subtext-id: 736e1a25-8333-49aa-a5de-7804f753af9b
-alias: /blog/Front-Range-CodeCamp.aspx
+alias: /blog/post/Front-Range-CodeCamp.aspx
 ---
 
 

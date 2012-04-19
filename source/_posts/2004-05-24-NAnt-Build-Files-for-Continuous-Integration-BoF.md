@@ -7,7 +7,7 @@ updated: 2004-05-24 23:20:00
 categories:
  - Technology
 subtext-id: 0e63d51c-548d-4a56-bbda-e1bd53e60ec2
-alias: /blog/NAnt-Build-Files-for-Continuous-Integration-BoF.aspx
+alias: /blog/post/NAnt-Build-Files-for-Continuous-Integration-BoF.aspx
 ---
 
 

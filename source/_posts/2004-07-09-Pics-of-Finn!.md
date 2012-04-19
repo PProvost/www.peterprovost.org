@@ -6,7 +6,7 @@ date: 2004-07-09 15:35:00
 categories:
  - Personal
 subtext-id: c5f42b0d-d633-47e1-a8c0-43ec726bdb1b
-alias: /blog/Pics-of-Finn!.aspx
+alias: /blog/post/Pics-of-Finn!.aspx
 ---
 
 

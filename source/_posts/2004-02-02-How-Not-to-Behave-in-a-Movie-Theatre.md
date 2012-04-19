@@ -7,7 +7,7 @@ updated: 2004-05-01 14:33:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: f57a7ffd-9764-43b0-aab3-02a34a7d63ab
-alias: /blog/How-Not-to-Behave-in-a-Movie-Theatre.aspx
+alias: /blog/post/How-Not-to-Behave-in-a-Movie-Theatre.aspx
 ---
 
 

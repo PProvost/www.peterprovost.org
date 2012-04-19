@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "VSTweak PowerToy + CodeSmith"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-03 10:57:00
 categories:
  - Technology
 subtext-id: 0c21834d-edde-4a8f-92f9-3c682c39396d
-alias: /blog/VSTweak-PowerToy-2b-CodeSmith.aspx
+alias: /blog/post/VSTweak-PowerToy-2b-CodeSmith.aspx
 ---
 
 

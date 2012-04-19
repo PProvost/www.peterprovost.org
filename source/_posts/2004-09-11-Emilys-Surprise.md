@@ -6,7 +6,7 @@ date: 2004-09-11 20:08:00
 categories:
  - Personal
 subtext-id: 27bc91f4-f7a2-47e5-a85d-c25a6e0f9a3c
-alias: /blog/Emilys-Surprise.aspx
+alias: /blog/post/Emilys-Surprise.aspx
 ---
 
 

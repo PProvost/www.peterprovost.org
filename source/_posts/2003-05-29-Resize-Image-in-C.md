@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Resize Image in C#"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-08-10 22:05:00
 categories:
  - Technology
 subtext-id: bff8f2a8-e4fe-453e-b8bc-5693e77758c8
-alias: /blog/Resize-Image-in-C.aspx
+alias: /blog/post/Resize-Image-in-C.aspx
 ---
 
 

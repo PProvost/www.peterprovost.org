@@ -6,7 +6,7 @@ date: 2004-07-04 17:35:00
 categories:
  - Technology
 subtext-id: b7c8c009-ef1e-4a1c-933f-5d783184103f
-alias: /blog/dasBlog2DotText-Released!.aspx
+alias: /blog/post/dasBlog2DotText-Released!.aspx
 ---
 
 

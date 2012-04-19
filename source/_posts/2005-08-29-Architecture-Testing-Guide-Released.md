@@ -10,7 +10,7 @@ tags:
  - patterns & practices
  - architecture
 subtext-id: 79c2476d-6a23-4d39-a7eb-7c48b3950a23
-alias: /blog/Architecture-Testing-Guide-Released.aspx
+alias: /blog/post/Architecture-Testing-Guide-Released.aspx
 ---
 
 

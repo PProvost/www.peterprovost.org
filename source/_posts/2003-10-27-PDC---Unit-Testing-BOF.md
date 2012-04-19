@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC - Unit Testing BOF"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:32:00
 categories:
  - Technology
 subtext-id: 6ea63658-31e7-4341-9429-80bc3bc13fe7
-alias: /blog/PDC---Unit-Testing-BOF.aspx
+alias: /blog/post/PDC---Unit-Testing-BOF.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Radio Comments Redux"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-04 15:57:00
 categories:
  - Technology
 subtext-id: 4c8aee24-f751-4a3e-aea3-7439287e8902
-alias: /blog/Radio-Comments-Redux.aspx
+alias: /blog/post/Radio-Comments-Redux.aspx
 ---
 
 

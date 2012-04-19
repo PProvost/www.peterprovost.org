@@ -7,7 +7,7 @@ updated: 2005-03-15 12:09:00
 categories:
  - Technology
 subtext-id: f0ddbf6e-2998-4852-8d9b-c84e6849f99d
-alias: /blog/Comments-on-the-EntLibLog4Net-feature-and-performance-comparison.aspx
+alias: /blog/post/Comments-on-the-EntLibLog4Net-feature-and-performance-comparison.aspx
 ---
 
 

@@ -9,7 +9,7 @@ categories:
 tags:
  - powershell
 subtext-id: 59e4a138-b6e4-4f31-bfd5-a11c9a93859e
-alias: /blog/Windows-PowerShell-Quick-Start.aspx
+alias: /blog/post/Windows-PowerShell-Quick-Start.aspx
 ---
 
 

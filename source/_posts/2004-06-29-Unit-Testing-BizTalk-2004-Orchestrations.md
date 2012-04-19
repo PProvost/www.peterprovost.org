@@ -6,7 +6,7 @@ date: 2004-06-29 14:51:00
 categories:
  - Technology
 subtext-id: 01b9e187-c52c-472a-8073-de8ee47e875d
-alias: /blog/Unit-Testing-BizTalk-2004-Orchestrations.aspx
+alias: /blog/post/Unit-Testing-BizTalk-2004-Orchestrations.aspx
 ---
 
 

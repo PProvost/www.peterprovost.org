@@ -7,7 +7,7 @@ updated: 2004-05-01 14:10:00
 categories:
  - Technology
 subtext-id: 606b1161-b3d0-4ed2-9814-f2d8c51a8e2c
-alias: /blog/HOWTO-Adopt-NET-For-Free!.aspx
+alias: /blog/post/HOWTO-Adopt-NET-For-Free!.aspx
 ---
 
 

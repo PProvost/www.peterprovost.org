@@ -7,7 +7,7 @@ categories:
  - Opinions, Politics, Rants
  - Technology
 subtext-id: 9bdfcea5-a56b-424a-9617-cdcdfc845d09
-alias: /blog/Save-Internet-Radio!.aspx
+alias: /blog/post/Save-Internet-Radio!.aspx
 ---
 
 

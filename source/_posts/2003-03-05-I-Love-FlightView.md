@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "I Love FlightView"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:29:00
 categories:
  - Technology
 subtext-id: 8aee4d14-16f3-40b4-84ba-537f5961c40c
-alias: /blog/I-Love-FlightView.aspx
+alias: /blog/post/I-Love-FlightView.aspx
 ---
 
 

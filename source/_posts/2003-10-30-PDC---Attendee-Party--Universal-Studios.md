@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC - Attendee Party @ Universal Studios"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:29:00
 categories:
  - Community
 subtext-id: aa5e056b-dbbf-418d-b117-7d72f56a6afa
-alias: /blog/PDC---Attendee-Party--Universal-Studios.aspx
+alias: /blog/post/PDC---Attendee-Party--Universal-Studios.aspx
 ---
 
 

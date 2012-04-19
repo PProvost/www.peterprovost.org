@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The Monty Hall Problem"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-10 23:55:00
 categories:
  - Technology
 subtext-id: b0d1ad90-d568-4d8d-a28d-3571b6a9236c
-alias: /blog/The-Monty-Hall-Problem.aspx
+alias: /blog/post/The-Monty-Hall-Problem.aspx
 ---
 
 

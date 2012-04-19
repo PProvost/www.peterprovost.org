@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Mass of the Earth"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-14 20:11:00
 categories:
  - Technology
 subtext-id: 674f1b90-e723-46ee-bd50-05dd0f9a08ec
-alias: /blog/Mass-of-the-Earth.aspx
+alias: /blog/post/Mass-of-the-Earth.aspx
 ---
 
 

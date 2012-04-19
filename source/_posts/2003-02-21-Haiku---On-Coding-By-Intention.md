@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Haiku - On Coding By Intention"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-08-07 23:19:00
 categories:
  - Haiku
 subtext-id: b8ed4b3b-e617-46cb-9333-e8fbbedb05d1
-alias: /blog/Haiku---On-Coding-By-Intention.aspx
+alias: /blog/post/Haiku---On-Coding-By-Intention.aspx
 ---
 
 

@@ -4,7 +4,7 @@ title: "Visual Studio Code Name &quot;Orcas&quot; October 2006 CTP"
 comments: false
 date: 2006-10-30 13:44:00
 subtext-id: 33264d16-ec4a-42d1-aee6-8bcaf477ea33
-alias: /blog/Visual-Studio-Code-Name-quot3bOrcasquot3b-October-2006-CTP.aspx
+alias: /blog/post/Visual-Studio-Code-Name-quot3bOrcasquot3b-October-2006-CTP.aspx
 ---
 
 

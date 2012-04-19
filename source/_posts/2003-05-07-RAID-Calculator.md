@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "RAID Calculator"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-06-05 00:11:00
 categories:
  - Technology
 subtext-id: 0238ab57-12b8-476b-9950-e99562b22b53
-alias: /blog/RAID-Calculator.aspx
+alias: /blog/post/RAID-Calculator.aspx
 ---
 
 

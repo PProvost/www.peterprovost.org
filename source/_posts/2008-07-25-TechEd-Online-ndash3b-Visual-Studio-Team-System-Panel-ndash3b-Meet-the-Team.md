@@ -10,7 +10,7 @@ tags:
  - vsts
  - teched
 subtext-id: a9e5cf8a-0206-461b-8f11-e7b919b5e707
-alias: /blog/TechEd-Online-ndash3b-Visual-Studio-Team-System-Panel-ndash3b-Meet-the-Team.aspx
+alias: /blog/post/TechEd-Online-ndash3b-Visual-Studio-Team-System-Panel-ndash3b-Meet-the-Team.aspx
 ---
 
 

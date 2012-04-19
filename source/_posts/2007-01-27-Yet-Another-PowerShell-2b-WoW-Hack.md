@@ -10,7 +10,7 @@ tags:
  - powershell
  - warcraft
 subtext-id: 29438e56-5fcd-470e-bfd1-6c9d53ddd6b4
-alias: /blog/Yet-Another-PowerShell-2b-WoW-Hack.aspx
+alias: /blog/post/Yet-Another-PowerShell-2b-WoW-Hack.aspx
 ---
 
 

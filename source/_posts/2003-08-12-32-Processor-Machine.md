@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "32 Processor Machine?"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-12 02:55:00
 categories:
  - Technology
 subtext-id: bcd17bc2-f8d6-4a0c-bfd4-463bb40b44e3
-alias: /blog/32-Processor-Machine.aspx
+alias: /blog/post/32-Processor-Machine.aspx
 ---
 
 

@@ -6,7 +6,7 @@ date: 2006-01-28 20:03:00
 categories:
  - Community
 subtext-id: e98d7aad-9ff9-47b1-b822-117960154490
-alias: /blog/Another-One-Bites-The-Dust.aspx
+alias: /blog/post/Another-One-Bites-The-Dust.aspx
 ---
 
 

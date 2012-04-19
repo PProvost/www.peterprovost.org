@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Specifying Requirements w/ C# Generics"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-15 15:29:00
 categories:
  - Technology
 subtext-id: c4323f0c-b2c3-4a5e-bbfb-16065bf96a90
-alias: /blog/Specifying-Requirements-w-C-Generics.aspx
+alias: /blog/post/Specifying-Requirements-w-C-Generics.aspx
 ---
 
 

@@ -6,7 +6,7 @@ date: 2005-01-28 11:11:00
 categories:
  - Technology
 subtext-id: f73b9fdb-69ea-4a23-b340-4dfa91e71f9a
-alias: /blog/Enterprise-Library-10-Release-to-Web-(RTW).aspx
+alias: /blog/post/Enterprise-Library-10-Release-to-Web-(RTW).aspx
 ---
 
 

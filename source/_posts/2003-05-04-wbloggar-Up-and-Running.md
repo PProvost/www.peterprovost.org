@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "w.bloggar Up and Running"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-04 19:20:00
 categories:
  - Technology
 subtext-id: 8a7baba4-ca34-4f65-ba50-dddc0ad242ae
-alias: /blog/wbloggar-Up-and-Running.aspx
+alias: /blog/post/wbloggar-Up-and-Running.aspx
 ---
 
 

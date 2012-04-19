@@ -6,7 +6,7 @@ date: 2008-06-11 08:57:00
 categories:
  - Technology
 subtext-id: bf338dd8-015d-4eec-922d-bc26a0099d50
-alias: /blog/Enterprise-Library-for-VS-2008-Released!.aspx
+alias: /blog/post/Enterprise-Library-for-VS-2008-Released!.aspx
 ---
 
 

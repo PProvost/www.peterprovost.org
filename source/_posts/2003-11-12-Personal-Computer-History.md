@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Personal Computer History"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Personal
  - Technology
 subtext-id: 6bb26343-bd89-4af3-8f5b-4f45f2cdeb3e
-alias: /blog/Personal-Computer-History.aspx
+alias: /blog/post/Personal-Computer-History.aspx
 ---
 
 

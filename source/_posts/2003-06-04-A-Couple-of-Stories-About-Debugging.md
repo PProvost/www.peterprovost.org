@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "A Couple of Stories About Debugging"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-04 19:26:00
 categories:
  - Technology
 subtext-id: 8f1b9475-ef22-4be1-a4c5-d88f9d03ab28
-alias: /blog/A-Couple-of-Stories-About-Debugging.aspx
+alias: /blog/post/A-Couple-of-Stories-About-Debugging.aspx
 ---
 
 

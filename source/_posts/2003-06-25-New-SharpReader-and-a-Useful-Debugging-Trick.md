@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "New SharpReader and a Useful Debugging Trick"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-25 21:40:00
 categories:
  - Technology
 subtext-id: c16d1b25-c997-4ec5-8e12-3cb385ad12ea
-alias: /blog/New-SharpReader-and-a-Useful-Debugging-Trick.aspx
+alias: /blog/post/New-SharpReader-and-a-Useful-Debugging-Trick.aspx
 ---
 
 

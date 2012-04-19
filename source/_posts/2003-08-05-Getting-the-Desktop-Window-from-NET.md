@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Getting the Desktop Window from .NET"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-05 20:32:00
 categories:
  - Technology
 subtext-id: 3d54686b-6604-4d90-8c4a-5dbfc5b722e7
-alias: /blog/Getting-the-Desktop-Window-from-NET.aspx
+alias: /blog/post/Getting-the-Desktop-Window-from-NET.aspx
 ---
 
 

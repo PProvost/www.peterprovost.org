@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More Bad Software Patents"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Opinions, Politics, Rants
  - Technology
 subtext-id: 11a2765b-bbeb-4cbd-a774-720c3a9b78ca
-alias: /blog/More-Bad-Software-Patents.aspx
+alias: /blog/post/More-Bad-Software-Patents.aspx
 ---
 
 

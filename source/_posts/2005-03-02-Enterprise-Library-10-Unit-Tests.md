@@ -10,7 +10,7 @@ tags:
  - tdd
  - patterns & practices
 subtext-id: a403bb35-5c52-41bb-992b-0a449d876e02
-alias: /blog/Enterprise-Library-10-Unit-Tests.aspx
+alias: /blog/post/Enterprise-Library-10-Unit-Tests.aspx
 ---
 
 

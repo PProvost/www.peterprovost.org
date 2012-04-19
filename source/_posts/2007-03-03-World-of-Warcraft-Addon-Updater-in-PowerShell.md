@@ -11,7 +11,7 @@ tags:
  - powershell
  - warcraft
 subtext-id: 242810b8-b814-42cc-b656-c46b023bfb30
-alias: /blog/World-of-Warcraft-Addon-Updater-in-PowerShell.aspx
+alias: /blog/post/World-of-Warcraft-Addon-Updater-in-PowerShell.aspx
 ---
 
 

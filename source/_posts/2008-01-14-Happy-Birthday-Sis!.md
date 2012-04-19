@@ -6,7 +6,7 @@ date: 2008-01-14 19:52:00
 categories:
  - Personal
 subtext-id: e1036e55-315c-4dc1-881a-c5bf3db687ca
-alias: /blog/Happy-Birthday-Sis!.aspx
+alias: /blog/post/Happy-Birthday-Sis!.aspx
 ---
 
 

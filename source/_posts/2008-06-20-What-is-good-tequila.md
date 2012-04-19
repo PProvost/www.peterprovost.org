@@ -6,7 +6,7 @@ date: 2008-06-20 07:20:00
 categories:
  - Games and Other Fun Stuff
 subtext-id: cf29d57f-6184-4568-9fb8-8d26af1ea183
-alias: /blog/What-is-good-tequila.aspx
+alias: /blog/post/What-is-good-tequila.aspx
 ---
 
 

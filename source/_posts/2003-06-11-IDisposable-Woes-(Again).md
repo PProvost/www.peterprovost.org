@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "IDisposable Woes (Again)"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-11 15:39:00
 categories:
  - Technology
 subtext-id: 9b94b77f-b9e4-4ea8-acde-c6b193231d8a
-alias: /blog/IDisposable-Woes-(Again).aspx
+alias: /blog/post/IDisposable-Woes-(Again).aspx
 ---
 
 

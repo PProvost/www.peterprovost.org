@@ -10,7 +10,7 @@ categories:
 tags:
  - tdd
 subtext-id: 535aaf7b-7738-4ff5-8d71-cca2e71f5c07
-alias: /blog/xUnitnet-10-RC3-Released-Today.aspx
+alias: /blog/post/xUnitnet-10-RC3-Released-Today.aspx
 ---
 
 

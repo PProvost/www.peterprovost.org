@@ -11,7 +11,7 @@ tags:
  - powershell
  - uac
 subtext-id: 197476b1-362a-4e04-b063-531026ef6243
-alias: /blog/Powershell-Sudo-(sort-of)-for-Vista-UAC----REDUX.aspx
+alias: /blog/post/Powershell-Sudo-(sort-of)-for-Vista-UAC----REDUX.aspx
 ---
 
 

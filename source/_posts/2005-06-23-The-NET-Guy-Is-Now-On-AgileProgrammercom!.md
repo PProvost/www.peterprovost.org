@@ -6,7 +6,7 @@ date: 2005-06-23 21:41:00
 categories:
  - Technology
 subtext-id: 261286d9-c8af-4007-ba1b-ab71d2e6ee1e
-alias: /blog/The-NET-Guy-Is-Now-On-AgileProgrammercom!.aspx
+alias: /blog/post/The-NET-Guy-Is-Now-On-AgileProgrammercom!.aspx
 ---
 
 

@@ -7,7 +7,7 @@ categories:
  - Agile Software Development
  - Technology
 subtext-id: 43f954c5-0eec-41ff-a2a4-52e7eeacf8f2
-alias: /blog/Micro-Pairing-Defined.aspx
+alias: /blog/post/Micro-Pairing-Defined.aspx
 ---
 
 

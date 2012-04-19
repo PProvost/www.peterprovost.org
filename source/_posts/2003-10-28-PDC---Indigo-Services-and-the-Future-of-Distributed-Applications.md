@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC - Indigo: Services and the Future of Distributed Applications"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:31:00
 categories:
  - Technology
 subtext-id: 04851c5e-0579-4fcc-8d22-690aa6a7eaaf
-alias: /blog/PDC---Indigo-Services-and-the-Future-of-Distributed-Applications.aspx
+alias: /blog/post/PDC---Indigo-Services-and-the-Future-of-Distributed-Applications.aspx
 ---
 
 

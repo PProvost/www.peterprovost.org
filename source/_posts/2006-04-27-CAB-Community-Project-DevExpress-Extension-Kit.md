@@ -11,7 +11,7 @@ tags:
  - patterns & practices
  - cab
 subtext-id: e9fd6ff5-e0d1-4fd0-9c9c-7c4603318189
-alias: /blog/CAB-Community-Project-DevExpress-Extension-Kit.aspx
+alias: /blog/post/CAB-Community-Project-DevExpress-Extension-Kit.aspx
 ---
 
 

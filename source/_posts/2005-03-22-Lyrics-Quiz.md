@@ -6,7 +6,7 @@ date: 2005-03-22 22:02:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: c65ba2ba-6631-4e50-95d8-48a21a70df4c
-alias: /blog/Lyrics-Quiz.aspx
+alias: /blog/post/Lyrics-Quiz.aspx
 ---
 
 

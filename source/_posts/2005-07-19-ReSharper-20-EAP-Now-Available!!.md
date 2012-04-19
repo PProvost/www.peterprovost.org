@@ -6,7 +6,7 @@ date: 2005-07-19 13:43:00
 categories:
  - Technology
 subtext-id: 3519ab01-aa29-4305-9e06-baafce270134
-alias: /blog/ReSharper-20-EAP-Now-Available!!.aspx
+alias: /blog/post/ReSharper-20-EAP-Now-Available!!.aspx
 ---
 
 

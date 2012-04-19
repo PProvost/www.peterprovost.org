@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "RSS Search Engine"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:33:00
 categories:
  - Technology
 subtext-id: 2c8aa574-daf4-4fc2-a57f-a42b0deec4d4
-alias: /blog/RSS-Search-Engine.aspx
+alias: /blog/post/RSS-Search-Engine.aspx
 ---
 
 

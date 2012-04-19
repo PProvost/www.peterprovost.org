@@ -6,7 +6,7 @@ date: 2005-04-19 20:40:00
 categories:
  - Technology
 subtext-id: 77110e08-a524-49ec-ab3d-724684528a53
-alias: /blog/Sneak-Preview-of-the-ReSharper-IDE.aspx
+alias: /blog/post/Sneak-Preview-of-the-ReSharper-IDE.aspx
 ---
 
 

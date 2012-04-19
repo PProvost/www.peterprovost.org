@@ -9,7 +9,7 @@ categories:
 tags:
  - vim
 subtext-id: 2b733b88-09ae-41b3-b68b-6a7f34c4674c
-alias: /blog/Tabs-in-Vim-How-did-I-miss-this.aspx
+alias: /blog/post/Tabs-in-Vim-How-did-I-miss-this.aspx
 ---
 
 

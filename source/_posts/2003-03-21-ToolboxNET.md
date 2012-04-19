@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Toolbox.NET"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-21 22:13:00
 categories:
  - Technology
 subtext-id: 8b00d74e-08e2-4740-ba36-dea028af3ac0
-alias: /blog/ToolboxNET.aspx
+alias: /blog/post/ToolboxNET.aspx
 ---
 
 

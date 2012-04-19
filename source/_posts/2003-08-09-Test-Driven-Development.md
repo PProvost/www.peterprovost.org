@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Test-Driven Development"
 comments: false
@@ -11,7 +11,7 @@ categories:
 tags:
  - tdd
 subtext-id: dba6a769-4aab-4c26-8744-9a8082ac01b4
-alias: /blog/Test-Driven-Development.aspx
+alias: /blog/post/Test-Driven-Development.aspx
 ---
 
 

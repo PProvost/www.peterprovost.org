@@ -11,7 +11,7 @@ tags:
  - warcraft
  - subversion
 subtext-id: 58b20db9-22af-467c-a84c-4e64c970f727
-alias: /blog/Another-Cool-PowerShell-2b-Subversion-Hack.aspx
+alias: /blog/post/Another-Cool-PowerShell-2b-Subversion-Hack.aspx
 ---
 
 

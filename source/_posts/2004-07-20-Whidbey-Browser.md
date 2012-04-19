@@ -6,7 +6,7 @@ date: 2004-07-20 09:33:00
 categories:
  - Technology
 subtext-id: 52208de8-57bb-4d02-86b6-e604e9b8d86a
-alias: /blog/Whidbey-Browser.aspx
+alias: /blog/post/Whidbey-Browser.aspx
 ---
 
 

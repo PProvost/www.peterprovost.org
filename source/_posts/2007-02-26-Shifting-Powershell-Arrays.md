@@ -9,7 +9,7 @@ categories:
 tags:
  - powershell
 subtext-id: 099416fc-2347-485d-b08a-db8947ff3860
-alias: /blog/Shifting-Powershell-Arrays.aspx
+alias: /blog/post/Shifting-Powershell-Arrays.aspx
 ---
 
 

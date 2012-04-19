@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Lord of the Rings: Return of the King"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 14:42:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: a7157859-e66c-4864-a2d2-ada41c498a12
-alias: /blog/Lord-of-the-Rings-Return-of-the-King.aspx
+alias: /blog/post/Lord-of-the-Rings-Return-of-the-King.aspx
 ---
 
 

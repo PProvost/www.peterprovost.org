@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Counterpane Secures $20M in Funding"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:38:00
 categories:
  - Technology
 subtext-id: 03993d22-2b8a-4b19-9494-ee3f0699432e
-alias: /blog/Counterpane-Secures-2420M-in-Funding.aspx
+alias: /blog/post/Counterpane-Secures-2420M-in-Funding.aspx
 ---
 
 

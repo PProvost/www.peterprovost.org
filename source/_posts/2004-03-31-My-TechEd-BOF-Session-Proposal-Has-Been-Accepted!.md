@@ -7,7 +7,7 @@ updated: 2004-05-01 11:19:00
 categories:
  - Community
 subtext-id: c9895330-039b-4685-956f-f135d42c554b
-alias: /blog/My-TechEd-BOF-Session-Proposal-Has-Been-Accepted!.aspx
+alias: /blog/post/My-TechEd-BOF-Session-Proposal-Has-Been-Accepted!.aspx
 ---
 
 

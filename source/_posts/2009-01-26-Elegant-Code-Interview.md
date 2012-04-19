@@ -10,7 +10,7 @@ tags:
  - vsts
  - agile development
 subtext-id: 2b9e67fb-e502-41a8-bc6e-be0ddf049861
-alias: /blog/Elegant-Code-Interview.aspx
+alias: /blog/post/Elegant-Code-Interview.aspx
 ---
 
 

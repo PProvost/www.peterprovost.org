@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Intellectual Property, USP's and Patents"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Opinions, Politics, Rants
  - Technology
 subtext-id: 4ae17bd3-df58-4cae-8b02-b949f97c578b
-alias: /blog/Intellectual-Property2c-USPs-and-Patents.aspx
+alias: /blog/post/Intellectual-Property2c-USPs-and-Patents.aspx
 ---
 
 

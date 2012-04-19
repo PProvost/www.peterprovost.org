@@ -6,7 +6,7 @@ date: 2008-06-22 19:00:00
 categories:
  - Personal
 subtext-id: ddebea09-4c8f-46d3-bb60-5bdcbf6fe2a3
-alias: /blog/In-Redmond-for-the-next-week.aspx
+alias: /blog/post/In-Redmond-for-the-next-week.aspx
 ---
 
 

@@ -9,7 +9,7 @@ categories:
 tags:
  - pdc
 subtext-id: b337908a-3891-4dc2-b16b-ee0bbb28fb84
-alias: /blog/Im-Going-to-PDC!!.aspx
+alias: /blog/post/Im-Going-to-PDC!!.aspx
 ---
 
 

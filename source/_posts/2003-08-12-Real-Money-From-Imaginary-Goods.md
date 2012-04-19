@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Real Money From Imaginary Goods"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-12 16:53:00
 categories:
  - Technology
 subtext-id: 912d481e-ea81-4fcc-9977-76039452f091
-alias: /blog/Real-Money-From-Imaginary-Goods.aspx
+alias: /blog/post/Real-Money-From-Imaginary-Goods.aspx
 ---
 
 

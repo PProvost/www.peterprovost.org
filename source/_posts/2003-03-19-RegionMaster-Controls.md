@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "RegionMaster Controls"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:14:00
 categories:
  - Technology
 subtext-id: 7beee3d8-5b04-4eff-bce2-4c5d1c379116
-alias: /blog/RegionMaster-Controls.aspx
+alias: /blog/post/RegionMaster-Controls.aspx
 ---
 
 

@@ -11,7 +11,7 @@ tags:
  - tdd
  - agile development
 subtext-id: 0c0dc413-0ca8-4769-8f70-0940fcf83473
-alias: /blog/NUnit-and-Multithreaded-Tests---CrossThreadTestRunner.aspx
+alias: /blog/post/NUnit-and-Multithreaded-Tests---CrossThreadTestRunner.aspx
 ---
 
 

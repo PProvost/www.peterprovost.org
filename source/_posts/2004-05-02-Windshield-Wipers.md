@@ -6,7 +6,7 @@ date: 2004-05-02 22:34:00
 categories:
  - Personal
 subtext-id: 72d8e6d2-dafd-4964-963a-7d456ef96437
-alias: /blog/Windshield-Wipers.aspx
+alias: /blog/post/Windshield-Wipers.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Windows Forms User Controls"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-20 18:41:00
 categories:
  - Technology
 subtext-id: ff8f9e17-8a38-4aaa-bec5-cddedc7fc4cf
-alias: /blog/Windows-Forms-User-Controls.aspx
+alias: /blog/post/Windows-Forms-User-Controls.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Children of Dune Review"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:02:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: 3c9d7d7f-966e-486a-8803-ca1ee0c5abc6
-alias: /blog/Children-of-Dune-Review.aspx
+alias: /blog/post/Children-of-Dune-Review.aspx
 ---
 
 

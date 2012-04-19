@@ -9,7 +9,7 @@ categories:
 tags:
  - powershell
 subtext-id: 1a0e3b5b-65a8-45f8-9384-e3415b68f68a
-alias: /blog/Monad-Script-download-file.aspx
+alias: /blog/post/Monad-Script-download-file.aspx
 ---
 
 

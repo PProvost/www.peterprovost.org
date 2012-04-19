@@ -7,7 +7,7 @@ categories:
  - Games and Other Fun Stuff
  - Technology
 subtext-id: 29cc497d-f8ee-4a4b-b132-c84937e43a4e
-alias: /blog/Code-Camp-20-Talk-How-I-pwn3d-the-World-of-Warcraft-UI-with-Lua.aspx
+alias: /blog/post/Code-Camp-20-Talk-How-I-pwn3d-the-World-of-Warcraft-UI-with-Lua.aspx
 ---
 
 

@@ -9,7 +9,7 @@ categories:
 tags:
  - entlib
 subtext-id: 9942e94b-2372-4e3e-9aa4-ab62ec2d30c1
-alias: /blog/Enterprise-Library-20-November-CTP-Released!.aspx
+alias: /blog/post/Enterprise-Library-20-November-CTP-Released!.aspx
 ---
 
 

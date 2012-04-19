@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Should You Use XHTML?"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-12 20:47:00
 categories:
  - Technology
 subtext-id: 5ae9e3bd-1adb-42d1-abe4-e0501783b7d7
-alias: /blog/Should-You-Use-XHTML.aspx
+alias: /blog/post/Should-You-Use-XHTML.aspx
 ---
 
 

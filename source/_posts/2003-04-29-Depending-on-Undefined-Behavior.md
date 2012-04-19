@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Depending on Undefined Behavior"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-29 20:56:00
 categories:
  - Technology
 subtext-id: 8bcb6c39-3696-4469-a79f-75d39230df5f
-alias: /blog/Depending-on-Undefined-Behavior.aspx
+alias: /blog/post/Depending-on-Undefined-Behavior.aspx
 ---
 
 

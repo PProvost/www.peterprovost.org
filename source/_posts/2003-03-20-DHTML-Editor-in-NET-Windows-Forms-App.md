@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "DHTML Editor in .NET Windows Forms App"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-20 10:46:00
 categories:
  - Technology
 subtext-id: f66a7560-5b1f-49fd-87fd-255b4e3d5b16
-alias: /blog/DHTML-Editor-in-NET-Windows-Forms-App.aspx
+alias: /blog/post/DHTML-Editor-in-NET-Windows-Forms-App.aspx
 ---
 
 

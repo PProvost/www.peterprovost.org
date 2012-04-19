@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Microsoft.com Web Services SDK"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-27 03:24:00
 categories:
  - Technology
 subtext-id: ec8197ff-8829-4c95-9466-727a70ef77f3
-alias: /blog/Microsoftcom-Web-Services-SDK.aspx
+alias: /blog/post/Microsoftcom-Web-Services-SDK.aspx
 ---
 
 

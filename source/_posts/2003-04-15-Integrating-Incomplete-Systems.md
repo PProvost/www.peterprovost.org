@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Integrating Incomplete Systems"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-15 14:28:00
 categories:
  - Technology
 subtext-id: bfe5c048-91ca-4e40-bafb-d709e5021645
-alias: /blog/Integrating-Incomplete-Systems.aspx
+alias: /blog/post/Integrating-Incomplete-Systems.aspx
 ---
 
 

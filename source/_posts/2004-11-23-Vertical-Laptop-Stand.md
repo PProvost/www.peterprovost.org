@@ -6,7 +6,7 @@ date: 2004-11-23 16:49:00
 categories:
  - Technology
 subtext-id: daaedb01-8104-4ddc-b3d7-e7b03f8e05b3
-alias: /blog/Vertical-Laptop-Stand.aspx
+alias: /blog/post/Vertical-Laptop-Stand.aspx
 ---
 
 

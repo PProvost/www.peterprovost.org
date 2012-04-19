@@ -7,7 +7,7 @@ updated: 2005-08-31 08:53:00
 categories:
  - Technology
 subtext-id: ec1e2818-1fc6-41be-af62-d7a44891b897
-alias: /blog/The-Pair-Programming-TDD-Game.aspx
+alias: /blog/post/The-Pair-Programming-TDD-Game.aspx
 ---
 
 

@@ -6,7 +6,7 @@ date: 2005-01-28 21:38:00
 categories:
  - Technology
 subtext-id: 839a3c9f-0eca-4fef-bd3a-6b631021385f
-alias: /blog/Enterprise-Library-and-Developing-Non-Admin.aspx
+alias: /blog/post/Enterprise-Library-and-Developing-Non-Admin.aspx
 ---
 
 

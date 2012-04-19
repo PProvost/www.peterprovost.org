@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "My Experiences with InfoPath"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-22 10:10:00
 categories:
  - Technology
 subtext-id: 836e349c-8969-4adc-8cd1-bfff462fcd25
-alias: /blog/My-Experiences-with-InfoPath.aspx
+alias: /blog/post/My-Experiences-with-InfoPath.aspx
 ---
 
 

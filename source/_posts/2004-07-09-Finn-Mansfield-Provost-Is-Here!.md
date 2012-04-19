@@ -7,7 +7,7 @@ updated: 2004-07-09 09:00:00
 categories:
  - Personal
 subtext-id: f437aba1-3a25-4509-9e8f-d8976321fee0
-alias: /blog/Finn-Mansfield-Provost-Is-Here!.aspx
+alias: /blog/post/Finn-Mansfield-Provost-Is-Here!.aspx
 ---
 
 

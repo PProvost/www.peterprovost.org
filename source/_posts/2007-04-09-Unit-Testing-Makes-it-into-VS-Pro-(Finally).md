@@ -11,7 +11,7 @@ tags:
  - vsts
  - visual studio
 subtext-id: 4731f6c9-3925-4dd1-9e87-3b7b96971e37
-alias: /blog/Unit-Testing-Makes-it-into-VS-Pro-(Finally).aspx
+alias: /blog/post/Unit-Testing-Makes-it-into-VS-Pro-(Finally).aspx
 ---
 
 

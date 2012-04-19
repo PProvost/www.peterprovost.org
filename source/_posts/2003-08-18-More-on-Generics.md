@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More on Generics"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-18 19:20:00
 categories:
  - Technology
 subtext-id: af1f313d-603c-41a1-b7aa-66ae41d76046
-alias: /blog/More-on-Generics.aspx
+alias: /blog/post/More-on-Generics.aspx
 ---
 
 

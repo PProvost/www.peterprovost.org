@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: ".NET MCSD Here I Come"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 09:32:00
 categories:
  - Personal
 subtext-id: c32df16e-9816-4acd-a403-0147601efc77
-alias: /blog/NET-MCSD-Here-I-Come.aspx
+alias: /blog/post/NET-MCSD-Here-I-Come.aspx
 ---
 
 

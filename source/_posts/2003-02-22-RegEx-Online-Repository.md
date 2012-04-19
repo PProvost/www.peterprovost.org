@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "RegEx Online Repository"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:26:00
 categories:
  - Technology
 subtext-id: 07d395be-b604-4221-9b76-ca89d341be83
-alias: /blog/RegEx-Online-Repository.aspx
+alias: /blog/post/RegEx-Online-Repository.aspx
 ---
 
 

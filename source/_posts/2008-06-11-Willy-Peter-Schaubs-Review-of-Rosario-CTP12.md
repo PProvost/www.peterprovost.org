@@ -6,7 +6,7 @@ date: 2008-06-11 08:02:00
 categories:
  - 
 subtext-id: a63711fc-2219-4ae2-9bb4-62d8f611fab7
-alias: /blog/Willy-Peter-Schaubs-Review-of-Rosario-CTP12.aspx
+alias: /blog/post/Willy-Peter-Schaubs-Review-of-Rosario-CTP12.aspx
 ---
 
 

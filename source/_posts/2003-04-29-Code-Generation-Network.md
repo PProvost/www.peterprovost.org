@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Code Generation Network"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-29 21:13:00
 categories:
  - Technology
 subtext-id: 3dcdab12-29cb-4d9b-b72a-74988498ac75
-alias: /blog/Code-Generation-Network.aspx
+alias: /blog/post/Code-Generation-Network.aspx
 ---
 
 

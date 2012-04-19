@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Dynamic Queries vs. Stored Procedures"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-14 08:32:00
 categories:
  - Technology
 subtext-id: 5661f7ff-7302-4f3d-a3d3-da5f7b8fd386
-alias: /blog/Dynamic-Queries-vs-Stored-Procedures.aspx
+alias: /blog/post/Dynamic-Queries-vs-Stored-Procedures.aspx
 ---
 
 

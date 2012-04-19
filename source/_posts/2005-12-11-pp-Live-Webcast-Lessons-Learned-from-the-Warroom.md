@@ -12,7 +12,7 @@ tags:
  - agile development
  - team rooms
 subtext-id: 87d5cb0f-cd9b-4957-b173-7113a7581df9
-alias: /blog/pp-Live-Webcast-Lessons-Learned-from-the-Warroom.aspx
+alias: /blog/post/pp-Live-Webcast-Lessons-Learned-from-the-Warroom.aspx
 ---
 
 

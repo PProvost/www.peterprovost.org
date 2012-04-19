@@ -6,7 +6,7 @@ date: 2005-12-01 11:48:00
 categories:
  - Personal
 subtext-id: 5df40291-5898-4716-be6b-0055361f4ffc
-alias: /blog/Let-it-snow-let-it-snow-let-it-snow.aspx
+alias: /blog/post/Let-it-snow-let-it-snow-let-it-snow.aspx
 ---
 
 

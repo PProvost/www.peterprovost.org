@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "External Config Files in .NET"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-13 21:34:00
 categories:
  - Technology
 subtext-id: dd88d403-42e3-447e-99d9-6f61e1476fbd
-alias: /blog/External-Config-Files-in-NET.aspx
+alias: /blog/post/External-Config-Files-in-NET.aspx
 ---
 
 

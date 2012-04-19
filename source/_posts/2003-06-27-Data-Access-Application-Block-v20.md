@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Data Access Application Block v2.0"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-27 14:19:00
 categories:
  - Technology
 subtext-id: e5123d9d-b2e2-49ce-88fe-98d0183f3381
-alias: /blog/Data-Access-Application-Block-v20.aspx
+alias: /blog/post/Data-Access-Application-Block-v20.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Drywall is Up"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:45:00
 categories:
  - Personal
 subtext-id: ade3f8bc-59e8-41fe-9633-2edfc6672df7
-alias: /blog/Drywall-is-Up.aspx
+alias: /blog/post/Drywall-is-Up.aspx
 ---
 
 

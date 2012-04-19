@@ -8,7 +8,7 @@ categories:
  - Community
  - Technology
 subtext-id: 624f1580-488d-4a91-94ab-919de3986f16
-alias: /blog/Still-no-Thinktecture.aspx
+alias: /blog/post/Still-no-Thinktecture.aspx
 ---
 
 

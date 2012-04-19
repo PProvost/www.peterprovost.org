@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "IT Horoscopes"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 09:29:00
 categories:
  - Technology
 subtext-id: b883a34c-130c-4733-9868-ddfed197ea5d
-alias: /blog/IT-Horoscopes.aspx
+alias: /blog/post/IT-Horoscopes.aspx
 ---
 
 

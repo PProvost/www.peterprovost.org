@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "S# - SmallTalk for .NET"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-03 20:00:00
 categories:
  - Technology
 subtext-id: caa4a81a-e895-44e6-b291-0f192895da33
-alias: /blog/S---SmallTalk-for-NET.aspx
+alias: /blog/post/S---SmallTalk-for-NET.aspx
 ---
 
 

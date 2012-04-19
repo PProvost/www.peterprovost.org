@@ -6,7 +6,7 @@ date: 2004-12-19 11:07:00
 categories:
  - Technology
 subtext-id: 7ad173ad-bf7d-4206-be66-d1026d5e5aa9
-alias: /blog/BlogJetThis-Plugin.aspx
+alias: /blog/post/BlogJetThis-Plugin.aspx
 ---
 
 

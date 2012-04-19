@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC - .NET Framework: Developing Applications using the New Object-Relational Technologies in \"Whidbey\" - ADO.NET ObjectSpaces"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:29:00
 categories:
  - Technology
 subtext-id: da3b8e31-125d-4653-ae03-a34fd081e516
-alias: /blog/PDC---NET-Framework-Developing-Applications-using-the-New-Object-Relational-Technologies-in-Whidbey---ADONET-ObjectSpaces.aspx
+alias: /blog/post/PDC---NET-Framework-Developing-Applications-using-the-New-Object-Relational-Technologies-in-Whidbey---ADONET-ObjectSpaces.aspx
 ---
 
 

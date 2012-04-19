@@ -8,7 +8,7 @@ categories:
  - Community
  - Technology
 subtext-id: d4192aa2-ab98-4452-a9a6-2fa0914f1f0e
-alias: /blog/Arrived-at-Win-Dev.aspx
+alias: /blog/post/Arrived-at-Win-Dev.aspx
 ---
 
 

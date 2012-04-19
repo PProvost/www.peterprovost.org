@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Virtual Robots"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-02 17:07:00
 categories:
  - Technology
 subtext-id: 90a0b19f-2f49-4f27-a78a-c05ed77c5fe9
-alias: /blog/Virtual-Robots.aspx
+alias: /blog/post/Virtual-Robots.aspx
 ---
 
 

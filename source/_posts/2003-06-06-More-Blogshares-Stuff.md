@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More Blogshares Stuff"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-06 13:05:00
 categories:
  - Technology
 subtext-id: 3708c22f-669d-4424-a016-14e22bf60980
-alias: /blog/More-Blogshares-Stuff.aspx
+alias: /blog/post/More-Blogshares-Stuff.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "I Need a New Digital Camera"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-04 21:51:00
 categories:
  - Technology
 subtext-id: fa52c6d2-4c60-4dc6-baed-fd0de7b7e863
-alias: /blog/I-Need-a-New-Digital-Camera.aspx
+alias: /blog/post/I-Need-a-New-Digital-Camera.aspx
 ---
 
 

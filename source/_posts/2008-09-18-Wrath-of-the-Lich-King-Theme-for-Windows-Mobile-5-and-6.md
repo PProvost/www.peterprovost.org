@@ -9,7 +9,7 @@ tags:
  - warcraft
  - smartphone
 subtext-id: 824a6e81-48bd-43d4-8856-1a93f0dc2da3
-alias: /blog/Wrath-of-the-Lich-King-Theme-for-Windows-Mobile-5-and-6.aspx
+alias: /blog/post/Wrath-of-the-Lich-King-Theme-for-Windows-Mobile-5-and-6.aspx
 ---
 
 

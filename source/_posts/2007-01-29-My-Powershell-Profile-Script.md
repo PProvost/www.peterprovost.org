@@ -9,7 +9,7 @@ categories:
 tags:
  - powershell
 subtext-id: 78e692a1-796d-45e9-b082-fbd82101e1f0
-alias: /blog/My-Powershell-Profile-Script.aspx
+alias: /blog/post/My-Powershell-Profile-Script.aspx
 ---
 
 

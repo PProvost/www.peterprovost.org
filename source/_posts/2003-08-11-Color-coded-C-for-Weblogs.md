@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Color-coded C# for Weblogs"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-11 16:49:00
 categories:
  - Technology
 subtext-id: 814a9097-f67a-4f78-b072-32214f5db776
-alias: /blog/Color-coded-C-for-Weblogs.aspx
+alias: /blog/post/Color-coded-C-for-Weblogs.aspx
 ---
 
 

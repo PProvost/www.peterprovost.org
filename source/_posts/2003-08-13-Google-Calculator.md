@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Google Calculator"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-13 18:41:00
 categories:
  - Technology
 subtext-id: 88a704fe-a03d-48a0-88f5-1c27eeac0f5c
-alias: /blog/Google-Calculator.aspx
+alias: /blog/post/Google-Calculator.aspx
 ---
 
 

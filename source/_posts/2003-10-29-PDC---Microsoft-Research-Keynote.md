@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC - Microsoft Research Keynote"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:30:00
 categories:
  - Technology
 subtext-id: 8273259b-a499-4239-a34c-0ee915589a54
-alias: /blog/PDC---Microsoft-Research-Keynote.aspx
+alias: /blog/post/PDC---Microsoft-Research-Keynote.aspx
 ---
 
 

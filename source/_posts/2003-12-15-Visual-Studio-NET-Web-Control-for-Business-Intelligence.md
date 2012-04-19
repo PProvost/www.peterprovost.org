@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Visual Studio .NET Web Control for Business Intelligence"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 14:45:00
 categories:
  - Technology
 subtext-id: 0d70c0eb-9d53-4e60-b2b1-36043393c302
-alias: /blog/Visual-Studio-NET-Web-Control-for-Business-Intelligence.aspx
+alias: /blog/post/Visual-Studio-NET-Web-Control-for-Business-Intelligence.aspx
 ---
 
 

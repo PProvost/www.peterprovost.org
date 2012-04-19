@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Test using Mail-to-Weblog"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-11 13:37:00
 categories:
  - Technology
 subtext-id: 7b7bc54f-6b65-447c-af93-5bae67467d6c
-alias: /blog/Test-using-Mail-to-Weblog.aspx
+alias: /blog/post/Test-using-Mail-to-Weblog.aspx
 ---
 
 

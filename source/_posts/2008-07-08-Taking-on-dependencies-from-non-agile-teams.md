@@ -9,7 +9,7 @@ tags:
  - agile development
  - agile planning
 subtext-id: 9d3b2d43-8039-4276-a5f5-461a01661d69
-alias: /blog/Taking-on-dependencies-from-non-agile-teams.aspx
+alias: /blog/post/Taking-on-dependencies-from-non-agile-teams.aspx
 ---
 
 

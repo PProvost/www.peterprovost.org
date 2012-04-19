@@ -10,7 +10,7 @@ tags:
  - xmi
  - vs2010
 subtext-id: dc8e926b-322a-4407-b890-dbb83315aec6
-alias: /blog/Cameron-Skinner-XMI-Export-Sample.aspx
+alias: /blog/post/Cameron-Skinner-XMI-Export-Sample.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The Best ROTK Review"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 14:42:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: 42e23d04-1897-4c8d-ad2c-d4e7e1510b7e
-alias: /blog/The-Best-ROTK-Review.aspx
+alias: /blog/post/The-Best-ROTK-Review.aspx
 ---
 
 

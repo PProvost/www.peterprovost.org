@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "My Blogshares Strategy is Working!"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-30 14:51:00
 categories:
  - Technology
 subtext-id: db383653-b114-4525-a8fa-bdce1f8ef14c
-alias: /blog/My-Blogshares-Strategy-is-Working!.aspx
+alias: /blog/post/My-Blogshares-Strategy-is-Working!.aspx
 ---
 
 

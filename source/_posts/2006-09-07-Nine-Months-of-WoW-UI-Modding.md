@@ -9,7 +9,7 @@ categories:
 tags:
  - warcraft
 subtext-id: a2c13fa0-19f3-4217-a89e-86062e81b72d
-alias: /blog/Nine-Months-of-WoW-UI-Modding.aspx
+alias: /blog/post/Nine-Months-of-WoW-UI-Modding.aspx
 ---
 
 

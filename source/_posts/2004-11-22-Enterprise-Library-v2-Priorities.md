@@ -6,7 +6,7 @@ date: 2004-11-22 07:46:00
 categories:
  - Technology
 subtext-id: 27511fe9-e18a-4741-9e6f-ec36673c5720
-alias: /blog/Enterprise-Library-v2-Priorities.aspx
+alias: /blog/post/Enterprise-Library-v2-Priorities.aspx
 ---
 
 

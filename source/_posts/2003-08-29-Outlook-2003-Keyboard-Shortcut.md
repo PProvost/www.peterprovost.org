@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Outlook 2003 Keyboard Shortcut"
 comments: false
@@ -9,7 +9,7 @@ categories:
 tags:
  - keyboard shortcuts
 subtext-id: 7dbbe90b-c838-4437-abb5-7c08f00ab437
-alias: /blog/Outlook-2003-Keyboard-Shortcut.aspx
+alias: /blog/post/Outlook-2003-Keyboard-Shortcut.aspx
 ---
 
 

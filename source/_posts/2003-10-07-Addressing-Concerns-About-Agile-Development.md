@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Addressing Concerns About Agile Development"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 17:21:00
 categories:
  - Technology
 subtext-id: 1c6e46ef-f962-4a7d-a3b8-0225e42ab6f9
-alias: /blog/Addressing-Concerns-About-Agile-Development.aspx
+alias: /blog/post/Addressing-Concerns-About-Agile-Development.aspx
 ---
 
 

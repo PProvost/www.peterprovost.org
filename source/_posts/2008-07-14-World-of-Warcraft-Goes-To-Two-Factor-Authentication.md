@@ -8,7 +8,7 @@ categories:
  - Games and Other Fun Stuff
  - Technology
 subtext-id: 9ffc197c-06b0-4282-a1d8-045c5d762230
-alias: /blog/World-of-Warcraft-Goes-To-Two-Factor-Authentication.aspx
+alias: /blog/post/World-of-Warcraft-Goes-To-Two-Factor-Authentication.aspx
 ---
 
 

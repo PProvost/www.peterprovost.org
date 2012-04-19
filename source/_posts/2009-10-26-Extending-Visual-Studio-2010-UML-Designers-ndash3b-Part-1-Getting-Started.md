@@ -11,7 +11,7 @@ tags:
  - mef
  - vssdk
 subtext-id: 408cb58f-fd0e-4dfd-9732-090f33416427
-alias: /blog/Extending-Visual-Studio-2010-UML-Designers-ndash3b-Part-1-Getting-Started.aspx
+alias: /blog/post/Extending-Visual-Studio-2010-UML-Designers-ndash3b-Part-1-Getting-Started.aspx
 ---
 
 

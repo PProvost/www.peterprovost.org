@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC - Hands on Lab Content?"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:16:00
 categories:
  - Technology
 subtext-id: 6d016c7c-90c4-4e9b-b7fc-ee7fb852ee6e
-alias: /blog/PDC---Hands-on-Lab-Content.aspx
+alias: /blog/post/PDC---Hands-on-Lab-Content.aspx
 ---
 
 

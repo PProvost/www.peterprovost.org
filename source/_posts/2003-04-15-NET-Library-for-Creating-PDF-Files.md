@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: ".NET Library for Creating PDF Files"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-15 21:06:00
 categories:
  - Technology
 subtext-id: 49f6daf5-2cb9-4552-94c5-1491fa59d841
-alias: /blog/NET-Library-for-Creating-PDF-Files.aspx
+alias: /blog/post/NET-Library-for-Creating-PDF-Files.aspx
 ---
 
 

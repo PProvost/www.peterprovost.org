@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Removing dasBlog Categories?"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-07 07:18:00
 categories:
  - Technology
 subtext-id: 447f6473-79b8-4a64-bd09-f45806f30a22
-alias: /blog/Removing-dasBlog-Categories.aspx
+alias: /blog/post/Removing-dasBlog-Categories.aspx
 ---
 
 

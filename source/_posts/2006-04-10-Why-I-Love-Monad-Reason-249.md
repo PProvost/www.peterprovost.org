@@ -9,7 +9,7 @@ categories:
 tags:
  - powershell
 subtext-id: bce19905-4704-46f5-b64c-ffde6aa1b71e
-alias: /blog/Why-I-Love-Monad-Reason-249.aspx
+alias: /blog/post/Why-I-Love-Monad-Reason-249.aspx
 ---
 
 

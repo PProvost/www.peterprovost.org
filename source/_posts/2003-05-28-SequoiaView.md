@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "SequoiaView"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-28 11:33:00
 categories:
  - Technology
 subtext-id: 2d94efdc-3eba-4e7f-8b38-f5f93e30a644
-alias: /blog/SequoiaView.aspx
+alias: /blog/post/SequoiaView.aspx
 ---
 
 

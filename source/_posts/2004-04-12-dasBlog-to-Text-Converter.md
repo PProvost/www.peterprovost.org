@@ -7,7 +7,7 @@ updated: 2004-05-01 11:15:00
 categories:
  - Technology
 subtext-id: 9cbb41c9-734f-4099-9c20-cd03bbdc5d95
-alias: /blog/dasBlog-to-Text-Converter.aspx
+alias: /blog/post/dasBlog-to-Text-Converter.aspx
 ---
 
 

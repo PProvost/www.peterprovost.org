@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Multiple Monitor Madness"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:13:00
 categories:
  - Technology
 subtext-id: be4bd5e8-946f-42ba-8410-051b22a13c6d
-alias: /blog/Multiple-Monitor-Madness.aspx
+alias: /blog/post/Multiple-Monitor-Madness.aspx
 ---
 
 

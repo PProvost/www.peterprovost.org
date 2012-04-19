@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Fun with VPC"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-10-23 12:25:00
 categories:
  - Technology
 subtext-id: 5292a3b7-0f17-4f2c-a947-396401f2f1db
-alias: /blog/Fun-with-VPC.aspx
+alias: /blog/post/Fun-with-VPC.aspx
 ---
 
 

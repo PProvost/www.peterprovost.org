@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Advanced .NET Debugging"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-20 19:31:00
 categories:
  - Technology
 subtext-id: 2f2b286f-7c85-43d8-b333-301103a54518
-alias: /blog/Advanced-NET-Debugging.aspx
+alias: /blog/post/Advanced-NET-Debugging.aspx
 ---
 
 

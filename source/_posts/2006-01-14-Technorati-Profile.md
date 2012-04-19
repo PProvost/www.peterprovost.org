@@ -6,7 +6,7 @@ date: 2006-01-14 20:11:00
 categories:
  - Technology
 subtext-id: 28457b1f-9fa0-4f81-9387-6fd5ab5c391e
-alias: /blog/Technorati-Profile.aspx
+alias: /blog/post/Technorati-Profile.aspx
 ---
 
 

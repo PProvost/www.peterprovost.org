@@ -6,7 +6,7 @@ date: 2004-08-12 00:21:00
 categories:
  - Technology
 subtext-id: 4da0f1fd-5154-41c5-97d9-359a01f803d8
-alias: /blog/Cisco-VPN-and-Windows-XP-SP2.aspx
+alias: /blog/post/Cisco-VPN-and-Windows-XP-SP2.aspx
 ---
 
 

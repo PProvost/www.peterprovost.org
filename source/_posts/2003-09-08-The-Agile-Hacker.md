@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The Agile Hacker"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 14:34:00
 categories:
  - Technology
 subtext-id: 7999977b-c664-48b7-bca2-79ad0abfaa7c
-alias: /blog/The-Agile-Hacker.aspx
+alias: /blog/post/The-Agile-Hacker.aspx
 ---
 
 

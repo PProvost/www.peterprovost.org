@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Google Pigeon Rank"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-25 09:38:00
 categories:
  - Technology
 subtext-id: 04a1be2a-4dd7-43f4-bab4-295ba6a5c4e0
-alias: /blog/Google-Pigeon-Rank.aspx
+alias: /blog/post/Google-Pigeon-Rank.aspx
 ---
 
 

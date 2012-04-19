@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Fired by Text Message"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Opinions, Politics, Rants
  - Technology
 subtext-id: 9a76928d-003d-437d-9c6e-58b11a8965ca
-alias: /blog/Fired-by-Text-Message.aspx
+alias: /blog/post/Fired-by-Text-Message.aspx
 ---
 
 

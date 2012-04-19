@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Off To Cancun"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:21:00
 categories:
  - Personal
 subtext-id: 8fa12fde-d463-4ac5-93a5-9e0400070823
-alias: /blog/Off-To-Cancun.aspx
+alias: /blog/post/Off-To-Cancun.aspx
 ---
 
 

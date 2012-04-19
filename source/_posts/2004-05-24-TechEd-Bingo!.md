@@ -5,7 +5,7 @@ comments: false
 date: 2004-05-24 00:30:00
 updated: 2004-05-24 10:56:00
 subtext-id: ae6c155a-c522-4564-9bf8-cf27c0beefcd
-alias: /blog/TechEd-Bingo!.aspx
+alias: /blog/post/TechEd-Bingo!.aspx
 ---
 
 

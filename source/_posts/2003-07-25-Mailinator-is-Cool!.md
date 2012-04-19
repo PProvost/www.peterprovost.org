@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Mailinator is Cool!"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-25 13:17:00
 categories:
  - Technology
 subtext-id: 2c465a54-b4b9-4fef-82de-2ba2843d4d60
-alias: /blog/Mailinator-is-Cool!.aspx
+alias: /blog/post/Mailinator-is-Cool!.aspx
 ---
 
 

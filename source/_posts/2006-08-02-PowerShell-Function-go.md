@@ -9,7 +9,7 @@ categories:
 tags:
  - powershell
 subtext-id: 1911bd9e-59b6-48a8-a62c-f226f7c8b437
-alias: /blog/PowerShell-Function-go.aspx
+alias: /blog/post/PowerShell-Function-go.aspx
 ---
 
 

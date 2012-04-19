@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Create the Solution Before Adding Projects"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-12 21:29:00
 categories:
  - Technology
 subtext-id: e09fc58d-8aeb-40c4-8237-cb9e8558b340
-alias: /blog/Create-the-Solution-Before-Adding-Projects.aspx
+alias: /blog/post/Create-the-Solution-Before-Adding-Projects.aspx
 ---
 
 

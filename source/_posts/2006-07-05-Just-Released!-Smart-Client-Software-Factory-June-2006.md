@@ -11,7 +11,7 @@ tags:
  - cab
  - software factories
 subtext-id: bde383e1-da9c-460b-9f70-5c619bff3944
-alias: /blog/Just-Released!-Smart-Client-Software-Factory-June-2006.aspx
+alias: /blog/post/Just-Released!-Smart-Client-Software-Factory-June-2006.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "ASP.NET Calendar Control"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-08 12:17:00
 categories:
  - Technology
 subtext-id: 076faf28-dc25-40f1-9142-acef59de1ff2
-alias: /blog/ASPNET-Calendar-Control.aspx
+alias: /blog/post/ASPNET-Calendar-Control.aspx
 ---
 
 

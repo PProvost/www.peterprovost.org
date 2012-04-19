@@ -6,7 +6,7 @@ date: 2005-06-24 15:06:00
 categories:
  - Technology
 subtext-id: ad322718-63e9-4828-afba-a3554b5a5fbf
-alias: /blog/Check-It-Out-Im-Official-Now.aspx
+alias: /blog/post/Check-It-Out-Im-Official-Now.aspx
 ---
 
 

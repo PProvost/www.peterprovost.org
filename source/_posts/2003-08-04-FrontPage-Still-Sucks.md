@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "FrontPage Still Sucks"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-04 21:40:00
 categories:
  - Technology
 subtext-id: 297364ea-b5d1-45bf-b56b-2a33e58ee164
-alias: /blog/FrontPage-Still-Sucks.aspx
+alias: /blog/post/FrontPage-Still-Sucks.aspx
 ---
 
 

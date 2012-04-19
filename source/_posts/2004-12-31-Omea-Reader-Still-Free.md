@@ -6,7 +6,7 @@ date: 2004-12-31 07:29:00
 categories:
  - Technology
 subtext-id: fc5c432e-ce71-4cd5-8869-1c7b6f88e565
-alias: /blog/Omea-Reader-Still-Free.aspx
+alias: /blog/post/Omea-Reader-Still-Free.aspx
 ---
 
 

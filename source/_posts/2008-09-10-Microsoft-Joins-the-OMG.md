@@ -9,7 +9,7 @@ tags:
  - vsts
  - uml
 subtext-id: aa6ec234-bb57-45ea-8590-8c59ff1a1e19
-alias: /blog/Microsoft-Joins-the-OMG.aspx
+alias: /blog/post/Microsoft-Joins-the-OMG.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Outlook 2003 Question"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-03 15:07:00
 categories:
  - Technology
 subtext-id: 0642a3fb-2aa4-46e6-851e-89cc11a5a3d8
-alias: /blog/Outlook-2003-Question.aspx
+alias: /blog/post/Outlook-2003-Question.aspx
 ---
 
 

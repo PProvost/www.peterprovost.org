@@ -7,7 +7,7 @@ updated: 2005-06-23 08:26:00
 categories:
  - Technology
 subtext-id: 77bf2b73-f56a-4ab4-8210-c67b966095d9
-alias: /blog/Excellent-Article-About-Running-LUA-in-eWeek.aspx
+alias: /blog/post/Excellent-Article-About-Running-LUA-in-eWeek.aspx
 ---
 
 

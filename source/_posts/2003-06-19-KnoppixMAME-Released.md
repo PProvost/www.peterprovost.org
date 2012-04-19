@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "KnoppixMAME Released"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-19 19:49:00
 categories:
  - Technology
 subtext-id: 7604a81e-e87f-488b-a84a-53b99e88cb5e
-alias: /blog/KnoppixMAME-Released.aspx
+alias: /blog/post/KnoppixMAME-Released.aspx
 ---
 
 

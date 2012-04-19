@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "WSDL First Tool for VS.NET"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:15:00
 categories:
  - Technology
 subtext-id: 55d2ecfa-faab-4f38-9743-b2a5a076583d
-alias: /blog/WSDL-First-Tool-for-VSNET.aspx
+alias: /blog/post/WSDL-First-Tool-for-VSNET.aspx
 ---
 
 

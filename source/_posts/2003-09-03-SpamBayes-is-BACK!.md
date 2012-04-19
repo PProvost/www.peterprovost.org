@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "SpamBayes is BACK!"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-09-03 02:24:00
 categories:
  - Technology
 subtext-id: 89c712e4-3423-4230-84d0-5d247ffb2bd1
-alias: /blog/SpamBayes-is-BACK!.aspx
+alias: /blog/post/SpamBayes-is-BACK!.aspx
 ---
 
 

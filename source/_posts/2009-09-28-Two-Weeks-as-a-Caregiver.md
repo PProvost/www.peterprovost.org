@@ -8,7 +8,7 @@ categories:
 tags:
  - family
 subtext-id: 50cabb15-fcd6-4ea6-8e61-262ca72dfd42
-alias: /blog/Two-Weeks-as-a-Caregiver.aspx
+alias: /blog/post/Two-Weeks-as-a-Caregiver.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Dare Takes Over BlogX"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-01 21:44:00
 categories:
  - Technology
 subtext-id: 3b16bf19-7c73-4b22-bd05-38814f34a9e1
-alias: /blog/Dare-Takes-Over-BlogX.aspx
+alias: /blog/post/Dare-Takes-Over-BlogX.aspx
 ---
 
 

@@ -7,7 +7,7 @@ updated: 2004-05-01 14:17:00
 categories:
  - Community
 subtext-id: da72a6d4-9c38-4acf-ac10-1e75ef8dcbe8
-alias: /blog/Interlink-Weblogs-Have-Arrived!.aspx
+alias: /blog/post/Interlink-Weblogs-Have-Arrived!.aspx
 ---
 
 

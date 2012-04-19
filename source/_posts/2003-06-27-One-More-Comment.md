@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "One More Comment..."
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:24:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: 4f36aeda-cc53-47e8-82b3-718e77a9d966
-alias: /blog/One-More-Comment.aspx
+alias: /blog/post/One-More-Comment.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC - Slides Are Up!"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:35:00
 categories:
  - Technology
 subtext-id: 58632dce-be16-4895-be04-d9481e30d308
-alias: /blog/PDC---Slides-Are-Up!.aspx
+alias: /blog/post/PDC---Slides-Are-Up!.aspx
 ---
 
 

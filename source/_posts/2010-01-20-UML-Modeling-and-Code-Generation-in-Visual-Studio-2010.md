@@ -9,7 +9,7 @@ tags:
  - visual studio
  - uml
 subtext-id: 98d16b95-bddc-4b60-97b3-b61278bff59b
-alias: /blog/UML-Modeling-and-Code-Generation-in-Visual-Studio-2010.aspx
+alias: /blog/post/UML-Modeling-and-Code-Generation-in-Visual-Studio-2010.aspx
 ---
 
 

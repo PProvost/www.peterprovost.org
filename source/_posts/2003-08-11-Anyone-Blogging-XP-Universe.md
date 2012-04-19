@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Anyone Blogging XP Universe?"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:15:00
 categories:
  - Community
 subtext-id: 2fa2e8a8-582b-458f-a6c3-3026bfb7aa9a
-alias: /blog/Anyone-Blogging-XP-Universe.aspx
+alias: /blog/post/Anyone-Blogging-XP-Universe.aspx
 ---
 
 

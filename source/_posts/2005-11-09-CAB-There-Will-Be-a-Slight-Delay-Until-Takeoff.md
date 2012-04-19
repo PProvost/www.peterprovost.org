@@ -9,7 +9,7 @@ categories:
 tags:
  - cab
 subtext-id: 59249078-c7ab-426a-813d-3b57d1cf4399
-alias: /blog/CAB-There-Will-Be-a-Slight-Delay-Until-Takeoff.aspx
+alias: /blog/post/CAB-There-Will-Be-a-Slight-Delay-Until-Takeoff.aspx
 ---
 
 

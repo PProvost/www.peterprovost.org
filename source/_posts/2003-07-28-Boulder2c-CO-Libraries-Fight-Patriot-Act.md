@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Boulder, CO Libraries Fight Patriot Act"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:18:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: d1fa1ad5-a313-4cfe-89b5-9186f0c8d889
-alias: /blog/Boulder2c-CO-Libraries-Fight-Patriot-Act.aspx
+alias: /blog/post/Boulder2c-CO-Libraries-Fight-Patriot-Act.aspx
 ---
 
 

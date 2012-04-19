@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Use an ASHX File for Dynamic Images"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-23 21:00:00
 categories:
  - Technology
 subtext-id: 8bb8cfea-9be9-4673-b65b-47f5e147ee67
-alias: /blog/Use-an-ASHX-File-for-Dynamic-Images.aspx
+alias: /blog/post/Use-an-ASHX-File-for-Dynamic-Images.aspx
 ---
 
 

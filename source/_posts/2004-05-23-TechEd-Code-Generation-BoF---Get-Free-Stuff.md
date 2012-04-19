@@ -5,7 +5,7 @@ comments: false
 date: 2004-05-23 18:07:00
 updated: 2004-05-23 18:17:00
 subtext-id: a8642c4a-81f7-4654-a556-18f024c35650
-alias: /blog/TechEd-Code-Generation-BoF---Get-Free-Stuff.aspx
+alias: /blog/post/TechEd-Code-Generation-BoF---Get-Free-Stuff.aspx
 ---
 
 

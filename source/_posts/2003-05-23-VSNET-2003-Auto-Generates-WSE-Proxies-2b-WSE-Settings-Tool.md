@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "VS.NET 2003 Auto-Generates WSE Proxies + WSE Settings Tool"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-23 09:28:00
 categories:
  - Technology
 subtext-id: 8c8c64bf-b844-4701-87bb-74fa74c156e0
-alias: /blog/VSNET-2003-Auto-Generates-WSE-Proxies-2b-WSE-Settings-Tool.aspx
+alias: /blog/post/VSNET-2003-Auto-Generates-WSE-Proxies-2b-WSE-Settings-Tool.aspx
 ---
 
 

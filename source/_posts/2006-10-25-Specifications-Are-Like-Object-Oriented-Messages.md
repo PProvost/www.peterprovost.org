@@ -5,7 +5,7 @@ comments: false
 date: 2006-10-25 19:00:00
 updated: 2007-04-18 11:22:00
 subtext-id: 126583ee-db20-41a6-9f6e-30728d93ab7e
-alias: /blog/Specifications-Are-Like-Object-Oriented-Messages.aspx
+alias: /blog/post/Specifications-Are-Like-Object-Oriented-Messages.aspx
 ---
 
 

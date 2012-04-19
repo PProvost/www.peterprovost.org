@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "New Theme - Fixed in Mozilla"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 15:59:00
 categories:
  - Technology
 subtext-id: 10c76035-76e9-4217-9236-721eb47c2283
-alias: /blog/New-Theme---Fixed-in-Mozilla.aspx
+alias: /blog/post/New-Theme---Fixed-in-Mozilla.aspx
 ---
 
 

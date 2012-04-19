@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Internet Draft: Reply Posting Guidelines"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-04 11:55:00
 categories:
  - Technology
 subtext-id: ef7af915-53c1-4a8b-a42f-f8a23843acad
-alias: /blog/Internet-Draft-Reply-Posting-Guidelines.aspx
+alias: /blog/post/Internet-Draft-Reply-Posting-Guidelines.aspx
 ---
 
 

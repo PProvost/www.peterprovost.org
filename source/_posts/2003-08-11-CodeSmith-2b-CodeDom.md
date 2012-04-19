@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "CodeSmith + CodeDom"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-11 20:09:00
 categories:
  - Technology
 subtext-id: 8b17f88e-bf8d-4463-b387-495a44c68910
-alias: /blog/CodeSmith-2b-CodeDom.aspx
+alias: /blog/post/CodeSmith-2b-CodeDom.aspx
 ---
 
 

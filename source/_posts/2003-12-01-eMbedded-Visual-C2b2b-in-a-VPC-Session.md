@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "eMbedded Visual C++ in a VPC Session"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 15:58:00
 categories:
  - Technology
 subtext-id: 69c79f7d-9755-46bc-b059-e1729ec832bc
-alias: /blog/eMbedded-Visual-C2b2b-in-a-VPC-Session.aspx
+alias: /blog/post/eMbedded-Visual-C2b2b-in-a-VPC-Session.aspx
 ---
 
 

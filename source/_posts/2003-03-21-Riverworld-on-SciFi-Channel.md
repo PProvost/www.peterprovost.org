@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Riverworld on SciFi Channel"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:01:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: f0848d4f-ed5e-4640-9f58-c45bc9d383f2
-alias: /blog/Riverworld-on-SciFi-Channel.aspx
+alias: /blog/post/Riverworld-on-SciFi-Channel.aspx
 ---
 
 

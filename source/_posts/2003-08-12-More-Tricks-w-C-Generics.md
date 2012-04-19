@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More Tricks w/ C# Generics"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-12 13:57:00
 categories:
  - Technology
 subtext-id: 7512f722-55d3-4c28-988b-47a4f1d97243
-alias: /blog/More-Tricks-w-C-Generics.aspx
+alias: /blog/post/More-Tricks-w-C-Generics.aspx
 ---
 
 

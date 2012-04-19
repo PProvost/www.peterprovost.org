@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "BlogShares"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-23 09:52:00
 categories:
  - Technology
 subtext-id: 1177b45c-ad73-4aa7-967d-c7c7d7ba0bea
-alias: /blog/BlogShares.aspx
+alias: /blog/post/BlogShares.aspx
 ---
 
 

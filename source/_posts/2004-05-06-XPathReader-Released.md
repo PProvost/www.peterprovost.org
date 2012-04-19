@@ -6,7 +6,7 @@ date: 2004-05-06 14:34:00
 categories:
  - Technology
 subtext-id: a1a611e6-37ee-481d-b1f1-ea6ac4659717
-alias: /blog/XPathReader-Released.aspx
+alias: /blog/post/XPathReader-Released.aspx
 ---
 
 

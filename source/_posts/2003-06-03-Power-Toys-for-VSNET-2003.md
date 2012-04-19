@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Power Toys for VS.NET 2003"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-03 09:55:00
 categories:
  - Technology
 subtext-id: 418153fc-09e2-4cc1-b437-953b1aafe67e
-alias: /blog/Power-Toys-for-VSNET-2003.aspx
+alias: /blog/post/Power-Toys-for-VSNET-2003.aspx
 ---
 
 

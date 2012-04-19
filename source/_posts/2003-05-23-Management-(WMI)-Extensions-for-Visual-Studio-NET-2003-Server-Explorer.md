@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Management (WMI) Extensions for Visual Studio .NET 2003 Server Explorer"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-23 12:48:00
 categories:
  - Technology
 subtext-id: 518e66e0-a659-4512-add7-5560c807780a
-alias: /blog/Management-(WMI)-Extensions-for-Visual-Studio-NET-2003-Server-Explorer.aspx
+alias: /blog/post/Management-(WMI)-Extensions-for-Visual-Studio-NET-2003-Server-Explorer.aspx
 ---
 
 

@@ -7,7 +7,7 @@ updated: 2004-12-19 10:51:00
 categories:
  - Technology
 subtext-id: a9f96ec3-f9e9-4ce3-a259-73a2f77e00dd
-alias: /blog/INI-File-Redirection-When-Running-Non-Admin.aspx
+alias: /blog/post/INI-File-Redirection-When-Running-Non-Admin.aspx
 ---
 
 

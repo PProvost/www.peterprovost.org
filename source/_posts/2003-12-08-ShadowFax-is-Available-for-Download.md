@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "ShadowFax is Available for Download"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 15:00:00
 categories:
  - Technology
 subtext-id: dcec70fe-9ec4-4f1e-a669-1b967e3375f9
-alias: /blog/ShadowFax-is-Available-for-Download.aspx
+alias: /blog/post/ShadowFax-is-Available-for-Download.aspx
 ---
 
 

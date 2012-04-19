@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Octopus Opens Jars for Food"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:42:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: c6ea907b-bc1b-411d-b1b1-5d8b07ae9002
-alias: /blog/Octopus-Opens-Jars-for-Food.aspx
+alias: /blog/post/Octopus-Opens-Jars-for-Food.aspx
 ---
 
 

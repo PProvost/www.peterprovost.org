@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "OpenPGP.NET - Part 2 - FxCop"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 09:36:00
 categories:
  - Technology
 subtext-id: 18511996-9415-4002-bf5e-521a07cf1979
-alias: /blog/OpenPGPNET---Part-2---FxCop.aspx
+alias: /blog/post/OpenPGPNET---Part-2---FxCop.aspx
 ---
 
 

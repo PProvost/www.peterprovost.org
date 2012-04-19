@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Still No Standard for the System Tray"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-10 19:37:00
 categories:
  - Technology
 subtext-id: 1db98c40-30a7-4623-90e7-6f7a4014ee30
-alias: /blog/Still-No-Standard-for-the-System-Tray.aspx
+alias: /blog/post/Still-No-Standard-for-the-System-Tray.aspx
 ---
 
 

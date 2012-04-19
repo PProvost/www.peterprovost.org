@@ -6,7 +6,7 @@ date: 2005-07-18 21:26:00
 categories:
  - Technology
 subtext-id: a305f872-45c6-4d5e-ba6d-3eedf9306f52
-alias: /blog/Im-A-Pacman-Ghost.aspx
+alias: /blog/post/Im-A-Pacman-Ghost.aspx
 ---
 
 

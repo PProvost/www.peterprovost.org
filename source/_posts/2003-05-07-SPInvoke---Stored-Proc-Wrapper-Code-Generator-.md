@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "SP/Invoke - Stored Proc Wrapper Code Generator "
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-07 14:42:00
 categories:
  - Technology
 subtext-id: ded380ac-9def-49fa-8bf2-8a1bb689d97d
-alias: /blog/SPInvoke---Stored-Proc-Wrapper-Code-Generator-.aspx
+alias: /blog/post/SPInvoke---Stored-Proc-Wrapper-Code-Generator-.aspx
 ---
 
 

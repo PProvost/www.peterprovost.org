@@ -5,7 +5,7 @@ comments: false
 date: 2004-05-27 15:44:00
 updated: 2004-05-27 18:13:00
 subtext-id: 1fddde8d-f2c9-4147-aecf-afd735531bd1
-alias: /blog/DEV302-Visual-Studio-2005-Enterprise-Tools---Building-Robust-and-Reliable-Systems.aspx
+alias: /blog/post/DEV302-Visual-Studio-2005-Enterprise-Tools---Building-Robust-and-Reliable-Systems.aspx
 ---
 
 

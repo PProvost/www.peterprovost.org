@@ -6,7 +6,7 @@ date: 2005-02-21 21:20:00
 categories:
  - Personal
 subtext-id: 0b72a986-ad16-478c-b2ad-584dbbf28e7d
-alias: /blog/Yet-Another-Personality-Test.aspx
+alias: /blog/post/Yet-Another-Personality-Test.aspx
 ---
 
 

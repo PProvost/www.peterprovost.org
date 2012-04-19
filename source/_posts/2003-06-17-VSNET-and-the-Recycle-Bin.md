@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "VS.NET and the Recycle Bin"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-17 20:33:00
 categories:
  - Technology
 subtext-id: a8bed17c-e684-4289-b694-54b3d9f7f131
-alias: /blog/VSNET-and-the-Recycle-Bin.aspx
+alias: /blog/post/VSNET-and-the-Recycle-Bin.aspx
 ---
 
 

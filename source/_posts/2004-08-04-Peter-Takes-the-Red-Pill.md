@@ -9,7 +9,7 @@ categories:
  - Personal
  - Technology
 subtext-id: 83288d4d-5893-4ae7-affa-c4426aef60a3
-alias: /blog/Peter-Takes-the-Red-Pill.aspx
+alias: /blog/post/Peter-Takes-the-Red-Pill.aspx
 ---
 
 

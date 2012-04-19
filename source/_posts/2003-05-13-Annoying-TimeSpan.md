@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Annoying TimeSpan"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-13 15:51:00
 categories:
  - Technology
 subtext-id: 6b9a75cf-9e7d-4963-97de-0da39736b186
-alias: /blog/Annoying-TimeSpan.aspx
+alias: /blog/post/Annoying-TimeSpan.aspx
 ---
 
 

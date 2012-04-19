@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Second Test Post from NewsGator"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:12:00
 categories:
  - Technology
 subtext-id: dc0c0179-bdfd-45d8-a3d6-a81b3e90d0e7
-alias: /blog/Second-Test-Post-from-NewsGator.aspx
+alias: /blog/post/Second-Test-Post-from-NewsGator.aspx
 ---
 
 

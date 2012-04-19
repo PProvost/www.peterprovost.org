@@ -10,7 +10,7 @@ tags:
  - patterns & practices
  - architecture
 subtext-id: a894792e-43f4-4ba9-868d-394a1b23b0a5
-alias: /blog/Community-Release-Architecture-and-Design-Guidelines-for-Business-Intelligence-Applications.aspx
+alias: /blog/post/Community-Release-Architecture-and-Design-Guidelines-for-Business-Intelligence-Applications.aspx
 ---
 
 

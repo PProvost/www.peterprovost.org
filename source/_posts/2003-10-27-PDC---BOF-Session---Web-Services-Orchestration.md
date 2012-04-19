@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC - BOF Session - Web Services Orchestration"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:33:00
 categories:
  - Technology
 subtext-id: f94237f5-a506-4f8e-b66a-4aa0ab86fbb6
-alias: /blog/PDC---BOF-Session---Web-Services-Orchestration.aspx
+alias: /blog/post/PDC---BOF-Session---Web-Services-Orchestration.aspx
 ---
 
 

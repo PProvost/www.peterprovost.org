@@ -6,7 +6,7 @@ date: 2005-12-02 08:19:00
 categories:
  - Technology
 subtext-id: 37e689fb-6572-48d8-8fa8-c930da5516ca
-alias: /blog/Jason-Hogg-Blogs!.aspx
+alias: /blog/post/Jason-Hogg-Blogs!.aspx
 ---
 
 

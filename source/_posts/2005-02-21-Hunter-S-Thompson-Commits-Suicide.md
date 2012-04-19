@@ -6,7 +6,7 @@ date: 2005-02-21 07:02:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: e62d895d-f5db-4211-9d88-a703f3dcbd73
-alias: /blog/Hunter-S-Thompson-Commits-Suicide.aspx
+alias: /blog/post/Hunter-S-Thompson-Commits-Suicide.aspx
 ---
 
 

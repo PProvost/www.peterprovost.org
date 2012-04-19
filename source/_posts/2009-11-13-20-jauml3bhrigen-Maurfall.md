@@ -10,7 +10,7 @@ tags:
  - visual studio
  - teched
 subtext-id: c6b96f73-7089-43e5-939e-8c2f32704c7f
-alias: /blog/20-jauml3bhrigen-Maurfall.aspx
+alias: /blog/post/20-jauml3bhrigen-Maurfall.aspx
 ---
 
 

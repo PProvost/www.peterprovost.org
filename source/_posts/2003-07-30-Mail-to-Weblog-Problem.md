@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Mail-to-Weblog Problem"
 description : "There seems to be a problem with Mail-to-Weblog from Outlook 2K3... strange."
@@ -7,7 +7,7 @@ date: 2003-07-30 22:18:00
 categories:
  - Technology
 subtext-id: 7f698601-771e-4a6f-a578-1c2d26f3bc92
-alias: /blog/Mail-to-Weblog-Problem.aspx
+alias: /blog/post/Mail-to-Weblog-Problem.aspx
 ---
 
 

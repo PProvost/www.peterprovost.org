@@ -9,7 +9,7 @@ tags:
  - patterns & practices
  - wcf
 subtext-id: dcd3cfb1-5bc2-4ffd-991c-9c08ecd1447a
-alias: /blog/Just-Released!-Improving-Web-Services-Security-Guide-ndash3b-Scenarios-and-Implementation-Guidance-for-WCF.aspx
+alias: /blog/post/Just-Released!-Improving-Web-Services-Security-Guide-ndash3b-Scenarios-and-Implementation-Guidance-for-WCF.aspx
 ---
 
 

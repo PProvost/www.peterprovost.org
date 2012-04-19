@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "BuildIt.NET Build Tool?"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:18:00
 categories:
  - Technology
 subtext-id: 1b4547d2-2575-4cfc-9c7e-c3ce22a4a39a
-alias: /blog/BuildItNET-Build-Tool.aspx
+alias: /blog/post/BuildItNET-Build-Tool.aspx
 ---
 
 

@@ -6,7 +6,7 @@ date: 2004-09-10 14:12:00
 categories:
  - Technology
 subtext-id: ba01da26-5f27-4044-ba2b-043e7ba79153
-alias: /blog/BlogJet-Is-Working!.aspx
+alias: /blog/post/BlogJet-Is-Working!.aspx
 ---
 
 

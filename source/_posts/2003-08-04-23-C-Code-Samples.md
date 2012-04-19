@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "23 C# Code Samples"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-04 08:23:00
 categories:
  - Technology
 subtext-id: d726eba5-8ea1-4772-a5ff-701b4cc237e7
-alias: /blog/23-C-Code-Samples.aspx
+alias: /blog/post/23-C-Code-Samples.aspx
 ---
 
 

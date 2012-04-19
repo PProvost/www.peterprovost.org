@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "ASP.NET Menu Panned by The .NET Guy"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-08 11:29:00
 categories:
  - Technology
 subtext-id: 21bda986-01cc-4c25-9cbf-5301abf99ee6
-alias: /blog/ASPNET-Menu-Panned-by-The-NET-Guy.aspx
+alias: /blog/post/ASPNET-Menu-Panned-by-The-NET-Guy.aspx
 ---
 
 

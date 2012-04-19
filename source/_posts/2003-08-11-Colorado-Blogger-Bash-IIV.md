@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Colorado Blogger Bash II.V"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:16:00
 categories:
  - Community
 subtext-id: 426a68b9-1155-42b4-8d4a-7e4ac753d6e6
-alias: /blog/Colorado-Blogger-Bash-IIV.aspx
+alias: /blog/post/Colorado-Blogger-Bash-IIV.aspx
 ---
 
 

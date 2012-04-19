@@ -6,7 +6,7 @@ date: 2005-08-03 22:17:00
 categories:
  - Personal
 subtext-id: 3bf0204a-907b-4a02-99b9-8bb1057cda38
-alias: /blog/Dude-Check-Out-My-Hot-Wife!.aspx
+alias: /blog/post/Dude-Check-Out-My-Hot-Wife!.aspx
 ---
 
 

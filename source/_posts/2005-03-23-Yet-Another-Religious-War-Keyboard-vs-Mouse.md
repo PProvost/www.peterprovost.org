@@ -10,7 +10,7 @@ tags:
  - keyboard shortcuts
  - visual studio
 subtext-id: 2786be9e-744f-42ec-a61d-cb07a7a058fb
-alias: /blog/Yet-Another-Religious-War-Keyboard-vs-Mouse.aspx
+alias: /blog/post/Yet-Another-Religious-War-Keyboard-vs-Mouse.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Outlook Theme"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-02 22:12:00
 categories:
  - Technology
 subtext-id: 910ffe72-9376-4dd2-a70c-a94446bed870
-alias: /blog/Outlook-Theme.aspx
+alias: /blog/post/Outlook-Theme.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Agile Build Engineering Wiki"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-16 08:18:00
 categories:
  - Technology
 subtext-id: 3654cb6c-7a3b-4ac0-80bb-f71c2907afa7
-alias: /blog/Agile-Build-Engineering-Wiki.aspx
+alias: /blog/post/Agile-Build-Engineering-Wiki.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Rebuilding Home Network"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-20 00:15:00
 categories:
  - Technology
 subtext-id: 44ce699b-9cc6-4c7d-9382-1ee8e5562d4a
-alias: /blog/Rebuilding-Home-Network.aspx
+alias: /blog/post/Rebuilding-Home-Network.aspx
 ---
 
 

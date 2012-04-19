@@ -9,7 +9,7 @@ categories:
 tags:
  - visual studio
 subtext-id: cd638a4a-2e8b-4065-9355-d57e8d0f6657
-alias: /blog/Visual-Studio-Ultimate-Event-ndash3b-Atlanta-GA-Feb-2-2010.aspx
+alias: /blog/post/Visual-Studio-Ultimate-Event-ndash3b-Atlanta-GA-Feb-2-2010.aspx
 ---
 
 

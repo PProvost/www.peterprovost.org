@@ -7,7 +7,7 @@ updated: 2004-05-01 14:40:00
 categories:
  - Technology
 subtext-id: 5e0f84d5-eb51-4db2-8263-58a6346a6e5e
-alias: /blog/Trouble-Finding-Defaultssxsl.aspx
+alias: /blog/post/Trouble-Finding-Defaultssxsl.aspx
 ---
 
 

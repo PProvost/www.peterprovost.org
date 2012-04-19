@@ -6,7 +6,7 @@ date: 2004-10-22 11:34:00
 categories:
  - Technology
 subtext-id: 4624fd01-731e-4117-9df1-5b23bf9eaeac
-alias: /blog/XHTML-MIME-type-in-Internet-Explorer.aspx
+alias: /blog/post/XHTML-MIME-type-in-Internet-Explorer.aspx
 ---
 
 

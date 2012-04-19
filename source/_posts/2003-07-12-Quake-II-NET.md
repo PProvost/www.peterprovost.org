@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Quake II .NET"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-12 11:49:00
 categories:
  - Technology
 subtext-id: a8dc1579-cd0e-4085-ba71-43d1ab2153e0
-alias: /blog/Quake-II-NET.aspx
+alias: /blog/post/Quake-II-NET.aspx
 ---
 
 

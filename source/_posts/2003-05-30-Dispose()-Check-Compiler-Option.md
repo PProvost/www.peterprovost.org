@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Dispose() Check Compiler Option?"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-30 21:31:00
 categories:
  - Technology
 subtext-id: 3ac88dea-8004-4557-bc7e-87cd6d87039d
-alias: /blog/Dispose()-Check-Compiler-Option.aspx
+alias: /blog/post/Dispose()-Check-Compiler-Option.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Is Outsourcing Going the Way of the Dodo?"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Opinions, Politics, Rants
  - Technology
 subtext-id: f53be0c5-8cf8-4b0b-9932-b6b2a567759b
-alias: /blog/Is-Outsourcing-Going-the-Way-of-the-Dodo.aspx
+alias: /blog/post/Is-Outsourcing-Going-the-Way-of-the-Dodo.aspx
 ---
 
 

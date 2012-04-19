@@ -8,7 +8,7 @@ categories:
  - Opinions, Politics, Rants
  - Technology
 subtext-id: b85b318f-88fb-47fb-b922-efac1afbef45
-alias: /blog/COM-Is-Not-Love!.aspx
+alias: /blog/post/COM-Is-Not-Love!.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Star Wars Kid"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:19:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: 6f5832a7-08a5-481d-a3a4-169a4782b18b
-alias: /blog/Star-Wars-Kid.aspx
+alias: /blog/post/Star-Wars-Kid.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Custom Error Pages in ASP.NET"
 comments: false
@@ -7,7 +7,7 @@ updated: 2005-08-25 12:25:00
 categories:
  - Technology
 subtext-id: 32e8ec6c-245e-4f60-8d4c-4caf4d78e19b
-alias: /blog/Custom-Error-Pages-in-ASPNET.aspx
+alias: /blog/post/Custom-Error-Pages-in-ASPNET.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "I Hate Outlook's Spam Features"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-10 08:50:00
 categories:
  - Technology
 subtext-id: 004923fb-3302-4a65-ab80-d420b525dea9
-alias: /blog/I-Hate-Outlooks-Spam-Features.aspx
+alias: /blog/post/I-Hate-Outlooks-Spam-Features.aspx
 ---
 
 

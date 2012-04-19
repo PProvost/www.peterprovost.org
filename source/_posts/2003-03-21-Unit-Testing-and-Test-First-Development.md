@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Unit Testing and Test-First Development"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-21 22:43:00
 categories:
  - Technology
 subtext-id: 8bd0ab53-62e5-4a0f-82c4-c66e94743081
-alias: /blog/Unit-Testing-and-Test-First-Development.aspx
+alias: /blog/post/Unit-Testing-and-Test-First-Development.aspx
 ---
 
 

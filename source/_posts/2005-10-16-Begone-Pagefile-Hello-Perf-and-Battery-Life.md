@@ -6,7 +6,7 @@ date: 2005-10-16 13:25:00
 categories:
  - Technology
 subtext-id: 8a51c22b-7e78-40f1-9434-cae1adae8a34
-alias: /blog/Begone-Pagefile-Hello-Perf-and-Battery-Life.aspx
+alias: /blog/post/Begone-Pagefile-Hello-Perf-and-Battery-Life.aspx
 ---
 
 

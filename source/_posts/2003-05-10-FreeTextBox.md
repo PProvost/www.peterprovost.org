@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "FreeTextBox"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-10 10:38:00
 categories:
  - Technology
 subtext-id: a482d0fa-d3ca-4db9-9ae3-6365ebe0fbbd
-alias: /blog/FreeTextBox.aspx
+alias: /blog/post/FreeTextBox.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Efficient Selling"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:04:00
 categories:
  - Personal
 subtext-id: 0b48fed0-1bc9-4c00-9bdb-4965f16db2a8
-alias: /blog/Efficient-Selling.aspx
+alias: /blog/post/Efficient-Selling.aspx
 ---
 
 

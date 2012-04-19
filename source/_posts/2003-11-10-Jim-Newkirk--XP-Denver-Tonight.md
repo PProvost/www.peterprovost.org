@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Jim Newkirk @ XP Denver Tonight"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:00:00
 categories:
  - Community
 subtext-id: 125ffa7d-b1af-4ded-8218-5bad2277b970
-alias: /blog/Jim-Newkirk--XP-Denver-Tonight.aspx
+alias: /blog/post/Jim-Newkirk--XP-Denver-Tonight.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Free 3D Modeling and Animation Tool"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:32:00
 categories:
  - Technology
 subtext-id: a3b3185a-081d-499f-8aee-3a1519baca85
-alias: /blog/Free-3D-Modeling-and-Animation-Tool.aspx
+alias: /blog/post/Free-3D-Modeling-and-Animation-Tool.aspx
 ---
 
 

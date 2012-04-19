@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Scoble Talks Too Much"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:23:00
 categories:
  - Community
 subtext-id: d7b806b5-8400-4d04-b067-1ec9cfa8c96d
-alias: /blog/Scoble-Talks-Too-Much.aspx
+alias: /blog/post/Scoble-Talks-Too-Much.aspx
 ---
 
 

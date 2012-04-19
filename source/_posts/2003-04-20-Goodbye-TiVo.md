@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Goodbye TiVo??"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:48:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: 67289e6e-d3f9-4fa6-ac50-acd2ef0da8ec
-alias: /blog/Goodbye-TiVo.aspx
+alias: /blog/post/Goodbye-TiVo.aspx
 ---
 
 

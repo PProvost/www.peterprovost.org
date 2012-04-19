@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Giving Up on w.bloggar"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-05 09:30:00
 categories:
  - Technology
 subtext-id: e927d1d9-c792-4303-8754-91b231297a9d
-alias: /blog/Giving-Up-on-wbloggar.aspx
+alias: /blog/post/Giving-Up-on-wbloggar.aspx
 ---
 
 

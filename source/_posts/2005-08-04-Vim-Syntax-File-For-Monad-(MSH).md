@@ -10,7 +10,7 @@ tags:
  - powershell
  - vim
 subtext-id: 3bfc98e8-349d-4e0d-a55d-0630492baac4
-alias: /blog/Vim-Syntax-File-For-Monad-(MSH).aspx
+alias: /blog/post/Vim-Syntax-File-For-Monad-(MSH).aspx
 ---
 
 

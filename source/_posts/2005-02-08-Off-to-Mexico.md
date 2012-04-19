@@ -6,7 +6,7 @@ date: 2005-02-08 16:46:00
 categories:
  - Personal
 subtext-id: 08151484-5e67-4ea2-b22d-db30e30d3bec
-alias: /blog/Off-to-Mexico.aspx
+alias: /blog/post/Off-to-Mexico.aspx
 ---
 
 

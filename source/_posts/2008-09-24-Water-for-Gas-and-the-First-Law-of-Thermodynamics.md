@@ -10,7 +10,7 @@ tags:
  - science
  - scams
 subtext-id: acd2533d-fcc3-4252-8dd4-c3a7adcbcf45
-alias: /blog/Water-for-Gas-and-the-First-Law-of-Thermodynamics.aspx
+alias: /blog/post/Water-for-Gas-and-the-First-Law-of-Thermodynamics.aspx
 ---
 
 

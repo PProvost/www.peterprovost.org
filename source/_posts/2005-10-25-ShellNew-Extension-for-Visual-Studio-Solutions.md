@@ -7,7 +7,7 @@ updated: 2005-10-25 13:54:00
 categories:
  - Technology
 subtext-id: 5f77022f-b3a2-4424-a67e-631ab5286e01
-alias: /blog/ShellNew-Extension-for-Visual-Studio-Solutions.aspx
+alias: /blog/post/ShellNew-Extension-for-Visual-Studio-Solutions.aspx
 ---
 
 

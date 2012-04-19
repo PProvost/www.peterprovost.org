@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Mono 0.20 Released"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:37:00
 categories:
  - Technology
 subtext-id: 21698d77-fd5a-4eea-b1e4-553cb1fc6498
-alias: /blog/Mono-020-Released.aspx
+alias: /blog/post/Mono-020-Released.aspx
 ---
 
 

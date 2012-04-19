@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Denver Gardening - Planting Times"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-06 15:52:00
 categories:
  - Technology
 subtext-id: 7f7c95f2-7e52-4447-bcf2-5a0db0dc675a
-alias: /blog/Denver-Gardening---Planting-Times.aspx
+alias: /blog/post/Denver-Gardening---Planting-Times.aspx
 ---
 
 

@@ -9,7 +9,7 @@ categories:
 tags:
  - powershell
 subtext-id: 87198009-51fa-4b25-a3ae-7f0b24be9481
-alias: /blog/My-Latest-PowershellXML-Hack.aspx
+alias: /blog/post/My-Latest-PowershellXML-Hack.aspx
 ---
 
 

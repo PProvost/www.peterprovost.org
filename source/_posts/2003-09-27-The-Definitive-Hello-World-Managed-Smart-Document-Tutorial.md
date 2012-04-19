@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The Definitive \"Hello World\" Managed Smart Document Tutorial"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 00:36:00
 categories:
  - Technology
 subtext-id: 9c231bb5-41d0-4a5d-a8f5-285e745b12f9
-alias: /blog/The-Definitive-Hello-World-Managed-Smart-Document-Tutorial.aspx
+alias: /blog/post/The-Definitive-Hello-World-Managed-Smart-Document-Tutorial.aspx
 ---
 
 

@@ -7,7 +7,7 @@ updated: 2004-10-01 14:15:00
 categories:
  - Technology
 subtext-id: fca2f8a6-d0c7-4df5-a089-f41865df33e9
-alias: /blog/SpsAreaExplorer-Source-Code.aspx
+alias: /blog/post/SpsAreaExplorer-Source-Code.aspx
 ---
 
 

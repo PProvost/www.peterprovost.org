@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Generic Property Comparer Class"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:17:00
 categories:
  - Technology
 subtext-id: a9e5db93-fda4-4915-aa93-c02baa8f902b
-alias: /blog/Generic-Property-Comparer-Class.aspx
+alias: /blog/post/Generic-Property-Comparer-Class.aspx
 ---
 
 

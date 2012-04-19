@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "XSLT Transformation Pipeline"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:27:00
 categories:
  - Technology
 subtext-id: f42123f4-1b63-4f43-b316-a16185e4b12c
-alias: /blog/XSLT-Transformation-Pipeline.aspx
+alias: /blog/post/XSLT-Transformation-Pipeline.aspx
 ---
 
 

@@ -7,7 +7,7 @@ updated: 2005-10-13 20:19:00
 categories:
  - Technology
 subtext-id: da97e815-83d0-4b90-9d2a-ac83694c587d
-alias: /blog/Unix-3d3e-MSH-Translations-find-and-grep.aspx
+alias: /blog/post/Unix-3d3e-MSH-Translations-find-and-grep.aspx
 ---
 
 

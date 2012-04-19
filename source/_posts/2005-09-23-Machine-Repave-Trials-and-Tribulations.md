@@ -7,7 +7,7 @@ updated: 2005-09-26 12:20:00
 categories:
  - Technology
 subtext-id: 7e4bd426-acd4-4f2b-b136-3e165c2fa9da
-alias: /blog/Machine-Repave-Trials-and-Tribulations.aspx
+alias: /blog/post/Machine-Repave-Trials-and-Tribulations.aspx
 ---
 
 

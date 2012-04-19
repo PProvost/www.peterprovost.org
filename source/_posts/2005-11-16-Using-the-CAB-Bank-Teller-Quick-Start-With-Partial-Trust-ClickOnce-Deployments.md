@@ -11,7 +11,7 @@ tags:
  - partial trust
  - .net
 subtext-id: 6a7edd47-8c77-48eb-b114-2d7a97c67e80
-alias: /blog/Using-the-CAB-Bank-Teller-Quick-Start-With-Partial-Trust-ClickOnce-Deployments.aspx
+alias: /blog/post/Using-the-CAB-Bank-Teller-Quick-Start-With-Partial-Trust-ClickOnce-Deployments.aspx
 ---
 
 

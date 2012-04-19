@@ -10,7 +10,7 @@ tags:
  - cab
  - software factories
 subtext-id: 7fd63d4d-035e-48fb-bdde-e443a60a8141
-alias: /blog/Mobile-Client-Software-Factory-July-2006-is-now-LIVE!.aspx
+alias: /blog/post/Mobile-Client-Software-Factory-July-2006-is-now-LIVE!.aspx
 ---
 
 

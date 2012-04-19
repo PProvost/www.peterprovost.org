@@ -7,7 +7,7 @@ categories:
  - Community
  - Technology
 subtext-id: 3698c7cd-652e-455e-8ca0-400f904633d7
-alias: /blog/Tablet-PC-Tour-for-Developers-(Denver).aspx
+alias: /blog/post/Tablet-PC-Tour-for-Developers-(Denver).aspx
 ---
 
 

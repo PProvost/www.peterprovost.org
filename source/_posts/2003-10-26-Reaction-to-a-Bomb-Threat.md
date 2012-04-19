@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Reaction to a Bomb Threat"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Opinions, Politics, Rants
  - Technology
 subtext-id: 17c54aa4-1795-4299-b70f-dd46fee68012
-alias: /blog/Reaction-to-a-Bomb-Threat.aspx
+alias: /blog/post/Reaction-to-a-Bomb-Threat.aspx
 ---
 
 

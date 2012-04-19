@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Build Your Own Barebones PC"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-06 08:22:00
 categories:
  - Technology
 subtext-id: c7b56958-6dc3-4743-b088-8218c5746120
-alias: /blog/Build-Your-Own-Barebones-PC.aspx
+alias: /blog/post/Build-Your-Own-Barebones-PC.aspx
 ---
 
 

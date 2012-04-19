@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Hippo.NET Released"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-29 20:37:00
 categories:
  - Technology
 subtext-id: 5dea27d3-46d7-4a45-bcca-aed92b7f215a
-alias: /blog/HippoNET-Released.aspx
+alias: /blog/post/HippoNET-Released.aspx
 ---
 
 

@@ -6,7 +6,7 @@ date: 2005-12-15 10:48:00
 categories:
  - Technology
 subtext-id: 0c801492-8f55-437a-b94f-d7540ba90034
-alias: /blog/Telepottyphobia-(Alternate-Title-My-New-Pocket-PC-Phone).aspx
+alias: /blog/post/Telepottyphobia-(Alternate-Title-My-New-Pocket-PC-Phone).aspx
 ---
 
 

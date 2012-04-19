@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Programming Your Children"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 00:40:00
 categories:
  - Technology
 subtext-id: 54009a10-0526-4746-a08f-c1f22f7458e6
-alias: /blog/Programming-Your-Children.aspx
+alias: /blog/post/Programming-Your-Children.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Orrin Hatch Pirates Software!"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Opinions, Politics, Rants
  - Technology
 subtext-id: 99f7c7e7-956f-4b9e-8c31-e98770e0cffd
-alias: /blog/Orrin-Hatch-Pirates-Software!.aspx
+alias: /blog/post/Orrin-Hatch-Pirates-Software!.aspx
 ---
 
 

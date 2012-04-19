@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Windows Media Player on Dual Monitors"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-11 14:03:00
 categories:
  - Technology
 subtext-id: b6c2fe1f-36bc-4783-b3bc-b5338d720af2
-alias: /blog/Windows-Media-Player-on-Dual-Monitors.aspx
+alias: /blog/post/Windows-Media-Player-on-Dual-Monitors.aspx
 ---
 
 

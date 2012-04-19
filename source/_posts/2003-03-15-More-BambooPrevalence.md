@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More Bamboo.Prevalence"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:34:00
 categories:
  - Technology
 subtext-id: a471608e-e784-4dff-a017-b7b1084ce3d0
-alias: /blog/More-BambooPrevalence.aspx
+alias: /blog/post/More-BambooPrevalence.aspx
 ---
 
 

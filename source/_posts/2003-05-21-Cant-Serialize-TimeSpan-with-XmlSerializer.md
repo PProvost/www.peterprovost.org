@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Can't Serialize TimeSpan with XmlSerializer"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-21 10:07:00
 categories:
  - Technology
 subtext-id: bc89b21e-3179-4ee0-8746-7ddc249dd088
-alias: /blog/Cant-Serialize-TimeSpan-with-XmlSerializer.aspx
+alias: /blog/post/Cant-Serialize-TimeSpan-with-XmlSerializer.aspx
 ---
 
 

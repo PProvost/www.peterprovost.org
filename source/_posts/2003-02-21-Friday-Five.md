@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Friday Five"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:22:00
 categories:
  - Personal
 subtext-id: d0da9d77-c56a-4f39-bc6c-13367440d249
-alias: /blog/Friday-Five.aspx
+alias: /blog/post/Friday-Five.aspx
 ---
 
 

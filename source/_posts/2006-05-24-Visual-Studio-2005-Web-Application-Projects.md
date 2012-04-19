@@ -6,7 +6,7 @@ date: 2006-05-24 07:00:00
 categories:
  - Technology
 subtext-id: add1da5e-e90d-42c8-ab3c-41f0f704aa4a
-alias: /blog/Visual-Studio-2005-Web-Application-Projects.aspx
+alias: /blog/post/Visual-Studio-2005-Web-Application-Projects.aspx
 ---
 
 

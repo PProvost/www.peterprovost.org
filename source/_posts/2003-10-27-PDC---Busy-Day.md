@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC - Busy Day"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:32:00
 categories:
  - Technology
 subtext-id: eac79f1c-96b5-4aae-8ceb-72a239399365
-alias: /blog/PDC---Busy-Day.aspx
+alias: /blog/post/PDC---Busy-Day.aspx
 ---
 
 

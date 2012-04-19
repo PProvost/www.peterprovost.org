@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "RSS Aggregator for TiVo?"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-07 21:25:00
 categories:
  - Technology
 subtext-id: 9813ca5b-4230-421b-a5d1-55f3da03d7d5
-alias: /blog/RSS-Aggregator-for-TiVo.aspx
+alias: /blog/post/RSS-Aggregator-for-TiVo.aspx
 ---
 
 

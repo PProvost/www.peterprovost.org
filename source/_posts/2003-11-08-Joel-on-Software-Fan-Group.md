@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Joel on Software Fan Group?"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:15:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: 608e0215-d5f6-4759-be50-26c5334557b0
-alias: /blog/Joel-on-Software-Fan-Group.aspx
+alias: /blog/post/Joel-on-Software-Fan-Group.aspx
 ---
 
 

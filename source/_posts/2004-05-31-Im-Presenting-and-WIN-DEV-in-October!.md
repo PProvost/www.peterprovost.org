@@ -8,7 +8,7 @@ categories:
  - Community
  - Technology
 subtext-id: cb760306-3ea7-4ded-9041-cde8cbd2292d
-alias: /blog/Im-Presenting-and-WIN-DEV-in-October!.aspx
+alias: /blog/post/Im-Presenting-and-WIN-DEV-in-October!.aspx
 ---
 
 

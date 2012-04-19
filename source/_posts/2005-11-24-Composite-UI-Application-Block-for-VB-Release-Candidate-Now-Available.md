@@ -9,7 +9,7 @@ categories:
 tags:
  - cab
 subtext-id: 8e1da1b6-a8d3-41e6-b309-6becf952aff9
-alias: /blog/Composite-UI-Application-Block-for-VB-Release-Candidate-Now-Available.aspx
+alias: /blog/post/Composite-UI-Application-Block-for-VB-Release-Candidate-Now-Available.aspx
 ---
 
 

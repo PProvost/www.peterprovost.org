@@ -7,7 +7,7 @@ categories:
  - Community
  - Technology
 subtext-id: 0e7b67c5-aba0-4769-b033-634e783793ed
-alias: /blog/The-NET-Guy-Takes-the-Red-Pill.aspx
+alias: /blog/post/The-NET-Guy-Takes-the-Red-Pill.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Cassini Web Server"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:38:00
 categories:
  - Technology
 subtext-id: efacdad4-cb62-4c42-b833-19e214197fcd
-alias: /blog/Cassini-Web-Server.aspx
+alias: /blog/post/Cassini-Web-Server.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Linus Torvalds vs. Andy Tanenbaum"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-25 12:55:00
 categories:
  - Technology
 subtext-id: e1fc3873-a7f6-499a-b4e2-28243716de9a
-alias: /blog/Linus-Torvalds-vs-Andy-Tanenbaum.aspx
+alias: /blog/post/Linus-Torvalds-vs-Andy-Tanenbaum.aspx
 ---
 
 

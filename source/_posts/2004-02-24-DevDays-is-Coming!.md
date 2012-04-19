@@ -7,7 +7,7 @@ updated: 2004-05-01 12:08:00
 categories:
  - Community
 subtext-id: 63bcf38d-2d7a-4837-b62f-de44bafad42a
-alias: /blog/DevDays-is-Coming!.aspx
+alias: /blog/post/DevDays-is-Coming!.aspx
 ---
 
 

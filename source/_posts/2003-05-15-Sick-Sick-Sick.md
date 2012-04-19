@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Sick Sick Sick"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:34:00
 categories:
  - Personal
 subtext-id: 67ccd9f2-fd97-4845-bbb9-9b54382879b7
-alias: /blog/Sick-Sick-Sick.aspx
+alias: /blog/post/Sick-Sick-Sick.aspx
 ---
 
 

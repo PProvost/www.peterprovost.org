@@ -9,7 +9,7 @@ categories:
 tags:
  - patterns & practices
 subtext-id: 5d6cb6c5-11ea-456e-bd3e-7cdec6d67c38
-alias: /blog/Get-Your-Own-Microsoft-patterns-practices-DVD.aspx
+alias: /blog/post/Get-Your-Own-Microsoft-patterns-practices-DVD.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "ASP.NET Without Web Projects"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 00:40:00
 categories:
  - Technology
 subtext-id: a1eb7a09-aaf4-4913-8fea-83e5977b1242
-alias: /blog/ASPNET-Without-Web-Projects.aspx
+alias: /blog/post/ASPNET-Without-Web-Projects.aspx
 ---
 
 

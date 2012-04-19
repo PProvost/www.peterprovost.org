@@ -7,7 +7,7 @@ updated: 2005-04-23 17:15:00
 categories:
  - Technology
 subtext-id: dc687e7f-f5b6-4f6d-ad2b-605e4d950525
-alias: /blog/Get-Your-Own-Geek-Noise-Goods!.aspx
+alias: /blog/post/Get-Your-Own-Geek-Noise-Goods!.aspx
 ---
 
 

@@ -10,7 +10,7 @@ tags:
  - .net
  - cheat sheet
 subtext-id: 8de66e09-4260-429f-984c-4d3b76427422
-alias: /blog/NET-Cheat-Sheets.aspx
+alias: /blog/post/NET-Cheat-Sheets.aspx
 ---
 
 

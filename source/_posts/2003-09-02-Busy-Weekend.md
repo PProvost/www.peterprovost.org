@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Busy Weekend"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 22:12:00
 categories:
  - Personal
 subtext-id: 898f6504-67af-4e35-a78e-e2d86798f421
-alias: /blog/Busy-Weekend.aspx
+alias: /blog/post/Busy-Weekend.aspx
 ---
 
 

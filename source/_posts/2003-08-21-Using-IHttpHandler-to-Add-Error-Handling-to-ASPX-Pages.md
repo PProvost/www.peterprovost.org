@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Using IHttpHandler to Add Error Handling to ASPX Pages"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-21 20:58:00
 categories:
  - Technology
 subtext-id: e4b7752a-02f4-4e5f-98be-0d2c78cc67b9
-alias: /blog/Using-IHttpHandler-to-Add-Error-Handling-to-ASPX-Pages.aspx
+alias: /blog/post/Using-IHttpHandler-to-Add-Error-Handling-to-ASPX-Pages.aspx
 ---
 
 

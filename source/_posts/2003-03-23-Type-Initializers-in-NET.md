@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Type Initializers in .NET"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-23 19:30:00
 categories:
  - Technology
 subtext-id: 8e9e35a2-17a9-4ab7-900a-d7ea2c6e7c91
-alias: /blog/Type-Initializers-in-NET.aspx
+alias: /blog/post/Type-Initializers-in-NET.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Harvesting Frameworks Instead of Building Them"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-25 19:30:00
 categories:
  - Technology
 subtext-id: da71e39d-6e7f-4b02-a185-42b5527cc131
-alias: /blog/Harvesting-Frameworks-Instead-of-Building-Them.aspx
+alias: /blog/post/Harvesting-Frameworks-Instead-of-Building-Them.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Namespaces in .NET Web Services"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-21 14:12:00
 categories:
  - Technology
 subtext-id: 2189b12c-7e2a-4502-bb2b-01fbb54124a3
-alias: /blog/Namespaces-in-NET-Web-Services.aspx
+alias: /blog/post/Namespaces-in-NET-Web-Services.aspx
 ---
 
 

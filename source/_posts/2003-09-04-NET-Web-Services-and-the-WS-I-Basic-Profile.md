@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: ".NET Web Services and the WS-I Basic Profile"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 22:07:00
 categories:
  - Technology
 subtext-id: 625cc712-a4e4-4088-9b70-dc830e3605cf
-alias: /blog/NET-Web-Services-and-the-WS-I-Basic-Profile.aspx
+alias: /blog/post/NET-Web-Services-and-the-WS-I-Basic-Profile.aspx
 ---
 
 

@@ -6,7 +6,7 @@ date: 2005-03-31 08:18:00
 categories:
  - Technology
 subtext-id: 4ff12406-3fe6-4fd0-a4b2-f2e18537cdf2
-alias: /blog/Resharper-20-Plans-Are-Out.aspx
+alias: /blog/post/Resharper-20-Plans-Are-Out.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Snippet Compiler 1.6 Released"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 09:39:00
 categories:
  - Technology
 subtext-id: ede05237-46b1-48db-ae72-380b109a2085
-alias: /blog/Snippet-Compiler-16-Released.aspx
+alias: /blog/post/Snippet-Compiler-16-Released.aspx
 ---
 
 

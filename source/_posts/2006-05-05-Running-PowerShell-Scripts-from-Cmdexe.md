@@ -9,7 +9,7 @@ categories:
 tags:
  - powershell
 subtext-id: b6269334-fb55-4377-b4fa-c5d810015a1f
-alias: /blog/Running-PowerShell-Scripts-from-Cmdexe.aspx
+alias: /blog/post/Running-PowerShell-Scripts-from-Cmdexe.aspx
 ---
 
 

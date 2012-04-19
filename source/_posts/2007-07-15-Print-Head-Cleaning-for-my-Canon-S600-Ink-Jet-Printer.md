@@ -6,7 +6,7 @@ date: 2007-07-15 16:52:00
 categories:
  - Technology
 subtext-id: cc98a536-59cf-439f-ac90-910c0773cf00
-alias: /blog/Print-Head-Cleaning-for-my-Canon-S600-Ink-Jet-Printer.aspx
+alias: /blog/post/Print-Head-Cleaning-for-my-Canon-S600-Ink-Jet-Printer.aspx
 ---
 
 

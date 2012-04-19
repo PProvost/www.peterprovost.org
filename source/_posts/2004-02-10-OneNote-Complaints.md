@@ -10,7 +10,7 @@ tags:
  - keyboard shortcuts
  - onenote
 subtext-id: 464363dd-8627-44db-a9f2-2a257638037e
-alias: /blog/OneNote-Complaints.aspx
+alias: /blog/post/OneNote-Complaints.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Funny Quote"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:58:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: 24e1576a-7d30-41c5-9454-d4e68a1a44e7
-alias: /blog/Funny-Quote.aspx
+alias: /blog/post/Funny-Quote.aspx
 ---
 
 

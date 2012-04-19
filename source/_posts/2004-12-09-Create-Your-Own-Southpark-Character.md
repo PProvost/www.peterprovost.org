@@ -8,7 +8,7 @@ categories:
  - Books, Music, TV and Movies
  - Technology
 subtext-id: 0933ee5e-f311-469d-9c7a-eed6c03fb38a
-alias: /blog/Create-Your-Own-Southpark-Character.aspx
+alias: /blog/post/Create-Your-Own-Southpark-Character.aspx
 ---
 
 

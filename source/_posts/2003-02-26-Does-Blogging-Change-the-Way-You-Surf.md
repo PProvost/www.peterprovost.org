@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Does Blogging Change the Way You Surf?"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Community
  - Technology
 subtext-id: f0913982-a21c-4082-9e71-6f673656944d
-alias: /blog/Does-Blogging-Change-the-Way-You-Surf.aspx
+alias: /blog/post/Does-Blogging-Change-the-Way-You-Surf.aspx
 ---
 
 

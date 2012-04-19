@@ -6,7 +6,7 @@ date: 2005-10-16 20:23:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: ebeabafc-b307-404f-b8b2-d2c78c555702
-alias: /blog/Life-Is-Better-With.aspx
+alias: /blog/post/Life-Is-Better-With.aspx
 ---
 
 

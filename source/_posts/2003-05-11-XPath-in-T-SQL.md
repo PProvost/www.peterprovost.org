@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "XPath in T-SQL"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-11 20:44:00
 categories:
  - Technology
 subtext-id: 23c146fb-dbc7-454f-9fc2-b39185da7ffa
-alias: /blog/XPath-in-T-SQL.aspx
+alias: /blog/post/XPath-in-T-SQL.aspx
 ---
 
 

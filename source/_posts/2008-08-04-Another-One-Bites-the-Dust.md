@@ -8,7 +8,7 @@ categories:
 tags:
  - vista
 subtext-id: 8eb7ebd6-7417-4313-9d06-603bcf0c1dd0
-alias: /blog/Another-One-Bites-the-Dust.aspx
+alias: /blog/post/Another-One-Bites-the-Dust.aspx
 ---
 
 

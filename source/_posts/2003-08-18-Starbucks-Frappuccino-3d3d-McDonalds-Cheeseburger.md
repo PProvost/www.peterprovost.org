@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Starbucks Frappuccino == McDonalds Cheeseburger"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-18 22:36:00
 categories:
  - Technology
 subtext-id: caf5e4ca-645d-4c05-a8cd-24efaad96d0f
-alias: /blog/Starbucks-Frappuccino-3d3d-McDonalds-Cheeseburger.aspx
+alias: /blog/post/Starbucks-Frappuccino-3d3d-McDonalds-Cheeseburger.aspx
 ---
 
 

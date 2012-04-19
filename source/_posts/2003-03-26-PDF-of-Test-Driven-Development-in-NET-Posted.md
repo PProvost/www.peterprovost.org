@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDF of Test-Driven Development in .NET Posted"
 comments: false
@@ -10,7 +10,7 @@ tags:
  - tdd
  - agile development
 subtext-id: e3d63215-ddaf-4dd1-846f-7a670e5c6f48
-alias: /blog/PDF-of-Test-Driven-Development-in-NET-Posted.aspx
+alias: /blog/post/PDF-of-Test-Driven-Development-in-NET-Posted.aspx
 ---
 
 

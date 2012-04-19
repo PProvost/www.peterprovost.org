@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "New Application Blocks"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-13 13:56:00
 categories:
  - Technology
 subtext-id: 1f54ba69-ea3f-45bd-b7d9-4565e80c41df
-alias: /blog/New-Application-Blocks.aspx
+alias: /blog/post/New-Application-Blocks.aspx
 ---
 
 

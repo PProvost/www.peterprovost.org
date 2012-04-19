@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "\"Test-Driven Development in .NET\" Posted to Agile Alliance"
 comments: false
@@ -10,7 +10,7 @@ tags:
  - tdd
  - agile development
 subtext-id: 5f127f0d-4f53-40d0-aae5-9c53233c21f2
-alias: /blog/Test-Driven-Development-in-NET-Posted-to-Agile-Alliance.aspx
+alias: /blog/post/Test-Driven-Development-in-NET-Posted-to-Agile-Alliance.aspx
 ---
 
 

@@ -6,7 +6,7 @@ date: 2004-05-03 08:35:00
 categories:
  - Personal
 subtext-id: ba15d051-3660-4b66-991f-18e4b2ffef7f
-alias: /blog/Creativity-Self-Assessment.aspx
+alias: /blog/post/Creativity-Self-Assessment.aspx
 ---
 
 

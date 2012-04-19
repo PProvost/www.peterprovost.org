@@ -9,7 +9,7 @@ categories:
 tags:
  - powershell
 subtext-id: bd54fcd6-3475-4ef9-b699-dddaac59498c
-alias: /blog/Issues-Upgrading-to-Monad-Beta-3.aspx
+alias: /blog/post/Issues-Upgrading-to-Monad-Beta-3.aspx
 ---
 
 

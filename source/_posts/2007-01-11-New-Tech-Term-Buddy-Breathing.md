@@ -4,7 +4,7 @@ title: "New Tech Term: Buddy Breathing"
 comments: false
 date: 2007-01-11 08:38:00
 subtext-id: 1d9d9fd1-6922-477b-8ee7-424e92e73614
-alias: /blog/New-Tech-Term-Buddy-Breathing.aspx
+alias: /blog/post/New-Tech-Term-Buddy-Breathing.aspx
 ---
 
 

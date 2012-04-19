@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More VS.NET Shortcuts"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:16:00
 categories:
  - Technology
 subtext-id: da5358e4-0437-4d18-a79b-539506f6e1d8
-alias: /blog/More-VSNET-Shortcuts.aspx
+alias: /blog/post/More-VSNET-Shortcuts.aspx
 ---
 
 

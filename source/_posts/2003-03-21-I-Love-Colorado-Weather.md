@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "I Love Colorado Weather"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:01:00
 categories:
  - Personal
 subtext-id: bcafd799-da2e-4198-a1b1-835e993d1206
-alias: /blog/I-Love-Colorado-Weather.aspx
+alias: /blog/post/I-Love-Colorado-Weather.aspx
 ---
 
 

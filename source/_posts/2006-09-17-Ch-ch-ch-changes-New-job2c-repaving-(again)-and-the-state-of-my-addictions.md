@@ -7,7 +7,7 @@ updated: 2006-09-17 10:05:00
 categories:
  - Technology
 subtext-id: edc6744b-29cc-4d50-9085-ede3d5b25ba3
-alias: /blog/Ch-ch-ch-changes-New-job2c-repaving-(again)-and-the-state-of-my-addictions.aspx
+alias: /blog/post/Ch-ch-ch-changes-New-job2c-repaving-(again)-and-the-state-of-my-addictions.aspx
 ---
 
 

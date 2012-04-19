@@ -9,7 +9,7 @@ tags:
  - visual studio
  - tfs
 subtext-id: 1793e45e-57d9-46b1-b9d1-1c85d7a50daa
-alias: /blog/Visual-Studio-and-TFS-2010-SP1-Released.aspx
+alias: /blog/post/Visual-Studio-and-TFS-2010-SP1-Released.aspx
 ---
 
 This morning at Tech Ed Middle East, [Soma](http://blogs.msdn.com/b/somasegar/) announced the final version of Visual Studio 2010 Service Pack 1. [Jason Zander](http://blogs.msdn.com/b/jasonz/) followed that up with a blog post that outlines the release:

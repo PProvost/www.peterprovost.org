@@ -11,7 +11,7 @@ tags:
  - tfs
  - codeplex
 subtext-id: dc8ca20b-567d-4c23-929d-b47abd0839eb
-alias: /blog/Open-Sourcing-the-CodePlex-Client.aspx
+alias: /blog/post/Open-Sourcing-the-CodePlex-Client.aspx
 ---
 
 

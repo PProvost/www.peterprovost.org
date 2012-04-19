@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More on Microsoft's Morale Budgets"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-21 21:52:00
 categories:
  - Technology
 subtext-id: f2d5cf96-2d9c-4e71-8a46-1cb398dfc7f3
-alias: /blog/More-on-Microsofts-Morale-Budgets.aspx
+alias: /blog/post/More-on-Microsofts-Morale-Budgets.aspx
 ---
 
 

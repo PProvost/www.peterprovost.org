@@ -6,7 +6,7 @@ date: 2004-05-02 18:32:00
 categories:
  - Technology
 subtext-id: 6e45548d-4496-409d-8928-e62e98329b20
-alias: /blog/NET-Reflector-400-is-Out.aspx
+alias: /blog/post/NET-Reflector-400-is-Out.aspx
 ---
 
 

@@ -7,7 +7,7 @@ categories:
  - Agile Software Development
  - Technology
 subtext-id: 2b04540e-c46d-472d-85f6-9e1aeeb32607
-alias: /blog/Another-Agile-Computer-Repave-Done.aspx
+alias: /blog/post/Another-Agile-Computer-Repave-Done.aspx
 ---
 
 

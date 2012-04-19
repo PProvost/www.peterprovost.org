@@ -9,7 +9,7 @@ tags:
  - tdd
  - training
 subtext-id: ab2a6f9e-fbf6-4519-8d48-e8567540faf2
-alias: /blog/Free-Test-First-Development-Training-24-hours-only.aspx
+alias: /blog/post/Free-Test-First-Development-Training-24-hours-only.aspx
 ---
 
 [{% img right /images/blog/Windows-Live-Writer/Free-Test-First-Development-Training---2/3DE1D6D3/image_thumb.png %}](/images/blog/Windows-Live-Writer/Free-Test-First-Development-Training---2/1221A8B1/image.png)

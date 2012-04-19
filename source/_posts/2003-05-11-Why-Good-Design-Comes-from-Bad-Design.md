@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Why Good Design Comes from Bad Design"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-11 21:16:00
 categories:
  - Technology
 subtext-id: ef0257b5-f5e8-45da-a2b9-808d432a788e
-alias: /blog/Why-Good-Design-Comes-from-Bad-Design.aspx
+alias: /blog/post/Why-Good-Design-Comes-from-Bad-Design.aspx
 ---
 
 

@@ -11,7 +11,7 @@ tags:
  - pdc
  - agile development
 subtext-id: 06510d06-6dee-4e37-bfb9-1adf490a77fd
-alias: /blog/PDC-Panel---PNL01-Advances-in-Agile-Development.aspx
+alias: /blog/post/PDC-Panel---PNL01-Advances-in-Agile-Development.aspx
 ---
 
 

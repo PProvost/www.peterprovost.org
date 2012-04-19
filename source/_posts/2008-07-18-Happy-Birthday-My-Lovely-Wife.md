@@ -8,7 +8,7 @@ updated: 2008-07-18 09:05:51
 categories:
  - Personal
 subtext-id: f4d03d41-9a36-418f-8c3a-2a4ecd1186ac
-alias: /blog/Happy-Birthday-My-Lovely-Wife.aspx
+alias: /blog/post/Happy-Birthday-My-Lovely-Wife.aspx
 ---
 
 

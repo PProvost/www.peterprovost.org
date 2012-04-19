@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Apologies... RSS Feed Was Broken"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-12 02:10:00
 categories:
  - Technology
 subtext-id: 194820b7-424c-46a9-9152-18e691c31096
-alias: /blog/Apologies-RSS-Feed-Was-Broken.aspx
+alias: /blog/post/Apologies-RSS-Feed-Was-Broken.aspx
 ---
 
 

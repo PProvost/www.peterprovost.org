@@ -9,7 +9,7 @@ categories:
 tags:
  - visual studio
 subtext-id: bee1cc43-833f-4c9c-8cd1-cdb73a45a824
-alias: /blog/Visual-Studio-2010-Release-Candidate-is-LIVE!.aspx
+alias: /blog/post/Visual-Studio-2010-Release-Candidate-is-LIVE!.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "I Hate Bono"
 comments: false
@@ -7,7 +7,7 @@ updated: 2006-05-11 17:43:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: 1fe7f9a1-03db-43b9-97dd-ccfbcfab38f7
-alias: /blog/I-Hate-Bono.aspx
+alias: /blog/post/I-Hate-Bono.aspx
 ---
 
 

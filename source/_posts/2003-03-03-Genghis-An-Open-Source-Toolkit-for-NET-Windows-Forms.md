@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Genghis: An Open-Source Toolkit for .NET Windows Forms"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:25:00
 categories:
  - Technology
 subtext-id: d35b929b-3aa2-4c4a-ac70-d1414e9bd4ec
-alias: /blog/Genghis-An-Open-Source-Toolkit-for-NET-Windows-Forms.aspx
+alias: /blog/post/Genghis-An-Open-Source-Toolkit-for-NET-Windows-Forms.aspx
 ---
 
 

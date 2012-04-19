@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Minimize to System Tray"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-20 14:51:00
 categories:
  - Technology
 subtext-id: c6973555-9e8e-4d63-bcb9-c27320e6429d
-alias: /blog/Minimize-to-System-Tray.aspx
+alias: /blog/post/Minimize-to-System-Tray.aspx
 ---
 
 

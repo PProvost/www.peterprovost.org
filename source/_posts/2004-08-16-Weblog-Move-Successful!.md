@@ -7,7 +7,7 @@ categories:
  - Community
  - Technology
 subtext-id: d5348702-3f08-4fda-95c0-6d884c6ce3ff
-alias: /blog/Weblog-Move-Successful!.aspx
+alias: /blog/post/Weblog-Move-Successful!.aspx
 ---
 
 

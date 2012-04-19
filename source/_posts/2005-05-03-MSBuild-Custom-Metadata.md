@@ -7,7 +7,7 @@ updated: 2005-05-03 22:11:00
 categories:
  - Technology
 subtext-id: 1f69501c-db50-409c-ba16-2917c17c8c0f
-alias: /blog/MSBuild-Custom-Metadata.aspx
+alias: /blog/post/MSBuild-Custom-Metadata.aspx
 ---
 
 

@@ -7,7 +7,7 @@ updated: 2004-05-01 11:59:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: 02a8a701-5d2f-484c-9646-faef7202f532
-alias: /blog/Enders-Game-Movie-Update.aspx
+alias: /blog/post/Enders-Game-Movie-Update.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The Myth of SSL Security"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:40:00
 categories:
  - Technology
 subtext-id: e84834d5-9fcb-4a44-a7e9-0ebba74e5081
-alias: /blog/The-Myth-of-SSL-Security.aspx
+alias: /blog/post/The-Myth-of-SSL-Security.aspx
 ---
 
 

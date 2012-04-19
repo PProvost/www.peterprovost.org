@@ -7,7 +7,7 @@ updated: 2004-05-01 12:09:00
 categories:
  - Technology
 subtext-id: cd0cd375-87d4-4992-8836-c2625c30d375
-alias: /blog/Geek-Noise-is-1-Year-Old!.aspx
+alias: /blog/post/Geek-Noise-is-1-Year-Old!.aspx
 ---
 
 

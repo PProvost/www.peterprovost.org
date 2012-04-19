@@ -6,7 +6,7 @@ date: 2004-12-18 21:48:00
 categories:
  - Technology
 subtext-id: f314825c-6d0a-49fc-a527-fc4366f36e6c
-alias: /blog/Google-Groups-Beta-XSS-Problem.aspx
+alias: /blog/post/Google-Groups-Beta-XSS-Problem.aspx
 ---
 
 

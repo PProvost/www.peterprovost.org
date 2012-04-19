@@ -7,7 +7,7 @@ updated: 2004-05-01 11:15:00
 categories:
  - Technology
 subtext-id: 6ad4a0ed-c7b4-498a-a4ef-eb329a4dbeb2
-alias: /blog/Annoying-VSNET-Bug.aspx
+alias: /blog/post/Annoying-VSNET-Bug.aspx
 ---
 
 

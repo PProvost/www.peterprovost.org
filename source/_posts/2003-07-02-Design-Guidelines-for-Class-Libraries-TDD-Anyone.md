@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Design Guidelines for Class Libraries... TDD Anyone?"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-02 11:13:00
 categories:
  - Technology
 subtext-id: 902a7443-0cd1-4f35-8c68-36e8d77c50d3
-alias: /blog/Design-Guidelines-for-Class-Libraries-TDD-Anyone.aspx
+alias: /blog/post/Design-Guidelines-for-Class-Libraries-TDD-Anyone.aspx
 ---
 
 

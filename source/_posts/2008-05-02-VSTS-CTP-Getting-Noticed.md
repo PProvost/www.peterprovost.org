@@ -9,7 +9,7 @@ categories:
 tags:
  - vsts
 subtext-id: 94194a03-ee62-4609-9c8d-9f5be8273945
-alias: /blog/VSTS-CTP-Getting-Noticed.aspx
+alias: /blog/post/VSTS-CTP-Getting-Noticed.aspx
 ---
 
 

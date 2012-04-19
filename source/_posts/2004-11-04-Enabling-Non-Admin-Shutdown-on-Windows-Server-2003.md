@@ -7,7 +7,7 @@ updated: 2005-01-20 14:20:00
 categories:
  - Technology
 subtext-id: a7ac68a5-ca23-4257-bde1-a8e0c9066361
-alias: /blog/Enabling-Non-Admin-Shutdown-on-Windows-Server-2003.aspx
+alias: /blog/post/Enabling-Non-Admin-Shutdown-on-Windows-Server-2003.aspx
 ---
 
 

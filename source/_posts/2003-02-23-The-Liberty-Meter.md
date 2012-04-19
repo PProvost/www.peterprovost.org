@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The Liberty Meter"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:35:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: 3bf98bf6-5968-4e01-95ea-1363ab17a234
-alias: /blog/The-Liberty-Meter.aspx
+alias: /blog/post/The-Liberty-Meter.aspx
 ---
 
 

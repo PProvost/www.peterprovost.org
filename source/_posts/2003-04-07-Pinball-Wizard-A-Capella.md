@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Pinball Wizard A Capella"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:54:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: c70ddefd-2de6-40f5-a580-b95f9642c043
-alias: /blog/Pinball-Wizard-A-Capella.aspx
+alias: /blog/post/Pinball-Wizard-A-Capella.aspx
 ---
 
 

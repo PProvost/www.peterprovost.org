@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC - Weblogging the Future of Conversational Software"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Community
  - Technology
 subtext-id: cfac2862-9eb0-41ad-9365-1ae37647b876
-alias: /blog/PDC---Weblogging-the-Future-of-Conversational-Software.aspx
+alias: /blog/post/PDC---Weblogging-the-Future-of-Conversational-Software.aspx
 ---
 
 

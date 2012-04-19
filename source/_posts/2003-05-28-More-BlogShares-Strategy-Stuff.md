@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More BlogShares Strategy Stuff"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-28 10:57:00
 categories:
  - Technology
 subtext-id: 2b3bc3f2-f3f7-4edd-9e92-588a8aa214c0
-alias: /blog/More-BlogShares-Strategy-Stuff.aspx
+alias: /blog/post/More-BlogShares-Strategy-Stuff.aspx
 ---
 
 

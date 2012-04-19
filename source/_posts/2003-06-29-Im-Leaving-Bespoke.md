@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "I'm Leaving Bespoke"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:23:00
 categories:
  - Personal
 subtext-id: 1d08be79-0e28-442c-98de-cf3985cf178e
-alias: /blog/Im-Leaving-Bespoke.aspx
+alias: /blog/post/Im-Leaving-Bespoke.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Joel's New Digs"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Community
  - Technology
 subtext-id: 4fb23393-71c0-41e2-ac55-5d193ddbb6de
-alias: /blog/Joels-New-Digs.aspx
+alias: /blog/post/Joels-New-Digs.aspx
 ---
 
 

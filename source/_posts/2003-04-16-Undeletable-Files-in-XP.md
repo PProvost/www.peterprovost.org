@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Undeletable Files in XP"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-16 20:49:00
 categories:
  - Technology
 subtext-id: 11a525e1-84f5-4776-9a7a-89c7f7e21580
-alias: /blog/Undeletable-Files-in-XP.aspx
+alias: /blog/post/Undeletable-Files-in-XP.aspx
 ---
 
 

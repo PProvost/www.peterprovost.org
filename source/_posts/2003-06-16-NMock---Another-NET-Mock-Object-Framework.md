@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "NMock - Another .NET Mock Object Framework"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-16 08:20:00
 categories:
  - Technology
 subtext-id: f0c122eb-45c6-4504-ad52-e6bef3095e8a
-alias: /blog/NMock---Another-NET-Mock-Object-Framework.aspx
+alias: /blog/post/NMock---Another-NET-Mock-Object-Framework.aspx
 ---
 
 

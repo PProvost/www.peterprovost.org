@@ -9,7 +9,7 @@ categories:
 tags:
  - vista
 subtext-id: 2ebd9c76-1366-4ded-be9c-56e4612f324d
-alias: /blog/Speeding-Up-Vista-Boot-Time.aspx
+alias: /blog/post/Speeding-Up-Vista-Boot-Time.aspx
 ---
 
 

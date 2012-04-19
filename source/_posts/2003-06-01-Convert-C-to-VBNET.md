@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Convert C# to VB.NET"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-01 14:05:00
 categories:
  - Technology
 subtext-id: 24166244-220b-4037-88cb-473f868bd40a
-alias: /blog/Convert-C-to-VBNET.aspx
+alias: /blog/post/Convert-C-to-VBNET.aspx
 ---
 
 

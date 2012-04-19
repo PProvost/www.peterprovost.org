@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Very Cool Input Device"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-27 20:45:00
 categories:
  - Technology
 subtext-id: ab306b3d-3862-434d-b4ff-bbd3b46c3ab6
-alias: /blog/Very-Cool-Input-Device.aspx
+alias: /blog/post/Very-Cool-Input-Device.aspx
 ---
 
 

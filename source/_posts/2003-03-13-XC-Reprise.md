@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "XC# Reprise"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:43:00
 categories:
  - Technology
 subtext-id: 70fd20bb-61f7-426f-8e0f-95e3cf5eac5c
-alias: /blog/XC-Reprise.aspx
+alias: /blog/post/XC-Reprise.aspx
 ---
 
 

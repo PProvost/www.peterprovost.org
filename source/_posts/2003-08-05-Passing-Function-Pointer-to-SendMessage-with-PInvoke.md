@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Passing Function Pointer to SendMessage with P/Invoke"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-05 22:21:00
 categories:
  - Technology
 subtext-id: cb67d046-694b-40d0-8990-09e33a1196de
-alias: /blog/Passing-Function-Pointer-to-SendMessage-with-PInvoke.aspx
+alias: /blog/post/Passing-Function-Pointer-to-SendMessage-with-PInvoke.aspx
 ---
 
 

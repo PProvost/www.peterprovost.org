@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Comprehensible HIPAA Summary"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-30 14:21:00
 categories:
  - Technology
 subtext-id: c612bfde-d58b-496f-ab0a-0762bf7331c7
-alias: /blog/Comprehensible-HIPAA-Summary.aspx
+alias: /blog/post/Comprehensible-HIPAA-Summary.aspx
 ---
 
 

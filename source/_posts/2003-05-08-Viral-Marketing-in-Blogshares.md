@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Viral Marketing in Blogshares?"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-08 21:55:00
 categories:
  - Technology
 subtext-id: f3d914dd-4368-4eae-804c-26cbc42c2e7f
-alias: /blog/Viral-Marketing-in-Blogshares.aspx
+alias: /blog/post/Viral-Marketing-in-Blogshares.aspx
 ---
 
 

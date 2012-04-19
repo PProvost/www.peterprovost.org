@@ -9,7 +9,7 @@ categories:
 tags:
  - vista
 subtext-id: 4f1b8e03-a1e6-4534-9275-332ab1293e14
-alias: /blog/Mount-an-ISO-in-Vista.aspx
+alias: /blog/post/Mount-an-ISO-in-Vista.aspx
 ---
 
 

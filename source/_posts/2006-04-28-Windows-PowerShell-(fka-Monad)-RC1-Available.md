@@ -9,7 +9,7 @@ categories:
 tags:
  - powershell
 subtext-id: 01fe3618-65ee-403b-8e10-32c82d4be220
-alias: /blog/Windows-PowerShell-(fka-Monad)-RC1-Available.aspx
+alias: /blog/post/Windows-PowerShell-(fka-Monad)-RC1-Available.aspx
 ---
 
 

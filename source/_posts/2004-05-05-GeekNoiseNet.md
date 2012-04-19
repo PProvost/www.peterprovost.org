@@ -6,7 +6,7 @@ date: 2004-05-05 10:08:00
 categories:
  - Technology
 subtext-id: bc6a879b-e30a-4b70-b36e-fe64cc68a41f
-alias: /blog/GeekNoiseNet.aspx
+alias: /blog/post/GeekNoiseNet.aspx
 ---
 
 

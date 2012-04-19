@@ -6,7 +6,7 @@ date: 2004-10-13 11:45:00
 categories:
  - Technology
 subtext-id: 567438d2-68ed-4285-a745-b75bd132da36
-alias: /blog/Shell-Integration-for-NUnit-Console.aspx
+alias: /blog/post/Shell-Integration-for-NUnit-Console.aspx
 ---
 
 

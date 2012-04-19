@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "I Love SpamBayes"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-18 19:45:00
 categories:
  - Technology
 subtext-id: d263f6c0-1e2a-406a-9c7d-5cbc03a4bab2
-alias: /blog/I-Love-SpamBayes.aspx
+alias: /blog/post/I-Love-SpamBayes.aspx
 ---
 
 

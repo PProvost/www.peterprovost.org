@@ -4,7 +4,7 @@ title: "DEV200: General Session - Managing the Software Lifecycle with Visual St
 comments: false
 date: 2004-05-25 14:26:00
 subtext-id: d9e0d304-4167-41ed-8bf8-ff1bc50c9c6a
-alias: /blog/DEV200-General-Session---Managing-the-Software-Lifecycle-with-Visual-Studio-2005.aspx
+alias: /blog/post/DEV200-General-Session---Managing-the-Software-Lifecycle-with-Visual-Studio-2005.aspx
 ---
 
 

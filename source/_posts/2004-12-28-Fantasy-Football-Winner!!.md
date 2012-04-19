@@ -7,7 +7,7 @@ updated: 2004-12-28 08:26:00
 categories:
  - Personal
 subtext-id: d72d2258-3943-4705-8dce-45967f200b30
-alias: /blog/Fantasy-Football-Winner!!.aspx
+alias: /blog/post/Fantasy-Football-Winner!!.aspx
 ---
 
 

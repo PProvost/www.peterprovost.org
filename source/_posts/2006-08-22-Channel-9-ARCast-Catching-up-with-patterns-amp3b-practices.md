@@ -11,7 +11,7 @@ tags:
  - patterns & practices
  - webcasts
 subtext-id: 965c911b-fa70-445e-b0cf-261f97092de7
-alias: /blog/Channel-9-ARCast-Catching-up-with-patterns-amp3b-practices.aspx
+alias: /blog/post/Channel-9-ARCast-Catching-up-with-patterns-amp3b-practices.aspx
 ---
 
 

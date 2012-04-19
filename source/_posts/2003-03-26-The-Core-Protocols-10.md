@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The Core Protocols 1.0"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-26 11:40:00
 categories:
  - Technology
 subtext-id: 87816df0-574c-4286-9e9a-861233a3af5f
-alias: /blog/The-Core-Protocols-10.aspx
+alias: /blog/post/The-Core-Protocols-10.aspx
 ---
 
 

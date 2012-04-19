@@ -7,7 +7,7 @@ updated: 2004-07-01 22:36:00
 categories:
  - Technology
 subtext-id: 996d46e2-3c55-4000-9d93-3d23d183b7f9
-alias: /blog/VS2005-Enterprise-Architect-Beta-1-on-MSDN-Subscriber-Downloads.aspx
+alias: /blog/post/VS2005-Enterprise-Architect-Beta-1-on-MSDN-Subscriber-Downloads.aspx
 ---
 
 

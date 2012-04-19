@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "C# SMTP Mail without SMTP Service or CDO"
 comments: false
@@ -7,7 +7,7 @@ updated: 2005-02-05 17:19:00
 categories:
  - Technology
 subtext-id: 1b100fad-3a20-42f5-afb0-43c37c873907
-alias: /blog/C-SMTP-Mail-without-SMTP-Service-or-CDO.aspx
+alias: /blog/post/C-SMTP-Mail-without-SMTP-Service-or-CDO.aspx
 ---
 
 

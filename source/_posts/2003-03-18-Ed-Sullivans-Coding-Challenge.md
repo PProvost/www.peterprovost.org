@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Ed Sullivan's Coding Challenge"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:15:00
 categories:
  - Technology
 subtext-id: 46992009-6624-45e9-bf16-43db073c21c8
-alias: /blog/Ed-Sullivans-Coding-Challenge.aspx
+alias: /blog/post/Ed-Sullivans-Coding-Challenge.aspx
 ---
 
 

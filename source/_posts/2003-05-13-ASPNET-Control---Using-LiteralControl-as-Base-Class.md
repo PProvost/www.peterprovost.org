@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "ASP.NET Control - Using LiteralControl as Base Class"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-13 12:08:00
 categories:
  - Technology
 subtext-id: 1f1f434f-342f-4f36-ba99-b2858bdfff4f
-alias: /blog/ASPNET-Control---Using-LiteralControl-as-Base-Class.aspx
+alias: /blog/post/ASPNET-Control---Using-LiteralControl-as-Base-Class.aspx
 ---
 
 

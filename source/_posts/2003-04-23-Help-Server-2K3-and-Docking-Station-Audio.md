@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Help: Server 2K3 and Docking Station Audio"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-23 15:25:00
 categories:
  - Technology
 subtext-id: 79f530bf-6490-43cc-bfc6-548d69d5ab99
-alias: /blog/Help-Server-2K3-and-Docking-Station-Audio.aspx
+alias: /blog/post/Help-Server-2K3-and-Docking-Station-Audio.aspx
 ---
 
 

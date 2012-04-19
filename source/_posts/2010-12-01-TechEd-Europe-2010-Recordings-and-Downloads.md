@@ -12,7 +12,7 @@ tags:
  - agile planning
  - teched
 subtext-id: 11011583-475f-40a4-9485-cf50fa291de6
-alias: /blog/TechEd-Europe-2010-Recordings-and-Downloads.aspx
+alias: /blog/post/TechEd-Europe-2010-Recordings-and-Downloads.aspx
 ---
 
 Just before Thanksgiving I was in Berlin, Germany for TechEd Europe 2010. Have I ever mentioned how much I love this conference? I think I need to move to northern Europe for a few years. 

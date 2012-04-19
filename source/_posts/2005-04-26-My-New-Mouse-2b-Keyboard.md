@@ -6,7 +6,7 @@ date: 2005-04-26 07:02:00
 categories:
  - Technology
 subtext-id: 731a213b-7145-4064-8a13-616373d18a42
-alias: /blog/My-New-Mouse-2b-Keyboard.aspx
+alias: /blog/post/My-New-Mouse-2b-Keyboard.aspx
 ---
 
 

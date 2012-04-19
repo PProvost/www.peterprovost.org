@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "AOL Banning SMTP from DSL Servers"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-13 21:20:00
 categories:
  - Technology
 subtext-id: 0d8e0a2e-02cb-4b65-b398-4793b1715053
-alias: /blog/AOL-Banning-SMTP-from-DSL-Servers.aspx
+alias: /blog/post/AOL-Banning-SMTP-from-DSL-Servers.aspx
 ---
 
 

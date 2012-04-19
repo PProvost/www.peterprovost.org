@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Reflectoring"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Community
  - Technology
 subtext-id: 78c5aec0-44c8-4131-87ac-e18056cc0fc2
-alias: /blog/Reflectoring.aspx
+alias: /blog/post/Reflectoring.aspx
 ---
 
 

@@ -10,7 +10,7 @@ tags:
  - vista
  - powershell
 subtext-id: b8704a3e-7d30-4bdc-8c3f-914c71b54eab
-alias: /blog/Powershell-Sudo-(sort-of)-for-Vista-UAC.aspx
+alias: /blog/post/Powershell-Sudo-(sort-of)-for-Vista-UAC.aspx
 ---
 
 

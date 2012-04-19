@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Another SharpReader Observation"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-10 08:14:00
 categories:
  - Technology
 subtext-id: a4b1eb04-d20c-4c0a-9b7f-b09213407ed0
-alias: /blog/Another-SharpReader-Observation.aspx
+alias: /blog/post/Another-SharpReader-Observation.aspx
 ---
 
 

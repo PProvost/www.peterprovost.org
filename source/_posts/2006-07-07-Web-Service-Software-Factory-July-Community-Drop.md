@@ -11,7 +11,7 @@ tags:
  - entlib
  - software factories
 subtext-id: 6ded4148-428e-4693-8a5b-5a0b07aa531d
-alias: /blog/Web-Service-Software-Factory-July-Community-Drop.aspx
+alias: /blog/post/Web-Service-Software-Factory-July-Community-Drop.aspx
 ---
 
 

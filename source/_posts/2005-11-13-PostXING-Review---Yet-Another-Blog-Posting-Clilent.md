@@ -7,7 +7,7 @@ updated: 2005-11-13 19:05:00
 categories:
  - Technology
 subtext-id: 143efcc1-c3ca-46af-8ba9-91a99d97543a
-alias: /blog/PostXING-Review---Yet-Another-Blog-Posting-Clilent.aspx
+alias: /blog/post/PostXING-Review---Yet-Another-Blog-Posting-Clilent.aspx
 ---
 
 

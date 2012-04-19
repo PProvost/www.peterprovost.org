@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Microsoft Windows Server 2003 vs. Linux"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-07 14:08:00
 categories:
  - Technology
 subtext-id: c6eb698f-d69b-4d6c-8913-5567735e864b
-alias: /blog/Microsoft-Windows-Server-2003-vs-Linux.aspx
+alias: /blog/post/Microsoft-Windows-Server-2003-vs-Linux.aspx
 ---
 
 

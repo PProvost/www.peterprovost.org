@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Match.com Goes .NET and Wins"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-05 21:54:00
 categories:
  - Technology
 subtext-id: 12fbebb8-2c84-4924-889e-a13bcddbdcfb
-alias: /blog/Matchcom-Goes-NET-and-Wins.aspx
+alias: /blog/post/Matchcom-Goes-NET-and-Wins.aspx
 ---
 
 

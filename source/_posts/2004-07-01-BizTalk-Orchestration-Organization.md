@@ -4,7 +4,7 @@ title: "BizTalk Orchestration Organization"
 comments: false
 date: 2004-07-01 15:56:00
 subtext-id: 902e1d93-2f8c-4b5d-a3d9-02d5b4734296
-alias: /blog/BizTalk-Orchestration-Organization.aspx
+alias: /blog/post/BizTalk-Orchestration-Organization.aspx
 ---
 
 

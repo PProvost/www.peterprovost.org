@@ -6,7 +6,7 @@ date: 2004-07-27 14:46:00
 categories:
  - Technology
 subtext-id: 3424b046-1389-43cd-badd-8020c2e13358
-alias: /blog/SQL-Server-2005-Beta-2-on-MSDN-Subscriber-Downloads.aspx
+alias: /blog/post/SQL-Server-2005-Beta-2-on-MSDN-Subscriber-Downloads.aspx
 ---
 
 

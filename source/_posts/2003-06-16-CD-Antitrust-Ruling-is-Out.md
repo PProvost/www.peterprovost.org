@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "CD Antitrust Ruling is Out"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:30:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: 20f326e2-d752-4584-b68e-596594d216ea
-alias: /blog/CD-Antitrust-Ruling-is-Out.aspx
+alias: /blog/post/CD-Antitrust-Ruling-is-Out.aspx
 ---
 
 

@@ -6,7 +6,7 @@ date: 2004-08-31 11:31:00
 categories:
  - Personal
 subtext-id: 4fa47c80-7bb3-41bc-a392-0767744acf88
-alias: /blog/First-Day-at-MS.aspx
+alias: /blog/post/First-Day-at-MS.aspx
 ---
 
 

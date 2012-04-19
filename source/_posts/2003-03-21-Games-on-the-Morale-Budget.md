@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Games on the \"Morale\" Budget?"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-21 07:25:00
 categories:
  - Technology
 subtext-id: fea23efd-9102-46f0-9d7a-925e5c3ad72b
-alias: /blog/Games-on-the-Morale-Budget.aspx
+alias: /blog/post/Games-on-the-Morale-Budget.aspx
 ---
 
 

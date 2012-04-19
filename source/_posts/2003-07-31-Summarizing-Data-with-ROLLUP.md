@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Summarizing Data with ROLLUP"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-31 07:42:00
 categories:
  - Technology
 subtext-id: 5e1c8847-25a4-466f-8778-651ebafac5ac
-alias: /blog/Summarizing-Data-with-ROLLUP.aspx
+alias: /blog/post/Summarizing-Data-with-ROLLUP.aspx
 ---
 
 

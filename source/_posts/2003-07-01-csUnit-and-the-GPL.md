@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "csUnit and the GPL"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-01 19:42:00
 categories:
  - Technology
 subtext-id: f405e41c-b989-4352-a5a5-0b890b464fc7
-alias: /blog/csUnit-and-the-GPL.aspx
+alias: /blog/post/csUnit-and-the-GPL.aspx
 ---
 
 

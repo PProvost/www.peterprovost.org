@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Caching in WinForms"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-12 21:45:00
 categories:
  - Technology
 subtext-id: dbaea441-4622-44c9-8ade-a07aa58c84c8
-alias: /blog/Caching-in-WinForms.aspx
+alias: /blog/post/Caching-in-WinForms.aspx
 ---
 
 

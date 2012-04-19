@@ -6,7 +6,7 @@ date: 2006-01-14 15:20:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: 02a9c34d-0be3-4a79-a0fe-fe6b6562420c
-alias: /blog/Blonde-Joke.aspx
+alias: /blog/post/Blonde-Joke.aspx
 ---
 
 

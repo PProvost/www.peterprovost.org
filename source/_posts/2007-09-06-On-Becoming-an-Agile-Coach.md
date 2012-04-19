@@ -6,7 +6,7 @@ date: 2007-09-06 12:50:00
 categories:
  - Agile Software Development
 subtext-id: 644a9a9c-814e-4b65-8dee-79603255ca1d
-alias: /blog/On-Becoming-an-Agile-Coach.aspx
+alias: /blog/post/On-Becoming-an-Agile-Coach.aspx
 ---
 
 

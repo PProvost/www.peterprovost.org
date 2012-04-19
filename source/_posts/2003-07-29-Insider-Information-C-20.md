@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Insider Information: C# 2.0"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-29 07:28:00
 categories:
  - Technology
 subtext-id: 970a6db3-15b0-4d22-9061-14bfc6b6f919
-alias: /blog/Insider-Information-C-20.aspx
+alias: /blog/post/Insider-Information-C-20.aspx
 ---
 
 

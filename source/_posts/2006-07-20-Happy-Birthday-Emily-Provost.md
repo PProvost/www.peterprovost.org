@@ -4,7 +4,7 @@ title: "Happy Birthday Emily Provost"
 comments: false
 date: 2006-07-20 08:16:00
 subtext-id: d8de2113-de8a-4ccb-96a6-e3c0e650f66b
-alias: /blog/Happy-Birthday-Emily-Provost.aspx
+alias: /blog/post/Happy-Birthday-Emily-Provost.aspx
 ---
 
 

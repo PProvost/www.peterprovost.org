@@ -6,7 +6,7 @@ date: 2004-10-24 22:25:00
 categories:
  - Technology
 subtext-id: da3e5983-4625-4fee-906a-d6b24fc91406
-alias: /blog/DirecTV-TiVo-2b-Lingo-VoiP-3d3d-Not-Good.aspx
+alias: /blog/post/DirecTV-TiVo-2b-Lingo-VoiP-3d3d-Not-Good.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More Maverick.NET"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:36:00
 categories:
  - Technology
 subtext-id: adb4a993-f8b0-41b7-9f1d-237683c305f0
-alias: /blog/More-MaverickNET.aspx
+alias: /blog/post/More-MaverickNET.aspx
 ---
 
 

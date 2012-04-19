@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC - .NET Rocks Live"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:33:00
 categories:
  - Technology
 subtext-id: 8c5b5d16-152f-4063-b9eb-1b8b94d9f39a
-alias: /blog/PDC---NET-Rocks-Live.aspx
+alias: /blog/post/PDC---NET-Rocks-Live.aspx
 ---
 
 

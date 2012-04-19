@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Michael Moore at the Oscars"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:00:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: 875a71c1-e793-4a9c-8b59-2317587074ed
-alias: /blog/Michael-Moore-at-the-Oscars.aspx
+alias: /blog/post/Michael-Moore-at-the-Oscars.aspx
 ---
 
 

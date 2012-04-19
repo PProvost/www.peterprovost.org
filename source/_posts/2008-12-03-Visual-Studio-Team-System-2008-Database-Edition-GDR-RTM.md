@@ -9,7 +9,7 @@ tags:
  - vsts
  - database
 subtext-id: e1e8ca09-39ad-470b-bd5a-8e3d5ac5dfa6
-alias: /blog/Visual-Studio-Team-System-2008-Database-Edition-GDR-RTM.aspx
+alias: /blog/post/Visual-Studio-Team-System-2008-Database-Edition-GDR-RTM.aspx
 ---
 
 

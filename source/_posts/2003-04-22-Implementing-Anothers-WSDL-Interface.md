@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Implementing Another's WSDL Interface"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-22 18:38:00
 categories:
  - Technology
 subtext-id: 1761e180-b185-40b0-a952-d2bd8a015e3d
-alias: /blog/Implementing-Anothers-WSDL-Interface.aspx
+alias: /blog/post/Implementing-Anothers-WSDL-Interface.aspx
 ---
 
 

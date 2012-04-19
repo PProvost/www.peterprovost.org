@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Kevin's Story"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:40:00
 categories:
  - Technology
 subtext-id: 6ee99809-ebaf-4c12-8705-c6f47a9c1629
-alias: /blog/Kevins-Story.aspx
+alias: /blog/post/Kevins-Story.aspx
 ---
 
 

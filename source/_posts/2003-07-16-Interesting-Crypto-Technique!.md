@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Interesting Crypto Technique!?"
 comments: false
@@ -9,7 +9,7 @@ categories:
 tags:
  - cryptography
 subtext-id: a97ee816-e74c-4437-964d-8fc00f67f6a9
-alias: /blog/Interesting-Crypto-Technique!.aspx
+alias: /blog/post/Interesting-Crypto-Technique!.aspx
 ---
 
 

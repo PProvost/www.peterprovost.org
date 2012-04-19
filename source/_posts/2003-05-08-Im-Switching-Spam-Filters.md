@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "I'm Switching Spam Filters"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-08 17:04:00
 categories:
  - Technology
 subtext-id: af0c5572-6017-4b51-87ba-d3f9cad60c64
-alias: /blog/Im-Switching-Spam-Filters.aspx
+alias: /blog/post/Im-Switching-Spam-Filters.aspx
 ---
 
 

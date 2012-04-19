@@ -8,7 +8,7 @@ categories:
  - Personal
  - Technology
 subtext-id: e47ab62e-5912-44d6-b2a6-b4482cb172b7
-alias: /blog/My-Outlook-TRAF-System.aspx
+alias: /blog/post/My-Outlook-TRAF-System.aspx
 ---
 
 

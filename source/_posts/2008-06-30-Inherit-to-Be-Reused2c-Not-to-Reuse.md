@@ -9,7 +9,7 @@ categories:
 tags:
  - ooad
 subtext-id: 2917a51b-e626-4bb6-972f-9905296cfed0
-alias: /blog/Inherit-to-Be-Reused2c-Not-to-Reuse.aspx
+alias: /blog/post/Inherit-to-Be-Reused2c-Not-to-Reuse.aspx
 ---
 
 

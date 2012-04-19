@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "New Site is Done (For Now)"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:00:00
 categories:
  - Technology
 subtext-id: 921c74cc-6d67-4492-9932-0dd0a24b1e99
-alias: /blog/New-Site-is-Done-(For-Now).aspx
+alias: /blog/post/New-Site-is-Done-(For-Now).aspx
 ---
 
 

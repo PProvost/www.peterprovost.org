@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "ASP.NET 2.0 Shown to the Public"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-07 13:44:00
 categories:
  - Technology
 subtext-id: 7118681d-c317-4cca-9adf-46be168e2b14
-alias: /blog/ASPNET-20-Shown-to-the-Public.aspx
+alias: /blog/post/ASPNET-20-Shown-to-the-Public.aspx
 ---
 
 

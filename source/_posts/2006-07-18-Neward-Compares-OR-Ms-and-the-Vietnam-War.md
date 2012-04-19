@@ -7,7 +7,7 @@ updated: 2008-07-06 19:44:33
 categories:
  - Technology
 subtext-id: 95ece19b-9221-463d-951f-cd6ca5c57357
-alias: /blog/Neward-Compares-OR-Ms-and-the-Vietnam-War.aspx
+alias: /blog/post/Neward-Compares-OR-Ms-and-the-Vietnam-War.aspx
 ---
 
 

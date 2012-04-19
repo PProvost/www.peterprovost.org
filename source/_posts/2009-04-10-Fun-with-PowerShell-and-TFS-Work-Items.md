@@ -12,7 +12,7 @@ tags:
  - vsts
  - powershell
 subtext-id: 7f9b2184-d0f1-47ee-993d-0375e3641779
-alias: /blog/Fun-with-PowerShell-and-TFS-Work-Items.aspx
+alias: /blog/post/Fun-with-PowerShell-and-TFS-Work-Items.aspx
 ---
 
 

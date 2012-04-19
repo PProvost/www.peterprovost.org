@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More SharpReader Comments"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-07 08:35:00
 categories:
  - Technology
 subtext-id: 045c4c37-8c4a-43d2-b84c-bd4ab1971d52
-alias: /blog/More-SharpReader-Comments.aspx
+alias: /blog/post/More-SharpReader-Comments.aspx
 ---
 
 

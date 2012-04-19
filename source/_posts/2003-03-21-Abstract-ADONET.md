@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Abstract ADO.NET"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-21 20:54:00
 categories:
  - Technology
 subtext-id: eac374ac-3d6a-490a-92b0-c0b1260b7299
-alias: /blog/Abstract-ADONET.aspx
+alias: /blog/post/Abstract-ADONET.aspx
 ---
 
 

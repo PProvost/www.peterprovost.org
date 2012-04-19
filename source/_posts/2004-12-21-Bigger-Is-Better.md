@@ -6,7 +6,7 @@ date: 2004-12-21 07:59:00
 categories:
  - Technology
 subtext-id: d4e65614-dd04-4aa5-9a03-d07c4fbc3576
-alias: /blog/Bigger-Is-Better.aspx
+alias: /blog/post/Bigger-Is-Better.aspx
 ---
 
 

@@ -9,7 +9,7 @@ categories:
 tags:
  - tdd
 subtext-id: 985eb6f0-fc0f-42b9-a9b6-18d89ab1b547
-alias: /blog/Using-CrossThreadTestRunner.aspx
+alias: /blog/post/Using-CrossThreadTestRunner.aspx
 ---
 
 

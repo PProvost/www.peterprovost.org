@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "AngryCoder Pays Real Money for BlogShares Biggest Portfolios"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-22 22:32:00
 categories:
  - Technology
 subtext-id: e7bc475d-623e-42ac-a053-6c81681a4a9a
-alias: /blog/AngryCoder-Pays-Real-Money-for-BlogShares-Biggest-Portfolios.aspx
+alias: /blog/post/AngryCoder-Pays-Real-Money-for-BlogShares-Biggest-Portfolios.aspx
 ---
 
 

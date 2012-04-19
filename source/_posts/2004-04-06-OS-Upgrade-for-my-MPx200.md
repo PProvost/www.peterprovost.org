@@ -7,7 +7,7 @@ updated: 2004-05-01 11:17:00
 categories:
  - Technology
 subtext-id: cf9da607-9a0f-4fc5-8305-82efbc0ab6af
-alias: /blog/OS-Upgrade-for-my-MPx200.aspx
+alias: /blog/post/OS-Upgrade-for-my-MPx200.aspx
 ---
 
 

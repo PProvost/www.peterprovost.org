@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: ".NET Command Prompt Here Tip"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-24 10:36:00
 categories:
  - Technology
 subtext-id: 7e75d82d-bba5-4018-bf83-b74f0e38300a
-alias: /blog/NET-Command-Prompt-Here-Tip.aspx
+alias: /blog/post/NET-Command-Prompt-Here-Tip.aspx
 ---
 
 

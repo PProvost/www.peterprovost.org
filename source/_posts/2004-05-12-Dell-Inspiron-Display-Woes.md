@@ -7,7 +7,7 @@ categories:
  - Community
  - Technology
 subtext-id: 555d0867-6671-4665-9386-33f96506e93e
-alias: /blog/Dell-Inspiron-Display-Woes.aspx
+alias: /blog/post/Dell-Inspiron-Display-Woes.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "\"Anti\"-Things you must install on your fresh Windows box"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 00:37:00
 categories:
  - Technology
 subtext-id: f6584c91-1d68-4948-a2f7-ce7aeaaa62fe
-alias: /blog/Anti-Things-you-must-install-on-your-fresh-Windows-box.aspx
+alias: /blog/post/Anti-Things-you-must-install-on-your-fresh-Windows-box.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Response.End in ASP.NET and HTTP Handlers"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 15:05:00
 categories:
  - Technology
 subtext-id: f7df5987-b4b9-4ce6-a5f6-ff5d2ae74750
-alias: /blog/ResponseEnd-in-ASPNET-and-HTTP-Handlers.aspx
+alias: /blog/post/ResponseEnd-in-ASPNET-and-HTTP-Handlers.aspx
 ---
 
 

@@ -9,7 +9,7 @@ categories:
 tags:
  - vsts
 subtext-id: 16f70369-e267-47fa-a62c-d04bde935af7
-alias: /blog/TechEd-2008-Coverage-of-VSTS-Architect-Edition.aspx
+alias: /blog/post/TechEd-2008-Coverage-of-VSTS-Architect-Edition.aspx
 ---
 
 

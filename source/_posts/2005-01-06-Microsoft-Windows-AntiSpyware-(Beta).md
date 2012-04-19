@@ -6,7 +6,7 @@ date: 2005-01-06 09:24:00
 categories:
  - Technology
 subtext-id: e27d3de4-33fb-476f-94e0-990271e8a499
-alias: /blog/Microsoft-Windows-AntiSpyware-(Beta).aspx
+alias: /blog/post/Microsoft-Windows-AntiSpyware-(Beta).aspx
 ---
 
 

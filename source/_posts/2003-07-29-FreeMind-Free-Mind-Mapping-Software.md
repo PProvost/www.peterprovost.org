@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "FreeMind: Free Mind Mapping Software"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-29 08:17:00
 categories:
  - Technology
 subtext-id: 7fab3c51-5fd1-4ef2-b08a-a387f92e7d47
-alias: /blog/FreeMind-Free-Mind-Mapping-Software.aspx
+alias: /blog/post/FreeMind-Free-Mind-Mapping-Software.aspx
 ---
 
 

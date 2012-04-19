@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC - Power Harder to Find Than Bandwidth"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:34:00
 categories:
  - Technology
 subtext-id: e2884d5b-116e-4678-b5f5-fed154e5f264
-alias: /blog/PDC---Power-Harder-to-Find-Than-Bandwidth.aspx
+alias: /blog/post/PDC---Power-Harder-to-Find-Than-Bandwidth.aspx
 ---
 
 

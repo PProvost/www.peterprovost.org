@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Code Generation"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-22 19:38:00
 categories:
  - Technology
 subtext-id: 8089d2fe-ddd6-40bd-87d0-e46b47d71958
-alias: /blog/Code-Generation.aspx
+alias: /blog/post/Code-Generation.aspx
 ---
 
 

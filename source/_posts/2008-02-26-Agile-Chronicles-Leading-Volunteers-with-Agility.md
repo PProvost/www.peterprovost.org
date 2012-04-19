@@ -9,7 +9,7 @@ categories:
 tags:
  - leadership
 subtext-id: f35e2aa3-ddc7-4198-89bc-5af934440f28
-alias: /blog/Agile-Chronicles-Leading-Volunteers-with-Agility.aspx
+alias: /blog/post/Agile-Chronicles-Leading-Volunteers-with-Agility.aspx
 ---
 
 

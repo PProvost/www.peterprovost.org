@@ -8,7 +8,7 @@ categories:
  - Opinions, Politics, Rants
  - Technology
 subtext-id: 6a6cc246-9392-42bd-bc47-9308db14922a
-alias: /blog/Thinktecture-Is.aspx
+alias: /blog/post/Thinktecture-Is.aspx
 ---
 
 

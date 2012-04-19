@@ -10,7 +10,7 @@ tags:
  - tdd
  - agile development
 subtext-id: 16866a63-1c33-4f34-b25c-6c3a35e6c13e
-alias: /blog/TechEd-Unit-Testing-and-the-SDLC.aspx
+alias: /blog/post/TechEd-Unit-Testing-and-the-SDLC.aspx
 ---
 
 

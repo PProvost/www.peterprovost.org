@@ -6,7 +6,7 @@ date: 2007-09-18 08:52:00
 categories:
  - Games and Other Fun Stuff
 subtext-id: cff743f0-9c87-4944-a99b-4c63bd23b92c
-alias: /blog/World-Clock.aspx
+alias: /blog/post/World-Clock.aspx
 ---
 
 

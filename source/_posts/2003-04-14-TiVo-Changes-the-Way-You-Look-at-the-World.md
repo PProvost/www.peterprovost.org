@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "TiVo Changes the Way You Look at the World"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:50:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: e307a3da-e002-4cf7-9ef9-6082694ed261
-alias: /blog/TiVo-Changes-the-Way-You-Look-at-the-World.aspx
+alias: /blog/post/TiVo-Changes-the-Way-You-Look-at-the-World.aspx
 ---
 
 

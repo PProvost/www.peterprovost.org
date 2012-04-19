@@ -7,7 +7,7 @@ updated: 2004-10-01 14:14:00
 categories:
  - Technology
 subtext-id: 220cb698-c994-474d-bd1a-a8db51af4ec7
-alias: /blog/SharePoint-Portal-Area-Explorer-v104.aspx
+alias: /blog/post/SharePoint-Portal-Area-Explorer-v104.aspx
 ---
 
 

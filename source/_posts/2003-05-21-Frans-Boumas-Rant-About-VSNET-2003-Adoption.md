@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Frans Bouma's Rant About VS.NET 2003 Adoption"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-21 10:15:00
 categories:
  - Technology
 subtext-id: 46aafb63-253d-47ef-9268-babd0f88ee9c
-alias: /blog/Frans-Boumas-Rant-About-VSNET-2003-Adoption.aspx
+alias: /blog/post/Frans-Boumas-Rant-About-VSNET-2003-Adoption.aspx
 ---
 
 

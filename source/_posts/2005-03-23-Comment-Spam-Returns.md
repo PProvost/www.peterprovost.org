@@ -6,7 +6,7 @@ date: 2005-03-23 09:26:00
 categories:
  - Technology
 subtext-id: 1362df85-0688-4e17-8e16-c9c8262d9bf7
-alias: /blog/Comment-Spam-Returns.aspx
+alias: /blog/post/Comment-Spam-Returns.aspx
 ---
 
 

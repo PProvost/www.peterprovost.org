@@ -5,7 +5,7 @@ comments: false
 date: 2004-05-24 14:13:00
 updated: 2004-05-27 18:14:00
 subtext-id: fdefb73d-4b04-40ff-803c-ae8f20dd246c
-alias: /blog/CTS200---Connected-Systems-Service-Orientation-and-the-WindowsNET-Developer.aspx
+alias: /blog/post/CTS200---Connected-Systems-Service-Orientation-and-the-WindowsNET-Developer.aspx
 ---
 
 

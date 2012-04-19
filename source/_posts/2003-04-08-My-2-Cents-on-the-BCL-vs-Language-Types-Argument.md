@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "My 2 Cents on the BCL vs. Language Types Argument"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-08 18:53:00
 categories:
  - Technology
 subtext-id: 7961197e-8f88-4b0f-b58a-341a58dc0f5c
-alias: /blog/My-2-Cents-on-the-BCL-vs-Language-Types-Argument.aspx
+alias: /blog/post/My-2-Cents-on-the-BCL-vs-Language-Types-Argument.aspx
 ---
 
 

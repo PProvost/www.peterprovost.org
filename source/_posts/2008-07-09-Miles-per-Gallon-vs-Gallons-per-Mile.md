@@ -10,7 +10,7 @@ categories:
 tags:
  - science
 subtext-id: d57a8cfb-1fc0-4159-8c4c-66f5953dd9ae
-alias: /blog/Miles-per-Gallon-vs-Gallons-per-Mile.aspx
+alias: /blog/post/Miles-per-Gallon-vs-Gallons-per-Mile.aspx
 ---
 
 

@@ -5,7 +5,7 @@ comments: false
 date: 2004-05-21 17:42:00
 updated: 2004-05-23 18:18:00
 subtext-id: f7b1a90c-d1f6-4892-a796-330eeea371f1
-alias: /blog/TechEd-Coding-Slave-Meet-up-Info.aspx
+alias: /blog/post/TechEd-Coding-Slave-Meet-up-Info.aspx
 ---
 
 

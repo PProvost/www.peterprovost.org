@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Keith Brown's New Book Online in RSS!"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 15:53:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: 24cf2fc3-7d72-4ebb-a8fe-7724a00fe555
-alias: /blog/Keith-Browns-New-Book-Online-in-RSS!.aspx
+alias: /blog/post/Keith-Browns-New-Book-Online-in-RSS!.aspx
 ---
 
 

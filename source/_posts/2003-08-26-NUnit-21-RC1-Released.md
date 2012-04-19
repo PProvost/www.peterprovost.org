@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "NUnit 2.1 RC1 Released"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-26 01:27:00
 categories:
  - Technology
 subtext-id: 3450e8bd-c833-4c2b-9734-0e8f6ec4b476
-alias: /blog/NUnit-21-RC1-Released.aspx
+alias: /blog/post/NUnit-21-RC1-Released.aspx
 ---
 
 

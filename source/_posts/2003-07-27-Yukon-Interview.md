@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Yukon Interview"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-27 11:03:00
 categories:
  - Technology
 subtext-id: 2cefe8c9-6083-4139-89a4-844387c79767
-alias: /blog/Yukon-Interview.aspx
+alias: /blog/post/Yukon-Interview.aspx
 ---
 
 

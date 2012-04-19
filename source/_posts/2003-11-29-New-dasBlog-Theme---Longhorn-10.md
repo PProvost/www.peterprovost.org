@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "New dasBlog Theme - Longhorn 1.0"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:00:00
 categories:
  - Technology
 subtext-id: ff52aec9-fe3d-4746-ade7-697fcd59cc42
-alias: /blog/New-dasBlog-Theme---Longhorn-10.aspx
+alias: /blog/post/New-dasBlog-Theme---Longhorn-10.aspx
 ---
 
 

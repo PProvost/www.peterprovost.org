@@ -7,7 +7,7 @@ categories:
  - Personal
  - Technology
 subtext-id: 0b3a98e6-938d-4d88-a832-daf6d940f6a5
-alias: /blog/Computers-and-Kids.aspx
+alias: /blog/post/Computers-and-Kids.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Sequence Browser for .NET"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-07 13:36:00
 categories:
  - Technology
 subtext-id: 4c952224-8944-4c08-a7c2-615ea6bd4bc5
-alias: /blog/Sequence-Browser-for-NET.aspx
+alias: /blog/post/Sequence-Browser-for-NET.aspx
 ---
 
 

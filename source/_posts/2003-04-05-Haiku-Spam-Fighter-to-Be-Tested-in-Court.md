@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Haiku Spam-Fighter to Be Tested in Court"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 09:52:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: db17f426-12dd-49c6-86f5-c64c84af16a8
-alias: /blog/Haiku-Spam-Fighter-to-Be-Tested-in-Court.aspx
+alias: /blog/post/Haiku-Spam-Fighter-to-Be-Tested-in-Court.aspx
 ---
 
 

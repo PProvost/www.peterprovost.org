@@ -9,7 +9,7 @@ tags:
  - visual studio
  - vsts
 subtext-id: def2201c-46e8-4eeb-93c0-a1c95fcc8702
-alias: /blog/ArcCastTV-ndash3b-Whatrsquo3bs-coming-for-Architects-in-Visual-Studio-Team-System.aspx
+alias: /blog/post/ArcCastTV-ndash3b-Whatrsquo3bs-coming-for-Architects-in-Visual-Studio-Team-System.aspx
 ---
 
 

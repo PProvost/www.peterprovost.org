@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Is Palm in Trouble?"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:21:00
 categories:
  - Technology
 subtext-id: d1a9e3bf-ee55-4548-8bae-012907ff6277
-alias: /blog/Is-Palm-in-Trouble.aspx
+alias: /blog/post/Is-Palm-in-Trouble.aspx
 ---
 
 

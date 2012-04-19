@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Orrin Hatch is an Idiot"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Opinions, Politics, Rants
  - Technology
 subtext-id: f54e2c84-a6b8-4887-b253-5c4e1198ccb4
-alias: /blog/Orrin-Hatch-is-an-Idiot.aspx
+alias: /blog/post/Orrin-Hatch-is-an-Idiot.aspx
 ---
 
 

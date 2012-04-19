@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Cisco to buy Linksys"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-20 12:31:00
 categories:
  - Technology
 subtext-id: 35664582-6e25-4f9d-8779-79d4524628eb
-alias: /blog/Cisco-to-buy-Linksys.aspx
+alias: /blog/post/Cisco-to-buy-Linksys.aspx
 ---
 
 

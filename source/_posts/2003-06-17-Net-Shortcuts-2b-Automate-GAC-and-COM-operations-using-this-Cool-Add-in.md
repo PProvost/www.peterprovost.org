@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: ".Net Shortcuts + Automate GAC and COM operations using this Cool Add-in"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-11-11 17:45:00
 categories:
  - Technology
 subtext-id: 9570b9a4-5e88-4bc6-889c-77de41b85631
-alias: /blog/Net-Shortcuts-2b-Automate-GAC-and-COM-operations-using-this-Cool-Add-in.aspx
+alias: /blog/post/Net-Shortcuts-2b-Automate-GAC-and-COM-operations-using-this-Cool-Add-in.aspx
 ---
 
 

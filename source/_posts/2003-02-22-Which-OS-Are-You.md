@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Which OS Are You?"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:33:00
 categories:
  - Technology
 subtext-id: 02dc3549-9120-4fec-ad21-f3d86b7974ab
-alias: /blog/Which-OS-Are-You.aspx
+alias: /blog/post/Which-OS-Are-You.aspx
 ---
 
 

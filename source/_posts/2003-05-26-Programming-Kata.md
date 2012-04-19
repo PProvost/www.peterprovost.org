@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Programming Kata"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-26 20:07:00
 categories:
  - Technology
 subtext-id: 5ee5dab3-f8eb-46be-a1d7-007bfd80e324
-alias: /blog/Programming-Kata.aspx
+alias: /blog/post/Programming-Kata.aspx
 ---
 
 

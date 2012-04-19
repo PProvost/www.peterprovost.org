@@ -7,7 +7,7 @@ updated: 2004-05-01 11:13:00
 categories:
  - Community
 subtext-id: c72b5b66-c314-4ef5-be04-93f8f3a5a067
-alias: /blog/Denver-SharePoint-Users-Group.aspx
+alias: /blog/post/Denver-SharePoint-Users-Group.aspx
 ---
 
 

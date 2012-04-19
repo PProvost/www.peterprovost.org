@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "ASP.NET Starter Kits"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:27:00
 categories:
  - Technology
 subtext-id: 0f4f4a3f-cdb7-49ff-8d9c-51e1c84615f7
-alias: /blog/ASPNET-Starter-Kits.aspx
+alias: /blog/post/ASPNET-Starter-Kits.aspx
 ---
 
 

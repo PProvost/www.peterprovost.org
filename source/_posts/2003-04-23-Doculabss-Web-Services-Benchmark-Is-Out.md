@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Doculabss Web Services Benchmark Is Out"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-23 15:15:00
 categories:
  - Technology
 subtext-id: f1a437d7-27db-4ac7-920b-8b6a5c99f10c
-alias: /blog/Doculabss-Web-Services-Benchmark-Is-Out.aspx
+alias: /blog/post/Doculabss-Web-Services-Benchmark-Is-Out.aspx
 ---
 
 

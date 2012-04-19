@@ -6,7 +6,7 @@ date: 2005-11-14 09:46:00
 categories:
  - Technology
 subtext-id: 210ee437-f7e9-4280-8e61-71669c332c44
-alias: /blog/Kill-the-Sony-Rootkit.aspx
+alias: /blog/post/Kill-the-Sony-Rootkit.aspx
 ---
 
 

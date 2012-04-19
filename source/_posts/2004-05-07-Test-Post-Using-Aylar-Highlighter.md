@@ -7,7 +7,7 @@ updated: 2004-05-07 13:25:00
 categories:
  - Technology
 subtext-id: e2eafe10-ab14-4caf-b854-873a82c78c65
-alias: /blog/Test-Post-Using-Aylar-Highlighter.aspx
+alias: /blog/post/Test-Post-Using-Aylar-Highlighter.aspx
 ---
 
 

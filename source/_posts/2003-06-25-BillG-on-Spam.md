@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "BillG on Spam"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-25 14:25:00
 categories:
  - Technology
 subtext-id: 93c638e4-1bdf-483a-bd61-3ee27f806b41
-alias: /blog/BillG-on-Spam.aspx
+alias: /blog/post/BillG-on-Spam.aspx
 ---
 
 

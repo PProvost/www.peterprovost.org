@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Microsoft Timeline"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-11-07 19:58:00
 categories:
  - Technology
 subtext-id: 7e579ae5-489e-4440-948d-db9a4002d253
-alias: /blog/Microsoft-Timeline.aspx
+alias: /blog/post/Microsoft-Timeline.aspx
 ---
 
 

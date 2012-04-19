@@ -7,7 +7,7 @@ updated: 2007-04-18 11:24:00
 categories:
  - Technology
 subtext-id: ba25e9f1-21fd-4b0f-837b-76019627761c
-alias: /blog/Scrummerfall.aspx
+alias: /blog/post/Scrummerfall.aspx
 ---
 
 

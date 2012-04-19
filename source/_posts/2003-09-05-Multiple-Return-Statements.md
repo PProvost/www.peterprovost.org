@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Multiple Return Statements"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 14:36:00
 categories:
  - Technology
 subtext-id: 9b593149-b1eb-4d69-8bf7-d1c86349223a
-alias: /blog/Multiple-Return-Statements.aspx
+alias: /blog/post/Multiple-Return-Statements.aspx
 ---
 
 

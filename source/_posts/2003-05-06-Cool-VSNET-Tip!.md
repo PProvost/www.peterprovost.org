@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Cool VS.NET Tip!"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-06 16:13:00
 categories:
  - Technology
 subtext-id: 00d181d0-ed3a-4fc5-b363-adc272ddc29e
-alias: /blog/Cool-VSNET-Tip!.aspx
+alias: /blog/post/Cool-VSNET-Tip!.aspx
 ---
 
 

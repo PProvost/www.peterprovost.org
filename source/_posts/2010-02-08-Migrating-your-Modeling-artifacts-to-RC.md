@@ -8,7 +8,7 @@ categories:
 tags:
  - visual studio
 subtext-id: fcdf37e7-1e62-49a9-8162-48e1b7e6b44b
-alias: /blog/Migrating-your-Modeling-artifacts-to-RC.aspx
+alias: /blog/post/Migrating-your-Modeling-artifacts-to-RC.aspx
 ---
 
 

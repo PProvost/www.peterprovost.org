@@ -7,7 +7,7 @@ categories:
  - Community
  - Technology
 subtext-id: 0fe2bf25-c44b-4105-9ac3-c377d2eeb173
-alias: /blog/Do-you-twitter-(aka-twittering-from-TechEd-07).aspx
+alias: /blog/post/Do-you-twitter-(aka-twittering-from-TechEd-07).aspx
 ---
 
 

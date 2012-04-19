@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "SharpPrivacy - OpenPGP in C#"
 comments: false
@@ -9,7 +9,7 @@ categories:
 tags:
  - cryptography
 subtext-id: 1ddacadd-74b4-4e56-9c46-7d19d0da766d
-alias: /blog/SharpPrivacy-OpenPGP-in-C.aspx
+alias: /blog/post/SharpPrivacy-OpenPGP-in-C.aspx
 ---
 
 

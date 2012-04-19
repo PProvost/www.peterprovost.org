@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Spam Avoidance - Do We Need to Change SMTP?"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-03 20:08:00
 categories:
  - Technology
 subtext-id: 4724edd7-6607-4735-a055-17292b045d9c
-alias: /blog/Spam-Avoidance---Do-We-Need-to-Change-SMTP.aspx
+alias: /blog/post/Spam-Avoidance---Do-We-Need-to-Change-SMTP.aspx
 ---
 
 

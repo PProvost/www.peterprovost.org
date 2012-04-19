@@ -9,7 +9,7 @@ categories:
 tags:
  - powershell
 subtext-id: 076a9e56-daef-4d62-a3cb-17b22e8d0955
-alias: /blog/PowerShell2b2b-(aka-PowerShell-is-better-with-friends).aspx
+alias: /blog/post/PowerShell2b2b-(aka-PowerShell-is-better-with-friends).aspx
 ---
 
 

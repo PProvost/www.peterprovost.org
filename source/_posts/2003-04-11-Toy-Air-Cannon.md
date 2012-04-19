@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Toy Air Cannon"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-11 09:44:00
 categories:
  - Technology
 subtext-id: 07319a94-caae-4aaf-b0a6-77cb6452dd15
-alias: /blog/Toy-Air-Cannon.aspx
+alias: /blog/post/Toy-Air-Cannon.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Database Testing"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-21 07:41:00
 categories:
  - Technology
 subtext-id: df3f310d-2491-4952-aaca-486b87ca8a01
-alias: /blog/Database-Testing.aspx
+alias: /blog/post/Database-Testing.aspx
 ---
 
 

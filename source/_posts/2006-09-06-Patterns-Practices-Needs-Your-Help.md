@@ -10,7 +10,7 @@ categories:
 tags:
  - patterns & practices
 subtext-id: fb6d602a-7c2a-4254-a1c3-cc0498e8421d
-alias: /blog/Patterns-Practices-Needs-Your-Help.aspx
+alias: /blog/post/Patterns-Practices-Needs-Your-Help.aspx
 ---
 
 

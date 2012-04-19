@@ -7,7 +7,7 @@ updated: 2004-07-02 15:54:00
 categories:
  - Technology
 subtext-id: d3ab8d8b-6d9f-4b3e-a818-eb040b5dae85
-alias: /blog/Configuration-Change-to-Protect-Against-DownloadJect.aspx
+alias: /blog/post/Configuration-Change-to-Protect-Against-DownloadJect.aspx
 ---
 
 

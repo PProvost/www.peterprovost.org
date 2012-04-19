@@ -7,7 +7,7 @@ updated: 2004-08-18 09:02:00
 categories:
  - Technology
 subtext-id: 4f4b5b4e-b0ed-4a63-a63e-116e1b1a4623
-alias: /blog/Generic-BizTalk-Build-System.aspx
+alias: /blog/post/Generic-BizTalk-Build-System.aspx
 ---
 
 

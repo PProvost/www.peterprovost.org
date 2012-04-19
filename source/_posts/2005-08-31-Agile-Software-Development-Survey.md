@@ -6,7 +6,7 @@ date: 2005-08-31 09:35:00
 categories:
  - Technology
 subtext-id: 2d211e24-c8e5-4720-8b3d-15937af0e370
-alias: /blog/Agile-Software-Development-Survey.aspx
+alias: /blog/post/Agile-Software-Development-Survey.aspx
 ---
 
 

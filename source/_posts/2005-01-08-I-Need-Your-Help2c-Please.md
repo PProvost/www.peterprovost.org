@@ -7,7 +7,7 @@ categories:
  - Community
  - Technology
 subtext-id: 780d8e29-3509-4a79-a7a7-73fa00046c24
-alias: /blog/I-Need-Your-Help2c-Please.aspx
+alias: /blog/post/I-Need-Your-Help2c-Please.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "SQL Slammer Technical Write-up"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:17:00
 categories:
  - Technology
 subtext-id: 750bad2e-aefe-4971-bc79-b56686b0b601
-alias: /blog/SQL-Slammer-Technical-Write-up.aspx
+alias: /blog/post/SQL-Slammer-Technical-Write-up.aspx
 ---
 
 

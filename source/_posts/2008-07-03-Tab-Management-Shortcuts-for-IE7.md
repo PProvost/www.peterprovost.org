@@ -10,7 +10,7 @@ tags:
  - keyboard shortcuts
  - ie7
 subtext-id: e40ed4c4-34b2-42f5-bf64-3d6476459bf3
-alias: /blog/Tab-Management-Shortcuts-for-IE7.aspx
+alias: /blog/post/Tab-Management-Shortcuts-for-IE7.aspx
 ---
 
 

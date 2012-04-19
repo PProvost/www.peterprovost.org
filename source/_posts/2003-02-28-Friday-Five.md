@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Friday Five"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Community
  - Personal
 subtext-id: 1ba19a65-513b-4c77-b23c-dc9f3495d2d2
-alias: /blog/Friday-Five.aspx
+alias: /blog/post/Friday-Five.aspx
 ---
 
 

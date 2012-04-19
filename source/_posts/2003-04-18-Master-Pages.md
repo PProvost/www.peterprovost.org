@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Master Pages"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-18 15:27:00
 categories:
  - Technology
 subtext-id: b805b34a-1a18-4342-880f-c11e977fb011
-alias: /blog/Master-Pages.aspx
+alias: /blog/post/Master-Pages.aspx
 ---
 
 

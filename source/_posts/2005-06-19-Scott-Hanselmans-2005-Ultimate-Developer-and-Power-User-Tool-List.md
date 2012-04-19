@@ -7,7 +7,7 @@ updated: 2005-07-15 22:30:00
 categories:
  - Technology
 subtext-id: 121f72f0-3c01-42c3-b4d4-f72a31e2ee64
-alias: /blog/Scott-Hanselmans-2005-Ultimate-Developer-and-Power-User-Tool-List.aspx
+alias: /blog/post/Scott-Hanselmans-2005-Ultimate-Developer-and-Power-User-Tool-List.aspx
 ---
 
 

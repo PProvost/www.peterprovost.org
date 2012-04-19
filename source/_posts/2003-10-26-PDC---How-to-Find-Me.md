@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC - How to Find Me"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Personal
  - Technology
 subtext-id: ff55264c-2a11-4dfd-a1ca-d9ab78756e06
-alias: /blog/PDC---How-to-Find-Me.aspx
+alias: /blog/post/PDC---How-to-Find-Me.aspx
 ---
 
 

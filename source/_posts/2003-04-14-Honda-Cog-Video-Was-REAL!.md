@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Honda Cog Video Was REAL!"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:49:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: aa6ebd6e-8b89-45c7-89e6-d4d2a46c6011
-alias: /blog/Honda-Cog-Video-Was-REAL!.aspx
+alias: /blog/post/Honda-Cog-Video-Was-REAL!.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC - Starting to Crash"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:30:00
 categories:
  - Technology
 subtext-id: 30c54fad-ce6c-4ec4-9071-92a25d80ff01
-alias: /blog/PDC---Starting-to-Crash.aspx
+alias: /blog/post/PDC---Starting-to-Crash.aspx
 ---
 
 

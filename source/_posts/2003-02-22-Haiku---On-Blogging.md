@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Haiku - On Blogging"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-08-07 23:16:00
 categories:
  - Haiku
 subtext-id: b93b5fd9-3822-4898-bd77-32b45d5cbcc9
-alias: /blog/Haiku---On-Blogging.aspx
+alias: /blog/post/Haiku---On-Blogging.aspx
 ---
 
 

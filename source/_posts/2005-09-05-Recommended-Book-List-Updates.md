@@ -8,7 +8,7 @@ categories:
  - Technology
  - Books, Music, TV and Movies
 subtext-id: 9ef17061-0c72-4eb5-a5a7-2301fa0a527f
-alias: /blog/Recommended-Book-List-Updates.aspx
+alias: /blog/post/Recommended-Book-List-Updates.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Chris Sells Testifies About Open-Source in Government"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-04 16:26:00
 categories:
  - Technology
 subtext-id: 92266bd9-7024-443a-9680-b8dfe5d6b924
-alias: /blog/Chris-Sells-Testifies-About-Open-Source-in-Government.aspx
+alias: /blog/post/Chris-Sells-Testifies-About-Open-Source-in-Government.aspx
 ---
 
 

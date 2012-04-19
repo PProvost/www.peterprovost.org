@@ -7,7 +7,7 @@ updated: 2004-05-01 11:20:00
 categories:
  - Technology
 subtext-id: 4d7946f2-d6ce-4e22-adc9-3e055ad2366d
-alias: /blog/Plaxo-Anyone.aspx
+alias: /blog/post/Plaxo-Anyone.aspx
 ---
 
 

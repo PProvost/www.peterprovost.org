@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Gibson Digital Guitar"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:35:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: 3d8f4283-d251-41c7-9fd4-0252fd70d06c
-alias: /blog/Gibson-Digital-Guitar.aspx
+alias: /blog/post/Gibson-Digital-Guitar.aspx
 ---
 
 

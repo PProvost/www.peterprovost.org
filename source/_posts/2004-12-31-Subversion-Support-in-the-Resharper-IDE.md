@@ -6,7 +6,7 @@ date: 2004-12-31 07:46:00
 categories:
  - Technology
 subtext-id: 30ebe561-e6be-4ba4-8b05-b16fb953a89d
-alias: /blog/Subversion-Support-in-the-Resharper-IDE.aspx
+alias: /blog/post/Subversion-Support-in-the-Resharper-IDE.aspx
 ---
 
 

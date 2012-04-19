@@ -4,7 +4,7 @@ title: "More BlogJet Woes on Campus"
 comments: false
 date: 2004-09-09 22:01:00
 subtext-id: ec532af5-83c6-4859-beaa-1bc06bf617ae
-alias: /blog/More-BlogJet-Woes-on-Campus.aspx
+alias: /blog/post/More-BlogJet-Woes-on-Campus.aspx
 ---
 
 

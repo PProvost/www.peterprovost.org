@@ -7,7 +7,7 @@ updated: 2004-05-01 12:09:00
 categories:
  - Community
 subtext-id: 1ef51076-8ac2-43af-b8a9-ed130b6230ba
-alias: /blog/Whats-Your-Shame-Band.aspx
+alias: /blog/post/Whats-Your-Shame-Band.aspx
 ---
 
 

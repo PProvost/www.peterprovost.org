@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Messenger Plus!"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-10-04 22:08:00
 categories:
  - Technology
 subtext-id: 8b39bd34-d62a-4346-9c0f-efa695f64469
-alias: /blog/Messenger-Plus!.aspx
+alias: /blog/post/Messenger-Plus!.aspx
 ---
 
 

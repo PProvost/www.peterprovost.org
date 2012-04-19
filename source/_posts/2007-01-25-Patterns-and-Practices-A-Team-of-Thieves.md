@@ -11,7 +11,7 @@ tags:
  - patterns & practices
  - webcasts
 subtext-id: a98fa336-1390-43a0-a194-a717439cc950
-alias: /blog/Patterns-and-Practices-A-Team-of-Thieves.aspx
+alias: /blog/post/Patterns-and-Practices-A-Team-of-Thieves.aspx
 ---
 
 

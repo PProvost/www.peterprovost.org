@@ -13,7 +13,7 @@ tags:
  - tdd
  - cab
 subtext-id: e1a0957a-4ee6-4247-aff8-8110e06dcbcf
-alias: /blog/Slides-and-Code-from-Code-Camp.aspx
+alias: /blog/post/Slides-and-Code-from-Code-Camp.aspx
 ---
 
 

@@ -10,7 +10,7 @@ tags:
  - patterns & practices
  - software factories
 subtext-id: 9960dd36-4d45-4faf-86aa-6185ea544059
-alias: /blog/First-community-drop-of-the-Web-Service-Software-Factory-now-available!.aspx
+alias: /blog/post/First-community-drop-of-the-Web-Service-Software-Factory-now-available!.aspx
 ---
 
 

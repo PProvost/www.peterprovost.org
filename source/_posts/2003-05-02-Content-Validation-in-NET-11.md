@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Content Validation in .NET 1.1"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-02 08:47:00
 categories:
  - Technology
 subtext-id: 4ce088f0-8a65-464c-8a3f-29fa9cacee95
-alias: /blog/Content-Validation-in-NET-11.aspx
+alias: /blog/post/Content-Validation-in-NET-11.aspx
 ---
 
 

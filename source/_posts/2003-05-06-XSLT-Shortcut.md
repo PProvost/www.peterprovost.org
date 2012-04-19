@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "XSLT Shortcut"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-06 12:14:00
 categories:
  - Technology
 subtext-id: 77c02ec3-a93a-4739-bb04-ddd02faa52cd
-alias: /blog/XSLT-Shortcut.aspx
+alias: /blog/post/XSLT-Shortcut.aspx
 ---
 
 

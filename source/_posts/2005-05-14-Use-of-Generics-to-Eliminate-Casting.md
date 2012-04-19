@@ -7,7 +7,7 @@ updated: 2005-05-14 20:10:00
 categories:
  - Technology
 subtext-id: 18127f14-e009-4053-9c9f-501e312f9a92
-alias: /blog/Use-of-Generics-to-Eliminate-Casting.aspx
+alias: /blog/post/Use-of-Generics-to-Eliminate-Casting.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "EFF Article about DMCA"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:38:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: c338e3e4-996e-4171-b935-00c94726895c
-alias: /blog/EFF-Article-about-DMCA.aspx
+alias: /blog/post/EFF-Article-about-DMCA.aspx
 ---
 
 

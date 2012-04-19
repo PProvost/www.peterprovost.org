@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "No More ASP.NET WebForms?"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:36:00
 categories:
  - Technology
 subtext-id: c18a5820-63ae-402f-af47-e8e40c62c9cd
-alias: /blog/No-More-ASPNET-WebForms.aspx
+alias: /blog/post/No-More-ASPNET-WebForms.aspx
 ---
 
 

@@ -7,7 +7,7 @@ updated: 2005-03-29 06:38:00
 categories:
  - Technology
 subtext-id: 5c316f35-0b5b-4ed0-a35c-bfbf84f57ad6
-alias: /blog/Delta-Lounge-Podcast-Pt-1-is-Up.aspx
+alias: /blog/post/Delta-Lounge-Podcast-Pt-1-is-Up.aspx
 ---
 
 

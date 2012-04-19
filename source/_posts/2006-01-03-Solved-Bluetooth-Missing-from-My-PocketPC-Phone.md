@@ -6,7 +6,7 @@ date: 2006-01-03 21:10:00
 categories:
  - Technology
 subtext-id: 46929803-c5d8-46cf-8b26-70ef7109ab78
-alias: /blog/Solved-Bluetooth-Missing-from-My-PocketPC-Phone.aspx
+alias: /blog/post/Solved-Bluetooth-Missing-from-My-PocketPC-Phone.aspx
 ---
 
 

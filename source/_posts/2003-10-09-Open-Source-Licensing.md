@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Open Source Licensing"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Opinions, Politics, Rants
  - Technology
 subtext-id: 0d815f00-ec9f-48e0-b8fb-717bddb737b8
-alias: /blog/Open-Source-Licensing.aspx
+alias: /blog/post/Open-Source-Licensing.aspx
 ---
 
 

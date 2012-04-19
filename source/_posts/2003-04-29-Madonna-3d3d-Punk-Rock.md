@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Madonna == Punk Rock???"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:46:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: 44bb62fa-041a-4f24-b230-77f9b4dc9b3d
-alias: /blog/Madonna-3d3d-Punk-Rock.aspx
+alias: /blog/post/Madonna-3d3d-Punk-Rock.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "MS Patterns Available as PDF"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-08 20:06:00
 categories:
  - Technology
 subtext-id: d5813734-f997-4b21-8265-ff58e4b43cc7
-alias: /blog/MS-Patterns-Available-as-PDF.aspx
+alias: /blog/post/MS-Patterns-Available-as-PDF.aspx
 ---
 
 

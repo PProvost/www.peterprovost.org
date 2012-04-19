@@ -6,7 +6,7 @@ date: 2005-06-17 07:41:00
 categories:
  - Technology
 subtext-id: 1aa85d7b-8c9d-478e-9d5d-11276e522679
-alias: /blog/Second-Community-Drop-of-CompositeUI-Application-Block.aspx
+alias: /blog/post/Second-Community-Drop-of-CompositeUI-Application-Block.aspx
 ---
 
 

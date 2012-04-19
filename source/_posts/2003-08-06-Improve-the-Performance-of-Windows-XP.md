@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Improve the Performance of Windows XP"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-06 20:26:00
 categories:
  - Technology
 subtext-id: eeb6e5cb-af0d-413c-b02b-5eeca399c59c
-alias: /blog/Improve-the-Performance-of-Windows-XP.aspx
+alias: /blog/post/Improve-the-Performance-of-Windows-XP.aspx
 ---
 
 

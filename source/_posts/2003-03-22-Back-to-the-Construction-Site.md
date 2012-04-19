@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Back to the Construction Site"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:01:00
 categories:
  - Personal
 subtext-id: 29b11ded-6715-4202-b82e-6f19c49a8be1
-alias: /blog/Back-to-the-Construction-Site.aspx
+alias: /blog/post/Back-to-the-Construction-Site.aspx
 ---
 
 

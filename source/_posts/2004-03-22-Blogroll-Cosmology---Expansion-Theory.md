@@ -7,7 +7,7 @@ updated: 2004-05-01 11:57:00
 categories:
  - Community
 subtext-id: 6d82184a-24be-4028-979d-4e607d3fd24f
-alias: /blog/Blogroll-Cosmology---Expansion-Theory.aspx
+alias: /blog/post/Blogroll-Cosmology---Expansion-Theory.aspx
 ---
 
 

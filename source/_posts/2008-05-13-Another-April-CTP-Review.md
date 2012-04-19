@@ -9,7 +9,7 @@ categories:
 tags:
  - vsts
 subtext-id: e20861a4-f1ce-46c2-b61c-0588f335ea89
-alias: /blog/Another-April-CTP-Review.aspx
+alias: /blog/post/Another-April-CTP-Review.aspx
 ---
 
 

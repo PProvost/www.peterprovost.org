@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The Java Problem Memo"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:15:00
 categories:
  - Technology
 subtext-id: 6016f6c8-6986-457e-9b0b-627e497c2e51
-alias: /blog/The-Java-Problem-Memo.aspx
+alias: /blog/post/The-Java-Problem-Memo.aspx
 ---
 
 

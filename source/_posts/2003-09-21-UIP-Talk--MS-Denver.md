@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "UIP Talk @ MS Denver"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Community
  - Technology
 subtext-id: 5a5649fa-b9c3-489d-8295-35ee04082bf3
-alias: /blog/UIP-Talk--MS-Denver.aspx
+alias: /blog/post/UIP-Talk--MS-Denver.aspx
 ---
 
 

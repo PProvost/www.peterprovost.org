@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "November Meeting of the Denver Pragmatic Practitioners - DATE CHANGED"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:13:00
 categories:
  - Community
 subtext-id: 4c9b5e69-974a-4958-bb1a-d0c86a9ec0dd
-alias: /blog/November-Meeting-of-the-Denver-Pragmatic-Practitioners---DATE-CHANGED.aspx
+alias: /blog/post/November-Meeting-of-the-Denver-Pragmatic-Practitioners---DATE-CHANGED.aspx
 ---
 
 

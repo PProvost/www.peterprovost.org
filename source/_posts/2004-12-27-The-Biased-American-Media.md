@@ -6,7 +6,7 @@ date: 2004-12-27 15:47:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: 49d53a24-7330-4e63-8eb1-7540460539f2
-alias: /blog/The-Biased-American-Media.aspx
+alias: /blog/post/The-Biased-American-Media.aspx
 ---
 
 

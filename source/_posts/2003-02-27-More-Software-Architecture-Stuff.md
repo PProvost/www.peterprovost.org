@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More Software Architecture Stuff"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:15:00
 categories:
  - Technology
 subtext-id: 88ddc7e7-7beb-46e7-bd57-a080a9560acc
-alias: /blog/More-Software-Architecture-Stuff.aspx
+alias: /blog/post/More-Software-Architecture-Stuff.aspx
 ---
 
 

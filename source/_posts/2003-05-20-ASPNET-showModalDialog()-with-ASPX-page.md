@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "ASP.NET: showModalDialog() with ASPX page"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-20 20:55:00
 categories:
  - Technology
 subtext-id: 35d61678-a83d-4bd4-88e1-bdaecae4243b
-alias: /blog/ASPNET-showModalDialog()-with-ASPX-page.aspx
+alias: /blog/post/ASPNET-showModalDialog()-with-ASPX-page.aspx
 ---
 
 

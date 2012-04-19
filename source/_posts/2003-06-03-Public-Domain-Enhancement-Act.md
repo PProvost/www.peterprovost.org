@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Public Domain Enhancement Act"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-03 09:45:00
 categories:
  - Technology
 subtext-id: 95585939-4dab-4adf-90e3-ef396d410ba2
-alias: /blog/Public-Domain-Enhancement-Act.aspx
+alias: /blog/post/Public-Domain-Enhancement-Act.aspx
 ---
 
 

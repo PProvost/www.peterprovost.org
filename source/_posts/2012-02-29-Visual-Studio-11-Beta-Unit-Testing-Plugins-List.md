@@ -12,7 +12,7 @@ tags:
  - agile development
  - tdd
 subtext-id: 6d18f777-4887-46bd-94be-8d7d212cf5cb
-alias: /blog/Visual-Studio-11-Beta-Unit-Testing-Plugins-List.aspx
+alias: /blog/post/Visual-Studio-11-Beta-Unit-Testing-Plugins-List.aspx
 ---
 
 

@@ -9,7 +9,7 @@ tags:
  - irc
  - chatzilla
 subtext-id: fd699742-b65b-486c-8340-7d501c831eae
-alias: /blog/Dark-Theme-for-Chatzilla.aspx
+alias: /blog/post/Dark-Theme-for-Chatzilla.aspx
 ---
 
 

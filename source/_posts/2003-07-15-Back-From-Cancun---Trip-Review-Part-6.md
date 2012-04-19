@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Back From Cancun - Trip Review Part 6"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:20:00
 categories:
  - Personal
 subtext-id: 8595c624-b5e4-4be3-beee-187a54f6cf6b
-alias: /blog/Back-From-Cancun---Trip-Review-Part-6.aspx
+alias: /blog/post/Back-From-Cancun---Trip-Review-Part-6.aspx
 ---
 
 

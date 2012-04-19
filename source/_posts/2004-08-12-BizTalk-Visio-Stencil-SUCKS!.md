@@ -6,7 +6,7 @@ date: 2004-08-12 10:27:00
 categories:
  - Technology
 subtext-id: da2b2f66-1b1f-42fa-b765-42b71c1b31ff
-alias: /blog/BizTalk-Visio-Stencil-SUCKS!.aspx
+alias: /blog/post/BizTalk-Visio-Stencil-SUCKS!.aspx
 ---
 
 

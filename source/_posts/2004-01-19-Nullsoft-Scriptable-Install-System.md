@@ -7,7 +7,7 @@ updated: 2004-05-01 14:40:00
 categories:
  - Technology
 subtext-id: 2beb2af1-318c-4d24-ae90-0aa0bae5e0e9
-alias: /blog/Nullsoft-Scriptable-Install-System.aspx
+alias: /blog/post/Nullsoft-Scriptable-Install-System.aspx
 ---
 
 

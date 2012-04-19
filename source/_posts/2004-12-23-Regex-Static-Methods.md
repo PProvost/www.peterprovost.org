@@ -7,7 +7,7 @@ updated: 2004-12-29 11:00:00
 categories:
  - Technology
 subtext-id: e05df55d-5270-4934-9005-30e1d96d178a
-alias: /blog/Regex-Static-Methods.aspx
+alias: /blog/post/Regex-Static-Methods.aspx
 ---
 
 

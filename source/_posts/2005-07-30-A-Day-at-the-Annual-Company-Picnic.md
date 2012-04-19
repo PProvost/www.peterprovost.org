@@ -6,7 +6,7 @@ date: 2005-07-30 21:12:00
 categories:
  - Personal
 subtext-id: 86027447-4cce-45e8-8b0d-33d461c49de2
-alias: /blog/A-Day-at-the-Annual-Company-Picnic.aspx
+alias: /blog/post/A-Day-at-the-Annual-Company-Picnic.aspx
 ---
 
 

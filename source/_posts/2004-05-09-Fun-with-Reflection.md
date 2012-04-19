@@ -7,7 +7,7 @@ updated: 2004-05-13 09:08:00
 categories:
  - Code
 subtext-id: 46e65eb0-f595-479d-b18e-d0c0d9b8fc56
-alias: /blog/Fun-with-Reflection.aspx
+alias: /blog/post/Fun-with-Reflection.aspx
 ---
 
 

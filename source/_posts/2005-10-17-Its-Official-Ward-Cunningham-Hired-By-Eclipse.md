@@ -6,7 +6,7 @@ date: 2005-10-17 09:23:00
 categories:
  - Technology
 subtext-id: 19cab836-a838-487d-83e7-f7cf656accdd
-alias: /blog/Its-Official-Ward-Cunningham-Hired-By-Eclipse.aspx
+alias: /blog/post/Its-Official-Ward-Cunningham-Hired-By-Eclipse.aspx
 ---
 
 

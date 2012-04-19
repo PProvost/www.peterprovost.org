@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC - Expo Hall Reception + Fun with NUnitAddIn"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:31:00
 categories:
  - Technology
 subtext-id: 27878af9-7542-4d08-a9b2-10a0602b0960
-alias: /blog/PDC---Expo-Hall-Reception-2b-Fun-with-NUnitAddIn.aspx
+alias: /blog/post/PDC---Expo-Hall-Reception-2b-Fun-with-NUnitAddIn.aspx
 ---
 
 

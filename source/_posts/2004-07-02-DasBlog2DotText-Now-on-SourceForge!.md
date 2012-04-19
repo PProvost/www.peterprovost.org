@@ -6,7 +6,7 @@ date: 2004-07-02 15:21:00
 categories:
  - Technology
 subtext-id: 2dcf147a-02d8-4f02-a808-46a4b919a3ad
-alias: /blog/DasBlog2DotText-Now-on-SourceForge!.aspx
+alias: /blog/post/DasBlog2DotText-Now-on-SourceForge!.aspx
 ---
 
 

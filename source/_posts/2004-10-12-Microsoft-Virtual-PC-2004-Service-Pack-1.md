@@ -6,7 +6,7 @@ date: 2004-10-12 14:19:00
 categories:
  - Technology
 subtext-id: 5bcfe0a7-015b-4ea1-a417-07641007a466
-alias: /blog/Microsoft-Virtual-PC-2004-Service-Pack-1.aspx
+alias: /blog/post/Microsoft-Virtual-PC-2004-Service-Pack-1.aspx
 ---
 
 

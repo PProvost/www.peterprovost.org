@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "I'm an Interpersonal Thinker"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:45:00
 categories:
  - Personal
 subtext-id: 8135fc81-200e-4521-9486-b1e61203ba6a
-alias: /blog/Im-an-Interpersonal-Thinker.aspx
+alias: /blog/post/Im-an-Interpersonal-Thinker.aspx
 ---
 
 

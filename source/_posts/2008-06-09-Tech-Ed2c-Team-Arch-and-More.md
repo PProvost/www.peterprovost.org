@@ -9,7 +9,7 @@ categories:
 tags:
  - vsts
 subtext-id: e37183a1-a82e-4569-b5ef-56f90ff04f66
-alias: /blog/Tech-Ed2c-Team-Arch-and-More.aspx
+alias: /blog/post/Tech-Ed2c-Team-Arch-and-More.aspx
 ---
 
 

@@ -7,7 +7,7 @@ updated: 2004-05-01 14:33:00
 categories:
  - Community
 subtext-id: ac8594d8-e82f-4cca-924d-1c9837373ea5
-alias: /blog/DevDays-2004---Well-Be-There!.aspx
+alias: /blog/post/DevDays-2004---Well-Be-There!.aspx
 ---
 
 

@@ -7,7 +7,7 @@ updated: 2004-06-30 14:01:00
 categories:
  - Technology
 subtext-id: b2f7af67-81af-4327-8dca-fc3dcdab9c8e
-alias: /blog/Visual-Studio-2005-Beta-1.aspx
+alias: /blog/post/Visual-Studio-2005-Beta-1.aspx
 ---
 
 

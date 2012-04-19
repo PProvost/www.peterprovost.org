@@ -9,7 +9,7 @@ categories:
 tags:
  - entlib
 subtext-id: dfbea7a4-de9c-4dcc-af68-797693174bc6
-alias: /blog/Enterprise-Library-Dec-2006-CTP-on-CodePlex.aspx
+alias: /blog/post/Enterprise-Library-Dec-2006-CTP-on-CodePlex.aspx
 ---
 
 

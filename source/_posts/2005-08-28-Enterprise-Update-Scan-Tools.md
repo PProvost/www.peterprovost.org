@@ -7,7 +7,7 @@ categories:
  - Technology
  - Opinions, Politics, Rants
 subtext-id: 423d1176-2b7d-479e-a820-a6e9a92c37b8
-alias: /blog/Enterprise-Update-Scan-Tools.aspx
+alias: /blog/post/Enterprise-Update-Scan-Tools.aspx
 ---
 
 

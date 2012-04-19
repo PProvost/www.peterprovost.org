@@ -6,7 +6,7 @@ date: 2005-01-27 11:46:00
 categories:
  - Technology
 subtext-id: a0479d97-656f-469a-ae11-3259fc8055f9
-alias: /blog/NUnit-AssertAreEquals-Parameter-Ordering.aspx
+alias: /blog/post/NUnit-AssertAreEquals-Parameter-Ordering.aspx
 ---
 
 

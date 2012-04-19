@@ -9,7 +9,7 @@ categories:
 tags:
  - vsts
 subtext-id: 728e7641-d23c-4d34-a15c-03787e7532d0
-alias: /blog/Skinners-Blog--New-role-running-the-VSTS-Architecture-Edition-team.aspx
+alias: /blog/post/Skinners-Blog--New-role-running-the-VSTS-Architecture-Edition-team.aspx
 ---
 
 

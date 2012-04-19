@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "OpenPGP.NET - Part 3 - Refactoring"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 09:32:00
 categories:
  - Technology
 subtext-id: a0a1a008-4321-4e05-beb0-32c5f05d4007
-alias: /blog/OpenPGPNET---Part-3---Refactoring.aspx
+alias: /blog/post/OpenPGPNET---Part-3---Refactoring.aspx
 ---
 
 

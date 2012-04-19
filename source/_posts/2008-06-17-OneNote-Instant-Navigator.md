@@ -9,7 +9,7 @@ categories:
 tags:
  - onenote
 subtext-id: 2e35b149-f590-4136-9193-42f2c5761bac
-alias: /blog/OneNote-Instant-Navigator.aspx
+alias: /blog/post/OneNote-Instant-Navigator.aspx
 ---
 
 

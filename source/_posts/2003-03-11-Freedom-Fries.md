@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Freedom Fries?"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:36:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: 8caf5568-423b-4ac3-a406-6f3e286d4e37
-alias: /blog/Freedom-Fries.aspx
+alias: /blog/post/Freedom-Fries.aspx
 ---
 
 

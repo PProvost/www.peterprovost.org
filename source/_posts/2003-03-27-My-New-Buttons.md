@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "My New Buttons"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-27 20:42:00
 categories:
  - Technology
 subtext-id: 9aed9584-a987-4fc3-8193-ef82d672f432
-alias: /blog/My-New-Buttons.aspx
+alias: /blog/post/My-New-Buttons.aspx
 ---
 
 

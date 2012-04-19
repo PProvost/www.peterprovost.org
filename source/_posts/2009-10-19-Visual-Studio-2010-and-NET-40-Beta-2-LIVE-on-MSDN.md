@@ -10,7 +10,7 @@ tags:
  - visual studio
  - vsts
 subtext-id: 681c8c28-10e1-48ce-bcc3-062c94fd82c7
-alias: /blog/Visual-Studio-2010-and-NET-40-Beta-2-LIVE-on-MSDN.aspx
+alias: /blog/post/Visual-Studio-2010-and-NET-40-Beta-2-LIVE-on-MSDN.aspx
 ---
 
 

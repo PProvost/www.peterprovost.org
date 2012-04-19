@@ -12,7 +12,7 @@ tags:
  - unit testing
  - vs11
 subtext-id: bb7ee939-4a25-426e-8565-4208ed837582
-alias: /blog/Coverage-of-VS11-Unit-Testing-at-the-build-conference.aspx
+alias: /blog/post/Coverage-of-VS11-Unit-Testing-at-the-build-conference.aspx
 ---
 
 As I was writing that last post, I realized I haven't post all of the great //build/ sessions that talked about this new Unit Testing stuff, so here are a few for your viewing pleasure.

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Event Log Monitoring with RSS"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-05 10:44:00
 categories:
  - Technology
 subtext-id: 673359fd-42be-4802-82cd-f5e248e44205
-alias: /blog/Event-Log-Monitoring-with-RSS.aspx
+alias: /blog/post/Event-Log-Monitoring-with-RSS.aspx
 ---
 
 

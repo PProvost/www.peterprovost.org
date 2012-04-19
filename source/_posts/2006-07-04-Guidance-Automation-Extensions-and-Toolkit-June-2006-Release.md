@@ -11,7 +11,7 @@ tags:
  - software factories
  - gat
 subtext-id: 16745be7-b9fd-4462-b073-a750bef27fef
-alias: /blog/Guidance-Automation-Extensions-and-Toolkit-June-2006-Release.aspx
+alias: /blog/post/Guidance-Automation-Extensions-and-Toolkit-June-2006-Release.aspx
 ---
 
 

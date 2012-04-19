@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The Storm is Over"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:03:00
 categories:
  - Personal
 subtext-id: d23d5ff1-19c1-40dd-9db8-ab3abcba3dc2
-alias: /blog/The-Storm-is-Over.aspx
+alias: /blog/post/The-Storm-is-Over.aspx
 ---
 
 

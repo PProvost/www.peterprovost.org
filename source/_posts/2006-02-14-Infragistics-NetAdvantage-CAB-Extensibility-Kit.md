@@ -10,7 +10,7 @@ tags:
  - patterns & practices
  - cab
 subtext-id: a0824a4d-8444-4fe7-aba3-bf7cf5acc5cd
-alias: /blog/Infragistics-NetAdvantage-CAB-Extensibility-Kit.aspx
+alias: /blog/post/Infragistics-NetAdvantage-CAB-Extensibility-Kit.aspx
 ---
 
 

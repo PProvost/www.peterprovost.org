@@ -7,7 +7,7 @@ updated: 2004-05-01 11:16:00
 categories:
  - Community
 subtext-id: adbfd300-a382-4e03-898b-ce5f64ffd0f8
-alias: /blog/MVP-Summit-Wrap-up.aspx
+alias: /blog/post/MVP-Summit-Wrap-up.aspx
 ---
 
 

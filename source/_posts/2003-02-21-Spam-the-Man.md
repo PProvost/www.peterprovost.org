@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Spam the Man"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Opinions, Politics, Rants
  - Technology
 subtext-id: 93bced2f-10f5-493a-896b-bff3582a5837
-alias: /blog/Spam-the-Man.aspx
+alias: /blog/post/Spam-the-Man.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Catching Up..."
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:58:00
 categories:
  - Personal
 subtext-id: 6c6f7e47-6156-406c-a9bf-59ee03fd595f
-alias: /blog/Catching-Up.aspx
+alias: /blog/post/Catching-Up.aspx
 ---
 
 

@@ -7,7 +7,7 @@ updated: 2004-05-01 11:20:00
 categories:
  - Technology
 subtext-id: 5e9b507a-85a6-42ae-a36a-5c494ac44152
-alias: /blog/VSNET-Tip-Collapsing-Lines-in-an-ASPX-or-HTML-File.aspx
+alias: /blog/post/VSNET-Tip-Collapsing-Lines-in-an-ASPX-or-HTML-File.aspx
 ---
 
 

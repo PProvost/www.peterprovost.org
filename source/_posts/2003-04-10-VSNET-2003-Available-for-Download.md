@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "VS.NET 2003 Available for Download"
 comments: false
@@ -7,7 +7,7 @@ updated: 2005-09-04 19:29:00
 categories:
  - Technology
 subtext-id: 019c76d3-b75d-4f19-b88e-e0e90c81a933
-alias: /blog/VSNET-2003-Available-for-Download.aspx
+alias: /blog/post/VSNET-2003-Available-for-Download.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More Construction"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:44:00
 categories:
  - Personal
 subtext-id: d949c43a-b995-485a-881b-96d7efc6cddb
-alias: /blog/More-Construction.aspx
+alias: /blog/post/More-Construction.aspx
 ---
 
 

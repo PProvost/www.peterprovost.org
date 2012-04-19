@@ -10,7 +10,7 @@ tags:
  - powershell
  - cryptography
 subtext-id: e9fabd4c-ad74-4f20-a838-c8cd8d4754be
-alias: /blog/Quick-n-Dirty-PowerShell-Password-Generator.aspx
+alias: /blog/post/Quick-n-Dirty-PowerShell-Password-Generator.aspx
 ---
 
 

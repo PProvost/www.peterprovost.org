@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Scoble's Comments on the Scott Nealy Interview"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-19 09:14:00
 categories:
  - Technology
 subtext-id: 5b0c4697-e0d4-4324-9235-ccf300a5016e
-alias: /blog/Scobles-Comments-on-the-Scott-Nealy-Interview.aspx
+alias: /blog/post/Scobles-Comments-on-the-Scott-Nealy-Interview.aspx
 ---
 
 

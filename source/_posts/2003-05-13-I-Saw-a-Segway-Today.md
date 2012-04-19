@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "I Saw a Segway Today"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Personal
  - Technology
 subtext-id: de20a5c3-ce3d-435b-94ba-e0c52d2a77e2
-alias: /blog/I-Saw-a-Segway-Today.aspx
+alias: /blog/post/I-Saw-a-Segway-Today.aspx
 ---
 
 

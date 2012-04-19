@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The Lazy Programmer"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:15:00
 categories:
  - Technology
 subtext-id: 24808d5a-ddcd-4f33-bd63-9f48736228a6
-alias: /blog/The-Lazy-Programmer.aspx
+alias: /blog/post/The-Lazy-Programmer.aspx
 ---
 
 

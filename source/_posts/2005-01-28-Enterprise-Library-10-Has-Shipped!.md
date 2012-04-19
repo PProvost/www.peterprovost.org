@@ -6,7 +6,7 @@ date: 2005-01-28 15:05:00
 categories:
  - Technology
 subtext-id: 3ffda759-aa43-41f1-9b53-c5cb2a7e3d98
-alias: /blog/Enterprise-Library-10-Has-Shipped!.aspx
+alias: /blog/post/Enterprise-Library-10-Has-Shipped!.aspx
 ---
 
 

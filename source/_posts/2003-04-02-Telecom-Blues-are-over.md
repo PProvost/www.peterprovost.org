@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Telecom Blues are over"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-02 21:57:00
 categories:
  - Technology
 subtext-id: 26a25087-3d6d-4d02-a500-a01011c704d9
-alias: /blog/Telecom-Blues-are-over.aspx
+alias: /blog/post/Telecom-Blues-are-over.aspx
 ---
 
 

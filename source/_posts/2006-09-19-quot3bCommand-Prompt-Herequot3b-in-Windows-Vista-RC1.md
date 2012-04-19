@@ -9,7 +9,7 @@ categories:
 tags:
  - vista
 subtext-id: 33831f49-0fd9-40af-9e82-cbd91444d486
-alias: /blog/quot3bCommand-Prompt-Herequot3b-in-Windows-Vista-RC1.aspx
+alias: /blog/post/quot3bCommand-Prompt-Herequot3b-in-Windows-Vista-RC1.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "FTP Server in .NET"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:38:00
 categories:
  - Technology
 subtext-id: 63c6e923-39e6-4132-bdfc-1d558e888461
-alias: /blog/FTP-Server-in-NET.aspx
+alias: /blog/post/FTP-Server-in-NET.aspx
 ---
 
 

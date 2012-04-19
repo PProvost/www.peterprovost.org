@@ -7,7 +7,7 @@ updated: 2004-05-01 11:19:00
 categories:
  - Technology
 subtext-id: 838d6a35-c09a-424c-87ca-dc74fb4bc62e
-alias: /blog/How-To-Add-a-New-Managed-Path-to-Windows-SharePoint-Services.aspx
+alias: /blog/post/How-To-Add-a-New-Managed-Path-to-Windows-SharePoint-Services.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Next Neal Stephenson Book Due This Fall"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:43:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: 05c38d5b-26f9-45a0-a7db-2d7f131fa2dd
-alias: /blog/Next-Neal-Stephenson-Book-Due-This-Fall.aspx
+alias: /blog/post/Next-Neal-Stephenson-Book-Due-This-Fall.aspx
 ---
 
 

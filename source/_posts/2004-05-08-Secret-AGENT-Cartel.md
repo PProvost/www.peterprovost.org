@@ -8,7 +8,7 @@ categories:
  - Community
  - Technology
 subtext-id: ca2bc439-1e50-45df-bf21-8953e4a23e41
-alias: /blog/Secret-AGENT-Cartel.aspx
+alias: /blog/post/Secret-AGENT-Cartel.aspx
 ---
 
 

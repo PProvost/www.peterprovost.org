@@ -7,7 +7,7 @@ updated: 2008-07-06 19:22:00
 tags:
  - cab
 subtext-id: 54d973cd-b38e-4d29-9bac-e064577daf83
-alias: /blog/CAB-Webcast-This-Thursday.aspx
+alias: /blog/post/CAB-Webcast-This-Thursday.aspx
 ---
 
 

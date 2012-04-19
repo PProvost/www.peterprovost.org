@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Acive Directory Application Mode"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-31 07:52:00
 categories:
  - Technology
 subtext-id: 474180d0-2f8c-4e34-9979-d7562058502f
-alias: /blog/Acive-Directory-Application-Mode.aspx
+alias: /blog/post/Acive-Directory-Application-Mode.aspx
 ---
 
 

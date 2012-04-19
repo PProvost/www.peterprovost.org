@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Learning Illustrator"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:45:00
 categories:
  - Technology
 subtext-id: 43434bfa-e630-49aa-baba-5e14d3c9bfb2
-alias: /blog/Learning-Illustrator.aspx
+alias: /blog/post/Learning-Illustrator.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Haiku: Coming Home"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 00:42:00
 categories:
  - Haiku
 subtext-id: 54e589f2-7507-4c1e-a738-661e2e6fb92b
-alias: /blog/Haiku-Coming-Home.aspx
+alias: /blog/post/Haiku-Coming-Home.aspx
 ---
 
 

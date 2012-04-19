@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Windows Server 2003 Here I Come"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-18 15:07:00
 categories:
  - Technology
 subtext-id: 5165a56d-f6b1-4759-ac8a-c1d2883676b1
-alias: /blog/Windows-Server-2003-Here-I-Come.aspx
+alias: /blog/post/Windows-Server-2003-Here-I-Come.aspx
 ---
 
 

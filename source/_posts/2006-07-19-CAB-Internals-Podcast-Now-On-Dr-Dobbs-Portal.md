@@ -13,7 +13,7 @@ tags:
  - agile development
  - software factories
 subtext-id: 2cf87e6f-5b73-42d5-bb77-ff9a51cba477
-alias: /blog/CAB-Internals-Podcast-Now-On-Dr-Dobbs-Portal.aspx
+alias: /blog/post/CAB-Internals-Podcast-Now-On-Dr-Dobbs-Portal.aspx
 ---
 
 

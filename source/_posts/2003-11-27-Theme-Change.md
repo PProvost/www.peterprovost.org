@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Theme Change"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:01:00
 categories:
  - Technology
 subtext-id: 8184aab7-9ecf-4606-909b-ae1adf874cb8
-alias: /blog/Theme-Change.aspx
+alias: /blog/post/Theme-Change.aspx
 ---
 
 

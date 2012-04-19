@@ -10,7 +10,7 @@ tags:
  - visual studio
  - powershell
 subtext-id: 0755b1c0-b5ae-4c62-b06f-4651828e5864
-alias: /blog/The-Last-vsvars32ps1-Ill-Ever-Need.aspx
+alias: /blog/post/The-Last-vsvars32ps1-Ill-Ever-Need.aspx
 ---
 
 

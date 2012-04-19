@@ -6,7 +6,7 @@ date: 2006-10-27 12:30:00
 categories:
  - Agile Software Development
 subtext-id: 45842713-c3dc-400d-aa30-978677ecdcf4
-alias: /blog/MadLibs-for-Agile-Principles.aspx
+alias: /blog/post/MadLibs-for-Agile-Principles.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Dealing With Assembly Load Failure"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-19 12:37:00
 categories:
  - Technology
 subtext-id: 07e34c4c-3a6e-40ff-8123-06c3cc17e4ac
-alias: /blog/Dealing-With-Assembly-Load-Failure.aspx
+alias: /blog/post/Dealing-With-Assembly-Load-Failure.aspx
 ---
 
 

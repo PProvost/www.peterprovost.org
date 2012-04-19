@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Certifications Anyone?"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-13 21:47:00
 categories:
  - Technology
 subtext-id: c6a3d043-bb87-45dc-8078-aff8e967c4ce
-alias: /blog/Certifications-Anyone.aspx
+alias: /blog/post/Certifications-Anyone.aspx
 ---
 
 

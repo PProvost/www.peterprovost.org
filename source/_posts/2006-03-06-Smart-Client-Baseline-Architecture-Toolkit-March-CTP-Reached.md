@@ -11,7 +11,7 @@ tags:
  - cab
  - software factories
 subtext-id: 3db5bc28-e00f-4a57-9ad5-4d9b7dcee5f7
-alias: /blog/Smart-Client-Baseline-Architecture-Toolkit-March-CTP-Reached.aspx
+alias: /blog/post/Smart-Client-Baseline-Architecture-Toolkit-March-CTP-Reached.aspx
 ---
 
 

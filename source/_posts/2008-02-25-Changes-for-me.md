@@ -9,7 +9,7 @@ categories:
 tags:
  - vsts
 subtext-id: cb7d0c26-c600-4adc-a03f-cbe4f3535db9
-alias: /blog/Changes-for-me.aspx
+alias: /blog/post/Changes-for-me.aspx
 ---
 
 

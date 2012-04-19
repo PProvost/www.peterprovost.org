@@ -6,7 +6,7 @@ date: 2004-05-26 18:46:00
 categories:
  - Technology
 subtext-id: 0abfa9c7-85b1-42c1-b60c-8aa91973fab5
-alias: /blog/Pluralsight-is-LIVE!.aspx
+alias: /blog/post/Pluralsight-is-LIVE!.aspx
 ---
 
 

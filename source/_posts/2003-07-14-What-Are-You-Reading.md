@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "What Are You Reading"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-14 20:51:00
 categories:
  - Technology
 subtext-id: 3b9f41cd-7141-4e65-93c3-61ccc33820a7
-alias: /blog/What-Are-You-Reading.aspx
+alias: /blog/post/What-Are-You-Reading.aspx
 ---
 
 

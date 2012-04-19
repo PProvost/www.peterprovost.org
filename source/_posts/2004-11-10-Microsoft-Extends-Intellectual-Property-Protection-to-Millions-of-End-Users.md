@@ -6,7 +6,7 @@ date: 2004-11-10 12:46:00
 categories:
  - Technology
 subtext-id: 75a93376-acc9-43f9-8509-db45c71a1a6b
-alias: /blog/Microsoft-Extends-Intellectual-Property-Protection-to-Millions-of-End-Users.aspx
+alias: /blog/post/Microsoft-Extends-Intellectual-Property-Protection-to-Millions-of-End-Users.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More Cool VS.NET Tips"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-31 08:16:00
 categories:
  - Technology
 subtext-id: db505536-d0ac-4fee-a425-8ec6a7960fad
-alias: /blog/More-Cool-VSNET-Tips.aspx
+alias: /blog/post/More-Cool-VSNET-Tips.aspx
 ---
 
 

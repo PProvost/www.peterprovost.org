@@ -6,7 +6,7 @@ date: 2005-04-08 11:50:00
 categories:
  - Technology
 subtext-id: aa51b544-ef38-4c36-84a3-4e5272188a24
-alias: /blog/When-To-Checkin-When-Doing-TDD.aspx
+alias: /blog/post/When-To-Checkin-When-Doing-TDD.aspx
 ---
 
 

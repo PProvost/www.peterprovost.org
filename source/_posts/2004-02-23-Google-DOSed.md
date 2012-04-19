@@ -7,7 +7,7 @@ updated: 2004-05-01 14:16:00
 categories:
  - Technology
 subtext-id: 72d38152-5f24-469f-a5f0-e6095fb22c24
-alias: /blog/Google-DOSed.aspx
+alias: /blog/post/Google-DOSed.aspx
 ---
 
 

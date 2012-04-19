@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "BBC Archives Opening Up... FOR FREE!"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-26 02:33:00
 categories:
  - Technology
 subtext-id: b6c9fdf3-f5f4-4bda-af4e-d94dc0636da4
-alias: /blog/BBC-Archives-Opening-Up-FOR-FREE!.aspx
+alias: /blog/post/BBC-Archives-Opening-Up-FOR-FREE!.aspx
 ---
 
 

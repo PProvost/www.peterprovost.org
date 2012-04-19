@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Linux Is Favorite Hacker Target"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:38:00
 categories:
  - Technology
 subtext-id: f3af613c-e956-4c54-b9c9-e065f3f5a727
-alias: /blog/Linux-Is-Favorite-Hacker-Target.aspx
+alias: /blog/post/Linux-Is-Favorite-Hacker-Target.aspx
 ---
 
 

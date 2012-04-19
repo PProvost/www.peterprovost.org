@@ -7,7 +7,7 @@ date: 2008-07-14 09:44:39
 categories:
  - Technology
 subtext-id: 8cfa6f90-274d-4adc-bf6f-88da22d30b59
-alias: /blog/SQL-Load-Test-Tool.aspx
+alias: /blog/post/SQL-Load-Test-Tool.aspx
 ---
 
 

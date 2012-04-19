@@ -9,7 +9,7 @@ categories:
 tags:
  - pdc
 subtext-id: c166867c-ab5e-4223-bb3d-08830e2c3315
-alias: /blog/Enterprise-Library-BOF-at-PDC.aspx
+alias: /blog/post/Enterprise-Library-BOF-at-PDC.aspx
 ---
 
 

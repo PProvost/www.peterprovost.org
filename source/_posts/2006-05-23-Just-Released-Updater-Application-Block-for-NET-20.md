@@ -10,7 +10,7 @@ tags:
  - patterns & practices
  - .net
 subtext-id: 110f7d62-d5f7-492f-a1bc-e8bf49df77a7
-alias: /blog/Just-Released-Updater-Application-Block-for-NET-20.aspx
+alias: /blog/post/Just-Released-Updater-Application-Block-for-NET-20.aspx
 ---
 
 

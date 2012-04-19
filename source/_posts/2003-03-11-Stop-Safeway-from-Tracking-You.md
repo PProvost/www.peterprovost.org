@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Stop Safeway from Tracking You"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:34:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: 7dfc7dc1-d087-42f0-8723-f684917ca88b
-alias: /blog/Stop-Safeway-from-Tracking-You.aspx
+alias: /blog/post/Stop-Safeway-from-Tracking-You.aspx
 ---
 
 

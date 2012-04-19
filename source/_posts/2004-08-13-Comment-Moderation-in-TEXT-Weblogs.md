@@ -7,7 +7,7 @@ updated: 2004-08-13 13:46:00
 categories:
  - Technology
 subtext-id: 8a60f7ba-8394-41ac-b8c0-f9a95a782b01
-alias: /blog/Comment-Moderation-in-TEXT-Weblogs.aspx
+alias: /blog/post/Comment-Moderation-in-TEXT-Weblogs.aspx
 ---
 
 

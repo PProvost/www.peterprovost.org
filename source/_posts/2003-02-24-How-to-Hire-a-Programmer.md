@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "How to Hire a Programmer"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:38:00
 categories:
  - Technology
 subtext-id: 2f67c115-d41e-4a52-bcd4-5d78534f1014
-alias: /blog/How-to-Hire-a-Programmer.aspx
+alias: /blog/post/How-to-Hire-a-Programmer.aspx
 ---
 
 

@@ -10,7 +10,7 @@ categories:
 tags:
  - gaming
 subtext-id: f2f92987-5aab-408d-90a4-d5be2f44702e
-alias: /blog/New-Gaming-PC-Build-out-ndash3b-The-Order.aspx
+alias: /blog/post/New-Gaming-PC-Build-out-ndash3b-The-Order.aspx
 ---
 
 

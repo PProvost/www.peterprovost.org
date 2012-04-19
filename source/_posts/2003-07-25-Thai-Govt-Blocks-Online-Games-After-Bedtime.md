@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Thai Gov't Blocks Online Games After Bedtime"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-25 12:13:00
 categories:
  - Technology
 subtext-id: 7d77df69-7804-4ba3-887b-c4f5101ca73f
-alias: /blog/Thai-Govt-Blocks-Online-Games-After-Bedtime.aspx
+alias: /blog/post/Thai-Govt-Blocks-Online-Games-After-Bedtime.aspx
 ---
 
 

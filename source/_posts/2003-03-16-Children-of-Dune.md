@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Children of Dune"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:45:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: 53edeeb1-aba0-499b-a6ed-78f961236267
-alias: /blog/Children-of-Dune.aspx
+alias: /blog/post/Children-of-Dune.aspx
 ---
 
 

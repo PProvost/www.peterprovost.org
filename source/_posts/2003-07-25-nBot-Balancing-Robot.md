@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "nBot Balancing Robot"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-25 14:39:00
 categories:
  - Technology
 subtext-id: 4d93f7d0-0b9b-43b8-aeb3-422841b9a517
-alias: /blog/nBot-Balancing-Robot.aspx
+alias: /blog/post/nBot-Balancing-Robot.aspx
 ---
 
 

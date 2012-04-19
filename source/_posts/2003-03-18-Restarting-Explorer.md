@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Restarting Explorer"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:16:00
 categories:
  - Technology
 subtext-id: c0d39f0b-7a6c-4290-bc3a-ebf6a7ba1b96
-alias: /blog/Restarting-Explorer.aspx
+alias: /blog/post/Restarting-Explorer.aspx
 ---
 
 

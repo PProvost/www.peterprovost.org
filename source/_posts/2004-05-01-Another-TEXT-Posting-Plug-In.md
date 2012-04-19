@@ -7,7 +7,7 @@ updated: 2004-05-02 14:03:00
 categories:
  - Technology
 subtext-id: b857a27d-9040-4e73-af23-e711426f6f12
-alias: /blog/Another-TEXT-Posting-Plug-In.aspx
+alias: /blog/post/Another-TEXT-Posting-Plug-In.aspx
 ---
 
 

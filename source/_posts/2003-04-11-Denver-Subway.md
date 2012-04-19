@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Denver Subway"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:51:00
 categories:
  - Community
 subtext-id: b7158e34-41ff-4071-9cda-2479faf046c1
-alias: /blog/Denver-Subway.aspx
+alias: /blog/post/Denver-Subway.aspx
 ---
 
 

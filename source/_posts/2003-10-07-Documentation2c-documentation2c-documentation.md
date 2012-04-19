@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Documentation, documentation, documentation"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 17:09:00
 categories:
  - Technology
 subtext-id: bebb33f5-a93b-49a6-bb6d-38cb90514fff
-alias: /blog/Documentation2c-documentation2c-documentation.aspx
+alias: /blog/post/Documentation2c-documentation2c-documentation.aspx
 ---
 
 

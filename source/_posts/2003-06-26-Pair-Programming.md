@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Pair Programming"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-26 11:01:00
 categories:
  - Technology
 subtext-id: f88989f1-5b10-40b5-b8da-4171618eb22b
-alias: /blog/Pair-Programming.aspx
+alias: /blog/post/Pair-Programming.aspx
 ---
 
 

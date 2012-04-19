@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Agile Projects - Trust is Essential"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-29 09:29:00
 categories:
  - Technology
 subtext-id: c813e2fa-3bfc-487a-9b0e-2a123c5a24ae
-alias: /blog/Agile-Projects---Trust-is-Essential.aspx
+alias: /blog/post/Agile-Projects---Trust-is-Essential.aspx
 ---
 
 

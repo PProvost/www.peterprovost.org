@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC - Getting There"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Personal
  - Technology
 subtext-id: b5029098-d9e5-4925-8d81-e95c8a2a87ca
-alias: /blog/PDC---Getting-There.aspx
+alias: /blog/post/PDC---Getting-There.aspx
 ---
 
 

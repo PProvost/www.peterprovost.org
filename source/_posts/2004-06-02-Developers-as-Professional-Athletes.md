@@ -7,7 +7,7 @@ updated: 2004-06-02 12:21:00
 categories:
  - Technology
 subtext-id: 3d35c292-7e82-422c-86e1-fbf74b53a9db
-alias: /blog/Developers-as-Professional-Athletes.aspx
+alias: /blog/post/Developers-as-Professional-Athletes.aspx
 ---
 
 

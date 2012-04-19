@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Do we really need Agile/XML SCM Tools?"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:46:00
 categories:
  - Technology
 subtext-id: e28c9ecc-b35e-4040-b7aa-88e29998c99d
-alias: /blog/Do-we-really-need-AgileXML-SCM-Tools.aspx
+alias: /blog/post/Do-we-really-need-AgileXML-SCM-Tools.aspx
 ---
 
 

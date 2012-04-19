@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More About Code Generation"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-23 10:18:00
 categories:
  - Technology
 subtext-id: 0c76243e-cb96-4463-ac7e-b18281f0b922
-alias: /blog/More-About-Code-Generation.aspx
+alias: /blog/post/More-About-Code-Generation.aspx
 ---
 
 

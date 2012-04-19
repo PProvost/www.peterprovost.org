@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Justin's Generic Comparer"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:22:00
 categories:
  - Technology
 subtext-id: b72e120f-7ff3-408d-826f-8582e7587c1c
-alias: /blog/Justins-Generic-Comparer.aspx
+alias: /blog/post/Justins-Generic-Comparer.aspx
 ---
 
 

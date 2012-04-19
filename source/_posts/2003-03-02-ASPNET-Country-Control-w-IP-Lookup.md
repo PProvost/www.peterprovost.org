@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "ASP.NET Country Control w/ IP Lookup"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:24:00
 categories:
  - Technology
 subtext-id: 8f6f77d7-39ff-47a6-a886-e6ed48d2c399
-alias: /blog/ASPNET-Country-Control-w-IP-Lookup.aspx
+alias: /blog/post/ASPNET-Country-Control-w-IP-Lookup.aspx
 ---
 
 

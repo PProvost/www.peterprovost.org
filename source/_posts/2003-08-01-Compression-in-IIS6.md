@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Compression in IIS6"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-01 19:40:00
 categories:
  - Technology
 subtext-id: c4c227e4-d50e-443c-9761-49281fd95e8a
-alias: /blog/Compression-in-IIS6.aspx
+alias: /blog/post/Compression-in-IIS6.aspx
 ---
 
 

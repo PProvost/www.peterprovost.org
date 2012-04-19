@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "MasterPeace Gaming Workstation"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-09 21:19:00
 categories:
  - Technology
 subtext-id: 873c2ee2-9b91-48d5-8978-377ddd3b170f
-alias: /blog/MasterPeace-Gaming-Workstation.aspx
+alias: /blog/post/MasterPeace-Gaming-Workstation.aspx
 ---
 
 

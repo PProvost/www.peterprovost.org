@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "VS.NET Stuck in Task Bar?"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-08 20:21:00
 categories:
  - Technology
 subtext-id: 42034f72-0430-4696-8bd4-ce24f1eaf801
-alias: /blog/VSNET-Stuck-in-Task-Bar.aspx
+alias: /blog/post/VSNET-Stuck-in-Task-Bar.aspx
 ---
 
 

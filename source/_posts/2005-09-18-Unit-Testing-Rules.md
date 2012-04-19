@@ -11,7 +11,7 @@ tags:
  - tdd
  - agile development
 subtext-id: 2836dfc4-11a8-4f03-bc43-ffaf2f4732f4
-alias: /blog/Unit-Testing-Rules.aspx
+alias: /blog/post/Unit-Testing-Rules.aspx
 ---
 
 

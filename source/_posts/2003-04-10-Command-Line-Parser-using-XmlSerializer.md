@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Command Line Parser using XmlSerializer"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-10 19:05:00
 categories:
  - Technology
 subtext-id: 88c484b3-e676-4e95-8fd8-900f2e9cae6e
-alias: /blog/Command-Line-Parser-using-XmlSerializer.aspx
+alias: /blog/post/Command-Line-Parser-using-XmlSerializer.aspx
 ---
 
 

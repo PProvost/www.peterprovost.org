@@ -6,7 +6,7 @@ date: 2005-04-25 21:55:00
 categories:
  - Technology
 subtext-id: e3395c7e-6eef-4b1e-b74d-be8ebe6bdd74
-alias: /blog/I-Want-a-New-Add-in---Class-Organizer.aspx
+alias: /blog/post/I-Want-a-New-Add-in---Class-Organizer.aspx
 ---
 
 

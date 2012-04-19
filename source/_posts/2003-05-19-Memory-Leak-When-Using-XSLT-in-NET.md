@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Memory Leak When Using XSLT in .NET"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-19 13:07:00
 categories:
  - Technology
 subtext-id: 79df9acf-5f75-4735-8f73-3bb514afcee9
-alias: /blog/Memory-Leak-When-Using-XSLT-in-NET.aspx
+alias: /blog/post/Memory-Leak-When-Using-XSLT-in-NET.aspx
 ---
 
 

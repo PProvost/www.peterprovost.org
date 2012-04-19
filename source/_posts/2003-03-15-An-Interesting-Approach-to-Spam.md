@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "An Interesting Approach to Spam"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:44:00
 categories:
  - Technology
 subtext-id: 113d0003-0674-4661-85e9-091f6e085545
-alias: /blog/An-Interesting-Approach-to-Spam.aspx
+alias: /blog/post/An-Interesting-Approach-to-Spam.aspx
 ---
 
 

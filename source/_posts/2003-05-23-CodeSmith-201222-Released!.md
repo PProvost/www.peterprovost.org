@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "CodeSmith 2.0.1222 Released!"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-23 08:01:00
 categories:
  - Technology
 subtext-id: 8c6becb2-2c54-4835-9703-d7a6daed6fe3
-alias: /blog/CodeSmith-201222-Released!.aspx
+alias: /blog/post/CodeSmith-201222-Released!.aspx
 ---
 
 

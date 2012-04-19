@@ -7,7 +7,7 @@ updated: 2004-05-01 12:09:00
 categories:
  - Personal
 subtext-id: e42a2770-5f14-42aa-97f0-23f5e246b5b2
-alias: /blog/Back-from-North-Carolina.aspx
+alias: /blog/post/Back-from-North-Carolina.aspx
 ---
 
 

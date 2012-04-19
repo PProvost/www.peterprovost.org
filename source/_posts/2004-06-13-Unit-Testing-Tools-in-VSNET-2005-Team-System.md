@@ -6,7 +6,7 @@ date: 2004-06-13 15:03:00
 categories:
  - Technology
 subtext-id: 04f88537-0e00-48bd-a2c3-8d89e62b840f
-alias: /blog/Unit-Testing-Tools-in-VSNET-2005-Team-System.aspx
+alias: /blog/post/Unit-Testing-Tools-in-VSNET-2005-Team-System.aspx
 ---
 
 

@@ -7,7 +7,7 @@ categories:
  - Opinions, Politics, Rants
  - Books, Music, TV and Movies
 subtext-id: bb0c55d2-20a5-4272-8c6f-a7014876821e
-alias: /blog/My-Movie-List.aspx
+alias: /blog/post/My-Movie-List.aspx
 ---
 
 

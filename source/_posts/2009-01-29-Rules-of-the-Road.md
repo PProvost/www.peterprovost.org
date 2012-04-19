@@ -11,7 +11,7 @@ tags:
  - personal
  - leadership
 subtext-id: 675f3ce9-532d-44aa-b313-545f2dbbe1c5
-alias: /blog/Rules-of-the-Road.aspx
+alias: /blog/post/Rules-of-the-Road.aspx
 ---
 
 

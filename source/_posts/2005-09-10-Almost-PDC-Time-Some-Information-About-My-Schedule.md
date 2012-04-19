@@ -9,7 +9,7 @@ categories:
 tags:
  - pdc
 subtext-id: 38310bee-5063-4da0-84c4-6a109db4af5d
-alias: /blog/Almost-PDC-Time-Some-Information-About-My-Schedule.aspx
+alias: /blog/post/Almost-PDC-Time-Some-Information-About-My-Schedule.aspx
 ---
 
 

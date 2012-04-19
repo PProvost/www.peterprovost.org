@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Life on the Windows Development Team"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 14:43:00
 categories:
  - Technology
 subtext-id: ac4c8269-8fbd-4c39-b741-7fcc89deba82
-alias: /blog/Life-on-the-Windows-Development-Team.aspx
+alias: /blog/post/Life-on-the-Windows-Development-Team.aspx
 ---
 
 

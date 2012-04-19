@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Applied XML Developers Conference 2003 West"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Community
  - Technology
 subtext-id: ab79f77c-64b5-4972-9d46-8461e8db69a5
-alias: /blog/Applied-XML-Developers-Conference-2003-West.aspx
+alias: /blog/post/Applied-XML-Developers-Conference-2003-West.aspx
 ---
 
 

@@ -8,7 +8,7 @@ categories:
  - Community
  - Technology
 subtext-id: 153dbace-e47b-4d24-b7f4-94d7e0a08eaa
-alias: /blog/Olympic-Athletes-Banned-from-Blogging.aspx
+alias: /blog/post/Olympic-Athletes-Banned-from-Blogging.aspx
 ---
 
 

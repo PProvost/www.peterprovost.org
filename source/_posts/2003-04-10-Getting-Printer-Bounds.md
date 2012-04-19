@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Getting Printer Bounds"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-10 07:55:00
 categories:
  - Technology
 subtext-id: 08e6bb49-82f1-4d2c-8133-cac6f3a27301
-alias: /blog/Getting-Printer-Bounds.aspx
+alias: /blog/post/Getting-Printer-Bounds.aspx
 ---
 
 

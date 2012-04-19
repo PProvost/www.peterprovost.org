@@ -10,7 +10,7 @@ tags:
  - wpf
  - cab
 subtext-id: d687def9-a50b-4f4e-ae26-e6e8b7fd2bd1
-alias: /blog/Pamp3bP-Composite-Application-Guidance-for-WPF.aspx
+alias: /blog/post/Pamp3bP-Composite-Application-Guidance-for-WPF.aspx
 ---
 
 

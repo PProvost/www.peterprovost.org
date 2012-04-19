@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Weblogs Posts and RSS Descriptions"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 00:41:00
 categories:
  - Community
 subtext-id: 2eb39634-4291-40b4-be8a-6fbf06508765
-alias: /blog/Weblogs-Posts-and-RSS-Descriptions.aspx
+alias: /blog/post/Weblogs-Posts-and-RSS-Descriptions.aspx
 ---
 
 

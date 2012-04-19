@@ -9,7 +9,7 @@ tags:
  - cryptography
  - security
 subtext-id: 0d39bf03-7429-4cf1-b133-1b5ac5d5df96
-alias: /blog/Where-did-Password-Minder-go-SOLVED!.aspx
+alias: /blog/post/Where-did-Password-Minder-go-SOLVED!.aspx
 ---
 
 

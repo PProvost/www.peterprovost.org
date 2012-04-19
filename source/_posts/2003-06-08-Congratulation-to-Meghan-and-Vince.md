@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Congratulation to Meghan and Vince"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-08 19:24:00
 categories:
  - Technology
 subtext-id: f17061b5-5d2f-4218-839c-b380171cd5fa
-alias: /blog/Congratulation-to-Meghan-and-Vince.aspx
+alias: /blog/post/Congratulation-to-Meghan-and-Vince.aspx
 ---
 
 

@@ -7,7 +7,7 @@ categories:
  - Community
  - Opinions, Politics, Rants
 subtext-id: 2275c865-cef0-4369-abdb-d406ac421e3c
-alias: /blog/New-Denver-City-Logo.aspx
+alias: /blog/post/New-Denver-City-Logo.aspx
 ---
 
 

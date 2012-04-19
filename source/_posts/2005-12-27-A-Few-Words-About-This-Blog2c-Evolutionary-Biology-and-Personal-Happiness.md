@@ -7,7 +7,7 @@ categories:
  - Opinions, Politics, Rants
  - Personal
 subtext-id: 80e11b9e-8f6c-45b7-8951-120a2a5e9b36
-alias: /blog/A-Few-Words-About-This-Blog2c-Evolutionary-Biology-and-Personal-Happiness.aspx
+alias: /blog/post/A-Few-Words-About-This-Blog2c-Evolutionary-Biology-and-Personal-Happiness.aspx
 ---
 
 

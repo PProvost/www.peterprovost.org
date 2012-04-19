@@ -9,7 +9,7 @@ categories:
 tags:
  - pdc
 subtext-id: 648fe5e0-b42e-4dda-b656-91ae22a55c52
-alias: /blog/patterns--practices-Pre-Conference-Session-(Pt-1).aspx
+alias: /blog/post/patterns--practices-Pre-Conference-Session-(Pt-1).aspx
 ---
 
 

@@ -6,7 +6,7 @@ date: 2004-11-01 16:16:00
 categories:
  - Technology
 subtext-id: ea4b2ec7-978a-4794-a7d2-49a0391f7e9a
-alias: /blog/Non-Admin-Development-in-VSNET-2003.aspx
+alias: /blog/post/Non-Admin-Development-in-VSNET-2003.aspx
 ---
 
 

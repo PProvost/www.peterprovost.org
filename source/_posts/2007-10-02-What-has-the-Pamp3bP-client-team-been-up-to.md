@@ -10,7 +10,7 @@ tags:
  - patterns & practices
  - cab
 subtext-id: d2c67c4c-63b4-48f0-b2f4-c4637580dff4
-alias: /blog/What-has-the-Pamp3bP-client-team-been-up-to.aspx
+alias: /blog/post/What-has-the-Pamp3bP-client-team-been-up-to.aspx
 ---
 
 

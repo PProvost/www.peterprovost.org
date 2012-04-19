@@ -6,7 +6,7 @@ date: 2005-03-01 19:23:00
 categories:
  - Technology
 subtext-id: 2e45d5f3-dc48-47cf-b53a-628ba693bf53
-alias: /blog/More-Great-Non-Admin-Resources.aspx
+alias: /blog/post/More-Great-Non-Admin-Resources.aspx
 ---
 
 

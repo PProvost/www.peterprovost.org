@@ -11,7 +11,7 @@ tags:
  - tdd
  - agile development
 subtext-id: 13511df5-11b7-484d-aae4-946c689fe810
-alias: /blog/xUnitnet---Jim-Newkirks-New-Unit-Testing-Framework.aspx
+alias: /blog/post/xUnitnet---Jim-Newkirks-New-Unit-Testing-Framework.aspx
 ---
 
 

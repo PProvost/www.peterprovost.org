@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PDC - NUnitAddin"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:29:00
 categories:
  - Technology
 subtext-id: f1b9fa96-aec7-40da-b32d-2fd9356275a0
-alias: /blog/PDC---NUnitAddin.aspx
+alias: /blog/post/PDC---NUnitAddin.aspx
 ---
 
 

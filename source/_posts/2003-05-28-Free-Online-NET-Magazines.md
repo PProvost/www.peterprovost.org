@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Free Online .NET Magazines"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-28 11:13:00
 categories:
  - Technology
 subtext-id: e6d83172-bffb-4583-b33c-d4a76bcefdaa
-alias: /blog/Free-Online-NET-Magazines.aspx
+alias: /blog/post/Free-Online-NET-Magazines.aspx
 ---
 
 

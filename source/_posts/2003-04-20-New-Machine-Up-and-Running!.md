@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "New Machine Up and Running!"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-20 18:43:00
 categories:
  - Technology
 subtext-id: 96a94a55-c602-44c2-bab6-230b65c68591
-alias: /blog/New-Machine-Up-and-Running!.aspx
+alias: /blog/post/New-Machine-Up-and-Running!.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Interesting Use of Nested Classes in C#"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:22:00
 categories:
  - Technology
 subtext-id: bc4345ff-94d8-4eed-afb7-48c779ced628
-alias: /blog/Interesting-Use-of-Nested-Classes-in-C.aspx
+alias: /blog/post/Interesting-Use-of-Nested-Classes-in-C.aspx
 ---
 
 

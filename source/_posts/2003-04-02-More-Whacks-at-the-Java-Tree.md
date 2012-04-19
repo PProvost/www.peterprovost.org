@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More Whacks at the Java Tree"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-02 23:39:00
 categories:
  - Technology
 subtext-id: 6abe0964-36e3-419a-ad07-ff725179fe52
-alias: /blog/More-Whacks-at-the-Java-Tree.aspx
+alias: /blog/post/More-Whacks-at-the-Java-Tree.aspx
 ---
 
 

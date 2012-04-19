@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Java Language Conversion Assistant"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-15 21:27:00
 categories:
  - Technology
 subtext-id: d10c78a3-25b7-4435-b64c-1196c94bb536
-alias: /blog/Java-Language-Conversion-Assistant.aspx
+alias: /blog/post/Java-Language-Conversion-Assistant.aspx
 ---
 
 

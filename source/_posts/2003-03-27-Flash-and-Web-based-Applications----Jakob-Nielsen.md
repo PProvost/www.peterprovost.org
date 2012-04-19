@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Flash and Web-based Applications  - Jakob Nielsen"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-27 19:50:00
 categories:
  - Technology
 subtext-id: dc74ca63-cc8b-4d5a-a090-eb26c8c7be93
-alias: /blog/Flash-and-Web-based-Applications----Jakob-Nielsen.aspx
+alias: /blog/post/Flash-and-Web-based-Applications----Jakob-Nielsen.aspx
 ---
 
 

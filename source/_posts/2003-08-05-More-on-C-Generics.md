@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More on C# Generics"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-05 14:14:00
 categories:
  - Technology
 subtext-id: 75e29c9f-34aa-4d03-8974-4cabfcd735b6
-alias: /blog/More-on-C-Generics.aspx
+alias: /blog/post/More-on-C-Generics.aspx
 ---
 
 

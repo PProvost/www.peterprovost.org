@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "I Love dasBlog!"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-04 21:31:00
 categories:
  - Technology
 subtext-id: 5209bd9d-b2d7-47ae-9ca0-24b75cf8839d
-alias: /blog/I-Love-dasBlog!.aspx
+alias: /blog/post/I-Love-dasBlog!.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Quick Reference Cards"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 13:41:00
 categories:
  - Technology
 subtext-id: c87f25ba-c384-45bb-80f2-acc8fa5f6230
-alias: /blog/Quick-Reference-Cards.aspx
+alias: /blog/post/Quick-Reference-Cards.aspx
 ---
 
 

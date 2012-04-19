@@ -6,7 +6,7 @@ date: 2005-04-06 11:00:00
 categories:
  - Personal
 subtext-id: 5481aadb-2b96-434c-8e8d-cab2a8d9e522
-alias: /blog/If-Youre-Happy-and-You-Know-It2c-You-Can-Fly.aspx
+alias: /blog/post/If-Youre-Happy-and-You-Know-It2c-You-Can-Fly.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Snapter... The Death of the RIAA"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-25 23:29:00
 categories:
  - Technology
 subtext-id: 2a87eba7-67b2-41cc-a32d-2edc11e1eca5
-alias: /blog/Snapter-The-Death-of-the-RIAA.aspx
+alias: /blog/post/Snapter-The-Death-of-the-RIAA.aspx
 ---
 
 

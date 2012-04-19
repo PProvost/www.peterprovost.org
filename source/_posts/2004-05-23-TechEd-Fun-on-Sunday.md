@@ -4,7 +4,7 @@ title: "TechEd: Fun on Sunday"
 comments: false
 date: 2004-05-23 18:19:00
 subtext-id: f3557d7b-be44-4afb-958b-b407520b7b7d
-alias: /blog/TechEd-Fun-on-Sunday.aspx
+alias: /blog/post/TechEd-Fun-on-Sunday.aspx
 ---
 
 

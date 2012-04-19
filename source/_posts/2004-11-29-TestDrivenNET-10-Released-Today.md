@@ -11,7 +11,7 @@ tags:
  - tdd
  - agile development
 subtext-id: 79dcb74e-4958-4ae6-8c3e-4e2fe7b9fd0c
-alias: /blog/TestDrivenNET-10-Released-Today.aspx
+alias: /blog/post/TestDrivenNET-10-Released-Today.aspx
 ---
 
 

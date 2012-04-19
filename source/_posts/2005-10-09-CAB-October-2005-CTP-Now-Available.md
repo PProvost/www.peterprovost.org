@@ -9,7 +9,7 @@ categories:
 tags:
  - cab
 subtext-id: df561645-633c-4584-be51-adaf3f23c3e5
-alias: /blog/CAB-October-2005-CTP-Now-Available.aspx
+alias: /blog/post/CAB-October-2005-CTP-Now-Available.aspx
 ---
 
 

@@ -5,7 +5,7 @@ comments: false
 date: 2006-10-25 08:42:00
 updated: 2006-10-25 19:00:00
 subtext-id: 34707a0a-696f-4724-944c-94065be05969
-alias: /blog/Jedidja-Bourgeois-Lives!.aspx
+alias: /blog/post/Jedidja-Bourgeois-Lives!.aspx
 ---
 
 

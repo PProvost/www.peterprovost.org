@@ -9,7 +9,7 @@ categories:
 tags:
  - tdd
 subtext-id: 5ccbe978-c4e2-42ba-a502-d19fda8baffd
-alias: /blog/Replacing-ExpectedException-in-NUnit-24.aspx
+alias: /blog/post/Replacing-ExpectedException-in-NUnit-24.aspx
 ---
 
 

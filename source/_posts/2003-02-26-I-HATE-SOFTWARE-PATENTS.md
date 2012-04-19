@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "I HATE SOFTWARE PATENTS"
 comments: false
@@ -8,7 +8,7 @@ categories:
  - Opinions, Politics, Rants
  - Technology
 subtext-id: 4dd6822a-faad-46a6-9700-73e559f9e4fc
-alias: /blog/I-HATE-SOFTWARE-PATENTS.aspx
+alias: /blog/post/I-HATE-SOFTWARE-PATENTS.aspx
 ---
 
 

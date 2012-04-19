@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Virtual Development"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:15:00
 categories:
  - Technology
 subtext-id: a820c653-7743-4ba9-8830-68bbc57785ea
-alias: /blog/Virtual-Development.aspx
+alias: /blog/post/Virtual-Development.aspx
 ---
 
 

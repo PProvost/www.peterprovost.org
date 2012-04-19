@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Pseudo-Science Garbage"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 13:43:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: 120fccd1-4941-4c4a-9071-aa7e32ac8215
-alias: /blog/Pseudo-Science-Garbage.aspx
+alias: /blog/post/Pseudo-Science-Garbage.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Even More Debugging Windows Services"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-03 19:02:00
 categories:
  - Technology
 subtext-id: a082d035-58bd-42ee-a9d3-c4ac8374d3e4
-alias: /blog/Even-More-Debugging-Windows-Services.aspx
+alias: /blog/post/Even-More-Debugging-Windows-Services.aspx
 ---
 
 

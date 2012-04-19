@@ -4,7 +4,7 @@ title: "I Passed 8th Grade Math"
 comments: false
 date: 2005-11-11 22:31:00
 subtext-id: fa6b6999-e9a3-4ade-8173-d2dd225286b6
-alias: /blog/I-Passed-8th-Grade-Math.aspx
+alias: /blog/post/I-Passed-8th-Grade-Math.aspx
 ---
 
 

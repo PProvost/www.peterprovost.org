@@ -7,7 +7,7 @@ updated: 2004-08-27 22:45:00
 categories:
  - Personal
 subtext-id: e4b2e0c4-6514-47f4-ab1f-46b965a3be74
-alias: /blog/Finally-Settled-in-Seattle.aspx
+alias: /blog/post/Finally-Settled-in-Seattle.aspx
 ---
 
 

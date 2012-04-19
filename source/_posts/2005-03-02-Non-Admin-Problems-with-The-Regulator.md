@@ -7,7 +7,7 @@ updated: 2005-03-02 13:23:00
 categories:
  - Technology
 subtext-id: 0eddcba5-4bdb-4eb1-85c7-fd06681c1912
-alias: /blog/Non-Admin-Problems-with-The-Regulator.aspx
+alias: /blog/post/Non-Admin-Problems-with-The-Regulator.aspx
 ---
 
 

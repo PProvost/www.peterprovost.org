@@ -10,7 +10,7 @@ tags:
  - disbursed development
  - team rooms
 subtext-id: 55f164e1-00fe-491f-b23a-ca839933b784
-alias: /blog/Simulated-Agile-Team-Rooms.aspx
+alias: /blog/post/Simulated-Agile-Team-Rooms.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Starbuck is a WOMAN???"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:16:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: 1512c225-5242-4520-a6fd-a07c6547b338
-alias: /blog/Starbuck-is-a-WOMAN.aspx
+alias: /blog/post/Starbuck-is-a-WOMAN.aspx
 ---
 
 

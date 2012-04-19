@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Hubble Heritage - My New Desktop"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-05 21:36:00
 categories:
  - Technology
 subtext-id: d5c18c4e-f84d-4ddc-bcf3-143a650fe61a
-alias: /blog/Hubble-Heritage---My-New-Desktop.aspx
+alias: /blog/post/Hubble-Heritage---My-New-Desktop.aspx
 ---
 
 

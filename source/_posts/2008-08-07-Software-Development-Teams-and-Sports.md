@@ -10,7 +10,7 @@ tags:
  - agile development
  - agile planning
 subtext-id: e08d8e52-10d0-435a-bb10-481e70082e2e
-alias: /blog/Software-Development-Teams-and-Sports.aspx
+alias: /blog/post/Software-Development-Teams-and-Sports.aspx
 ---
 
 

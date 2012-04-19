@@ -7,7 +7,7 @@ updated: 2005-12-29 18:06:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: df3d3ba7-2491-4348-9034-712c534a744c
-alias: /blog/Intelligent-Design-Loses-in-Dover-School-District-Case.aspx
+alias: /blog/post/Intelligent-Design-Loses-in-Dover-School-District-Case.aspx
 ---
 
 

@@ -6,7 +6,7 @@ date: 2004-11-24 08:33:00
 categories:
  - Technology
 subtext-id: 107fb498-dfbe-4cac-8cd5-6d4fabb0b7f6
-alias: /blog/WinKey-is-Pissing-Me-Off.aspx
+alias: /blog/post/WinKey-is-Pissing-Me-Off.aspx
 ---
 
 

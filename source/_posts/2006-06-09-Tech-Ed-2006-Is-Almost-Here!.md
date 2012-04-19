@@ -6,7 +6,7 @@ date: 2006-06-09 11:29:00
 categories:
  - Technology
 subtext-id: 813b0b2a-6eda-48fc-9fc7-8a52c27d8e33
-alias: /blog/Tech-Ed-2006-Is-Almost-Here!.aspx
+alias: /blog/post/Tech-Ed-2006-Is-Almost-Here!.aspx
 ---
 
 

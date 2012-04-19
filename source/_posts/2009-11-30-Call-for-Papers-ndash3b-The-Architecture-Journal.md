@@ -10,7 +10,7 @@ tags:
  - visual studio
  - architecture
 subtext-id: db9a7b53-e8f4-4eef-b0cf-6816962e419b
-alias: /blog/Call-for-Papers-ndash3b-The-Architecture-Journal.aspx
+alias: /blog/post/Call-for-Papers-ndash3b-The-Architecture-Journal.aspx
 ---
 
 

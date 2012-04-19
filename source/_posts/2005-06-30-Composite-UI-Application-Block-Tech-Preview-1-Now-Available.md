@@ -9,7 +9,7 @@ categories:
 tags:
  - cab
 subtext-id: 310a06d2-86ef-4005-9283-b1907d382086
-alias: /blog/Composite-UI-Application-Block-Tech-Preview-1-Now-Available.aspx
+alias: /blog/post/Composite-UI-Application-Block-Tech-Preview-1-Now-Available.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Sybase SQL Cheat Sheet"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 00:36:00
 categories:
  - Technology
 subtext-id: 2f8ff6ee-2f93-452d-93d8-bdd190525e7c
-alias: /blog/Sybase-SQL-Cheat-Sheet.aspx
+alias: /blog/post/Sybase-SQL-Cheat-Sheet.aspx
 ---
 
 

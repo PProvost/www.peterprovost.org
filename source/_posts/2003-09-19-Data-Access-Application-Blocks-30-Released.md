@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Data Access Application Blocks 3.0 Released"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 09:32:00
 categories:
  - Technology
 subtext-id: 36601a7c-0e18-4e13-813c-54029394b59a
-alias: /blog/Data-Access-Application-Blocks-30-Released.aspx
+alias: /blog/post/Data-Access-Application-Blocks-30-Released.aspx
 ---
 
 

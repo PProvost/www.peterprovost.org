@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Defining XML Views in SQL Server"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-03 20:47:00
 categories:
  - Technology
 subtext-id: 78e48639-f1a4-4415-a4cd-39accf2b9e63
-alias: /blog/Defining-XML-Views-in-SQL-Server.aspx
+alias: /blog/post/Defining-XML-Views-in-SQL-Server.aspx
 ---
 
 

@@ -12,7 +12,7 @@ tags:
  - unit testing
  - vs11
 subtext-id: f7a6427c-e93b-4360-9e06-76e3dccd2a9d
-alias: /blog/Unit-Testing-with-MSTest-xUnit-and-NUnit-in-the-VS11-Developer-Preview.aspx
+alias: /blog/post/Unit-Testing-with-MSTest-xUnit-and-NUnit-in-the-VS11-Developer-Preview.aspx
 ---
 
 Back in September, at the [//build/windows conference](http://www.buildwindows.com/), we were very excited to get to show off our new unit testing experience for Visual Studio 11.

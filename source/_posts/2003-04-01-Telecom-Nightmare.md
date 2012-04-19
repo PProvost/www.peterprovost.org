@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Telecom Nightmare"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-01 21:58:00
 categories:
  - Technology
 subtext-id: e35a7023-013c-4090-aea8-5dffeba7f0a7
-alias: /blog/Telecom-Nightmare.aspx
+alias: /blog/post/Telecom-Nightmare.aspx
 ---
 
 

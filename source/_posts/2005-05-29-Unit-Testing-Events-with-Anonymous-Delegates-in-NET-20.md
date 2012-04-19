@@ -10,7 +10,7 @@ tags:
  - tdd
  - agile development
 subtext-id: 15956d88-19f6-40fc-b30f-5f631a2fe91a
-alias: /blog/Unit-Testing-Events-with-Anonymous-Delegates-in-NET-20.aspx
+alias: /blog/post/Unit-Testing-Events-with-Anonymous-Delegates-in-NET-20.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Another Radio Problem... Not!"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-22 18:34:00
 categories:
  - Technology
 subtext-id: b69380c8-63a8-4cbd-82d0-a9219409fdae
-alias: /blog/Another-Radio-Problem-Not!.aspx
+alias: /blog/post/Another-Radio-Problem-Not!.aspx
 ---
 
 

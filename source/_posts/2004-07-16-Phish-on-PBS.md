@@ -6,7 +6,7 @@ date: 2004-07-16 12:32:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: 4c201fa5-59e2-421a-a081-908f7d5fcb68
-alias: /blog/Phish-on-PBS.aspx
+alias: /blog/post/Phish-on-PBS.aspx
 ---
 
 

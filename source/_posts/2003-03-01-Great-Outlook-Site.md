@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Great Outlook Site"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:18:00
 categories:
  - Technology
 subtext-id: 155abb63-f5e8-411e-b721-a291acd2c84c
-alias: /blog/Great-Outlook-Site.aspx
+alias: /blog/post/Great-Outlook-Site.aspx
 ---
 
 

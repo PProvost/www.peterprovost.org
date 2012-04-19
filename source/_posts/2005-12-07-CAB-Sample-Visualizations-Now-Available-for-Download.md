@@ -10,7 +10,7 @@ tags:
  - patterns & practices
  - cab
 subtext-id: 33a920ae-76d6-4410-b078-d1cac1170c44
-alias: /blog/CAB-Sample-Visualizations-Now-Available-for-Download.aspx
+alias: /blog/post/CAB-Sample-Visualizations-Now-Available-for-Download.aspx
 ---
 
 

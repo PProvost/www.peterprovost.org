@@ -7,7 +7,7 @@ categories:
  - Opinions, Politics, Rants
  - Quotes
 subtext-id: b5436fa0-4ed0-4f43-97dc-2e07466e8be6
-alias: /blog/Dalai-Lama-on-Science-and-Religion.aspx
+alias: /blog/post/Dalai-Lama-on-Science-and-Religion.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: ".NET Alerts PAG"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-28 11:35:00
 categories:
  - Technology
 subtext-id: 9df44861-3718-4fe9-a6f2-ea9a82b39fb5
-alias: /blog/NET-Alerts-PAG.aspx
+alias: /blog/post/NET-Alerts-PAG.aspx
 ---
 
 

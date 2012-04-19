@@ -8,7 +8,7 @@ categories:
  - Quotes
  - Technology
 subtext-id: 415c6705-962b-4c2c-a21e-143ee4175653
-alias: /blog/Ward-Cunningham-Quotes.aspx
+alias: /blog/post/Ward-Cunningham-Quotes.aspx
 ---
 
 

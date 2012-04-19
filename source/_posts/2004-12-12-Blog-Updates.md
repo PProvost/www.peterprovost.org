@@ -6,7 +6,7 @@ date: 2004-12-12 21:24:00
 categories:
  - Technology
 subtext-id: 1178f8f3-d430-4e57-8695-5b2b4dcb8cd8
-alias: /blog/Blog-Updates.aspx
+alias: /blog/post/Blog-Updates.aspx
 ---
 
 

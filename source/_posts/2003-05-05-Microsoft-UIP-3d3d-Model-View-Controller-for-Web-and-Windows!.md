@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Microsoft UIP == Model View Controller for Web and Windows!"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-05 20:59:00
 categories:
  - Technology
 subtext-id: b2aba532-5c6d-4daa-8744-343ebaa97afe
-alias: /blog/Microsoft-UIP-3d3d-Model-View-Controller-for-Web-and-Windows!.aspx
+alias: /blog/post/Microsoft-UIP-3d3d-Model-View-Controller-for-Web-and-Windows!.aspx
 ---
 
 

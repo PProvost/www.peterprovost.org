@@ -8,7 +8,7 @@ categories:
  - Community
  - Technology
 subtext-id: 360af4d7-0ce1-4446-b30a-7999623b0ed0
-alias: /blog/TechEd-2004---Ill-Be-There.aspx
+alias: /blog/post/TechEd-2004---Ill-Be-There.aspx
 ---
 
 

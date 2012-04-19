@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "How To Keep Your Job"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-15 20:57:00
 categories:
  - Technology
 subtext-id: 91443f4e-37c6-4bc8-aa76-355078bb91ed
-alias: /blog/How-To-Keep-Your-Job.aspx
+alias: /blog/post/How-To-Keep-Your-Job.aspx
 ---
 
 

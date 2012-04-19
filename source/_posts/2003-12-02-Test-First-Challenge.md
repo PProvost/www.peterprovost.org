@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Test-First Challenge"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 15:55:00
 categories:
  - Technology
 subtext-id: 84367615-3092-4498-80f3-8cad32575e24
-alias: /blog/Test-First-Challenge.aspx
+alias: /blog/post/Test-First-Challenge.aspx
 ---
 
 

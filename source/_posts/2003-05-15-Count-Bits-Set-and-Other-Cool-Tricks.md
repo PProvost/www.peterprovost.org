@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Count Bits Set and Other Cool Tricks"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:37:00
 categories:
  - Technology
 subtext-id: 2cfa1ffc-3a17-4617-8654-542764ea5d7b
-alias: /blog/Count-Bits-Set-and-Other-Cool-Tricks.aspx
+alias: /blog/post/Count-Bits-Set-and-Other-Cool-Tricks.aspx
 ---
 
 

@@ -8,7 +8,7 @@ categories:
  - Community
  - Technology
 subtext-id: fac7f10a-c8fd-4698-8bd6-c1400f677452
-alias: /blog/Denver-Pragmatic-Practitioners2c-July-Meeting.aspx
+alias: /blog/post/Denver-Pragmatic-Practitioners2c-July-Meeting.aspx
 ---
 
 

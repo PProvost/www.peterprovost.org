@@ -8,7 +8,7 @@ categories:
  - Haiku
  - Technology
 subtext-id: d26b026d-de54-45ab-91fb-926a36c6502b
-alias: /blog/GMail-Invites-Redux.aspx
+alias: /blog/post/GMail-Invites-Redux.aspx
 ---
 
 

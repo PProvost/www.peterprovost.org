@@ -10,7 +10,7 @@ tags:
  - vim
  - powershell
 subtext-id: 7f5536cd-8971-45be-9ee1-94294bb08681
-alias: /blog/Updated-PowerShell-Syntax-File-for-vim.aspx
+alias: /blog/post/Updated-PowerShell-Syntax-File-for-vim.aspx
 ---
 
 

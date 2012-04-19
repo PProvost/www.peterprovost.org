@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Good Stuff from SysInternals.com"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-20 20:05:00
 categories:
  - Technology
 subtext-id: 60558e52-1002-4055-919c-bf1b04ef25e8
-alias: /blog/Good-Stuff-from-SysInternalscom.aspx
+alias: /blog/post/Good-Stuff-from-SysInternalscom.aspx
 ---
 
 

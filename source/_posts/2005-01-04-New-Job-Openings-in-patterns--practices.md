@@ -7,7 +7,7 @@ categories:
  - Community
  - Technology
 subtext-id: d35b8c0b-dd8e-41d5-ba15-4d7428bb784c
-alias: /blog/New-Job-Openings-in-patterns--practices.aspx
+alias: /blog/post/New-Job-Openings-in-patterns--practices.aspx
 ---
 
 

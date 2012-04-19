@@ -7,7 +7,7 @@ updated: 2004-11-23 16:21:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: a35b96a3-b909-45b6-993c-016d2ef1698a
-alias: /blog/Bawls-is-Good.aspx
+alias: /blog/post/Bawls-is-Good.aspx
 ---
 
 

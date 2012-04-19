@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "SWEBOK Negatively Reviewed and Why You Should Care"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-30 17:09:00
 categories:
  - Technology
 subtext-id: ae74389c-46de-46ba-8b6b-9c3b92e7093e
-alias: /blog/SWEBOK-Negatively-Reviewed-and-Why-You-Should-Care.aspx
+alias: /blog/post/SWEBOK-Negatively-Reviewed-and-Why-You-Should-Care.aspx
 ---
 
 

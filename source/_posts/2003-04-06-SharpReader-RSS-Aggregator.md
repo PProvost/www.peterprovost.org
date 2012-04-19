@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "SharpReader RSS Aggregator"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-06 20:40:00
 categories:
  - Technology
 subtext-id: 88d5f572-a2d5-41a4-895a-604a9b232401
-alias: /blog/SharpReader-RSS-Aggregator.aspx
+alias: /blog/post/SharpReader-RSS-Aggregator.aspx
 ---
 
 

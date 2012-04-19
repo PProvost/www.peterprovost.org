@@ -12,7 +12,7 @@ tags:
  - tdd
  - agile development
 subtext-id: 84cc694c-4a9e-4987-9c77-22384c0cb5a2
-alias: /blog/Whats-New-in-Visual-Studio-11-Beta-Unit-Testing.aspx
+alias: /blog/post/Whats-New-in-Visual-Studio-11-Beta-Unit-Testing.aspx
 ---
 
 

@@ -9,7 +9,7 @@ categories:
 tags:
  - powershell
 subtext-id: 226c7f83-477f-442b-ad1b-7343a0d7a925
-alias: /blog/Windows-Monad-Shell-Beta-3-Now-Available!.aspx
+alias: /blog/post/Windows-Monad-Shell-Beta-3-Now-Available!.aspx
 ---
 
 

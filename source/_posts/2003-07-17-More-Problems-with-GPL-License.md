@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "More Problems with GPL License?"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-17 21:27:00
 categories:
  - Technology
 subtext-id: a1dbb05e-859d-4534-80ec-d5c8032b6a5f
-alias: /blog/More-Problems-with-GPL-License.aspx
+alias: /blog/post/More-Problems-with-GPL-License.aspx
 ---
 
 

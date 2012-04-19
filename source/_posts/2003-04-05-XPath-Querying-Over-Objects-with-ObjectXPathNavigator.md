@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "XPath Querying Over Objects with ObjectXPathNavigator"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-05 10:56:00
 categories:
  - Technology
 subtext-id: 830243ef-2134-44bf-b3f5-fa203d3d7468
-alias: /blog/XPath-Querying-Over-Objects-with-ObjectXPathNavigator.aspx
+alias: /blog/post/XPath-Querying-Over-Objects-with-ObjectXPathNavigator.aspx
 ---
 
 

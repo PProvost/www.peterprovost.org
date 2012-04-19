@@ -9,7 +9,7 @@ tags:
  - hyper-v
  - windows server
 subtext-id: 13652ec5-2b75-4eab-8c40-38cce491a03b
-alias: /blog/Hyper-V-Management-Console-on-Vista-x64.aspx
+alias: /blog/post/Hyper-V-Management-Console-on-Vista-x64.aspx
 ---
 
 

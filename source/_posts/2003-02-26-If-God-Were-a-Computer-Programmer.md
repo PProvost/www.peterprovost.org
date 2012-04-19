@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "If God Were a Computer Programmer"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 13:41:00
 categories:
  - Technology
 subtext-id: fcb4f6ee-2999-47fd-ba1e-569ec4df3247
-alias: /blog/If-God-Were-a-Computer-Programmer.aspx
+alias: /blog/post/If-God-Were-a-Computer-Programmer.aspx
 ---
 
 

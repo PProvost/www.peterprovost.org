@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "File Versions in Windows Server 2003?"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-13 13:25:00
 categories:
  - Technology
 subtext-id: a73d8065-0e19-48f2-8e0f-1384f4902b12
-alias: /blog/File-Versions-in-Windows-Server-2003.aspx
+alias: /blog/post/File-Versions-in-Windows-Server-2003.aspx
 ---
 
 

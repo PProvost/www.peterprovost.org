@@ -12,7 +12,7 @@ tags:
  - powershell
  - agile development
 subtext-id: e14d0590-fafc-46c1-bd73-1e695dee1295
-alias: /blog/TDD-with-PowerShell---Mocking-Things.aspx
+alias: /blog/post/TDD-with-PowerShell---Mocking-Things.aspx
 ---
 
 

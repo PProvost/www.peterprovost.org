@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Charlie Poole Hits it on the Head"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:09:00
 categories:
  - Technology
 subtext-id: faa980a9-7d98-4dac-93a4-eb507958f37a
-alias: /blog/Charlie-Poole-Hits-it-on-the-Head.aspx
+alias: /blog/post/Charlie-Poole-Hits-it-on-the-Head.aspx
 ---
 
 

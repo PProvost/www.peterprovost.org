@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "A Standard for Internet Security Testing?"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 00:44:00
 categories:
  - Technology
 subtext-id: 2ca8f546-0263-4a7f-9599-6af7d266777a
-alias: /blog/A-Standard-for-Internet-Security-Testing.aspx
+alias: /blog/post/A-Standard-for-Internet-Security-Testing.aspx
 ---
 
 

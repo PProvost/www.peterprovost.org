@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Genghis v0.4 Released"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-07 21:34:00
 categories:
  - Technology
 subtext-id: 4c37d19d-c17f-46e6-b54c-c43bc732c915
-alias: /blog/Genghis-v04-Released.aspx
+alias: /blog/post/Genghis-v04-Released.aspx
 ---
 
 

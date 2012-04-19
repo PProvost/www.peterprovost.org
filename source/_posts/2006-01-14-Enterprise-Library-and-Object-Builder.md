@@ -11,7 +11,7 @@ tags:
  - entlib
  - objectbuilder
 subtext-id: ba73c9ac-ee67-49db-915f-fa67075fcd6a
-alias: /blog/Enterprise-Library-and-Object-Builder.aspx
+alias: /blog/post/Enterprise-Library-and-Object-Builder.aspx
 ---
 
 

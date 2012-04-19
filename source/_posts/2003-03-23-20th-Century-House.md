@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "20th Century House"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-23 20:24:00
 categories:
  - Technology
 subtext-id: 918077bc-9209-4e65-8334-8671fca2cb1d
-alias: /blog/20th-Century-House.aspx
+alias: /blog/post/20th-Century-House.aspx
 ---
 
 

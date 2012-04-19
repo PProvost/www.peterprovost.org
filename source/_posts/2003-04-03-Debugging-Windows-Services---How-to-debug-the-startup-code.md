@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Debugging Windows Services - How to debug the startup code"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-03 20:39:00
 categories:
  - Technology
 subtext-id: 273eb860-9583-4eb9-bd86-2a90ecbcae97
-alias: /blog/Debugging-Windows-Services---How-to-debug-the-startup-code.aspx
+alias: /blog/post/Debugging-Windows-Services---How-to-debug-the-startup-code.aspx
 ---
 
 

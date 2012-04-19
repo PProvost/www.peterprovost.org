@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "ASP.NET Templates"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 21:33:00
 categories:
  - Technology
 subtext-id: 0de9bf00-01e4-4f2f-8efd-8d720f189040
-alias: /blog/ASPNET-Templates.aspx
+alias: /blog/post/ASPNET-Templates.aspx
 ---
 
 

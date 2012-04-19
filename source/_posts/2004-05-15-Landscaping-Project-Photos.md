@@ -7,7 +7,7 @@ updated: 2004-05-16 13:26:00
 categories:
  - Personal
 subtext-id: fac0d4f7-58a3-4fb6-9c0d-4a0e94a227be
-alias: /blog/Landscaping-Project-Photos.aspx
+alias: /blog/post/Landscaping-Project-Photos.aspx
 ---
 
 

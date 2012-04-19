@@ -6,7 +6,7 @@ date: 2005-03-08 21:23:00
 categories:
  - Technology
 subtext-id: 693615aa-234f-4801-a6d0-05cf3880ba1a
-alias: /blog/Visual-Basic-60-Source-Code.aspx
+alias: /blog/post/Visual-Basic-60-Source-Code.aspx
 ---
 
 

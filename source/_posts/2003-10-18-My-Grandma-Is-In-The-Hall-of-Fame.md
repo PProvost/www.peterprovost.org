@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "My Grandma Is In The Hall of Fame"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-01 16:38:00
 categories:
  - Personal
 subtext-id: 64ffc0f3-2f23-45c2-a3a7-c2956a185b24
-alias: /blog/My-Grandma-Is-In-The-Hall-of-Fame.aspx
+alias: /blog/post/My-Grandma-Is-In-The-Hall-of-Fame.aspx
 ---
 
 

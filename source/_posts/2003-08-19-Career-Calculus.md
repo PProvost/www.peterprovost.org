@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Career Calculus"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:09:00
 categories:
  - Opinions, Politics, Rants
 subtext-id: 8235cc9a-b63f-4fa3-a092-946b45feb94e
-alias: /blog/Career-Calculus.aspx
+alias: /blog/post/Career-Calculus.aspx
 ---
 
 

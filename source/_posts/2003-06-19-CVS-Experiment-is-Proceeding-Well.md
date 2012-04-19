@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "CVS Experiment is Proceeding Well"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-19 00:34:00
 categories:
  - Technology
 subtext-id: 094ac52e-b1dd-4d05-bc88-20bdf0ac5cc4
-alias: /blog/CVS-Experiment-is-Proceeding-Well.aspx
+alias: /blog/post/CVS-Experiment-is-Proceeding-Well.aspx
 ---
 
 

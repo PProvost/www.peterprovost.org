@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "WinAmp Annoyance"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-07 15:21:00
 categories:
  - Technology
 subtext-id: 63c7448a-826a-4849-97da-aca5200adee9
-alias: /blog/WinAmp-Annoyance.aspx
+alias: /blog/post/WinAmp-Annoyance.aspx
 ---
 
 

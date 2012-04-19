@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Coad Letter Gone?"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-16 19:48:00
 categories:
  - Technology
 subtext-id: 8bf3a1b8-7190-4266-a224-1465018ccf18
-alias: /blog/Coad-Letter-Gone.aspx
+alias: /blog/post/Coad-Letter-Gone.aspx
 ---
 
 

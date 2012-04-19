@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "C# Tip: using this=that;"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-05-20 19:43:00
 categories:
  - Technology
 subtext-id: 6cb76380-d726-4b6a-b918-6ab73aecdf09
-alias: /blog/C-Tip-using-this3dthat3b.aspx
+alias: /blog/post/C-Tip-using-this3dthat3b.aspx
 ---
 
 

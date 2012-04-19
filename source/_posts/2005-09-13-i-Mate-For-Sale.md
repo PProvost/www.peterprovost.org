@@ -9,7 +9,7 @@ categories:
 tags:
  - pdc
 subtext-id: 154e6cc7-0c0d-4f98-b8d1-9dea9090c2c7
-alias: /blog/i-Mate-For-Sale.aspx
+alias: /blog/post/i-Mate-For-Sale.aspx
 ---
 
 

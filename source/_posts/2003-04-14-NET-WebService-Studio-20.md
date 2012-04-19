@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: ".NET WebService Studio 2.0"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-04-14 19:22:00
 categories:
  - Technology
 subtext-id: 4ad8aa63-bd8a-4708-909d-e0d1519ec192
-alias: /blog/NET-WebService-Studio-20.aspx
+alias: /blog/post/NET-WebService-Studio-20.aspx
 ---
 
 

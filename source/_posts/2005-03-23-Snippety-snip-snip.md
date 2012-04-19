@@ -6,7 +6,7 @@ date: 2005-03-23 09:43:00
 categories:
  - Personal
 subtext-id: 3e11b50a-73aa-4d68-9620-e4cda66b61e4
-alias: /blog/Snippety-snip-snip.aspx
+alias: /blog/post/Snippety-snip-snip.aspx
 ---
 
 

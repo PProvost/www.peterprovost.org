@@ -6,7 +6,7 @@ date: 2004-09-15 11:40:00
 categories:
  - Technology
 subtext-id: 138a40b9-b1ba-462b-a001-1ea536371083
-alias: /blog/Command-Prompt-Problem.aspx
+alias: /blog/post/Command-Prompt-Problem.aspx
 ---
 
 

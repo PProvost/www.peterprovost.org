@@ -7,7 +7,7 @@ updated: 2004-05-01 11:14:00
 categories:
  - Technology
 subtext-id: 39da0cb5-fe4e-438f-8e88-b33bf3a11c1a
-alias: /blog/Almost-ready-to-switch.aspx
+alias: /blog/post/Almost-ready-to-switch.aspx
 ---
 
 

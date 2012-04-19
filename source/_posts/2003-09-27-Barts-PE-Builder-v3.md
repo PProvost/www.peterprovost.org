@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Bart's PE Builder v3"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-02 00:36:00
 categories:
  - Technology
 subtext-id: 68e276a1-1c2e-45d2-a84a-8581d6978328
-alias: /blog/Barts-PE-Builder-v3.aspx
+alias: /blog/post/Barts-PE-Builder-v3.aspx
 ---
 
 

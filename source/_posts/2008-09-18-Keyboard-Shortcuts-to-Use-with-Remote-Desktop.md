@@ -9,7 +9,7 @@ tags:
  - remote desktop
  - keyboard shortcuts
 subtext-id: 0289e749-7cf1-4bca-a0cd-d01cc8d0f8b3
-alias: /blog/Keyboard-Shortcuts-to-Use-with-Remote-Desktop.aspx
+alias: /blog/post/Keyboard-Shortcuts-to-Use-with-Remote-Desktop.aspx
 ---
 
 

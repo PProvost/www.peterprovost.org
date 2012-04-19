@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Attack of the Clowns"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-03 20:26:00
 categories:
  - Books, Music, TV and Movies
 subtext-id: 5871302a-bbe1-40b1-b493-82a7fee92bba
-alias: /blog/Attack-of-the-Clowns.aspx
+alias: /blog/post/Attack-of-the-Clowns.aspx
 ---
 
 

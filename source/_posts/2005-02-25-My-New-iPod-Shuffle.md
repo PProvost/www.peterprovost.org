@@ -7,7 +7,7 @@ updated: 2005-02-28 09:43:00
 categories:
  - Technology
 subtext-id: 680eff3f-e511-47e1-a868-6afed3414f83
-alias: /blog/My-New-iPod-Shuffle.aspx
+alias: /blog/post/My-New-iPod-Shuffle.aspx
 ---
 
 

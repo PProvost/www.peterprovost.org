@@ -6,7 +6,7 @@ date: 2005-04-07 11:11:00
 categories:
  - Technology
 subtext-id: 28039302-ac3b-4daa-8253-9c51f7223c0f
-alias: /blog/How-to-Run-Unit-Tests-for-EntLib-v1.aspx
+alias: /blog/post/How-to-Run-Unit-Tests-for-EntLib-v1.aspx
 ---
 
 

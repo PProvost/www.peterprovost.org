@@ -6,7 +6,7 @@ date: 2004-05-06 20:13:00
 categories:
  - Technology
 subtext-id: 62717419-f43c-47c3-97d2-1d1e57a84ed1
-alias: /blog/Content-Rating-Back-On.aspx
+alias: /blog/post/Content-Rating-Back-On.aspx
 ---
 
 

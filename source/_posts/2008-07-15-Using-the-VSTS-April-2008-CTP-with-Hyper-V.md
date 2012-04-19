@@ -9,7 +9,7 @@ tags:
  - vsts
  - hyper-v
 subtext-id: fbac850a-5bc2-4a6b-a233-8edbc0cdf8ce
-alias: /blog/Using-the-VSTS-April-2008-CTP-with-Hyper-V.aspx
+alias: /blog/post/Using-the-VSTS-April-2008-CTP-with-Hyper-V.aspx
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Linux Secure Tunnel Protocols Slammed"
 comments: false
@@ -9,7 +9,7 @@ categories:
 tags:
  - cryptography
 subtext-id: 6116d356-5753-42ae-8ba7-270263e59d80
-alias: /blog/Linux-Secure-Tunnel-Protocols-Slammed.aspx
+alias: /blog/post/Linux-Secure-Tunnel-Protocols-Slammed.aspx
 ---
 
 

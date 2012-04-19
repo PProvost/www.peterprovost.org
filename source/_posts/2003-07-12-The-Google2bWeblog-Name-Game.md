@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The Google+Weblog Name Game"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-07-12 12:36:00
 categories:
  - Technology
 subtext-id: 07ce0c73-4cbc-4e0b-bd6e-96fac31c291f
-alias: /blog/The-Google2bWeblog-Name-Game.aspx
+alias: /blog/post/The-Google2bWeblog-Name-Game.aspx
 ---
 
 

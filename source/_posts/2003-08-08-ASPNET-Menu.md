@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "ASP.NET Menu"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-08-08 08:02:00
 categories:
  - Technology
 subtext-id: 5abd49ad-01e8-4a38-a284-5a176f7f5684
-alias: /blog/ASPNET-Menu.aspx
+alias: /blog/post/ASPNET-Menu.aspx
 ---
 
 

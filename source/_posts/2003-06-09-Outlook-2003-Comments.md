@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Outlook 2003 Comments"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-06-09 11:43:00
 categories:
  - Technology
 subtext-id: 63a9a2bc-9b0e-4451-86f6-1807be2f9e36
-alias: /blog/Outlook-2003-Comments.aspx
+alias: /blog/post/Outlook-2003-Comments.aspx
 ---
 
 

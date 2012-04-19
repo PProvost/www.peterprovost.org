@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "I Am a Red Dragon"
 comments: false
@@ -7,7 +7,7 @@ updated: 2004-05-05 14:18:00
 categories:
  - Personal
 subtext-id: 6f451171-32c8-43f9-bd89-eb6bffaa8a3b
-alias: /blog/I-Am-a-Red-Dragon.aspx
+alias: /blog/post/I-Am-a-Red-Dragon.aspx
 ---
 
 

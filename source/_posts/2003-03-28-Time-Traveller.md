@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Time Traveller"
 comments: false
@@ -6,7 +6,7 @@ date: 2003-03-28 19:41:00
 categories:
  - Technology
 subtext-id: d0e7cd4c-53c5-4730-8085-7db3d0d17e5a
-alias: /blog/Time-Traveller.aspx
+alias: /blog/post/Time-Traveller.aspx
 ---
 
 

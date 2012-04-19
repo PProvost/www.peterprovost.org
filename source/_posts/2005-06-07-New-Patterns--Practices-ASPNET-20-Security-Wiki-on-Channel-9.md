@@ -6,7 +6,7 @@ date: 2005-06-07 13:45:00
 categories:
  - Technology
 subtext-id: f7804033-a161-405f-b094-bcde9ecfa703
-alias: /blog/New-Patterns--Practices-ASPNET-20-Security-Wiki-on-Channel-9.aspx
+alias: /blog/post/New-Patterns--Practices-ASPNET-20-Security-Wiki-on-Channel-9.aspx
 ---
 
 
