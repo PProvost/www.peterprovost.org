@@ -62,10 +62,10 @@ module Jekyll
         # index.html file.
 
 				# Hack - since my aliases are .aspx this won't work so we will always create a directory
-        # alias_dir = File.extname(alias_path).empty? ? alias_path : File.dirname(alias_path)
-        # alias_file = File.extname(alias_path).empty? ? "index.html" : File.basename(alias_path)
-        alias_dir = alias_path
-        alias_file = "index.html"
+        alias_dir = File.extname(alias_path).empty? ? alias_path : File.dirname(alias_path)
+        alias_file = File.extname(alias_path).empty? ? "index.html" : File.basename(alias_path)
+        # alias_dir = alias_path
+        # alias_file = "index.html"
 
         fs_path_to_dir = File.join(@site.dest, alias_dir)
         alias_index_path = File.join(alias_dir, alias_file)
