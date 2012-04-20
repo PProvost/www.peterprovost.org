@@ -13,12 +13,6 @@ tags:
 - vs11
 ---
 
-## Visual Studio Fakes Series
-
-* Visual Studio Fakes Part 1 - Stubs
-* Visual Studio Fakes Part 2 - Shims
-* Visual Studio Fakes Part 3 - Tweaking
-
 ## The Catch-22 of Refactoring to Enable Unit Testing
 
 In Part 1, I reviewed Stubs, which are a simple way of creating concrete
@@ -65,6 +59,8 @@ let out a respectful whistle. (p. 56, ch. 5)
 
 ## Shim Your Way Out of the Paradox
 
+### Example 1 - 
+
 To see what this really looks like, let's look at some code (continued from the
 example in Part 1).
 
@@ -106,9 +102,9 @@ There is one minor change from our previous example. We are now setting the
 repository. (I know this might not be the best way to do this, but go with
 me...)
 
-***How do we test that Save sets the correct value?***
+***How do we test that Save sets the correct value to `LastUpdated`?***
 
-You might start by writing a test like this. I'm using the same Stubs technique
+You might start by writing a test like this. This uses the same Stubs technique
 I showed in the last article.
 
 ``` csharp A Not-so-good Test for LastUpdated
@@ -153,7 +149,9 @@ that time?
 This example, while contrived, shows one of the kinds of thing that can be difficult
 to test, but of course there are more.
 
-Here's another example, from the same sample:
+### Example 2 - The hidden object instance
+
+Here's a different example showing another problem.
 
 ``` csharp
 ```

@@ -12,6 +12,9 @@ tags:
 
 {% img right no-border /images/blog/VS11-Beta-Logo.png %}
 
+***Update:*** I sent a pull-request to David Thibault and this update
+is now in [his mainline repository][6].
+
 I'm sure everyone and their dog knows by now that we changed the color theme in
 VS11 Beta to something a little more... ummm... monochromatic.
 
