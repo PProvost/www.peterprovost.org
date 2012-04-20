@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Masting my machine repaves with Git and PowerShell"
+title: "Mastering my machine repaves with Git and PowerShell"
 date: 2012-04-20 00:12
 comments: true
 categories: 
