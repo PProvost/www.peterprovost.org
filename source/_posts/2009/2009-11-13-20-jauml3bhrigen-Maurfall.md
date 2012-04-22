@@ -4,8 +4,7 @@ title: "20 j&auml;hrigen Maurfall"
 comments: false
 date: 2009-11-13 10:46:13
 categories:
- - Technology
- - Community
+ - Public Speaking
 tags:
  - visual studio
  - teched

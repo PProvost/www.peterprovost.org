@@ -5,8 +5,7 @@ comments: false
 date: 2010-12-01 10:05:24
 updated: 2010-12-01 10:06:29
 categories:
- - Technology
- - Agile Software Development
+ - Public Speaking
 tags:
  - agile development
  - agile planning

@@ -4,8 +4,7 @@ title: "Coverage of VS11 Unit Testing at the //build conference"
 comments: true
 date: 2012-02-21 14:24:28
 categories:
- - Agile Software Development
- - Technology
+ - Public Speaking
 tags:
  - agile development
  - tdd

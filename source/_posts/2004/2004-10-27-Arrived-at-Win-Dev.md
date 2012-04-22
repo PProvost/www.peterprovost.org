@@ -5,8 +5,7 @@ comments: false
 date: 2004-10-27 21:27:00
 updated: 2004-10-27 21:44:00
 categories:
- - Community
- - Technology
+ - Public Speaking
 subtext-id: d4192aa2-ab98-4452-a9a6-2fa0914f1f0e
 alias: /blog/post/Arrived-at-Win-Dev.aspx
 ---

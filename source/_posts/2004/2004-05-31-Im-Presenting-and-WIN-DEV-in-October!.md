@@ -5,8 +5,7 @@ comments: false
 date: 2004-05-31 21:43:00
 updated: 2004-05-31 22:19:00
 categories:
- - Community
- - Technology
+ - Public Speaking
 subtext-id: cb760306-3ea7-4ded-9041-cde8cbd2292d
 alias: /blog/post/Im-Presenting-and-WIN-DEV-in-October!.aspx
 ---
