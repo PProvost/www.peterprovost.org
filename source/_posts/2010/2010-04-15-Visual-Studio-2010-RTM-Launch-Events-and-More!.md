@@ -4,7 +4,7 @@ title: "Visual Studio 2010 RTM, Launch Events and More!"
 comments: false
 date: 2010-04-15 14:50:32
 categories:
- - Technology
+ - Public Speaking
 tags:
  - visual studio
 subtext-id: 82e0b03e-273c-45c6-9350-a1e0e96d9735
