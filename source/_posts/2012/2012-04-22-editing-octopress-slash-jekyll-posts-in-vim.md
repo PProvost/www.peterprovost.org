@@ -31,6 +31,8 @@ syntax definition. You just create another syntax file and put it in the
 `after` directory in your `~/.vim` directory. Then you just add the new syntax
 descriptors and restart Vim.
 
+<!-- more -->
+
 For the first problem, I found a [blog post by Christopher Sexton][10] that had a
 nice regex match for the YAML Front Matter. He has it included in his
 [Jekyll.vim plugin][2] (which I don't use, but it is pretty cool).
