@@ -7,8 +7,9 @@ categories:
 - Community
 - Technology
 tags:
+- blogging
 - octopress
-- blog
+- jekyll
 ---
 
 {% img right /images/blog/2012-04-15-switching-the-blog-to-octopress/octopress-logo.png Octopress Logo %}
