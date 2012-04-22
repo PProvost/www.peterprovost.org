@@ -5,9 +5,10 @@ comments: false
 date: 2005-09-13 13:05:00
 updated: 2008-07-06 10:19:23
 categories:
- - Community
+ - Public Speaking
 tags:
  - pdc
+ - patterns &amp; practices
 subtext-id: ced690f8-0c88-42cd-b98c-4bf0a9a5880f
 alias: /blog/post/patterns--practices-Pre-Conference-Session-(Pt-2).aspx
 ---
