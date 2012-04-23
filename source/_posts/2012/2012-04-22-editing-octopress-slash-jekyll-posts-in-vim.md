@@ -2,6 +2,7 @@
 layout: post
 title: "Editing Octopress/Jekyll posts in Vim"
 date: 2012-04-22 02:26
+updated: 2012-04-22 19:17
 comments: true
 categories: 
  - Code
@@ -12,6 +13,10 @@ tags:
  - jekyll
  - octopress
 ---
+
+***Update*** - I was able to get backtick code blocks working much
+better, and made a stab at the YAML Front Matter, but it doesn't seem to work
+using `syntax include`. See the [git repo][3] for the updated source.
 
 I use [Vim][6] as my day-to-day, non-IDE text editor. Yeah, I know everyone is in
 love with Notepad2, Notepad+ or whatever the new favorite on the block is. I've
