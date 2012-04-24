@@ -5,12 +5,13 @@ date: 2012-04-23 00:03
 published: false
 comments: true
 categories: 
-- Code
+ - Code
 tags:
-- unit testing
-- tdd
-- visual studio
-- vs11
+ - vs11
+ - visual studio
+ - unit testing
+ - tdd
+ - fakes
 ---
 
 ## The Catch-22 of Refactoring to Enable Unit Testing
@@ -223,17 +224,34 @@ course there are more.
 Here's a different example showing another problem.
 
 ``` csharp 
+public void StartTimer()
+{
+   RefreshData();
 
-// Code TBD
-
+   var timer = new DispatcherTimer();
+   var count = 30;
+   timer.Tick += (s, e) =>
+      {
+         RefreshMessage = String.Format(refreshMessageFormat, count--);
+         if (count == 0)
+         {
+            count = 30;
+            RefreshData();
+         }
+      };
+   timer.Interval = new TimeSpan(0, 0, 1);
+   timer.Start();
+}
 ```
 
 In this example, we have a method that is creating an instance of the
 WPF `DispatchTimer` class. It uses the timer to track when 30 seconds
 have elapsed and then it refreshes a property on the view model (presumably
-this collection is bound in the XAML to a list on-screen).
+this collection is bound in the XAML to a list on-screen) by calling 
+`RefreshData()`.
 
-How can we test this code? There are a few things we might like to test:
+How can we test this code? There are a few things we might like to test,
+including:
 
 1. Does it refresh the list before starting the timer?
 2. Does it refresh the list again only after 30 seconds have gone by?
@@ -241,9 +259,37 @@ How can we test this code? There are a few things we might like to test:
 Let's look at how we might use Shims to create that second test.
 
 ``` csharp
+[Fact]
+public void RefreshTimerCallsRefreshAfter30Ticks()
+{
+  using (ShimsContext.Create())
+  {
+      var handler = default(EventHandler);
+      ShimDispatcherTimer.AllInstances.TickAddEventHandler = (@this, h) => handler = h;
+      ShimDispatcherTimer.AllInstances.IntervalSetTimeSpan = (@this, ts) => { };
+      ShimDispatcherTimer.AllInstances.Start = (@this) => { };
 
-// Code TBD
+      var stubServiceProxy = new StubIEarthquakeServiceProxy();
 
+      var refreshDataWasCalled = false;
+      var sut = new MainPageViewModel(stubServiceProxy, false);
+      var shimVM = new ShimMainPageViewModel(sut)
+      {
+          InstanceBehavior = null,
+          RefreshData = () => { refreshDataWasCalled = true; return CreateTaskResultOf<bool>(true); },
+      };
+
+      sut.StartTimer();
+      refreshDataWasCalled = false;
+
+      for (var i = 0; i < 29; i++)
+          handler(this, null);
+      refreshDataWasCalled.ShouldBe(false);
+
+      handler(this, null);
+      refreshDataWasCalled.ShouldBe(true);
+  }
+}
 ```
 
 In this example we use Shims ability to detour all future instances of an object
