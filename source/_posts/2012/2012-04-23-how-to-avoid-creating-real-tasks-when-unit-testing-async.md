@@ -13,6 +13,10 @@ tags:
  - fakes
 ---
 
+***UPDATE: Stephen Toub pointed out that in .NET 4.5 you don't need my
+`CreatePseudoTask()` helper method. See the bottom of this post for
+more information.***
+
 If you've been coding in VS11 Beta with .NET 4.5 you may have started
 experimenting with using async and await in your programs. You also probably
 noticed a lot more of the APIs you consume are starting to expose asynchonous
@@ -106,6 +110,10 @@ variants of each of those.
 It "does not have any schedule delegates associated with it." That sounds
 perfect!
 
+***UPDATE: This code is only required in the .NET 4.0 version of Task
+Parallels. See below for an updated .NET 4.5 version of this test that
+doesn't require my helper method.***
+
 So what I'm going to do is use TCS to create a task that just contains the
 concrete return value, acting as if the long running operation has happened,
 and returning a Task that the consuming code can treat normally.
@@ -170,7 +178,6 @@ public async Task TestWithPseudoTask()
 
    // Assert
    Assert.AreEqual("Interface said 'Hello there!'", result);
-   // Arrange
 }
 ```
 
@@ -179,6 +186,36 @@ scheduled background Task delegates.
 
 What do you think? Useful? I've found it to help me a bit when writing tests
 against async stuff.
+
+-------------------------------------------------------------------------------
+
+***UPDATE: Using Task.FromResult in .NET 4.5***
+
+Apparently this patterns was common enough in the .NET 4.0 version of TPL that
+the team decided to just "make it so" and bake it in so we don't need the
+helper method anymore. And since it is baked in, it is probably optimized to
+perform even better.
+
+Here is the updated test using the new `Task.FromResult` method.
+
+``` csharp
+[TestMethod]
+public async Task TestWithFromResultHelper()
+{
+   // Arrange
+   var stub = new StubIDoStuff
+   {
+       LongRunningOperation = () => Task<string>.FromResult("Hello there!")
+   };
+   var sut = new SystemUnderTest(stub);
+
+   // Act
+   var result = await sut.DoSomething();
+
+   // Assert
+   Assert.AreEqual("Interface said 'Hello there!'", result);
+}
+```
 
 Enjoy!
 
