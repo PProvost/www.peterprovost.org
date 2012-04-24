@@ -72,7 +72,7 @@ To see what this really looks like, let's look at some code (continued from the
 example in Part 1).
 
 ``` csharp "Untestable" System Under Test Code
-namespace FakesDemo.SystemUnderTest
+namespace ShimsDemo.SystemUnderTest
 {
    public class CustomerViewModel : ViewModelBase
    {
@@ -111,20 +111,15 @@ me...)
 
 ***How do we test that Save sets the correct value to LastUpdated?***
 
-You might start by writing a test like this. This uses the same Stubs technique
+You might start by writing a test like this. This uses the same Stubs techniquustoemr
 I showed in the last article and tries hard to deal with the variable nature of
 the `LastUpdated` property.
 
 ``` csharp A Not-so-good Test for LastUpdated
-using FakesDemo.SystemUnderTest;
-using FakesDemo.SystemUnderTest.Fakes;
-using Xunit;
-using System.Linq;
-
 public class CustomerViewModelTests
 {
    [Fact]
-   public void SaveShouldSetTheCorrectLastUpdatedDate()
+   public void SaveShouldSetTheCorrectLastUpdatedDate_WithoutShim()
    {
       // Arrange
       var savedCustomer = default(Customer); // null
@@ -142,7 +137,7 @@ public class CustomerViewModelTests
 
       // Act
       var now = DateTime.Now;
-      viewModel.Save()
+      viewModel.Save();
 
       // Assert
       Assert.NotNull(savedCustomer);
@@ -165,15 +160,10 @@ A better way to test this is to use a Shim to override `System.DateTime`, causin
 it to always return a predictable value. That test would look something like this:
 
 ``` csharp A Better Test for LastUpdated
-using FakesDemo.SystemUnderTest;
-using FakesDemo.SystemUnderTest.Fakes;
-using Xunit;
-using System.Linq;
-
 public class CustomerViewModelTests
 {
    [Fact]
-   public void SaveShouldSetTheCorrectLastUpdatedDate()
+   public void SaveShouldSetTheCorrectLastUpdatedDate_WithShim()
    {
       using (ShimsContext.Create())
       {
@@ -196,11 +186,11 @@ public class CustomerViewModelTests
          var viewModel = new CustomerViewModel(actualCustomer, repository);
 
          // Act
-         viewModel.Save()
+         viewModel.Save();
 
          // Assert
          Assert.NotNull(savedCustomer);
-         Assert.True( new DateTime(2012, 1, 1), savedCustomer.LastUpdated );
+         Assert.Equal( new DateTime(2012, 1, 1), savedCustomer.LastUpdated );
       }
    }
 }
@@ -262,33 +252,38 @@ Let's look at how we might use Shims to create that second test.
 [Fact]
 public void RefreshTimerCallsRefreshAfter30Ticks()
 {
-  using (ShimsContext.Create())
-  {
-      var handler = default(EventHandler);
-      ShimDispatcherTimer.AllInstances.TickAddEventHandler = (@this, h) => handler = h;
+   using (ShimsContext.Create())
+   {
+      // Arrange
+      var customer = new Customer
+         {
+            Id = 1,
+            Name = "Sample Customer",
+            LastUpdated = DateTime.MinValue
+         };
+      var repository = new StubICustomerRepository();
+      var sut = new CustomerViewModel(customer, repository);
+      var refreshDataWasCalled = false;
+      new ShimCustomerViewModel(sut)
+      {
+         RefreshData = () => refreshDataWasCalled = true,
+      };
+
+      var tick = default(EventHandler);
+      ShimDispatcherTimer.AllInstances.TickAddEventHandler = (@this, h) => tick = h;
       ShimDispatcherTimer.AllInstances.IntervalSetTimeSpan = (@this, ts) => { };
       ShimDispatcherTimer.AllInstances.Start = (@this) => { };
 
-      var stubServiceProxy = new StubIEarthquakeServiceProxy();
-
-      var refreshDataWasCalled = false;
-      var sut = new MainPageViewModel(stubServiceProxy, false);
-      var shimVM = new ShimMainPageViewModel(sut)
-      {
-          InstanceBehavior = null,
-          RefreshData = () => { refreshDataWasCalled = true; return CreateTaskResultOf<bool>(true); },
-      };
-
+      // Act
       sut.StartTimer();
-      refreshDataWasCalled = false;
 
-      for (var i = 0; i < 29; i++)
-          handler(this, null);
-      refreshDataWasCalled.ShouldBe(false);
-
-      handler(this, null);
-      refreshDataWasCalled.ShouldBe(true);
-  }
+      // Assert
+      refreshDataWasCalled = false; // Clear out the any calls that happened before the tick() loop started
+      for (var i = 0; i < 29; i++) tick(this, null); // Tick 29 times
+      Assert.False(refreshDataWasCalled);
+      tick(this, null); // Tick one more time
+      Assert.False(refreshDataWasCalled);
+   }
 }
 ```
 
@@ -302,14 +297,15 @@ of using a C# keyword in your code.
 ### Example 3 - Using Shims to wrap an existing instance
 
 One more example will wrap up my introduction to Shims. In this example, we have
-a method that takes a concrete instance of a particular object type as a 
-parameter. But we want to override some of that object's behavior.
+a method in our system-under-test that we want to no-op. Perhaps we know that the
+implementation of the method we're testing calls it, and we don't want it to
+happen. In this case we can make that method "go away" to enable us to isolate
+what we test to just the method we're testing.
 
 Here's the system under test:
 
 ``` csharp
 
-// Code TBD
 
 ```
 
@@ -365,6 +361,34 @@ Refactoring is the act of intentional design, and you should always take the
 opportunity to make your design better. Shims can be used to get out of this
 impasse, but if you don't think about the problem you will end up with a [Big
 Ball of Mud][6] for your design.
+
+## A few words about Shims
+
+Let me start this by saying **Shims are evil**. But they are evil by design.
+They let you do things you otherwise couldn't do, which is very powerful.  But
+they also let you do things you really shouldn't have to do. 
+
+As the famous literary quote goes (Voltaire, Socrates and even Spider Man's Uncle Ben):
+
+{% blockquote %}
+
+With great power comes great responsibility.
+
+{% endblockquote %}
+
+The examples I've shown in this post are all representation of a class of
+design flaws around coupling and cohesion. Knowing that, we should always feel
+a bit "dirty" about having to use Shims to test something. Every time we do it,
+we should remember to go the extra mile afterwards and refactor it away if we
+can (my steps 4-7 above).
+
+The Catch-22 of untestable code is real. Getting out of it is hard. Shims are
+designed to help you get out of this trap. 
+
+Shims may be evil from a purist design and TDD sense, but in the real world we
+are often faced with code we a) don't control or b) didn't write and which
+doesn't have any tests. Use Shims to get out of that, but always continue on
+and fix your design issues.
 
 ## Conclusion
 
