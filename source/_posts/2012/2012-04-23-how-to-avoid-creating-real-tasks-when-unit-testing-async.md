@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "How to avoid creating real tasks when unit testing async"
-date: 2012-04-23 22:39
+date: 2012-04-23 21:39
+updated: 2012-04-23 22:53
 comments: true
 categories: 
  - Code
@@ -45,7 +46,7 @@ interface that returns `Task<string>` because it is expected that some or all
 of the implementors could be long running. Your interface definition might look
 like this:
 
-``` csharp Task returning interface
+``` csharp
 public interface IDoStuff
 {
    Task<string> LongRunningOperation();
@@ -140,7 +141,6 @@ public async Task TestWithHandCodedTCS()
 
    // Assert
    Assert.AreEqual("Interface said 'Hello there!'", result);
-   // Arrange
 }
 ```
 
@@ -148,7 +148,7 @@ Now I no longer have the background thread! But that chunk of code where I
 create the TCS is annoying so I can refactor it out into a reusable helper
 method:
 
-``` csharp CreatePseudoTask Helper
+``` csharp
 internal class TaskHelpers
 {
     public static Task<T> CreatePseudoTask<T>(T result)
