@@ -4,12 +4,13 @@ title: "Visual Studio 11 Fakes Part 1 - Stubs"
 date: 2012-04-15 20:51
 comments: true
 categories: 
-- Code
+ - Code
 tags:
-- unit testing
-- tdd
-- visual studio
-- vs11
+ - vs11
+ - visual studio
+ - unit testing
+ - tdd
+ - fakes
 ---
 
 ## Background
