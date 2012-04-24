@@ -205,7 +205,7 @@ public async Task TestWithFromResultHelper()
    // Arrange
    var stub = new StubIDoStuff
    {
-       LongRunningOperation = () => Task<string>.FromResult("Hello there!")
+       LongRunningOperation = () => Task.FromResult("Hello there!")
    };
    var sut = new SystemUnderTest(stub);
 
