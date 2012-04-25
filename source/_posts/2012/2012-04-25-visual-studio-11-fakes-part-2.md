@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Visual Studio Fakes Part 2 - Shims"
-date: 2012-04-23 00:03
-published: false
+date: 2012-04-25 09:00
 comments: true
 categories: 
  - Code
@@ -13,6 +12,11 @@ tags:
  - tdd
  - fakes
 ---
+
+Let me start by saying **Shims are evil**. But they are evil by design.  They
+let you do things you otherwise couldn't do, which is very powerful.  They let
+you do things you might not want to do, and might know you shouldn't do, but
+because of the real world of software, you have to do.
 
 ## The Catch-22 of Refactoring to Enable Unit Testing
 
@@ -376,14 +380,10 @@ method.
 
 Refactoring is the act of intentional design, and you should always take the
 opportunity to make your design better. Shims can be used to get out of this
-impasse, but if you don't think about the problem you will end up with a [Big Ball of Mud][6]
-for your design.
+impasse, but if you don't think about the problem you will end up with a [Big
+Ball of Mud][6] for your design.
 
 ## Some final words about Shims
-
-Let me start this by saying **Shims are evil**. But they are evil by design.
-They let you do things you otherwise couldn't do, which is very powerful.  But
-they also let you do things you really shouldn't have to do. 
 
 As the famous literary quote goes (Voltaire, Socrates and even Spider Man's Uncle Ben):
 
@@ -413,8 +413,8 @@ Visual Studio 11 includes the new Fakes library for creating isolated unit
 tests.  It includes two kinds of Fakes: 
 
 * **Stubs** for creating lightweight, fast running concrete classes for
-  interfaces and abstract classes your system uses. I reviewed Stubs in 
-  [my last article][4].
+  interfaces and abstract classes your system uses. I reviewed Stubs in [my
+  last article][4].
 * **Shims** for intercepting and detouring almost any .NET call. Shims are
   particularly useful for removing internal dependencies of methods, and for
   getting you out of the "testability Catch-22".
