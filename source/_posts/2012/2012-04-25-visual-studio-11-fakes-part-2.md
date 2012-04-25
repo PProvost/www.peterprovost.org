@@ -2,6 +2,7 @@
 layout: post
 title: "Visual Studio Fakes Part 2 - Shims"
 date: 2012-04-25 09:00
+updated: 2012-04-25 10:40
 comments: true
 categories: 
  - Code
@@ -224,6 +225,7 @@ public void StartTimer()
    var count = 30;
    timer.Tick += (s, e) =>
       {
+         count -= 1;
          if (count == 0)
          {
             count = 30;
@@ -334,7 +336,7 @@ public void RefreshTimerCallsRefreshAfter30Ticks()
       for (var i = 0; i < 29; i++) tick(this, null); // Tick 29 times
       Assert.False(refreshDataWasCalled);
       tick(this, null); // Tick one more time
-      Assert.False(refreshDataWasCalled);
+      Assert.True(refreshDataWasCalled);
    }
 }
 ```
