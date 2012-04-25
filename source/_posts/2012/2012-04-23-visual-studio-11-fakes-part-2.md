@@ -216,13 +216,10 @@ Here's a different example showing another problem.
 ``` csharp 
 public void StartTimer()
 {
-   RefreshData();
-
    var timer = new DispatcherTimer();
    var count = 30;
    timer.Tick += (s, e) =>
       {
-         RefreshMessage = String.Format(refreshMessageFormat, count--);
          if (count == 0)
          {
             count = 30;
@@ -243,10 +240,61 @@ this collection is bound in the XAML to a list on-screen) by calling
 How can we test this code? There are a few things we might like to test,
 including:
 
-1. Does it refresh the list before starting the timer?
-2. Does it refresh the list again only after 30 seconds have gone by?
+1. Does it start the timer with a 1 second interval?
+2. Does it refresh the list only after 30 ticks have gone by?
 
-Let's look at how we might use Shims to create that second test.
+Let's look at how we might use Shims to create that first test.
+
+``` csharp
+[Fact]
+public void TimerStartedWith30secInterval()
+{
+   using (ShimsContext.Create())
+   {
+      // Arrange
+      var customer = new Customer();
+      var repository = new StubICustomerRepository();
+      var sut = new CustomerViewModel(customer, repository);
+
+      var span = default(TimeSpan);
+      var startCalled = false;
+      ShimDispatcherTimer.AllInstances.IntervalSetTimeSpan = (@this, ts) => span = ts;
+      ShimDispatcherTimer.AllInstances.Start = (@this) => startCalled = true;
+
+      // Act
+      sut.StartTimer();
+
+      // Assert
+      Assert.Equal(TimeSpan.FromSeconds(1), span);
+      Assert.True(startCalled);
+   }
+}
+```
+
+In this example we use Shims ability to detour all future instances of an
+object by using the special `AllInstances` property on the generated Shim
+object. Since these methods are instance methods, our delegate has to include a
+parameter for the "this" pointer. I like to use `@this` for that parameter to
+remind me what it is, but I've seen other people use `that` or `instance` if
+you dislike the idea of using a C# keyword in your code.
+
+We override the Interval property setter (which takes a timespan, hence the
+name IntervalSetTimeSpan) and the Start method. By stashing away values into C#
+closures, we can call `sut.StartTimer()` and then verify that what we expected
+did in fact happen.
+
+### Example 3 - Using Shims to wrap an existing instance
+
+One more example will wrap up my introduction to Shims. 
+
+We will now take a look at how we might implement the second test in my
+list above. We want to confirm that the `RefreshData` method is called
+only after 30 ticks have elapsed.
+
+Let's take a look at how we would test this using Shims. In this case we
+will still need to control the `DispatchTimer`, but we will also need to 
+override the implementation of `RefreshData()`, which is a method on the
+class we're testing.
 
 ``` csharp
 [Fact]
@@ -255,30 +303,30 @@ public void RefreshTimerCallsRefreshAfter30Ticks()
    using (ShimsContext.Create())
    {
       // Arrange
-      var customer = new Customer
-         {
-            Id = 1,
-            Name = "Sample Customer",
-            LastUpdated = DateTime.MinValue
-         };
+      var customer = new Customer();
       var repository = new StubICustomerRepository();
       var sut = new CustomerViewModel(customer, repository);
+
       var refreshDataWasCalled = false;
       new ShimCustomerViewModel(sut)
       {
          RefreshData = () => refreshDataWasCalled = true,
       };
 
-      var tick = default(EventHandler);
-      ShimDispatcherTimer.AllInstances.TickAddEventHandler = (@this, h) => tick = h;
-      ShimDispatcherTimer.AllInstances.IntervalSetTimeSpan = (@this, ts) => { };
-      ShimDispatcherTimer.AllInstances.Start = (@this) => { };
-
+      
+		// Setup our override of the Dispatch timer
+		// We will store the tick handler so we can "pump" it
+		// and noop override Interval and Start just to be safe
+		var tick = default(EventHandler);
+		ShimDispatcherTimer.AllInstances.TickAddEventHandler = (@this, h) => tick = h;
+		ShimDispatcherTimer.AllInstances.IntervalSetTimeSpan = (@this, ts) => { };
+		ShimDispatcherTimer.AllInstances.Start = (@this) => { };
+      
       // Act
       sut.StartTimer();
 
       // Assert
-      refreshDataWasCalled = false; // Clear out the any calls that happened before the tick() loop started
+      refreshDataWasCalled = false; // Clear out the any calls that happened before the tick()
       for (var i = 0; i < 29; i++) tick(this, null); // Tick 29 times
       Assert.False(refreshDataWasCalled);
       tick(this, null); // Tick one more time
@@ -287,40 +335,9 @@ public void RefreshTimerCallsRefreshAfter30Ticks()
 }
 ```
 
-In this example we use Shims ability to detour all future instances of an object
-by using the special `AllInstances` property on the generated Shim object. Since
-these methods are instance methods, our delegate has to include a parameter for
-the "this" pointer. I like to use `@this` for that parameter to remind me what it
-is, but I've seen other people use `that` or `instance` if you dislike the idea
-of using a C# keyword in your code.
-
-### Example 3 - Using Shims to wrap an existing instance
-
-One more example will wrap up my introduction to Shims. In this example, we have
-a method in our system-under-test that we want to no-op. Perhaps we know that the
-implementation of the method we're testing calls it, and we don't want it to
-happen. In this case we can make that method "go away" to enable us to isolate
-what we test to just the method we're testing.
-
-Here's the system under test:
-
-``` csharp
-
-
-```
-
-To test this using Shims, we will new up an instance of the object, and then
-wrap it in a Shim, providing the overrides we care about.
-
-``` csharp
-
-// Code TBD
-
-```
-
-This is an approach you will probably use less frequently than the others, as
-it is much easier to introduce a base class or an interface when you have this
-situation.
+While nobody would call this a pretty test, it does what we asked it to do, and
+has let us test one aspect of this method we otherwise wouldn't have been able
+to test.
 
 ## Resolving the Catch-22
 
@@ -359,10 +376,10 @@ method.
 
 Refactoring is the act of intentional design, and you should always take the
 opportunity to make your design better. Shims can be used to get out of this
-impasse, but if you don't think about the problem you will end up with a [Big
-Ball of Mud][6] for your design.
+impasse, but if you don't think about the problem you will end up with a [Big Ball of Mud][6]
+for your design.
 
-## A few words about Shims
+## Some final words about Shims
 
 Let me start this by saying **Shims are evil**. But they are evil by design.
 They let you do things you otherwise couldn't do, which is very powerful.  But
@@ -376,11 +393,11 @@ With great power comes great responsibility.
 
 {% endblockquote %}
 
-The examples I've shown in this post are all representation of a class of
-design flaws around coupling and cohesion. Knowing that, we should always feel
-a bit "dirty" about having to use Shims to test something. Every time we do it,
-we should remember to go the extra mile afterwards and refactor it away if we
-can (my steps 4-7 above).
+The examples I've shown in this post are all examples of design flaws around
+coupling and cohesion. Knowing that, we should always feel a bit "dirty" about
+having to use Shims to test something. Every time we do it, we should remember
+to go the extra mile afterwards and refactor it away if we can (my steps 4-7
+above).
 
 The Catch-22 of untestable code is real. Getting out of it is hard. Shims are
 designed to help you get out of this trap. 
@@ -396,8 +413,8 @@ Visual Studio 11 includes the new Fakes library for creating isolated unit
 tests.  It includes two kinds of Fakes: 
 
 * **Stubs** for creating lightweight, fast running concrete classes for
-  interfaces and abstract classes your system uses. I reviewed Stubs in [my
-  last article][4].
+  interfaces and abstract classes your system uses. I reviewed Stubs in 
+  [my last article][4].
 * **Shims** for intercepting and detouring almost any .NET call. Shims are
   particularly useful for removing internal dependencies of methods, and for
   getting you out of the "testability Catch-22".
@@ -411,3 +428,4 @@ please take some time looking through the [MSDN Documentation][5].
 [4]: /blog/2012/04/15/visual-studio-11-fakes-part-1/
 [5]: http://aka.ms/vs11-fakes
 [6]: http://www.laputan.org/mud/
+[7]: http://bradwilson.typepad.com/blog/2011/06/the-testable-object-pattern.html 
