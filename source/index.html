@@ -2,19 +2,25 @@
 layout: default
 ---
 
+{% capture lqmtags %}{{ site.lqm_tags | join: ',' }}{% endcapture %}
+
 <div class="blog-index">
   {% assign index = true %}
   {% for post in paginator.posts %}
   	{% assign content = post.content %}
     <article>
       {% include article.html %}
-			{% if forloop.first or forloop.last %}
-			{% comment %} Amazon Ad after first and last {% endcomment %}
-			<div class="content-ad" style="text-align:center; margin:10px;">
+			{% if forloop.first %}
+			<div class="content-ad" style="text-align:center; margin:10px;">	
+				<div class="lqm_ad" lqm_publisher="lqm.peterprovost.site" lqm_zone="ron" lqm_format="336x280" lqm_tags="{{ lqmtags | cgi_escape }}"></div>
+			</div>
+			{% endif %}
+			{% if forloop.last %}
+			<div class="content-ad" style="text-align:center; margin:10px;">	
 				<iframe src="http://rcm.amazon.com/e/cm?t=peterprovosto-20&o=1&p=12&l=ur1&category=electronicsrot&f=ifr" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 			</div>
 			{% endif %}
-    </article>
+		</article>
   {% endfor %}
   <div class="pagination">
     {% if paginator.next_page %}
