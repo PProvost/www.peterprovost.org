@@ -78,7 +78,7 @@ pre {
   @extend .mono;
   border: 1px solid $pre-border;
   line-height: 1.45em;
-  font-size: 13px;
+  font-size: 1em;
   margin-bottom: 2.1em;
   padding: .8em 1em;
   color: $pre-color;
@@ -94,8 +94,8 @@ p, li {
     @extend .mono;
     display: inline-block;
     white-space: no-wrap;
-    background: #fff;
-    font-size: .8em;
+    background: $base2;
+    font-size: 0.9em;
     line-height: 1.5em;
     color: #555;
     border: 1px solid #ddd;
