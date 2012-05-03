@@ -108,8 +108,8 @@ up in the US, 10-pin bowling can be a bit weird to describe.
 
 ### The Bowling Game Kata
 
-If you live in the US or Canada, this one is easy to describe. If not, you
-might want to look at the next one.
+As I said, if you live in the US or Canada, this one is easy to understand. If 
+not, you might want to look at the next one.
 
 {% img right /images/blog/2012-05-02-the-only-way-to-learn-tdd-kata/bowling.jpg '10-pin Bowling' 'Source: &#104;&#116;&#116;&#112;&#58;&#47;&#47;&#101;&#110;&#46;&#119;&#105;&#107;&#105;&#112;&#101;&#100;&#105;&#97;&#46;&#111;&#114;&#103;&#47;&#119;&#105;&#107;&#105;&#47;&#70;&#105;&#108;&#101;&#58;&#66;&#111;&#119;&#108;&#105;&#110;&#103;&#95;&#45;&#95;&#97;&#108;&#98;&#117;&#114;&#121;&#46;&#106;&#112;&#103;' %}
 
