@@ -182,8 +182,8 @@ on the topic][3].
 A couple of others that I've used when training or for my own fun and
 benefit are:
 
-* The Prime Factors Kata - another by Bob Martin
-* Fizz Buzz Kata - the crazy (drinking?) game where you replace certain numbers
+* [The Prime Factors Kata][11] - another by Bob Martin
+* [Fizz Buzz Kata][12] - the crazy (drinking?) game where you replace certain numbers
    or multiples of numbers with nonsense words
 
 Most kata share a few key attributes. First they are simple to describe (well
@@ -221,3 +221,5 @@ Hopefully you will get as much value from them as I do.
 [8]: http://subspec.codeplex.com/
 [9]: http://shouldly.github.com/
 [10]: http://www.amazon.com/gp/product/020161622X/ref=as_li_ss_tl?ie=UTF8&tag=peterprovosto-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=020161622X
+[11]: http://www.butunclebob.com/ArticleS.UncleBob.ThePrimeFactorsKata
+[12]: http://codingkata.net/Katas/Beginner/FizzBuzz
