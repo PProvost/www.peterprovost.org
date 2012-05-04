@@ -31,7 +31,7 @@ I'm very happy, therefore, to be able to highlight the frameworks & test runners
     * Information: [http://xunit.codeplex.com/](http://xunit.codeplex.com/)
     * Download: [http://aka.ms/xunit-vs11](http://aka.ms/xunit-vs11)
   * NUnit 
-    * Information: [http://nunit.org/](http://nunit.org/)
+    * Information: [http://nunit.org/](http://nunit.org/index.php?p=vsTestAdapter&r=2.6)
     * Download: [http://aka.ms/nunit-vs11](http://aka.ms/nunit-vs11)
   * MbUnit 
     * Information: [https://github.com/Gallio/Gallio-VS2011-Integration](https://github.com/Gallio/Gallio-VS2011-Integration)
