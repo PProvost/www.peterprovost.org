@@ -30,8 +30,12 @@ article {
   }
   h2 {
     padding-top: 0.8em;
+		clear: all;
     background: $img-border top left repeat-x;
   }
+	h3 {
+		clear: all;
+	}
   .entry-content & h2:first-child, header + h2 { padding-top: 0; }
   h2:first-child, header + h2 { background: none; }
   .feature {
