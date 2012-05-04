@@ -49,11 +49,11 @@ still raid two nights a week with my long time guildmates and friends but on
 non-raiding nights, I just can't seem to bring myself to login and play.
 
 The thing I always liked about Wow was the team & social nature of the game.
-Working together with 5, 10 or 25 (or even 40 in the olden days) to figure out
-how to defeat one of the dungeons is a blast. Problem solving, leadership,
-joking, laughing and then the joy of victory. But while the non-raiding parts
-of the game used to keep me engaged, it has lost its luster, which is why I've
-been dabbling in so many others.
+Working together with 5, 10 or 25 people (or even 40 in the olden days) to
+figure out how to defeat one of the dungeons is a blast. Problem solving,
+leadership, joking, laughing and then the joy of victory. But while the
+non-raiding parts of the game used to keep me engaged, it has lost its luster,
+which is why I've been dabbling in so many others.
 
 ### Dead Space 2 - PC
 
