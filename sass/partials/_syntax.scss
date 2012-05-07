@@ -2,7 +2,7 @@
   table td.code { width: 100%; }
   .line-numbers {
     text-align: right;
-    font-size: 13px;
+    font-size: 1em;
     line-height: 1.45em;
     @if $solarized == light {
       background: lighten($base03, 1) $noise-bg !important;
