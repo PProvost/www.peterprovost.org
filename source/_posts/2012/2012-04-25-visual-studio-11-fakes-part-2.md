@@ -116,7 +116,7 @@ me...)
 
 ***How do we test that Save sets the correct value to LastUpdated?***
 
-You might start by writing a test like this. This uses the same Stubs techniquustoemr
+You might start by writing a test like this. This uses the same Stubs techniques
 I showed in the last article and tries hard to deal with the variable nature of
 the `LastUpdated` property.
 
