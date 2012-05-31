@@ -218,7 +218,7 @@ course there are more.
 
 Here's a different example showing another problem.
 
-``` csharp 
+``` csharp How do I deal with that new statement?
 public void StartTimer()
 {
    var timer = new DispatcherTimer();
@@ -251,7 +251,7 @@ including:
 
 Let's look at how we might use Shims to create that first test.
 
-``` csharp
+``` csharp Shimming out the DispatchTimer
 [Fact]
 public void TimerStartedWith30secInterval()
 {
@@ -302,7 +302,7 @@ will still need to control the `DispatchTimer`, but we will also need to
 override the implementation of `RefreshData()`, which is a method on the
 class we're testing.
 
-``` csharp
+``` csharp Shimming a specific object instance
 [Fact]
 public void RefreshTimerCallsRefreshAfter30Ticks()
 {
