@@ -20,7 +20,7 @@ conference about this topic. It typically goes like this:
 
 *"When you're doing TDD, how do you test your private methods?"*
 
-The answer of course, is simple: You don't. And you shouldn't.
+The answer of course, is simple: **You don't. And you shouldn't.**
 
 This has been written up in numerous places, by many people smarter than I, but
 apparently there are still people who don't understand our point.
@@ -33,9 +33,9 @@ methods are entirely an implementation detail. They are, and should remain,
 irrelevant to the tests.  As many people have pointed out over the years,
 putting tests on internals of any kind inhibits free refactoring. 
 
-They are internals, they are private... Keep them that way.
+They are internals. They are private. Keep them that way.
 
-{% img right /images/blog/2012-05-02-the-only-way-to-learn-tdd-kata/Red-Green-Refactor-Bunny.png %}
+{% img left /images/blog/2012-05-02-the-only-way-to-learn-tdd-kata/Red-Green-Refactor-Bunny.png %}
 
 What I like to do every now and then, when I'm in the green phase of the TDD
 cycle, is stop and look at the private methods I've extracted in a class.  If I
@@ -83,17 +83,18 @@ asked to do.
 
 ## But customers will use it anyway!
 
-{% img right /images/blog/2012-05-31-my-take-on-unit-testing-private-methods/Just_Say_No.jpg Just Say No %}
 
 Consider the answer to these questions:
 
-1.	You have an API that has public visibility, and it is marked *Internal use
+1.	You have an API that has public accessibility, and it is marked *Internal use
    only* in any of the ways I mentioned above. A customer calls you up and says
    "When I use this API it doesn't work as expected." What is your response?
-2.	You have an API that has public visibility, and it is marked *Internal use
+2.	You have an API that has public accessibility, and it is marked *Internal use
    only* in any of the ways I mentioned above. You changed the API between
    product versions. The customer complains that the API changed. What is your
    response?
+
+{% img right /images/blog/2012-05-31-my-take-on-unit-testing-private-methods/Just_Say_No.jpg Just Say No %}
 
 In each case, I would argue that the answer is the same. You simply say, "That
 API is not for public consumption. It is for internal use only, which is why it
@@ -102,10 +103,10 @@ was marked & documented as such. Do not use it. Go away."
 If you feel that you wouldn't do that. Consider these slightly revised versions
 of the same questions:
 
-1.	You have an API that has private visibility. A customer calls you up and
+1.	You have an API that has private accessibility. A customer calls you up and
    says, "When I used private reflection to call this API, it didn't work as
    expected." What is your response?
-2.	You have an API that has private visibility. You changed the API between
+2.	You have an API that has private accessibility. You changed the API between
    product versions. The customer complains that the API changed. What is your
    response?
 
@@ -118,13 +119,14 @@ pointer offset math.
 
 ## Other arguments
 
-{% img right /images/blog/2012-05-31-my-take-on-unit-testing-private-methods/179px-Aristotle_Altemps_Inv8575.jpg Artistotle %}
 
 If you think it is about security, that argument doesn't hold water either. If
 you spend just a little bit of time researching how hackers create aimbots and
 other cheats for popular online games, you will see that even in C++, making
 things private doesn't protect you. A little pointer arithmetic and structure
 mapping, and you can do whatever you want.
+
+{% img left /images/blog/2012-05-31-my-take-on-unit-testing-private-methods/179px-Aristotle_Altemps_Inv8575.jpg Artistotle %}
 
 A very interesting argument I've heard on this one had to do with IntelliTrace
 in Visual Studio. It went something like this: "When you make it public, it
