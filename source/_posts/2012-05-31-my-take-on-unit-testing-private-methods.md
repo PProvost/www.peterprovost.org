@@ -25,6 +25,8 @@ The answer of course, is simple: **You don't. And you shouldn't.**
 This has been written up in numerous places, by many people smarter than I, but
 apparently there are still people who don't understand our point.
 
+<!-- more -->
+
 ## Private Methods and TDD
 
 I do create private methods while doing TDD, as a result of aggressive
