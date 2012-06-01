@@ -1,22 +1,21 @@
 ---
 layout: page
 title: "Talks"
-date: 2012-05-31 22:43
 comments: false
 sharing: true
 footer: true
 ---
 
-{% img right /talks/TR7-On stage-250x222.jpg %}
+{% img right /talks/TR7-Onstage-250x222.jpg %}
 
 Information about past and future public speaking engagements.
 
 ## Upcoming Events
 
-* TechEd 2012 North America :: June 11-14 2012 :: Orlando FL
-* TechEd 2012 Europe :: June 26-29 2012 :: Amsterdam RAI
-* Agile.NET :: July 20 2012 :: Columbus OH
-* Agile 2012 :: August 13-17 2012 :: Dallas TX
+* [TechEd 2012 North America][] :: June 11-14 2012 :: Orlando FL
+* [TechEd 2012 Europe][] :: June 26-29 2012 :: Amsterdam RAI
+* [Agile.NET][] :: July 20 2012 :: Columbus OH
+* [Agile 2012][] :: August 13-17 2012 :: Dallas TX
 
 ## Past Events
 
@@ -24,20 +23,21 @@ Information about past and future public speaking engagements.
 * Microsoft MVP Summit :: Feb 28 - March 2 :: Seattle WA
 
 ### 2011
-* //build :: September 13-16 :: Anaheim CA
+* [//build 2011][] :: September 13-16 :: Anaheim CA
+* [TechEd 2011 North America][] :: May 16-19 :: Atlanta GA
 
 ### 2010
-* TechEd 2010 Europe :: November 8-12 :: Berlin Germany
-* TechEd 2010 North America :: June 7-10 :: New Orleans LA
+* [TechEd 2010 Europe][] :: November 8-12 :: Berlin Germany
+* [TechEd 2010 North America][] :: June 7-10 :: New Orleans LA
 * Visual Studio 2010 Launch :: April 20 :: Denver CO
 * The Visual Studio 2010 Ultimate Event :: February 2 :: Atlanta GA
 * Atlanta Visual Studio User Group :: February 1 :: Atlanta GA
 
 ### 2009
-* TechEd 2009 Europe :: November 9-13 :: Berlin Germany
+* [TechEd 2009 Europe][] :: November 9-13 :: Berlin Germany
 
 ### 2008
-* TechEd 2008 Europe :: November 10-14 :: Barcelona Spain
+* [TechEd 2008 Europe][] :: November 10-14 :: Barcelona Spain
 * patterns &amp; practices Summit 2008 :: November 3-7 :: Redmond WA
 * PDC 2008 :: October 27-30 :: Los Angeles CA
 * TechEd 2008 North America :: June 10-13 :: Orlando FL
@@ -60,3 +60,15 @@ Information about past and future public speaking engagements.
 
 ### 2004
 * WIN-DEV Fall 2004 :: October 28-29 :: Boston MA
+
+[TechEd 2012 North America]: http://northamerica.msteched.com/
+[TechEd 2012 Europe]: http://europe.msteched.com/
+[Agile.NET]: http://www.agiledotnet.com/columbus-2012
+[Agile 2012]: http://agile2012.agilealliance.org/
+
+[//build 2011]: http://channel9.msdn.com/Events/Build/Build2011
+[TechEd 2011 North America]: http://channel9.msdn.com/Events/TechEd/NorthAmerica/2011
+[TechEd 2010 Europe]: http://channel9.msdn.com/Events/TechEd/Europe/2010
+[TechEd 2010 North America]: http://channel9.msdn.com/Events/TechEd/NorthAmerica/2010
+[TechEd 2009 Europe]: http://channel9.msdn.com/Events/TechEd/Europe/2009
+[TechEd 2008 Europe]: http://channel9.msdn.com/Events/TechEd/Europe/2008
