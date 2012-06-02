@@ -6,7 +6,7 @@ date: 2003-07-15 21:24:00
 categories:
  - Technology
 subtext-id: e046dd9f-dd88-4b43-b7a7-62caadde9546
-alias: /blog/post/When-to-Implement-IDisposable.aspx
+alias: [/blog/post/When-to-Implement-IDisposable.aspx,/blog/post.aspx?id=e046dd9f-dd88-4b43-b7a7-62caadde9546,/archive/2003/07/15/617.aspx]
 ---
 
 
