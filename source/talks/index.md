@@ -10,7 +10,8 @@ footer: true
 
 Information about past and future public speaking engagements.
 
-## Upcoming Events
+## Upcoming Events 
+{:.clear-left }
 
 * [TechEd 2012 North America][] :: June 11-14 2012 :: Orlando FL
 * [TechEd 2012 Europe][] :: June 26-29 2012 :: Amsterdam RAI
@@ -18,9 +19,11 @@ Information about past and future public speaking engagements.
 * [Agile 2012][] :: August 13-17 2012 :: Dallas TX
 
 ## Past Events
+{:.clear-left }
 
 ### 2012
-* Microsoft MVP Summit :: Feb 28 - March 2 :: Seattle WA
+* Microsoft MVP Summit :: Feb 28 - Mar 2 :: Bellevue WA
+* Microsoft TechReady 14 :: Jan 30 - Feb 3 :: Seattle WA
 
 ### 2011
 * [//build 2011][] :: September 13-16 :: Anaheim CA
@@ -61,7 +64,7 @@ Information about past and future public speaking engagements.
 ### 2004
 * WIN-DEV Fall 2004 :: October 28-29 :: Boston MA
 
-[TechEd 2012 North America]: http://northamerica.msteched.com/
+[TechEd 2012 North America]: http://northamerica.msteched.com/#fbid=vo3XaKiFjuh
 [TechEd 2012 Europe]: http://europe.msteched.com/
 [Agile.NET]: http://www.agiledotnet.com/columbus-2012
 [Agile 2012]: http://agile2012.agilealliance.org/

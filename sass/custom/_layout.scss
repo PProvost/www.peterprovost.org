@@ -21,6 +21,18 @@ $indented-lists: true;
 //$sidebar-pad-wide: 20px;
 $sidebar-width-wide: 280px;
 
+.clear-left {
+	clear:left;
+}
+
+.clear-right {
+	clear: right;
+}
+
+.clear-both {
+	clear:both;
+}
+
 @media only screen and (max-width: 480px) {
 	.content-ad {
 		display: none;
