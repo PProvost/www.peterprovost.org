@@ -4,7 +4,7 @@ title: "Games I'm Enjoying Lately"
 date: 2012-05-03 20:24
 comments: true
 categories: 
-- Gaming and Other Fun Stuff
+- Games and Other Fun Stuff
 tags:
 - warcraft
 - mmo

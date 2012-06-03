@@ -4,7 +4,7 @@ title: "My Speaking Schedule - 2012"
 date: 2012-06-01 11:19
 comments: true
 categories: 
-- public speaking
+- Public Speaking
 tags:
 - teched
 - agile development
