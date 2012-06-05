@@ -6,6 +6,7 @@ updated: 2012-04-23 22:53
 comments: true
 categories: 
  - Code
+ - Visual Studio
 tags:
  - vs11
  - visual studio

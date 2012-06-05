@@ -4,7 +4,7 @@ title: "Updated NUnit Plugin for VS11 Released"
 date: 2012-05-04 11:07
 comments: true
 categories: 
-- Technology
+- Visual Studio
 tags:
 - vs11
 - unit testing

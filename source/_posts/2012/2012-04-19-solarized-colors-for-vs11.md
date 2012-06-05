@@ -5,6 +5,7 @@ date: 2012-04-19 00:08
 comments: true
 categories: 
 - Code
+- Visual Studio
 tags:
 - vs11
 - powershell

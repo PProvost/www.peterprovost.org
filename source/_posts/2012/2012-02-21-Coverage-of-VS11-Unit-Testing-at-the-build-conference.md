@@ -5,6 +5,7 @@ comments: true
 date: 2012-02-21 14:24:28
 categories:
  - Public Speaking
+ - Visual Studio
 tags:
  - agile development
  - tdd

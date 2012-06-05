@@ -4,7 +4,7 @@ title: "Visual Studio and TFS 2010 SP1 Released"
 comments: true
 date: 2011-03-08 10:38:42
 categories:
- - Technology
+ - Visual Studio
 tags:
  - visual studio
  - tfs

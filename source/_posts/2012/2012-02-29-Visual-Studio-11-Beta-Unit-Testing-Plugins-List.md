@@ -5,7 +5,7 @@ comments: true
 date: 2012-02-29 15:20:10
 updated: 2012-03-09 11:58:59
 categories:
- - Technology
+ - Visual Studio
  - Agile Software Development
 tags:
  - vs11

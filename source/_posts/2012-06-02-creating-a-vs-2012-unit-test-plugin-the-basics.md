@@ -6,6 +6,7 @@ published: false
 comments: true
 categories: 
 - Code
+- Visual Studio
 tags:
 - visual studio
 - unit testing

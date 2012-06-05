@@ -5,7 +5,7 @@ comments: true
 date: 2012-03-08 00:10:00
 updated: 2012-03-08 10:22:43
 categories:
- - Technology
+ - Visual Studio
 tags:
  - vs11
  - unit testing
