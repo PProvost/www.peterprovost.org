@@ -22,6 +22,9 @@ use my about.me contact page.
 
 <!-- more -->
 
+**Update 2012-06-06** - I had to pull out of Agile.NET Columbus due to a
+conference date change that wasn't compatible with my schedule. Bummer.
+
 ## Microsoft TechReady 14 {% img right /images/blog/2012-06-01-my-speaking-schedule-2012/tr14.png TechReady 14 %}
 *January 30 - February 3, 2012 -- Seattle, WA*
 
@@ -55,17 +58,6 @@ use my about.me contact page.
 *June 26-29, 2012 -- Amsterdam, RAI*
 
 * *Same as TechEd North America 2012*
-
-## Agile.NET {% img right /images/blog/2012-06-01-my-speaking-schedule-2012/agiledotnet-columbus2012.png Agile.NET Columbus 2012 %}
-*July 20, 2012 -- Columbus, OH*
-
-* **Keynote**
-* **Work Item Tracking with VS2012 &amp; TFS 2012** - Come discover how TFS 11 can improve
-  your sprint planning, project tracking, and distributed team management.
-  Equipped with an entirely new web interface, TFS 11 enables backlog
-  management, team capacity reporting, and task board management.  We also look
-  at how TFS supports the agile developer with a better unit test experience,
-  agile code review, rapid task switching, and disconnected source control.
 
 ## Denver Visual Studio User Group {% img right /images/blog/2012-06-01-my-speaking-schedule-2012/vs2012.png Visual Studio 2012 %}
 *July 23, 2012 -- Denver, CO*
