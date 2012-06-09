@@ -14,7 +14,7 @@ tags:
 
 {% img right /images/blog/2012-04-15-switching-the-blog-to-octopress/octopress-logo.png Octopress Logo %}
 
-A week or so ago, Mark Groves mentioned to me that he was thinking about going
+A week or so ago, [Mark Groves][20] mentioned to me that he was thinking about going
 to a totally static blog system for his photo site. He pointed me to some of
 the cool work done by the [Code 52][1] guys, particularly
 [Pretzel][2] and [Markpad][3]. 
@@ -109,3 +109,4 @@ If you want to browse the source, visit the [GitHub repository][19].
 [17]: http://pygments.org/
 [18]: http://ethanschoonover.com/solarized
 [19]: https://github.com/PProvost/www.peterprovost.org
+[20]: http://markgroves.us/
