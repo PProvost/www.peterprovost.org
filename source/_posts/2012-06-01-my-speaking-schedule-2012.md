@@ -71,7 +71,7 @@ conference date change that wasn't compatible with my schedule. Bummer.
   experience, focusing on the what the biggest differences are and why they are
   important to developers.
 
-## Agile 2012 {% img right /images/blog/2012-06-01-my-speaking-schedule-2012/agile2012.png Agile 2012 %}
+## Agile 2012 {% img right /images/blog/2012-06-01-my-speaking-schedule-2012/Agile2012.png Agile 2012 %}
 *August 13-17, 2012 -- Dallas, TX*
 
 * **Talk Title TBD**
