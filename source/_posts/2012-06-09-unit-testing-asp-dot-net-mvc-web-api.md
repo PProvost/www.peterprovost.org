@@ -599,5 +599,5 @@ Let me know what you think!
 [1]: http://www.asp.net/web-api/overview/creating-web-apis/creating-a-web-api-that-supports-crud-operations
 [2]: http://code.msdn.microsoft.com/ASP-NET-Web-API-Tutorial-c4761894
 [3]: http://www.asp.net/web-api/overview/extensibility/using-the-web-api-dependency-resolver
-[4]: /blog/2012/04/25/visual-studio-11-fakes-part-2/
+[4]: http://bradwilson.typepad.com/
 [5]: http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052
