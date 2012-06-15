@@ -1,19 +1,20 @@
 ---
 layout: post
-title: "Unit Testing ASP.NET MVC Web API"
+title: "Unit Testing ASP.NET Web API"
 date: 2012-06-09 16:26
 published: false
 comments: true
 categories: 
-- visual studio
-- code
+- Visual Studio
+- Code
 tags:
-- unit testing
-- visual studio
+- Unit Testing
+- Visual Studio
+- Web API
 ---
 
 A couple of days ago a colleague pinged me wanting to talk about unit
-testing an ASP.NET MVC Web API project. In particular he was having a
+testing an ASP.NET Web API project. In particular he was having a
 hard time testing the POST controller, but it got me thinking I needed
 to explore unit testing the new Web API stuff.
 
@@ -37,26 +38,26 @@ might not need it.
 I tend to follow the [WELC approach][5], focusing on adding tests to either
 areas of code that I am about to work on, or areas that I know need some test
 coverage. The goal when adding tests for legacy code like this is to "pin" the
-behavior down, so you at least can make positive statments about what it does
+behavior down, so you at least can make positive statements about what it does
 do right now. But I only really care about "pinning" those methods that have
 interesting code in them.
 
 So I'm not going to bother putting any unit tests on things like
 `BundleConfig`, `FilterConfig`, or `RouteConfig`. These classes really just
-provide an in-code way of configuring the various conventions in ASP.NET MVC.
-I'm also not going to bother with any of the code in the `Content` or `Views`
-folders, nor will I unit test any of the Javascript (but if this were not just
-a Web API, but a full web app with important Javascript, I would certainly
-think more about that last one).
+provide an in-code way of configuring the various conventions in ASP.NET MVC
+and Web API.  I'm also not going to bother with any of the code in the
+`Content` or `Views` folders, nor will I unit test any of the JavaScript (but
+if this were not just a Web API, but a full web app with important JavaScript,
+I would certainly think more about that last one).
 
 Since this is a Web API project, its main purpose is to provide an easy to use
 REST JSON API that can be used from apps or web pages. All of the code that
 *matters* is in the `Controllers` folder, and in particular the
 `ProductsController` class, which is the main API for the project.
 
-This is the class we will unit test.
+This is the class we will unit test today.
 
-## Unit Tests not Integration Tests
+## Unit Tests, not Integration Tests
 
 Notice that I said *unit test* in the previous sentence. For me a unit test
 is **the smallest bit of code that I can test in isolation from other bits 
@@ -157,116 +158,51 @@ acknowledge that this is a temporary measure in their code:
 > because it ties the controller to a particular implementation of
 > IProductRepository. For a better approach, see [Using the Web API Dependency Resolver][3].
 
-The easiest way that I've found to fix this was to fire up the NuGet Package
-Manager and grab the **Ninject MVC3** library. Even though we're using MVC4
-with Visual Studio 2012 RC, the MVC version of Ninject MVC works just fine with
-a VS 2012 RC Web API project, with just a few little changes.
+In a future post I will show how to resolve this dependency with something like
+Ninject, but for now we will just use manual dependency injection by creating a
+testing constructor.  First I will make the repository field non-static. Then I
+add a second constructor which allows me to pass in a repository. Finally I
+update the default constructor to initialize the field with an instance of the
+concrete ProductRepository class. 
 
-For the RC release, Web API projects use a different mechanism for dependency
-resolution than classic MVC. This means the built-in Ninject mechanism needs
-some updating to work. The following code was provided by [Brad Wilson][4] to
-bind Ninject to the Web API dependency resolution mechanism.
+This approach of creating a testing constructor is a good first step, even if
+you are going to later add a dependency injection framework. It allows us to 
+provide a stub value for the dependency when we need it, but existing clients
+of the class can continue to use the default constructor.
 
-In the NinjectWebCommon.cs file (which was added by the Ninject MVC package we
-added above), add the following two functions:
+Now the class looks like this.
 
-``` csharp New Web API Dependency Resolution for Ninject
-public class NinjectScope : IDependencyScope
+``` csharp ProductsController.cs
+namespace ProductStore.Controllers
 {
-   IResolutionRoot resolver;
-
-   public NinjectScope(IResolutionRoot resolver)
+   public class ProductsController : ApiController
    {
-      this.resolver = resolver;
-   }
+      readonly IProductRepository repository;
 
-   public object GetService(Type serviceType)
-   {
-      if (resolver == null)
-         throw new ObjectDisposedException("kernel", "This scope has been disposed");
-      return resolver.TryGet(serviceType);
-   }
+      public ProductsController()
+      {
+         this.repository = new ProductRepository();
+      }
 
-   public System.Collections.Generic.IEnumerable<object> GetServices(Type serviceType)
-   {
-      if (resolver == null)
-         throw new ObjectDisposedException("kernel", "This scope has been disposed");
-      return resolver.GetAll(serviceType);
-   }
+      public ProductsController( IProductRepository repository )
+      {
+         this.repository = repository;
+      }
 
-   public void Dispose()
-   {
-      IDisposable disposable = resolver as IDisposable;
-      if (disposable != null)
-      disposable.Dispose();
-      resolver = null;
+      // Everything else stays the same
    }
 }
-
-public class NinjectGlobalScope : NinjectScope, IDependencyResolver
-{
-   IKernel kernel;
-
-   public NinjectGlobalScope(IKernel kernel)
-      : base(kernel)
-   {
-      this.kernel = kernel;
-   }
-
-   public IDependencyScope BeginScope()
-   {
-      return new NinjectScope(kernel.BeginBlock());
-   }
-}
-
 ```
-
-And then in the `NinjectWebCommon.CreateKernel` method, before returning the kernel,
-add the following line:
-
-``` csharp Add to the bottom of NinjectWebCommon.CreateKernel
-GlobalConfiguration.Configuration.DependencyResolver = new NinjectGlobalScope(kernel);
-```
-
-*That is a bit of a mess, but we can hope that before RTM the Ninject folks
-will make this part go away, leaving us to just use it the way it was meant
-to be.*
-
-The next step is simply to get rid of the ugly default constructor and replace
-it with one that specifies the dependency on `IProductRepository` and stores
-the parameter is a readonly field.
-
-``` csharp Products Controller with Dependency Injection Constructor
-public class ProductsController : ApiController
-{
-   readonly IProductRepository repository;
-
-   public ProductsController(IProductRepository repository)
-   {
-      this.repository = repository;
-   }
-
-   // The rest is unchanged
-
-}
-
-```
-
-Because we will need to call this constructor from our unit tests, we
-also need to change the accessibility of the `IProductRepository` interface
-to `public`.
-
-Ninject will take care of the rest. Don't believe me? Run your app. 
 
 ## Testing the easy stuff
 
 Now that  we can use the testing constructor to provide a custom instance
 of the IProductRepository, we can get back to writing our unit tests.
 
-For these tests I will be using the Xunit.net unit testing framework. I will
+For these tests I will be using the [xUnit.net][6] unit testing framework. I will
 also be using Visual Studio 2012 Fakes to provide easy-to-use Stubs for
-dependent interfaces like `IProductRepository`. After using NuGet to get an
-Xunit.net reference in the test project, I added a project reference to the
+interfaces we depend on like `IProductRepository`. After using NuGet to get an
+xUnit.net reference in the test project, I added a project reference to the
 `ProductsStore` project. Then by right-clicking on the `ProductsStore`
 reference and choosing **Add Fakes Assembly**, I can create the Stubs I will
 use in my tests.
@@ -497,13 +433,13 @@ public void PostProductReturnsCreatedStatusCode()
 ```
 
 Unfortunately, that didn't work. You end up getting a `NullReferenceException`
-thrown by `Request.CreateReponse` because it expects a fair amount of web
+thrown by `Request.CreateResponse` because it expects a fair amount of web
 config stuff to have been assembled. This is a bummer, but it is what it is.
 
 I reached out to Brad Wilson for help, and we figured out how to get this going
 without going all the way to creating a web server/client pair, but there is
 clearly a lot of extra non-test code still running. We had to assemble a whole
-bunch of interesting confuration and routing classes to make the
+bunch of interesting configuration and routing classes to make the
 `Request.CreateResponse` method happy, but it did work.
 
 ``` csharp Unit Testing PostProduct
@@ -583,16 +519,17 @@ public void PostProductCallsAddOnRepositoryWithProvidedProduct()
 ## Conclusion
 
 Hopefully this post showed you a few new things. First, we got to see another
-example of using Stubs in unit tests. We also got to see how to use Ninject
-in an MVC4 Web API project. Finally, we learned a bit about how to deal with
-the nastiness around the `HttpRequestMessage.CreateResponse` extension method.
+example of using Stubs in unit tests. Also, we learned a bit about how to deal
+with the nastiness around the `HttpRequestMessage.CreateResponse` extension
+method.
 
 Personally I wish that POST handler was as easy to test as the rest of the
-controller was. One of my favorite things about MVC was always that the separation
-of concerns let me test things in isolation. When a controller doesn't have tight
-dependencies on the web stack, it is a well-behaved controller. Unfortunately,
-when you want to create a controller that followed the HTTP spec for POST, you
-will find this a bit hard today. But at least we found a way around it.
+controller was. One of my favorite things about MVC was always that the
+separation of concerns let me test things in isolation. When a controller
+doesn't have tight dependencies on the web stack, it is a well-behaved
+controller. Unfortunately, when you want to create a controller that followed
+the HTTP spec for POST, you will find this a bit hard today. But at least we
+found a way around it.
 
 Let me know what you think!
 
@@ -601,3 +538,4 @@ Let me know what you think!
 [3]: http://www.asp.net/web-api/overview/extensibility/using-the-web-api-dependency-resolver
 [4]: http://bradwilson.typepad.com/
 [5]: http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052
+[6]: http://xunit.codeplex.com/
