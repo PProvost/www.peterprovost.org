@@ -78,10 +78,10 @@ to me. It is the only way to achieve the design goal of simplicity (maximizing
 the amount of work **not done**).
 
 But in this case we will be adding tests to an existing system. To make the
-point, I will avoid changing the system at all. Because of this we may find
-ourselves occasionally creating integration tests because we have no choice.
-But we can (and should) use that feedback to think about the design of what
-we have and whether it needs some refactoring.
+point, I will try to avoid changing the system if I can. Because of this we may
+find ourselves occasionally creating integration tests because we have no
+choice.  But we can (and should) use that feedback to think about the design of
+what we have and whether it needs some refactoring.
 
 ## Analyzing the ProductsController class
 
