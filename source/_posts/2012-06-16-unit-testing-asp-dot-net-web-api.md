@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unit Testing ASP.NET Web API"
-date: 2012-06-09 16:26
+date: 2012-06-16 14:00
 comments: true
 categories: 
 - Visual Studio
@@ -10,7 +10,10 @@ tags:
 - Unit Testing
 - Visual Studio
 - Web API
+- ASP.NET
 ---
+
+{% img right /images/blog/2012-06-16-unit-testing-asp-dot-net-web-api/ASPNET-Logo.jpg %}
 
 A couple of days ago a colleague pinged me wanting to talk about unit
 testing an ASP.NET Web API project. In particular he was having a
@@ -39,7 +42,9 @@ areas of code that I am about to work on, or areas that I know need some test
 coverage. The goal when adding tests for legacy code like this is to "pin" the
 behavior down, so you at least can make positive statements about what it does
 do right now. But I only really care about "pinning" those methods that have
-interesting code in them.
+interesting code in them or code we are likely to want to change in the future.
+(Many thanks to my friend [Arlo Belshee][8] for promoting the phrase "pinning
+test" for this concept. I really like it.)
 
 So I'm not going to bother putting any unit tests on things like
 `BundleConfig`, `FilterConfig`, or `RouteConfig`. These classes really just
@@ -220,12 +225,12 @@ public void GetAllProductsReturnsEverythingInRepository()
 {
     // Arrange
     var allProducts = new[] {
-          new Product { Id=111, Name="Tomato Soup", Category="Food", Price = 1.4M },
-          new Product { Id=222, Name="Laptop Computer", Category="Electronics", Price=699.99M }
-       };
+                new Product { Id=111, Name="Tomato Soup", Category="Food", Price = 1.4M },
+                new Product { Id=222, Name="Laptop Computer", Category="Electronics", Price=699.99M }
+            };
     var repo = new StubIProductRepository
     {
-       GetAll = () => allProducts
+        GetAll = () => allProducts
     };
     var controller = new ProductsController(repo);
 
@@ -247,33 +252,28 @@ that it will throw if the repository returns null.
 [Fact]
 public void GetProductReturnsCorrectItemFromRepository()
 {
-   // Arrange
-   var repo = new StubIProductRepository
-   {
-      GetInt32 = id => new Product { Id = 222, Name = "Laptop Computer", Category = "Electronics", Price = 699.99M }
-   };
-   var controller = new ProductsController(repo);
+    // Arrange
+    var product = new Product { Id = 222, Name = "Laptop Computer", Category = "Electronics", Price = 699.99M };
+    var repo = new StubIProductRepository { GetInt32 = id => product };
+    var controller = new ProductsController(repo);
 
-   // Act
-   var result = controller.GetProduct(222);
+    // Act
+    var result = controller.GetProduct(222);
 
-   // Assert
-   Assert.Equal(222, result.Id);
-   Assert.Equal("Laptop Computer", result.Name);
-   Assert.Equal("Electronics", result.Category);
-   Assert.Equal(699.99M, result.Price);
+    // Assert
+    Assert.Same(product, result);
 }
 
 [Fact]
 public void GetProductThrowsWhenRepositoryReturnsNull()
 {
-   var repo = new StubIProductRepository
-   {
-      GetInt32 = id => null
-   };
-   var controller = new ProductsController(repo);
+    var repo = new StubIProductRepository
+    {
+        GetInt32 = id => null
+    };
+    var controller = new ProductsController(repo);
 
-   Assert.Throws<HttpResponseException>(() => controller.GetProduct(1));
+    Assert.Throws<HttpResponseException>(() => controller.GetProduct(1));
 }
 ```
 
@@ -285,24 +285,17 @@ I just used one test to pin the behavior of `GetProductsByCategory`.
 [Fact]
 public void GetProductsByCategoryFiltersByCategory()
 {
-   // Arrange
-   var repo = new StubIProductRepository
-   {
-      GetAll = () => new[] {
-         new Product { Id=111, Name="Tomato Soup", Category="Food", Price = 1.4M },
-         new Product { Id=222, Name="Laptop Computer", Category="Electronics", Price=699.99M }
-      }
-   };
-   var controller = new ProductsController(repo);
+    var products = new[] {
+                new Product { Id=111, Name="Tomato Soup", Category="Food", Price = 1.4M },
+                new Product { Id=222, Name="Laptop Computer", Category="Electronics", Price=699.99M }
+            };
+    var repo = new StubIProductRepository { GetAll = () => products };
+    var controller = new ProductsController(repo);
 
-   // Act
-   var result = controller.GetProductsByCategory("Electronics").ToArray();
+    var result = controller.GetProductsByCategory("Electronics").ToArray();
 
-   // Assert
-   Assert.Equal(1, result.Length);
-   Assert.Equal(222, result[0].Id);
+    Assert.Same(products[1], result[0]);
 }
-
 ```
 
 ### PutProduct
@@ -313,51 +306,47 @@ I used three tests to pin the various aspects of the `PutProduct` method:
 [Fact]
 public void PutProductUpdatesRepository()
 {
-   var wasCalled = false;
-   var repo = new StubIProductRepository
-   {
-      UpdateProduct = prod => wasCalled = true
-   };
-   var controller = new ProductsController(repo);
-   var product = new Product { Id = 111 };
+    var wasCalled = false;
+    var repo = new StubIProductRepository
+    {
+        UpdateProduct = prod => wasCalled = true
+    };
+    var controller = new ProductsController(repo);
+    var product = new Product { Id = 111 };
 
-   // Act
-   controller.PutProduct(111, product);
+    // Act
+    controller.PutProduct(111, product);
 
-   // Assert
-   Assert.True(wasCalled);
+    // Assert
+    Assert.True(wasCalled);
 }
 
 [Fact]
 public void PutProductThrowsWhenRepositoryUpdateReturnsFalse()
 {
-   // Arrange
-   var repo = new StubIProductRepository
-   {
-      UpdateProduct = prod => false
-   };
-   var controller = new ProductsController(repo);
+    var repo = new StubIProductRepository
+    {
+        UpdateProduct = prod => false
+    };
+    var controller = new ProductsController(repo);
 
-   // Assert
-   Assert.Throws<HttpResponseException>(() => controller.PutProduct(1, new Product()));
+
+    Assert.Throws<HttpResponseException>(() => controller.PutProduct(1, new Product()));
 }
 
 [Fact]
 public void PutProductSetsIdBeforeUpdatingRepository()
 {
-   // Arrange
-   var updatedId = Int32.MinValue;
-   var repo = new StubIProductRepository
-   {
-      UpdateProduct = prod => { updatedId = prod.Id; return true; }
-   };
-   var controller = new ProductsController(repo);
+    var updatedId = Int32.MinValue;
+    var repo = new StubIProductRepository
+    {
+        UpdateProduct = prod => { updatedId = prod.Id; return true; }
+    };
+    var controller = new ProductsController(repo);
 
-   // Act
-   controller.PutProduct(123, new Product { Id = 0 });
+    controller.PutProduct(123, new Product { Id = 0 });
 
-   // Assert
-   Assert.Equal(123, updatedId);
+    Assert.Equal(123, updatedId);
 }
 ```
 
@@ -370,36 +359,29 @@ behavior of this method.
 [Fact]
 public void DeleteProductCallsRepositoryRemove()
 {
-   // Arrange
-   var removedId = Int32.MinValue;
-   var repo = new StubIProductRepository
-   {
-      RemoveInt32 = id => removedId = id
-   };
-   var controller = new ProductsController(repo);
+    var removedId = Int32.MinValue;
+    var repo = new StubIProductRepository
+    {
+        RemoveInt32 = id => removedId = id
+    };
+    var controller = new ProductsController(repo);
 
-   // Act
-   controller.DeleteProduct(123);
+    controller.DeleteProduct(123);
 
-   // Assert
-   Assert.Equal(123, removedId);
+    Assert.Equal(123, removedId);
 }
 
 [Fact]
 public void DeleteProductReturnsResponseMessageWithNoContentStatusCode()
 {
-   // Arrange
-   var repo = new StubIProductRepository();
-   var controller = new ProductsController(repo);
+    var repo = new StubIProductRepository();
+    var controller = new ProductsController(repo);
 
-   // Act
-   var result = controller.DeleteProduct(123);
+    var result = controller.DeleteProduct(123);
 
-   // Assert
-   Assert.IsType<HttpResponseMessage>(result);
-   Assert.Equal(HttpStatusCode.NoContent, result.StatusCode);
+    Assert.IsType<HttpResponseMessage>(result);
+    Assert.Equal(HttpStatusCode.NoContent, result.StatusCode);
 }
-
 ```
 
 ## Testing the harder stuff: PostProduct
@@ -412,7 +394,7 @@ assembled.
 
 My first attempt at a test looked like this:
 
-``` csharp Failing to Unit Test PostProduct
+``` csharp Failed attempt at unit testing PostProduct
 [Fact]
 public void PostProductReturnsCreatedStatusCode()
 {
@@ -435,13 +417,15 @@ Unfortunately, that didn't work. You end up getting a `NullReferenceException`
 thrown by `Request.CreateResponse` because it expects a fair amount of web
 config stuff to have been assembled. This is a bummer, but it is what it is.
 
-I reached out to Brad Wilson for help, and we figured out how to get this going
+I reached out to [Brad Wilson][4] for help, and we figured out how to test this
 without going all the way to creating a web server/client pair, but there is
 clearly a lot of extra non-test code still running. We had to assemble a whole
 bunch of interesting configuration and routing classes to make the
 `Request.CreateResponse` method happy, but it did work.
 
-``` csharp Unit Testing PostProduct
+The first test we wrote looked like this:
+
+``` csharp Successfully unit testing PostProduct
 [Fact]
 public void PostProductReturnsCreatedStatusCode()
 {
@@ -472,50 +456,92 @@ In a future post, I may take a look at how we might use Visual Studio 2010
 Fakes to create a Shim to remove all that config stuff, but this will have to
 do for now.
 
-I refactored out the ugly config code into a private method called
-`SetupControllerForTests` and then wrote two more tests to finish verifying the
-method.
+Since I knew I needed to make a few more tests to adequately pin the behavior
+of `PostProduct`, I refactored out the ugly config code into a private method
+in the test class called `SetupControllerForTests`. I find that when I have
+issues like this, I really like to keep the weird setup code close to the
+tests.  I generally prefer this over creating abstract test classes because I
+like it to be very obvious what is happening. I also like my tests to be easily
+read and understood without having to jump around in the class hierarchy.
 
-``` csharp More tests for PostProduct
+``` csharp Helper method for configuring the controller
+private static void SetupControllerForTests(ApiController controller)
+{
+    var config = new HttpConfiguration();
+    var request = new HttpRequestMessage(HttpMethod.Post, "http://localhost/api/products");
+    var route = config.Routes.MapHttpRoute("DefaultApi", "api/{controller}/{id}");
+    var routeData = new HttpRouteData(route, new HttpRouteValueDictionary { { "controller", "products" } });
+
+    controller.ControllerContext = new HttpControllerContext(config, routeData, request);
+    controller.Request = request;
+    controller.Request.Properties[HttpPropertyKeys.HttpConfigurationKey] = config;
+}
+```
+
+Now that I have the helper method, I can refactor the status code test, and
+add two more to check the location and to confirm that it actually calls the 
+`AddProduct` method on the repository.
+
+``` csharp Final unit tests for PostProduct
+[Fact]
+public void PostProductReturnsCreatedStatusCode()
+{
+    var repo = new StubIProductRepository
+    {
+        AddProduct = item => item
+    };
+    var controller = new ProductsController(repo); 
+    SetupControllerForTests(controller);
+
+    var result = controller.PostProduct(new Product { Id = 1 });
+
+    Assert.Equal(HttpStatusCode.Created, result.StatusCode);
+}
+
+
 [Fact]
 public void PostProductReturnsTheCorrectLocationInResponseMessage()
 {
-   // Arrange
-   var repo = new StubIProductRepository
-   {
-      AddProduct = item => item
-   };
-   var controller = SetupControllerForTest(repo);
+    var repo = new StubIProductRepository
+    {
+        AddProduct = item => item
+    };
+    var controller = new ProductsController(repo);
+    SetupControllerForTests(controller);
 
-   // Act
-   var result = controller.PostProduct(new Product { Id = 111 });
+    var result = controller.PostProduct(new Product { Id = 111 });
 
-   // Assert
-   Assert.Equal("http://localhost/api/products/111", result.Headers.Location.ToString());
+    Assert.Equal("http://localhost/api/products/111", result.Headers.Location.ToString());
 }
 
 [Fact]
 public void PostProductCallsAddOnRepositoryWithProvidedProduct()
 {
-   // Arrange
-   var providedProduct = default(Product);
-   var repo = new StubIProductRepository
-   {
-      AddProduct = item => providedProduct = item
-   };
-   var controller = SetupControllerForTest(repo);
-   var product = new Product { Id = 111 };
+    var providedProduct = default(Product);
+    var repo = new StubIProductRepository
+    {
+        AddProduct = item => providedProduct = item
+    };
+    var controller = new ProductsController(repo);
+    SetupControllerForTests(controller);
 
-   // Act
-   var result = controller.PostProduct(product);
+    var product = new Product { Id = 111 };
+    var result = controller.PostProduct(product);
 
-   // Assert
-   Assert.Same(product, providedProduct);
+    Assert.Same(product, providedProduct);
 }
-
 ```
 
 ## Conclusion
+
+And now we're done. We have successfully "pinned" the behavior of the entire
+`ProductsController` class so if we later need to refactor it, we have a way of
+knowing what the current behavior is. As I discussed in 
+[my previous post about VS 2012 Shims][7], we can't refactor without being able
+to confirm the current behavior, otherwise we will end up in a Catch-22.
+Creating "pinning" or "characterization" tests like those created here are the
+first step to being able to safely and confidently refactor or add new
+behaviors.
 
 Hopefully this post showed you a few new things. First, we got to see another
 example of using Stubs in unit tests. Also, we learned a bit about how to deal
@@ -538,3 +564,5 @@ Let me know what you think!
 [4]: http://bradwilson.typepad.com/
 [5]: http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052
 [6]: http://xunit.codeplex.com/
+[7]: http://peterprovost.org/blog/2012/04/25/visual-studio-11-fakes-part-2/
+[8]: http://arlobelshee.com/
