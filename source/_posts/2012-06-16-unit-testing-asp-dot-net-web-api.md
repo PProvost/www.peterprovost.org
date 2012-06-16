@@ -2,7 +2,6 @@
 layout: post
 title: "Unit Testing ASP.NET Web API"
 date: 2012-06-09 16:26
-published: false
 comments: true
 categories: 
 - Visual Studio
@@ -147,7 +146,7 @@ namespace ProductStore.Controllers
 
 We have three Get methods, and a method for each of Post, Put and Delete.
 
-Straight away I see the first problem: The IProductRepository is private and
+Straight away I see the first problem: The `IProductRepository` is private and
 static. Since I said I didn't want to change the product code, this is an issue.
 As a static, readonly, private field, we really don't have any way to replace
 it, so in this one case, I will need to change the product to a more testable 
@@ -163,7 +162,7 @@ Ninject, but for now we will just use manual dependency injection by creating a
 testing constructor.  First I will make the repository field non-static. Then I
 add a second constructor which allows me to pass in a repository. Finally I
 update the default constructor to initialize the field with an instance of the
-concrete ProductRepository class. 
+concrete `ProductRepository` class. 
 
 This approach of creating a testing constructor is a good first step, even if
 you are going to later add a dependency injection framework. It allows us to 
@@ -197,7 +196,7 @@ namespace ProductStore.Controllers
 ## Testing the easy stuff
 
 Now that  we can use the testing constructor to provide a custom instance
-of the IProductRepository, we can get back to writing our unit tests.
+of the `IProductRepository`, we can get back to writing our unit tests.
 
 For these tests I will be using the [xUnit.net][6] unit testing framework. I will
 also be using Visual Studio 2012 Fakes to provide easy-to-use Stubs for
@@ -207,8 +206,7 @@ xUnit.net reference in the test project, I added a project reference to the
 reference and choosing **Add Fakes Assembly**, I can create the Stubs I will
 use in my tests.
 
-Testing all of the methods except the `PutProduct` method is pretty
-straightforward.
+Testing all of the methods except for `PostProduct` is pretty straightforward.
 
 ### GetAllProducts
 
@@ -309,6 +307,7 @@ public void GetProductsByCategoryFiltersByCategory()
 
 ### PutProduct
 
+I used three tests to pin the various aspects of the `PutProduct` method:
 
 ``` csharp Unit Testing PutProduct
 [Fact]
