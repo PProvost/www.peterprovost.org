@@ -8,7 +8,7 @@ module Jekyll
       s = StringIO.new
       begin
         tags = context['site']['tags']
-        unless tags.nil?
+        unless tags.nil? or tags.empty?
           sorted = tags.sort {|a, b| b[1].length <=> a[1].length}
           factor = 1
           max_count = sorted[0][1].length
@@ -23,6 +23,7 @@ module Jekyll
           if sorted.length < CLOUD_MAX_RANKS
             factor *= sorted.length / CLOUD_MAX_RANKS.to_f
           end
+
 
           for index in (0..CLOUD_SIZE).to_a.shuffle do
             if sorted[index].nil?
