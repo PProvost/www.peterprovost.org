@@ -1,17 +1,16 @@
 ---
 layout: post
 title: "Adding Ninject to Web API"
-date: 2012-06-18 09:00
+date: 2012-06-19 09:00
 published: false
 comments: true
 categories: 
 - Code
 - Visual Studio
 tags:
-- Visual Studio
-- Dependency Injection
-- Unit Testing
-- Ninject
+- visual studio
+- ninject
+- web api
 ---
 
 In my last post I focused on how to unit test a new Visual Studio 2012 RC
