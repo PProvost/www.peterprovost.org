@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Adding Ninject to Web API"
-date: 2012-06-19 09:00
-published: false
+date: 2012-06-19 20:21
 comments: true
 categories: 
 - Code
@@ -22,15 +21,16 @@ If you recall, I decided to start with the
 [Creating a Web API that Supports CRUD Operations ][1] tutorial and the
 [provided solution][2] that came with it.  That project did not use any form of
 dependency inversion to resolve the controller's need for a
-`ProductRepository`.  My solution was to use manual dependency injection and a
-default value. But in the real world I would probably reach for a dependency
-injection framework to avoid having to do all the resolution wiring throughout
-my code.
+`ProductRepository`.  My solution in that post was to use manual dependency
+injection and a default value. But in the real world I would probably reach for
+a dependency injection framework to avoid having to do all the resolution
+wiring throughout my code.
 
 In this post I am going to convert the manual injection I used in the last post
 to one that uses the [Ninject framework][3]. Of course you can use any other
-framework you wanted like [Unity][5], [Castle Windsor][6], etc. but the adapter code will
-have to be a bit different.
+framework you wanted like [Unity][5], [Castle Windsor][6], [StructureMap][8],
+etc.  but the code that adapts between it and ASP.NET Web API will probably
+have to be different.
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ have to be a bit different.
 First let's take a look at the code I had for the `ProductsController` at the end
 of the last post, focusing on the constructors and the `IProductRepository` field.
 
-``` csharp Manual Depdendncy Injection
+``` csharp Manual Depdendency Injection
 namespace ProductStore.Controllers
 {
    public class ProductsController : ApiController
@@ -67,10 +67,10 @@ single controller, but in a real-world system we will likely have a number of
 different controllers, and having the logic for which repository to use spread
 among all those controllers is going to be a nightmare to maintain or change.
 
-Without making any changes, the ASP.NET Web API routing stuff will use the
-default constructor to create the controller. What I want to do is make that
-default constructor go away, and instead let Ninject be responsible for
-providing the required dependency.
+By default, the ASP.NET Web API routing stuff will use the default constructor
+to create the controller. What I want to do is make that default constructor go
+away, and instead let Ninject be responsible for providing the required
+dependency.
 
 ## A quick aside - Constructor injection or Property injection?
 
@@ -151,16 +151,12 @@ It is time to bring Ninject to the party.
 In previous releases of ASP.NET MVC4, you were able to use the existing
 **Ninject MVC3** NuGet package to give us all the required glue code. But with
 the RC build of MVC4, it no longer works because the MVC team changed the
-dependency resolution mechanism for Web API projects. The current approach is
-much more aligned with an API called **Common Service Locator** pioneered by
-folks like Glenn Block, XXXX and XXXX.
+dependency resolution mechanism for Web API projects. 
 
-TODO: Fix the references and text in the above paragraph
-
-Since I can't use the **Ninject MVC3** package, I need to do something
-slightly different. Instead, I will use the **Ninject.Web.Common** package
-and then create my own wrapper class to adapt between the `IDependencyResolver`
-API and Ninject.
+Since I can't use the **Ninject MVC3** package, I need to do something slightly
+different. Instead, I will use the **Ninject.Web.Common** package and then
+create my own wrapper class to adapt between the `IDependencyResolver` API and
+Ninject.
 
 When you add the **Ninject.Web.Common** NuGet package to your project, it does
 a few things to help you. So that you can skip adding a bunch of code to your
@@ -175,9 +171,9 @@ package provided it with the code required to bootstrap the Ninject kernel.
 ### NinjectDependencyResolver
 
 I said we needed an implementation of `IDependencyResolver` that knew about
-Ninject. Fortunately my good friend Brad Wilson came to the rescue again,
-and pointed me to a chuck of code he'd written to do just that. After a bit 
-of renaming to suit my style, I ended up with this new file in my App\_Start folder:
+Ninject. Fortunately my good friend Brad Wilson came to the rescue again, and
+pointed me to [a chunk of code he'd written to do just that][9]. Here's my
+slightly modified version of his code:
 
 ``` csharp NinjectDependencyResolver.cs
 using System;
@@ -201,7 +197,7 @@ namespace MvcApplication.App_Start
       public object GetService(Type serviceType)
       {
          if (resolver == null)
-            throw new ObjectDisposedException("kernel", "This scope has been disposed");
+            throw new ObjectDisposedException("this", "This scope has been disposed");
 
          return resolver.TryGet(serviceType);
       }
@@ -209,7 +205,7 @@ namespace MvcApplication.App_Start
       public System.Collections.Generic.IEnumerable<object> GetServices(Type serviceType)
       {
          if (resolver == null)
-            throw new ObjectDisposedException("kernel", "This scope has been disposed");
+            throw new ObjectDisposedException("this", "This scope has been disposed");
 
          return resolver.GetAll(serviceType);
       }
@@ -332,8 +328,10 @@ new REST APIs, hopefully you've found these two posts useful. Let me know!
 
 [1]: http://www.asp.net/web-api/overview/creating-web-apis/creating-a-web-api-that-supports-crud-operations
 [2]: http://code.msdn.microsoft.com/ASP-NET-Web-API-Tutorial-c4761894
-[3]: http://ninject.org/
+[3]: http://www.ninject.org/
 [4]: http://bradwilson.typepad.com/
 [5]: http://unity.codeplex.com/
-[6]: http://castle.windsor.com/
+[6]: http://docs.castleproject.org/Default.aspx?Page=MainPage&NS=Windsor&AspxAutoDetectCookieSupport=1
 [7]: http://www.asp.net/web-api/overview/extensibility/using-the-web-api-dependency-resolver
+[8]: http://docs.structuremap.net/
+[9]: https://gist.github.com/2417226
