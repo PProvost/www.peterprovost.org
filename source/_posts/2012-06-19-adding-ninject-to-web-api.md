@@ -86,13 +86,12 @@ and I think you can find yourself using both depending on the circumstances.
 
 Here's the gist of my argument: If the class would be in an invalid state
 without the dependency, then it is a **hard dependency** and should be resolved
-via constructor injection. This kind of class **requires the dependency**. It
-cannot be used without it. Putting the dependency on the constructor and not
-providing a default constructor makes it very clear to the developer who wants
-to consume this class. The developer is required to provide the dependency or
-the class cannot be created. If you find yourself doing a null check everywhere
-the dependency gets used, and especially if you throw an exception when it is
-null, then you likely have a hard dependency.
+via constructor injection. It cannot be used without it. Putting the dependency
+on the constructor and not providing a default constructor makes it very clear
+to the developer who wants to consume this class. The developer is required to
+provide the dependency or the class cannot be created. If you find yourself
+doing a null check everywhere the dependency gets used, and especially if you
+throw an exception when it is null, then you likely have a hard dependency.
 
 But if the class has a dependency that either isn't required, or that will
 use a default object or a null object if it is not provided, then it is a
