@@ -13,7 +13,6 @@ Information about past and future public speaking engagements.
 ## Upcoming Events 
 {:.clear-left }
 
-* [TechEd 2012 North America][] :: June 11-14 2012 :: Orlando FL
 * [TechEd 2012 Europe][] :: June 26-29 2012 :: Amsterdam RAI
 * [Agile.NET][] :: July 20 2012 :: Columbus OH
 * [Agile 2012][] :: August 13-17 2012 :: Dallas TX
@@ -22,6 +21,7 @@ Information about past and future public speaking engagements.
 {:.clear-left }
 
 ### 2012
+* [TechEd 2012 North America][] :: June 11-14 2012 :: Orlando FL
 * Microsoft MVP Summit :: Feb 28 - Mar 2 :: Bellevue WA
 * Microsoft TechReady 14 :: Jan 30 - Feb 3 :: Seattle WA
 
