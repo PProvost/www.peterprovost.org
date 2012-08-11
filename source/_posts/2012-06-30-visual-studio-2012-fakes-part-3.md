@@ -323,3 +323,49 @@ public void VerifyMultipleSinksCalledCorrectly()
 }
 ```
 
+## Simplifying the Assertions
+
+While that works, the Assert calls are certainly not friendly to the eye. What we'd really like is
+something more like this:
+
+``` csharp
+Verify.MethodCalled( sink1, "LogMessage" );
+```
+
+It turns out that making this helper method isn't very hard.
+
+``` csharp Verify Helper Class
+public static class Verify
+{
+   public void MethodCalled<T>( IStub<T> stub, string methodName )
+   {
+      var observer = stub.InstanceObserver;
+      if (observer == null)
+         throw new ArgumentException("stub", "No InstanceObserver installed into the stub.");
+
+      var wasCalled = observer.GetCalls().Any(call => call.StubbedMethod.Name == methodName);
+      if (wasCalled == false)
+         throw new VerificationException("Method {0} was expected, but was not called", methodName);
+   }
+}
+```
+
+Of course what we'd really like is something that uses C# expressions to make this
+strongly typed and even easier to read.
+
+``` csharp
+Verify.MethodCalled( sink => sink.LogMessage );
+```
+
+This isn't all that hard to achieve, but it will force us to dig into Linq expressions
+and lambdas, which is out of scope for this post.
+
+## Conclusions
+
+While the VS 2012 Fakes framework does not have a built-in verification framework, you can do
+verification using existing language constructs like closures and lambdas. You also can leverage
+the `IStubObserver` interface to create a more customized behavioral frameworks, potentially
+going all the way to a full fluent API for "mockist" style behavioral verification.
+
+
+
