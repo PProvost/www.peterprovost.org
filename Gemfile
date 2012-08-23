@@ -9,12 +9,12 @@ gem 'haml', '>= 3.1'
 gem 'compass'
 gem 'rubypants'
 gem 'stringex'
-gem 'liquid', '2.2.2'
+gem 'liquid'
 gem 'sinatra', '1.2.6'
 gem 'thin'
 
 group :development do
-	gem 'eventmachine', '1.0.0.beta.4.1', :platforms => :mingw
+	gem 'eventmachine', '1.0.0.rc.4', :platforms => :mingw
 	gem 'rb-fsevent'
 	gem 'heroku'
 end
