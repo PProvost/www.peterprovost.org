@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visual Studio 2012 Fakes - Part 3 - Observing Stub Behavior"
-date: 2012-08-21 15:04
+date: 2012-08-23 15:04
 comments: true
 published: false
 categories: 
@@ -296,7 +296,7 @@ If we swap out my `CustomObserver` for the built-in `StubObserver`, the
 resulting test code is very similar, with just a few changes to handle how
 `StubObserver` provides the method call data back to us.
 
-``` Testing with StubObserver
+``` csharp Testing with StubObserver
 [TestMethod]
 public void VerifyOneSinkIsCalledCorrectly()
 {
