@@ -40,8 +40,12 @@ plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
 tag_dir: blog/tags
-markdown: kramdown
 pygments: false # default python pygments have been replaced by pygments.rb
+
+markdown: kramdown
+
+kramdown:
+  entity_output: symbolic
 
 paginate: 10          # Posts per page on the blog index
 pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
