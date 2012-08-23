@@ -1,24 +1,24 @@
 ---
 layout: post
 title: "Visual Studio 2012 Fakes - Part 3 - Observing Stub Behavior"
-date: 2012-06-30 15:04
-published: false
+date: 2012-08-21 15:04
 comments: true
+published: false
 categories: 
 - Code
 - Visual Studio
 tags:
-- Unit Testing
-- Fakes
-- Mocking
+- unit testing
+- fakes
+- mocking
 ---
 
 This year at both TechEd North America and TechEd Europe I gave a presentation
 called "Testing Untestable Code with Visual Studio Fakes". So far VS Fakes has
 been very well received by customers, and most seem to understand my feelings
-about when (and when not)  to use Shims (see [Part 2][] for more on this). But one 
-thing that has consistently
-come up has been questions about Behavioral Verification.
+about when (and when not)  to use Shims (see [Part 2][] for more on this). But
+one thing that has consistently come up has been questions about Behavioral
+Verification.
 
 I talked about this briefly in [Part 1][] of this series, but let me rehash a
 few of the important points:
@@ -371,19 +371,6 @@ Verify.MethodCalled( sink => sink.LogMessage );
 This isn't all that hard to achieve, but it will force us to dig into Linq expressions
 and lambdas, which is out of scope for this post.
 
-## Conclusions
-
-While the VS 2012 Fakes framework does not have a built-in verification framework, you can do
-verification using existing language constructs like closures and lambdas. You also can leverage
-the `IStubObserver` interface to create a more customized behavioral frameworks, potentially
-going all the way to a full fluent API for "mockist" style behavioral verification.
-
-
-
-If anything, the assert statements have gotten uglier, but we have now
-eliminated all of the closures, and moves all of the verification logic to the
-Assert section of the test. We're making headway.
-
 ## Getting rid of the ugly asserts using Lambda Expressions
 
 There are a few things we can do to clean up those asserts. They have a very common structure,
@@ -522,6 +509,17 @@ I think that is a lot easier to read and understand, and except for the
 property we have to set in the stub initialization, all of the observer
 internals are totally hidden away.
 
+## Conclusions
+
+While the VS 2012 Fakes framework does not have a built-in verification framework, you can do
+verification using existing language constructs like closures and lambdas. You also can leverage
+the `IStubObserver` interface to create a more customized behavioral frameworks, potentially
+going all the way to a full fluent API for "mockist" style behavioral verification.
+
+If anything, the assert statements have gotten uglier, but we have now
+eliminated all of the closures, and moves all of the verification logic to the
+Assert section of the test. We're making headway.
+
 ## Next steps
 
 There are clearly a lot of things we'd like to do with this to really
@@ -545,3 +543,7 @@ turn it into a general purpose verification library for Stubs.
 In a future post, I'll tackle most of these and (hopefully) be
 much closer to something general purpose that anyone can use with their
 Stubs-based tests.
+
+[Part 1]: /blog/2012/04/25/visual-studio-11-fakes-part-2/
+[Part 2]: /blog/2012/04/15/visual-studio-11-fakes-part-1/
+
