@@ -15,10 +15,10 @@ tags:
 
 This year at both TechEd North America and TechEd Europe I gave a presentation
 called "Testing Untestable Code with Visual Studio Fakes". So far VS Fakes has
-been very well received by customers, and most seem to understand my feelings
-about when (and when not)  to use Shims (see [Part 2][] for more on this). But
-one thing that has consistently come up has been questions about Behavioral
-Verification.
+been very well received by customers, and most people seemed to understand my
+feelings about when (and when not)  to use Shims (see [Part 2][] for more on
+this). But one thing that has consistently come up has been questions about
+Behavioral Verification.
 
 I talked about this briefly in [Part 1][] of this series, but let me rehash a
 few of the important points:
@@ -237,7 +237,7 @@ public class CustomObserver : IStubObserver
 ```
 
 *Yes, I realize that this implementation spoils the whole point of the overloads
-on IStubObserver, but we'll get rid of that shortly.*
+on IStubObserver, but we'll get rid of that later.*
 
 Now we can rewrite two tests above without using closures. The observer
 will do the tracking for us, and we can simply check what it saw after
