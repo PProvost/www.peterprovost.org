@@ -18,6 +18,7 @@ this cool animated video introducing some of the great new features in Visual
 Studio 2012 Ultimate. I think it is pretty cool, and even pretty funny, so I
 wanted to share it with you all.
 
-{% video http://youtu.be/LHhp5pEuSMo?hd=1 %}
+{% youtube LHhp5pEuSMo %}
 
+<br/>
 What do you think?
