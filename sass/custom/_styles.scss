@@ -1,6 +1,8 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
+@import "rve-styles";
+
 body > header {
 	background-color: $header-bg; // Old browsers
 	@include filter-gradient($header-bg, $header-bg-highlight, vertical); // IE6-9
