@@ -179,7 +179,6 @@ public interface IStubObserver
    void Enter(Type stubbedType, Delegate stubCall, object arg1, object arg2, object arg3);
    void Enter(Type stubbedType, Delegate stubCall, params object[] args);
 }
-
 ```
 
 *The reason there are five overloads is an optimization based on the
