@@ -1,8 +1,6 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
-@import "_rve-styles";
-
 body > header {
 	background-color: $header-bg; // Old browsers
 	@include filter-gradient($header-bg, $header-bg-highlight, vertical); // IE6-9
@@ -31,4 +29,25 @@ body > header {
 .no-border {
 	border: none;
 	box-shadow: none;
+}
+
+// Copied from rve-styles.css
+// Original source: https://github.com/optikfluffel/octopress-responsive-video-embed
+
+.embed-video-container {
+    position: relative;
+    padding-bottom: 56.25%; // 16/9 ratio
+    padding-top: 30px; // IE6 workaround
+    height: 0;
+    overflow: hidden;
+}
+
+.embed-video-container iframe,
+.embed-video-container object,
+.embed-video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
