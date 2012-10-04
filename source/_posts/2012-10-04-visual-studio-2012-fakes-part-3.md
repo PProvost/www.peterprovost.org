@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Visual Studio 2012 Fakes - Part 3 - Observing Stub Behavior"
-date: 2012-08-23 15:04
+date: 2012-10-04 12:04
 comments: true
 published: false
 categories: 
 - Code
 - Visual Studio
 tags:
+- visual studio
 - unit testing
 - fakes
 - mocking
