@@ -43,8 +43,8 @@ show you how they work and how to use them to create your own Mocks.
 
 There is a long-running philosophical argument between the "mockists" and the
 "classists" about whether mocking is good or bad. My personal take is that they
-can be very useful when unit testing certain kinds of classes, but also that
-they can cause problems if overused because rather than pinning down the
+can be very useful when unit testing certain kinds of code, but also that
+they can cause problems if overused, because rather than pinning down the
 external behavior of a method, they pin the implementation. But rather than
 dwell on that, lets look at some of the cases where they are valuable. 
 
@@ -155,7 +155,7 @@ What I really need is a better way to track these calls.
 
 ## Introducing IInstanceObserver
 
-When we were creating VS Fakes, we knew these situations would come up. We also
+When we were creating the Stubs framework, we knew these situations would come up. We also
 knew that people can get very passionate about the syntax and form that their
 mocking frameworks use. So we decided to introduce an extension point into the
 generated Stubs that enables people to create any kind of mocking or
@@ -281,7 +281,7 @@ public void VerifyMultipleSinksCalledCorrectly()
 }
 ```
 
-While we're not using the closure anymore, the asserts are pretty ugly, so we
+While we're not using the closure anymore, those asserts are pretty ugly, so we
 will want to look at fixing that. But before we do, I want to delete some code.
 
 ## Using the built-in StubObserver class
@@ -361,153 +361,10 @@ public static class Verify
 }
 ```
 
-Of course what we'd really like is something that uses C# expressions to make this
-strongly typed and even easier to read.
-
-``` csharp
-Verify.MethodCalled( sink => sink.LogMessage );
-```
-
-This isn't all that hard to achieve, but it will force us to dig into Linq expressions
-and lambdas, which is out of scope for this post.
-
-## Getting rid of the ugly asserts using Lambda Expressions
-
-There are a few things we can do to clean up those asserts. They have a very common structure,
-making them a good candidate for some refactoring.
-
-*Note: In the assert/verify statements above, what I was really checking was that there was at least
-one call to the method we wanted. It was a very naive implementation, but it sufficed to show
-how this stuff works. I'll stick with that simplification for now, focusing instead on the
-refactoring. In a later post, I'll provide a much more complete implementation.*
-
-Ideally, we'd like to have a nice simple method like this:
-
-``` csharp
-sink1.VerifyMethodCall(s => s.LogMessage("Hello there!"))
-```
-
-I chose to use lambda expressions here to make sure that we get syntactic
-verification of the method calls. Many early mocking frameworks used strings
-here, but now that we have expressions, I think they will make a better
-experience.
-
-It turns out we actually can create this API using an **extension method**. To
-do this we need to create a static class to hold the extension, and then when
-we create the static method, we use the `this` keyword to tell the compiler that
-this method should be mixed in to the actual class. The type for the first parameter
-tells it what type to mix into, so first we have to figure that out.
-
-If we look at the definition of any of our generated stubs, we will see that for
-interfaces (which we have here), they all derive from `StubBase<T>` where `T` is
-the type of the interface. This is a perfect candidate for our extension method.
-
-To get the syntax we want for the `VerifyMethodCall` method I said we wanted, we
-have to define it like this:
-
-``` csharp
-public static void VerifyMethodCall<T>(this StubBase<T> stub, Expression<Action<T>> expression) where T : class
-```
-
-It is important to note that this method definition will work for methods, but
-will not work for properties on the stub. We'd need to introduce a different
-signature to make that work, but we'll leave that for later.
-
-## Creating the verification extension library
-
-The cool thing about this extension method is that we have everything we need.
-The type `T` is the type of the interface, the parameter `stub` is the actual
-stub instance, and the `expression` has everything the user provided in his
-verification expression.
-
-I'm going to do a very naive implementation here, that would need a bunch of
-work to be made bullet-proof and general purpose, but it should show you 
-enough to see how it works.
-
-``` csharp Custom Verification Extension Method
-public static class StubBaseExtensions
-{
-    // Assert.IsTrue(((StubObserver)sink.InstanceObserver).GetCalls().Any(call => call.StubbedMethod.Name == "LogMessage"));
-    public static void VerifyMethodCall<T>(this StubBase<T> stub, Expression<Action<T>> expression) where T : class
-    {
-        // Check that we have a valid observer installed and get the calls
-        var observer = stub.InstanceObserver as StubObserver;
-        if (observer == null)
-            throw new ArgumentException("No compatible InstanceObserver found on the stub. You must set the InstanceObserver property on the stub to an instance of StubObserver.", "stub");
-        var calls = observer.GetCalls();
-
-        // Take the expression apart
-        var bodyExpression = expression.Body as MethodCallExpression;
-        var expectedMethodInfo = bodyExpression.Method;
-        // Massive assumption: Only constant expressions allowed
-        var expectedArgs = bodyExpression.Arguments.Select(expr => ((ConstantExpression)expr).Value).ToArray();
-
-        // Find all matching MethodInfo
-        var matchingCalls = calls.Where(call => call.StubbedMethod == expectedMethodInfo);
-
-        // Fail fast if we have no matches at all
-        if (matchingCalls.Count() == 0)
-            throw new Exception("No matching calls found");
-
-        // If we have some matches, check if the arguments match
-        foreach (var call in calls)
-        {
-            var actualArgs = call.GetArguments();
-            for (int i = 0; i < expectedArgs.Length; i++)
-            {
-                if (Object.Equals(expectedArgs[i], actualArgs[i]) == false)
-                    throw new Exception("No matching calls found with the expected arguments");
-            }
-        }
-    }
-}
-```
-
-With that extension method in hand, we can now re-write our two tests from above.
-
-``` csharp
-[TestMethod]
-public void VerifyOneSinkIsCalledCorrectly()
-{
-    // Arrange
-    var sut = new MessageLogger();
-    var sink = new StubILogSink { InstanceObserver = new StubObserver() };
-    sut.RegisterMessageSink(sink);
-
-    // Act
-    sut.LogMessage("Hello there!");
-
-    // Assert
-    // Assert.IsTrue(((StubObserver)sink.InstanceObserver).GetCalls().Any(call => call.StubbedMethod.Name == "LogMessage"));
-    sink.VerifyMethodCall(s => s.LogMessage("Hello there!", "General", 1));
-}
-
-[TestMethod]
-public void VerifyMultipleSinksCalledCorrectly()
-{
-    // Arrange
-    var sut = new MessageLogger();
-    var sink1 = new StubILogSink { InstanceObserver = new StubObserver() };
-    var sink2 = new StubILogSink { InstanceObserver = new StubObserver() };
-    var sink3 = new StubILogSink { InstanceObserver = new StubObserver() };
-    sut.RegisterMessageSink(sink1);
-    sut.RegisterMessageSink(sink2);
-    sut.RegisterMessageSink(sink3);
-
-    // Act
-    sut.LogMessage("Hello there!");
-
-    // Assert
-    sink1.VerifyMethodCall(s => s.LogMessage("Hello there!", "General", 1));
-    sink1.VerifyMethodCall(s => s.LogMessage("Hello there!", "General", 1));
-    sink1.VerifyMethodCall(s => s.LogMessage("Hello there!", "General", 1));
-}
-
-```
-
-I think that is a lot easier to read and understand, and except for the 
-property we have to set in the stub initialization, all of the observer
-internals are totally hidden away.
+That isn't too bad. Still not perfect because I really don't like the string for
+the method name because it won't be refactoring resilient. Fixing that will take
+us on a trek through the world of Linq expressions however, which I will cover in
+a later post.
 
 ## Conclusions
 
@@ -519,30 +376,6 @@ going all the way to a full fluent API for "mockist" style behavioral verificati
 If anything, the assert statements have gotten uglier, but we have now
 eliminated all of the closures, and moves all of the verification logic to the
 Assert section of the test. We're making headway.
-
-## Next steps
-
-There are clearly a lot of things we'd like to do with this to really
-turn it into a general purpose verification library for Stubs.
-
-1. The `VerifyMethodCall` implementation is hard-coded with a bunch of
-   assumptions and doesn't really do any good error checking. 
-2. It requires the user to provide all of the arguments. This worked for these
-   particular tests, , but there are going to be times when we might want to
-   allow a range, or even any value, as long as the call happens. 
-3. It has no provisions for saying how many times the expected method should
-   have been called. It would be nice to be able to say "at least N times", or
-   "between N and M times".
-4. Because of the shortcuts I took, it actually requires all of the expected
-   method calls to have matching arguments.
-5. We have no support for property getters or setters. We will certainly need
-   these in a robust verification library.
-6. It sure would be nice if we could get rid of the requirement to set the
-   InstanceObserver property when creating the stub.
-
-In a future post, I'll tackle most of these and (hopefully) be
-much closer to something general purpose that anyone can use with their
-Stubs-based tests.
 
 [Part 1]: /blog/2012/04/25/visual-studio-11-fakes-part-2/
 [Part 2]: /blog/2012/04/15/visual-studio-11-fakes-part-1/
