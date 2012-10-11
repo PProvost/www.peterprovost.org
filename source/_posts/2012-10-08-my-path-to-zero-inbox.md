@@ -1,18 +1,23 @@
 ---
 layout: post
-title: "My path to Zero Inbox"
-date: 2012-10-08 10:38
-published: false
+title: "My path to Inbox Zero"
+date: 2012-10-11 00:15
 comments: true
 categories: 
+- Personal
+- Technology
+tags:
+- outlook rules
+- email
+- inbox zero
 ---
+
+{% img right /images/blog/2012-10-08-my-path-to-zero-inbox/pile-of-email.jpg %}
 
 *I know this post is probably going to make a lot of people say, "Holy crap, man.
 If you need that much of a system, you get too much email." All I can say is
 "Guilty as charged, but I know I'm not the only one with this problem." So if you
 find this useful, great. If not, move on.*
-
-{% img right /images/blog/2012-10-08-my-path-to-zero-inbox.jpg %}
 
 I've long been a fan of the whole [Inbox Zero][1] idea. While the concept of
 using other kinds of task lists (e.g. Outlook Tasks, Trello or Personal Kanban)
