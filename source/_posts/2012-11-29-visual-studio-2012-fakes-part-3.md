@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Visual Studio 2012 Fakes - Part 3 - Observing Stub Behavior"
-date: 2012-10-04 12:04
+date: 2012-11-29 12:04
 comments: true
-published: false
 categories: 
 - Code
 - Visual Studio
