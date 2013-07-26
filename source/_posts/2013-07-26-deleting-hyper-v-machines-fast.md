@@ -24,7 +24,7 @@ VM and then connect to that. It costs me a bit of performance, but Hyper-V
 is pretty good at dealing with that. But it lets me create different VMs
 against the same underlying base image.
 
-But is causes and interesting (and annoying) problems when you decide you
+But this causes interesting (and annoying) problems when you decide you
 want to delete the VM. For whatever reason, the Hyper-V team decided to
 make it such that when you delete a machine in Hyper-V, it will leave you
 with a single VHD file that represents the last state of that machine. To
@@ -36,7 +36,10 @@ This also occurs if you use the snapshots feature, and in fact it can be
 worse because if you create a sequence of snapshots it has to merge them
 all, one at a time. And this takes forever.
 
-But I think I've found a very nice solution for myself.
+I think I've found a very nice solution that deletes these VMs **fast**,
+but it does have a few caveats.
+
+<!-- more -->
 
 **IMPORTANT: This solution assumes you want to trash the VHD files!** 
 
