@@ -12,7 +12,7 @@ layout: default
       {% include article.html %}
 			{% if forloop.first %}
 			<div class="content-ad" style="text-align:center; margin:10px;">	
-				<div class="lqm_ad" lqm_publisher="lqm.peterprovost.site" lqm_zone="ron" lqm_format="336x280" lqm_tags="{{ lqmtags | cgi_escape }}"></div>
+				<div data-type="ad" data-publisher="lqm.peterprovost.site" data-zone="ron" data-format="300x250" data-tags="{{ lqmtags }}"></div>
 			</div>
 			{% endif %}
 			{% if forloop.last %}

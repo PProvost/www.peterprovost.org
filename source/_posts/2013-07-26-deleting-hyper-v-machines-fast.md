@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Deleting Hyper-V Machines FAST!"
-date: 2013-06-27 12:42
+date: 2013-07-26 12:42
 comments: true
+published: false
 categories: 
 ---
 
