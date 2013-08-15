@@ -1,5 +1,6 @@
 require 'bundler/setup'
 require 'sinatra/base'
+require 'newrelic_rpm'
 
 # The project root directory
 $root = ::File.dirname(__FILE__)
