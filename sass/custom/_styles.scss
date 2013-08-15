@@ -18,6 +18,23 @@ body > header {
 	}
 }
 
+aside.sidebar {
+  section {
+    .section_title {
+			font-family: $heading-font-family;
+			font-size: 19px;
+			font-weight: bold;
+      margin: 1.5em 0 0;
+      padding-bottom: .2em;
+      border-bottom: 1px solid $sidebar-border;
+      @extend .side-shadow-border;
+      + p {
+        padding-top: .4em;
+      }
+    }
+  }
+}
+
 .tag-cloud { 
 	.rank-1 { font-size: 2em; }
 	.rank-2 { font-size: 1.7em; }
