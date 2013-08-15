@@ -1,6 +1,6 @@
 body > header {
   background: $header-bg;
-  h1 {
+  .page_title {
     display: inline-block;
     margin: 0;
     a, a:visited, a:hover {
@@ -8,7 +8,7 @@ body > header {
       text-decoration: none;
     }
   }
-  h2 {
+  .page_subtitle {
     margin: .2em 0 0;
     @extend .sans;
     font-size: 1em;
