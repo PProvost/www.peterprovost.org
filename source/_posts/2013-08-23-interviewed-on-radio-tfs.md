@@ -13,7 +13,7 @@ tags:
 
 {% img right http://radiotfs.com/images/logo.png Radio TFS Logo %}
 
-This morning I did an interview this morning with [Radio TFS][radiotfs], hosted
+This morning I did an interview on [Radio TFS][radiotfs], hosted
 by [Martin Woodward][woodwardweb] and [Greg Duncan][coolthingoftheday]. The
 topic was "What have you been working on since Visual Studio 2012", and we had
 a great time talking about all the cool stuff we've done in the VS2012 updates
