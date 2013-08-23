@@ -19,9 +19,8 @@ topic was "What have you been working on since Visual Studio 2012", and we had
 a great time talking about all the cool stuff we've done in the VS2012 updates
 and what we're targeting for Visual Studio 2013.
 
-You can download &amp; listen to the interview here:
-
-[http://radiotfs.com/Show/64/PeterProvostonVisualStudio2013Ultimate][showlink]
+You can download &amp; listen to the interview here:  
+[Episode 64: Peter Provost on Visual Studio 2013 Ultimate][showlink]
 
 Many thanks to Martin and Greg for having me. It was fun and I'm looking
 forward to doing it again so we can talk more about developer testing.
