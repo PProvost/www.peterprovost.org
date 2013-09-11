@@ -85,7 +85,6 @@ DEPENDENCIES
   jekyll (~> 0.12)
   liquid (~> 2.3.0)
   newrelic_rpm
-  pygments.rb (~> 0.3.4)
   rake (~> 0.9)
   rb-fsevent (~> 0.9)
   rubypants (~> 0.2.0)
