@@ -31,4 +31,4 @@ forward to doing it again so we can talk more about developer testing.
 [woodwardweb]: http://www.woodwardweb.com/
 [coolthingoftheday]: http://coolthingoftheday.blogspot.com/
 [showlink]: http://radiotfs.com/Show/64/PeterProvostonVisualStudio2013Ultimate
-[tcw9ref]: http://channel9.msdn.com/Shows/This+Week+On+Channel+9/TWC9-August-30-2013#time=9m21s
+[twc9ref]: http://channel9.msdn.com/Shows/This+Week+On+Channel+9/TWC9-August-30-2013#time=9m21s
