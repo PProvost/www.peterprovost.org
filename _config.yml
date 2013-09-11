@@ -104,8 +104,9 @@ delicious_count: 3
 disqus_short_name: peterprovost
 disqus_show_comment_count: false
 
-# Google Analytics
+# Analytics
 google_analytics_tracking_id: UA-4907041-1
+mse_analytics_tracking_id: 8aa0cc43-c990-4f63-84d2-f9af0b00159c
 
 # Facebook Like
 facebook_like: true
