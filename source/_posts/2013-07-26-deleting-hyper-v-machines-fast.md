@@ -44,20 +44,22 @@ does have a few caveats.
 
 It is important to note that if you intend to keep the as-running VHD file for
 use with another VM, this technique will not work. Basically that scenario is
-why the slowness exists today. The Hyper-V tool assumes you do want to use it or
-keep it, so it merges the whole thing together before deleting the virtual
-machine.
+why the slowness exists today. The Hyper-V tool assumes you do want to reuse
+the machine at some point, so it merges the whole thing together before
+deleting the virtual machine.
 
-In my case I'm bailing on the whole machine so this is perfect for me. Any files
-or data that I have on that machine is very self-contained, and is most likely
-in a source repository somewhere, on my SkyDrive or on a share.  If you really
-do want to keep the VHD after deleting the machine, you should look elsewhere
-for a solutions.
+In my case I'm bailing on the whole machine. I don't care about the VHD when
+I'm done. I really mean "delete", so this is perfect for me. Any files or data
+I have on the machine are either in a source repo, on my SkyDrive, on a share,
+or easy to backup manually.  
+
+So this in an acceptable tradeoff for me, but if you really need to keep the
+VHD after deleting the machine, you should look elsewhere for a solutions.
 
 **WARNING: A note about Windows versions**
 
 I've had this Hyper-V machine for quite a while. Since I'm pretty much always
-using it and since don't have physical access to it, I am still running Windows
+using it and don't have physical access to it, I am still running Windows
 2008 R2 Enterprise. If you are using a different version of Windows Server, or
 are using Windows 8 Hyper-V, the specifics may be different, or this whole thing
 may not even be relevant. YMMV.
